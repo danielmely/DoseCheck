@@ -3,7 +3,8 @@ import SwiftUI
 struct ContentView: View {
     @EnvironmentObject private var store: SubstanceStore
     @EnvironmentObject private var profiles: ProfileStore
-    @AppStorage("acceptedDisclaimer") private var acceptedDisclaimer: Bool = false
+    // Not persisted on purpose: the warning shows every time the app opens fresh.
+    @State private var acceptedDisclaimer = false
     @State private var query = ""
     @State private var showProfiles = false
 
@@ -53,7 +54,7 @@ struct ContentView: View {
                 ProfilesView()
             }
         }
-        .sheet(isPresented: .init(
+        .fullScreenCover(isPresented: .init(
             get: { !acceptedDisclaimer },
             set: { _ in }
         )) {
@@ -125,26 +126,5 @@ struct SubstanceRow: View {
         }
         .padding(.vertical, 10)
         .contentShape(Rectangle())
-    }
-}
-
-private struct DisclaimerView: View {
-    var onAccept: () -> Void
-
-    var body: some View {
-        VStack(alignment: .leading, spacing: 16) {
-            Text("READ BEFORE CONTINUING ⚠️")
-                .font(.title2.weight(.heavy))
-                .multilineTextAlignment(.center)
-                .frame(maxWidth: .infinity, alignment: .center)
-            Text("DoseCheck is an educational reference about how much of everyday things is too much. Figures are rough estimates, often from animal studies, and vary a lot between people. It is not medical advice.")
-            Text("If someone may have swallowed something harmful, call Poison Control right away: 1-800-222-1222 (US).")
-            Text("If you are having thoughts of harming yourself, call or text 988 (US) any time.")
-            Spacer()
-            Button("I understand") { onAccept() }
-                .buttonStyle(.borderedProminent)
-                .frame(maxWidth: .infinity)
-        }
-        .padding(24)
     }
 }
