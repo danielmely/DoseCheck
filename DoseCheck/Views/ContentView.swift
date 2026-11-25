@@ -133,7 +133,10 @@ private struct DisclaimerView: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 16) {
-            Text("Before you start").font(.title.bold())
+            Text("READ BEFORE CONTINUING ⚠️")
+                .font(.title2.weight(.heavy))
+                .multilineTextAlignment(.center)
+                .frame(maxWidth: .infinity, alignment: .center)
             Text("DoseCheck is an educational reference about how much of everyday things is too much. Figures are rough estimates, often from animal studies, and vary a lot between people. It is not medical advice.")
             Text("If someone may have swallowed something harmful, call Poison Control right away: 1-800-222-1222 (US).")
             Text("If you are having thoughts of harming yourself, call or text 988 (US) any time.")
