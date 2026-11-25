@@ -5855,6 +5855,316 @@
   "category": "Over-the-counter medications"
  },
  {
+  "id": "losartan-cozaar",
+  "name": "Losartan (Cozaar)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "simvastatin-zocor",
+  "name": "Simvastatin (Zocor)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "rosuvastatin-crestor",
+  "name": "Rosuvastatin (Crestor)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "hydrochlorothiazide",
+  "name": "Hydrochlorothiazide",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "furosemide-lasix",
+  "name": "Furosemide (Lasix)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "warfarin-coumadin",
+  "name": "Warfarin (Coumadin)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "apixaban-eliquis",
+  "name": "Apixaban (Eliquis)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "clopidogrel-plavix",
+  "name": "Clopidogrel (Plavix)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "escitalopram-lexapro",
+  "name": "Escitalopram (Lexapro)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "fluoxetine-prozac",
+  "name": "Fluoxetine (Prozac)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "bupropion-wellbutrin",
+  "name": "Bupropion (Wellbutrin)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "trazodone",
+  "name": "Trazodone",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "citalopram-celexa",
+  "name": "Citalopram (Celexa)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "venlafaxine-effexor",
+  "name": "Venlafaxine (Effexor)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "duloxetine-cymbalta",
+  "name": "Duloxetine (Cymbalta)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "lorazepam-ativan",
+  "name": "Lorazepam (Ativan)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "clonazepam-klonopin",
+  "name": "Clonazepam (Klonopin)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "diazepam-valium",
+  "name": "Diazepam (Valium)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "zolpidem-ambien",
+  "name": "Zolpidem (Ambien)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "hydrocodone",
+  "name": "Hydrocodone",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "morphine",
+  "name": "Morphine",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "methadone",
+  "name": "Methadone",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "buprenorphine",
+  "name": "Buprenorphine",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "naloxone-narcan",
+  "name": "Naloxone (Narcan)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "methylphenidate-ritalin",
+  "name": "Methylphenidate (Ritalin)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "amphetamine-adderall",
+  "name": "Amphetamine (Adderall)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "lisdexamfetamine-vyvanse",
+  "name": "Lisdexamfetamine (Vyvanse)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "azithromycin-zithromax",
+  "name": "Azithromycin (Zithromax)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "ciprofloxacin",
+  "name": "Ciprofloxacin",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "doxycycline",
+  "name": "Doxycycline",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "cephalexin-keflex",
+  "name": "Cephalexin (Keflex)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "sulfamethoxazole-trimethoprim-bactrim",
+  "name": "Sulfamethoxazole-trimethoprim (Bactrim)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "albuterol",
+  "name": "Albuterol",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "montelukast-singulair",
+  "name": "Montelukast (Singulair)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "pantoprazole-protonix",
+  "name": "Pantoprazole (Protonix)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "ondansetron-zofran",
+  "name": "Ondansetron (Zofran)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "sildenafil-viagra",
+  "name": "Sildenafil (Viagra)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "tadalafil-cialis",
+  "name": "Tadalafil (Cialis)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "insulin",
+  "name": "Insulin",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "glipizide",
+  "name": "Glipizide",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "sitagliptin-januvia",
+  "name": "Sitagliptin (Januvia)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "semaglutide-ozempic",
+  "name": "Semaglutide (Ozempic)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "lithium",
+  "name": "Lithium",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "quetiapine-seroquel",
+  "name": "Quetiapine (Seroquel)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "aripiprazole-abilify",
+  "name": "Aripiprazole (Abilify)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "lamotrigine-lamictal",
+  "name": "Lamotrigine (Lamictal)",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "carbamazepine",
+  "name": "Carbamazepine",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "topiramate",
+  "name": "Topiramate",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "baclofen",
+  "name": "Baclofen",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "tizanidine",
+  "name": "Tizanidine",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "methocarbamol",
+  "name": "Methocarbamol",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "meloxicam",
+  "name": "Meloxicam",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "diclofenac",
+  "name": "Diclofenac",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "colchicine",
+  "name": "Colchicine",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "allopurinol",
+  "name": "Allopurinol",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "digoxin",
+  "name": "Digoxin",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "clonidine",
+  "name": "Clonidine",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "propranolol",
+  "name": "Propranolol",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "carvedilol",
+  "name": "Carvedilol",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "spironolactone",
+  "name": "Spironolactone",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "hydroxyzine",
+  "name": "Hydroxyzine",
+  "category": "Prescription medications"
+ },
+ {
+  "id": "promethazine",
+  "name": "Promethazine",
+  "category": "Prescription medications"
+ },
+ {
   "id": "ammonia",
   "name": "Ammonia",
   "category": "Household products"

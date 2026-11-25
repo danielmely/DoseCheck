@@ -3981,5 +3981,514 @@
         "url": "https://medlineplus.gov/ency/article/002764.htm"
       }
     ]
+  },
+  {
+    "aliases": [
+      "glucophage"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: extreme tiredness or weakness, vomiting, nausea, stomach pain, deep or rapid breathing, dizziness, abnormal heartbeat, muscle pain, feeling cold, plus low blood sugar symptoms.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "metformin",
+    "name": "Metformin (Glucophage)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warns metformin may rarely cause a serious, life-threatening condition called lactic acidosis. Risk is higher with kidney disease, age over 65, certain heart or liver conditions, heavy alcohol use and some other medicines. Serious infection, severe diarrhea, vomiting, fever or low fluid intake may mean stopping it temporarily, and it must be stopped before surgery or contrast X-ray procedures, as your doctor directs.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Metformin",
+        "url": "https://medlineplus.gov/druginfo/meds/a696005.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "zestril",
+      "prinivil"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: lightheadedness and fainting.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lisinopril",
+    "name": "Lisinopril (Zestril, Prinivil)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus carries a pregnancy warning: do not take lisinopril if you are pregnant, since it may harm the fetus. Tell your doctor about angioedema (face and throat swelling). NSAIDs, aspirin, and potassium supplements or potassium-containing salt substitutes need a talk with your doctor. Diarrhea, vomiting, dehydration or heavy sweating can cause lightheadedness and fainting.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Lisinopril",
+        "url": "https://medlineplus.gov/druginfo/meds/a692051.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lipitor"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "atorvastatin",
+    "name": "Atorvastatin (Lipitor)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus says atorvastatin may harm a fetus, so call your doctor if you become pregnant. Report unusual muscle pain or weakness, dark urine, or yellowing of the skin or eyes right away. Alcohol can increase the risk of serious side effects, and you should discuss grapefruit and grapefruit juice with your doctor.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Atorvastatin",
+        "url": "https://medlineplus.gov/druginfo/meds/a600045.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "norvasc"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: lightheadedness or dizzy spells, fainting and a fast heartbeat.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "amlodipine",
+    "name": "Amlodipine (Norvasc)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus says doctors usually start at a low dose and raise it gradually. Seek care right away for worsening or more frequent chest pain, a racing, pounding or irregular heartbeat, or fainting.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Amlodipine",
+        "url": "https://medlineplus.gov/druginfo/meds/a692044.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "zoloft",
+      "ssri"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: agitation, hallucinations, fever, sweating, confusion, fast heartbeat, shivering, severe muscle stiffness or twitching, loss of coordination, nausea, vomiting, diarrhea, seizures and coma.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sertraline",
+    "name": "Sertraline (Zoloft)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus carries a boxed warning that sertraline may increase the risk of suicidal thoughts and actions, especially in people under 24, mostly in the first few months or when the dose changes. Do not combine it with MAO inhibitors. Use caution with St. John's wort, tryptophan, aspirin and NSAIDs. Stopping suddenly can cause withdrawal symptoms, so talk to your doctor first. If you are having thoughts of suicide, call or text 988.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Sertraline",
+        "url": "https://medlineplus.gov/druginfo/meds/a697048.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "neurontin",
+      "gralise",
+      "horizant"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: double vision, slurred speech, drowsiness and diarrhea.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "gabapentin",
+    "name": "Gabapentin (Neurontin)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus says anticonvulsants like gabapentin carry a risk of suicidal thoughts or behavior, which may appear as early as one week after starting. It can cause drowsiness, dizziness and slowed thinking, and alcohol adds to the drowsiness. Take antacids such as Maalox at least 2 hours before gabapentin. Stopping suddenly can cause withdrawal symptoms and, for seizure patients, more seizures.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Gabapentin",
+        "url": "https://medlineplus.gov/druginfo/meds/a694007.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ultram",
+      "opioid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: small pupils, slow or shallow breathing, extreme drowsiness, inability to wake up, slow heartbeat, muscle weakness and cold clammy skin.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tramadol",
+    "name": "Tramadol (Ultram)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warns tramadol may be habit-forming and can cause serious or life-threatening breathing problems, especially in the first 24 to 72 hours and after any dose increase. Other medicines, alcohol or street drugs raise the risk of breathing problems, sedation, coma or death. Extended-release forms must be swallowed whole. It can harm or kill other people, especially children, so keep it locked up. Call 911 for trouble breathing.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Tramadol",
+        "url": "https://medlineplus.gov/druginfo/meds/a695011.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "roxicodone",
+      "oxycontin",
+      "percocet",
+      "opioid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: trouble breathing, slow or shallow breathing, unusual snoring, extreme sleepiness, inability to wake up, limp or weak muscles, narrowed or widened pupils, cold clammy skin and a slowed heartbeat.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "oxycodone",
+    "name": "Oxycodone (Roxicodone, OxyContin)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus says oxycodone is habit-forming even at recommended doses and can cause serious or life-threatening breathing problems, especially in the first 24 to 72 hours and after dose increases. Extended-release tablets must be swallowed whole because chewing or crushing can cause a fatal overdose. Keep it where no one else can take it. Call 911 for trouble breathing or if the person can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Oxycodone",
+        "url": "https://medlineplus.gov/druginfo/meds/a682132.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lopressor",
+      "toprol",
+      "beta blocker"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: nausea, vomiting, decreased consciousness or coma, irregular, fast or slow heartbeat, chest pain and difficulty breathing.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "metoprolol",
+    "name": "Metoprolol (Lopressor, Toprol-XL)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warns that suddenly stopping metoprolol may cause serious heart problems, so do not stop without talking to your doctor. It may increase the risk of low blood sugar and hide its warning signs. Avoid alcohol with the extended-release capsules.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Metoprolol",
+        "url": "https://medlineplus.gov/druginfo/meds/a682864.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "flexeril",
+      "amrix",
+      "muscle relaxer"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: drowsiness, fast or irregular heartbeat, agitation, confusion, trouble speaking or moving, dizziness, nausea, vomiting, hallucinations, tremor and loss of consciousness.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cyclobenzaprine",
+    "name": "Cyclobenzaprine (Flexeril)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus says not to take it for more than 3 weeks without talking to your doctor, and not with MAO inhibitors or within two weeks of stopping them. It may cause drowsiness, and alcohol can intensify its effects. Older adults should not usually take it.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Cyclobenzaprine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682514.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "synthroid",
+      "levoxyl",
+      "thyroid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: chest pain, rapid or irregular heartbeat, uncontrollable shaking, nervousness, anxiety, irritability, trouble sleeping, shortness of breath, excessive sweating, confusion, loss of consciousness and seizure.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "levothyroxine",
+    "name": "Levothyroxine (Synthroid)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus says levothyroxine should not be used alone or with other treatments to treat obesity or cause weight loss, because large doses may cause serious or life-threatening problems, especially with amphetamines. Do not stop it without talking to your doctor.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Levothyroxine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682461.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "deltasone",
+      "steroid",
+      "corticosteroid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "prednisone",
+    "name": "Prednisone",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus says do not stop taking prednisone without talking to your doctor, because your body may lack the natural steroids it needs. It may reduce your ability to fight infection, so wash your hands often and avoid sick people. Do not get vaccinations without asking your doctor. It may slow growth in children and raise the risk of osteoporosis.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Prednisone",
+        "url": "https://medlineplus.gov/druginfo/meds/a601102.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "amoxil",
+      "antibiotic"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: cloudy or bloody urine and decreased urination.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "amoxicillin",
+    "name": "Amoxicillin",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus says to stop it and get emergency care for wheezing, trouble swallowing or breathing, or swelling of the face, throat, tongue or lips. Severe watery or bloody diarrhea can occur up to 2 months or more after treatment. It may reduce the effect of hormonal birth control. Antibiotics do not treat colds, flu or other viral infections.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Amoxicillin",
+        "url": "https://medlineplus.gov/druginfo/meds/a685001.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "xanax",
+      "benzodiazepine",
+      "benzo"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: drowsiness, confusion, problems with coordination and loss of consciousness.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "alprazolam",
+    "name": "Alprazolam (Xanax)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus says combined with certain medicines, such as cough or pain medicines, alprazolam may cause serious or life-threatening breathing problems, sedation or coma. It may be habit-forming. Do not take a larger dose, take it more often or take it longer than prescribed, and do not stop or cut back without your doctor, because the dose is usually lowered gradually.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Alprazolam",
+        "url": "https://medlineplus.gov/druginfo/meds/a684001.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
   }
 ]

@@ -70,6 +70,8 @@ struct SubstanceDetailView: View {
         Section("Label guidance") {
             if let limit = substance.guidanceDailyLimitMg {
                 DoseRow(mg: limit, substance: substance, footnote: "Adult OTC label limit per day")
+            } else if let note = substance.safeNote {
+                NoteRow(text: note)
             }
             Text("Take only as directed and count every product that contains it. If someone took more than directed, call Poison Control now, even if they feel fine.")
                 .font(.footnote)

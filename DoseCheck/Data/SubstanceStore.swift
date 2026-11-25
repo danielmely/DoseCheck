@@ -16,6 +16,7 @@ final class SubstanceStore: ObservableObject {
         "Dairy & alternatives", "Sweets & snacks", "Prepared foods",
         "Condiments, oils & baking", "Vitamins & minerals",
         "Herbal & dietary supplements", "Over-the-counter medications",
+        "Prescription medications",
         "Household products", "Poisonous plants & fungi", "Tobacco & nicotine"
     ]
 
