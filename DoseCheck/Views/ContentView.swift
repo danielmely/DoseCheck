@@ -11,41 +11,27 @@ struct ContentView: View {
 
     var body: some View {
         NavigationStack {
-            List {
-                Section {
-                    Button { showProfiles = true } label: {
-                        VStack(alignment: .leading, spacing: 4) {
-                            Text("Results for").font(.caption).foregroundStyle(.secondary)
-                            Text(profile.name).font(.headline)
-                            Text(profile.summary).font(.footnote).foregroundStyle(.secondary)
-                            if profile.isGeneric {
-                                Text("Save your profile for numbers that fit you.")
-                                    .font(.footnote)
-                                    .foregroundStyle(.blue)
-                            }
-                        }
-                    }
-                    .buttonStyle(.plain)
-                }
+            ScrollView {
+                VStack(spacing: 16) {
+                    searchBar
 
-                Section("Substances") {
-                    let results = store.search(query)
-                    if results.isEmpty {
-                        Text("No match. More substances are coming.")
-                            .foregroundStyle(.secondary)
+                    NavigationLink {
+                        BrowseView()
+                    } label: {
+                        Label("Browse", systemImage: "square.grid.2x2")
+                            .frame(maxWidth: .infinity)
+                            .padding(.vertical, 6)
                     }
-                    ForEach(results) { s in
-                        NavigationLink(value: s) {
-                            VStack(alignment: .leading, spacing: 2) {
-                                Text(s.name).font(.headline)
-                                Text(s.category).font(.caption).foregroundStyle(.secondary)
-                            }
-                        }
+                    .buttonStyle(.bordered)
+
+                    if !query.trimmingCharacters(in: .whitespaces).isEmpty {
+                        results
                     }
                 }
+                .padding(.horizontal)
+                .padding(.top, 24)
             }
             .navigationTitle("DoseCheck")
-            .searchable(text: $query, prompt: "Search coffee, salt, nutmeg…")
             .toolbar {
                 ToolbarItem(placement: .topBarLeading) {
                     Button { showProfiles = true } label: {
@@ -70,6 +56,65 @@ struct ContentView: View {
             DisclaimerView { acceptedDisclaimer = true }
                 .interactiveDismissDisabled()
         }
+    }
+
+    private var searchBar: some View {
+        HStack(spacing: 8) {
+            Image(systemName: "magnifyingglass")
+                .foregroundStyle(.secondary)
+            TextField("Advil, Calories, Sugar, etc.", text: $query)
+                .textInputAutocapitalization(.never)
+                .autocorrectionDisabled()
+                .submitLabel(.search)
+            if !query.isEmpty {
+                Button { query = "" } label: {
+                    Image(systemName: "xmark.circle.fill")
+                        .foregroundStyle(.secondary)
+                }
+                .accessibilityLabel("Clear search")
+            }
+        }
+        .padding(12)
+        .background(.quaternary, in: RoundedRectangle(cornerRadius: 12))
+    }
+
+    @ViewBuilder
+    private var results: some View {
+        let found = store.search(query)
+        if found.isEmpty {
+            Text("No match yet. More substances are coming.")
+                .foregroundStyle(.secondary)
+                .frame(maxWidth: .infinity, alignment: .leading)
+        } else {
+            LazyVStack(alignment: .leading, spacing: 0) {
+                ForEach(found) { s in
+                    NavigationLink(value: s) {
+                        SubstanceRow(substance: s)
+                    }
+                    .buttonStyle(.plain)
+                    Divider()
+                }
+            }
+        }
+    }
+}
+
+struct SubstanceRow: View {
+    let substance: Substance
+
+    var body: some View {
+        HStack {
+            VStack(alignment: .leading, spacing: 2) {
+                Text(substance.name).font(.headline)
+                Text(substance.category).font(.caption).foregroundStyle(.secondary)
+            }
+            Spacer()
+            Image(systemName: "chevron.right")
+                .font(.footnote)
+                .foregroundStyle(.tertiary)
+        }
+        .padding(.vertical, 10)
+        .contentShape(Rectangle())
     }
 }
 

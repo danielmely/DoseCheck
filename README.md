@@ -9,6 +9,8 @@ iOS app (SwiftUI, iOS 17+) that answers "how much of this is too much?" Search a
 - Weight scales toxic and fatal doses, gender at birth selects sex-specific guidance (sugar, alcohol), and height + weight + gender at birth estimate body water (Hume-Weyers) for the blood alcohol estimate.
 - Pinned call buttons for Poison Control and the 988 lifeline on every screen.
 
+- Home screen is a single search bar ("Advil, Calories, Sugar, etc.") with a Browse button that lists everything in the app by category.
+
 ## Design rules
 
 - Safety framing first: first-launch disclaimer, plus Poison Control (1-800-222-1222) and 988 shown on every screen.

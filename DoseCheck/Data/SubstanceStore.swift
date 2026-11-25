@@ -1,5 +1,11 @@
 import Foundation
 
+struct CategoryGroup: Identifiable {
+    let name: String
+    let items: [Substance]
+    var id: String { name }
+}
+
 @MainActor
 final class SubstanceStore: ObservableObject {
     @Published private(set) var substances: [Substance] = []
@@ -17,6 +23,18 @@ final class SubstanceStore: ObservableObject {
             return
         }
         substances = items.sorted { $0.name < $1.name }
+    }
+
+    /// Substances grouped by category. Edibles first, then medication, then the rest.
+    var categories: [CategoryGroup] {
+        let order = ["Drinks & food", "Medication"]
+        let grouped = Dictionary(grouping: substances, by: { $0.category })
+        let names = grouped.keys.sorted { a, b in
+            let ia = order.firstIndex(of: a) ?? order.count
+            let ib = order.firstIndex(of: b) ?? order.count
+            return ia == ib ? a < b : ia < ib
+        }
+        return names.map { CategoryGroup(name: $0, items: grouped[$0] ?? []) }
     }
 
     func search(_ query: String) -> [Substance] {
