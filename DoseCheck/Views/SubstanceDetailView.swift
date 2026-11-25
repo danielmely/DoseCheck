@@ -127,10 +127,10 @@ struct SubstanceDetailView: View {
         let tbw = profile.totalBodyWaterL
         if tbw > 10 {
             Section("Blood alcohol per drink") {
-                // Peak estimate: blood is about 80.6% water, so
-                // BAC (g/dL) = 0.806 x grams of alcohol / (body water in L x 10).
+                // Peak estimate: FBI lab protocols use a blood water fraction of 0.84, so
+                // BAC (g/dL) = 0.84 x grams of alcohol / (body water in L x 10).
                 let grams = substance.servingMg / 1000
-                let bac = 0.806 * grams / (tbw * 10)
+                let bac = 0.84 * grams / (tbw * 10)
                 VStack(alignment: .leading, spacing: 4) {
                     Text(String(format: "≈ %.3f%%", bac)).font(.title3.bold())
                     Text("Peak estimate for one standard drink, before your body clears any. Based on body water estimated from your height, weight and gender. Real values vary.")

@@ -24,7 +24,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "PubMed 30422505: caffeine toxicity review",
@@ -91,32 +91,36 @@
       "drinking"
     ],
     "isMedication": false,
-    "toxicMgPerKg": 1000,
-    "lethalMgPerKg": 5000,
-    "lethalBasis": "human estimate; tolerance varies enormously",
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
     "guidanceDailyLimitMg": null,
     "servingName": "standard drink (14 g pure alcohol)",
     "servingMg": 14000,
-    "notes": "Around 0.8 g/kg (3 to 4 drinks) brings a blood alcohol level of about 0.10, and severe symptoms can develop at 0.8 to 1.2 g/kg. Drinking fast can be dangerous at far lower amounts, and children are much more vulnerable. US guidance is up to 1 drink a day for women and 2 for men. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "notes": "About 0.8 g of pure ethanol per kg (roughly 3 to 4 drinks) brings a blood alcohol level of about 0.10. Drinking fast can be dangerous at far lower amounts, and children are much more vulnerable. US guidance is up to 1 drink a day for women and 2 for men. Blood alcohol is estimated from your body water (Hume and Weyers equations) and a 0.84 blood water factor, so real values vary. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
     "sources": [
       {
-        "title": "Medical Tribune / Empendium: ethanol toxic dose",
-        "url": null
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "Searle 2015: Alcohol calculations and their uncertainty",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4361698"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
       },
       {
         "title": "NIAAA: Alcohol poisoning",
-        "url": null
-      },
-      {
-        "title": "Hume and Weyers 1971 (body water from height and weight)",
-        "url": null
-      },
-      {
-        "title": "Lethal figure still needs a primary source",
-        "url": null
+        "url": "https://www.niaaa.nih.gov/health-essentials/alcohol-poisoning"
       }
     ],
-    "verified": false,
+    "verified": true,
     "guidanceMaleMg": 28000,
     "guidanceFemaleMg": 14000,
     "extras": [
@@ -124,7 +128,7 @@
     ],
     "safeNote": null,
     "toxicNote": null,
-    "lethalNote": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
     "guidanceMgPerKg": null,
     "measuredAs": null
   },
@@ -147,7 +151,7 @@
     "sources": [
       {
         "title": "Hallstrom and Thuvander 1997: Toxicological evaluation of myristicin",
-        "url": null
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9496377/"
       },
       {
         "title": "PubMed 11343860: nutmeg poisoning case series",
@@ -183,7 +187,7 @@
     "sources": [
       {
         "title": "Sucrose safety data sheets (oral rat LD50 29,700 mg/kg)",
-        "url": null
+        "url": "https://il.mahidol.ac.th/eng/wp-content/uploads/2019/03/MSDS_D-Sucrose.pdf"
       },
       {
         "title": "American Heart Association: added sugar limits",
@@ -222,7 +226,7 @@
     "sources": [
       {
         "title": "Extra Strength Tylenol Drug Facts label (DailyMed)",
-        "url": null
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3bb7dc60-97b2-1291-e063-6294a90a26d9"
       },
       {
         "title": "poison.org",
@@ -259,8 +263,8 @@
     "notes": "The OTC label limit is 1,200 mg a day unless a doctor says otherwise. Take with food. Higher doses can harm the stomach and kidneys. Call Poison Control if more than directed was taken.",
     "sources": [
       {
-        "title": "FDA OTC monograph: ibuprofen 200 mg tablets, max 1,200 mg/day",
-        "url": null
+        "title": "Ibuprofen 200 mg tablets Drug Facts label (DailyMed): up to 6 tablets in 24 hours",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=260f5862-d65d-4c34-bf53-26ca30806a67"
       },
       {
         "title": "poison.org",
@@ -313,7 +317,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -352,7 +356,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -391,7 +395,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -428,7 +432,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -467,7 +471,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -504,7 +508,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -543,7 +547,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -583,7 +587,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -622,7 +626,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -661,7 +665,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -698,7 +702,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -737,7 +741,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -774,7 +778,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -813,7 +817,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -852,7 +856,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -891,7 +895,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -928,7 +932,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
@@ -965,7 +969,7 @@
       },
       {
         "title": "FDA: Spilling the beans, how much caffeine is too much",
-        "url": null
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
       },
       {
         "title": "FDA: Pure and highly concentrated caffeine",
