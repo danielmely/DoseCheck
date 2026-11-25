@@ -75,13 +75,17 @@ struct DisclaimerView: View {
                  + Text("POTENTIALLY").bold()
                  + Text(" hazardous."))
 
-            left(Text("If someone may have swallowed something harmful, close this app and IMMEDIATELY\nCall ").bold()
-                 + Text("Poison Control").bold().underline()
-                 + Text(":\n1-800-222-1222 (US).").bold())
+            leftAttr(callText(
+                intro: "If someone may have swallowed something harmful, close this app and IMMEDIATELY\nCall ",
+                label: "Poison Control",
+                number: "1-800-222-1222 (US).",
+                url: "tel:18002221222"))
 
-            left(Text("Additionally, if YOU or ANYONE you know are having thoughts of harming yourself, themself or others, close this app and IMMEDIATELY\nCALL or TEXT the ").bold()
-                 + Text("Suicide Hotline").bold().underline()
-                 + Text(":\n988 (US).").bold())
+            leftAttr(callText(
+                intro: "Additionally, if YOU or ANYONE you know are having thoughts of harming yourself, themself or others, close this app and IMMEDIATELY\nCALL or TEXT the ",
+                label: "Suicide Hotline",
+                number: "988 (US).",
+                url: "tel:988"))
 
             left(Text("By continuing below the user understands and accepts they personally are responsible for any and all past, present and future risk and liability.").italic())
 
@@ -94,6 +98,28 @@ struct DisclaimerView: View {
 
     private func left(_ text: Text) -> some View {
         text
+            .lineSpacing(8)
+            .frame(maxWidth: .infinity, alignment: .leading)
+    }
+
+    /// Bold paragraph whose label and phone number are tappable and open the iPhone call prompt.
+    private func callText(intro: String, label: String, number: String, url: String) -> AttributedString {
+        let link = URL(string: url)
+        var out = AttributedString(intro)
+        var l = AttributedString(label)
+        l.underlineStyle = .single
+        l.link = link
+        let colon = AttributedString(":\n")
+        var n = AttributedString(number)
+        n.underlineStyle = .single
+        n.link = link
+        out.append(l); out.append(colon); out.append(n)
+        out.font = .title3.bold()
+        return out
+    }
+
+    private func leftAttr(_ text: AttributedString) -> some View {
+        Text(text)
             .lineSpacing(8)
             .frame(maxWidth: .infinity, alignment: .leading)
     }
