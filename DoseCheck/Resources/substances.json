@@ -4490,5 +4490,310 @@
         "url": "https://www.poison.org/"
       }
     ]
+  },
+  {
+    "aliases": [
+      "apricot seeds",
+      "apricot pits",
+      "laetrile",
+      "amygdalin",
+      "bitter apricot kernels"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "EFSA says eating more than three small raw apricot kernels (about 370 mg) in one serving can exceed the safe level for adults. For a toddler, even one small kernel can exceed it. EFSA's safe one-off level for cyanide is 20 micrograms per kg of body weight.",
+    "toxicNote": "Chewing or grinding raw apricot kernels turns amygdalin into cyanide. Cyanide poisoning can cause nausea, fever, headache, insomnia, thirst, lethargy, nervousness, aches and pains, and falling blood pressure.",
+    "lethalNote": "In extreme cases cyanide poisoning is fatal. EFSA reports a lethal cyanide dose of 0.5 to 3.5 mg per kg of body weight. Kernels vary a lot in how much amygdalin they hold, so there is no safe count to rely on.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "apricot-kernels",
+    "name": "Apricot kernels",
+    "category": "Nuts, seeds & legumes",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "EFSA says the apricot fruit itself is not a concern, only the kernel inside the stone. EFSA's assessment was prompted by sellers promoting 10 to 60 kernels a day as a cancer remedy; EFSA says judging cancer claims was outside its remit, and its finding is that those intakes are unsafe. If someone ate kernels and feels unwell, call Poison Control at 1-800-222-1222.",
+    "sources": [
+      {
+        "title": "EFSA: Apricot kernels pose risk of cyanide poisoning",
+        "url": "https://www.efsa.europa.eu/en/press/news/160427"
+      },
+      {
+        "title": "EFSA Journal 2016: Acute health risks of cyanogenic glycosides in raw apricot kernels",
+        "url": "https://doi.org/10.2903/j.efsa.2016.4424"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "licorice",
+      "liquorice",
+      "glycyrrhizin"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA advice: no matter your age, don't eat large amounts of black licorice at one time. The warning does not apply to red licorice, which has little or no licorice root.",
+    "toxicNote": "The FDA says if you are 40 or older, eating 2 ounces of black licorice a day for at least two weeks could land you in the hospital with an irregular heart rhythm. The cause is glycyrrhizin, which can lower potassium and also cause high blood pressure, swelling, lethargy and congestive heart failure.",
+    "lethalNote": "A New England Journal of Medicine case report describes a 54-year-old man who died of cardiac arrest after eating about a bag and a half of black licorice daily for a few weeks, as reported by ABC News. No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "black-licorice",
+    "name": "Black licorice",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Potassium levels usually return to normal with no permanent problems once you stop. Licorice can also interact with some medicines and supplements, so ask a health professional. If you have eaten a lot and have an irregular heartbeat or muscle weakness, stop eating it and contact your health care provider.",
+    "sources": [
+      {
+        "title": "American Heart Association News: Black licorice is a candy that should inspire caution",
+        "url": "https://www.heart.org/en/news/2022/10/28/black-licorice-is-a-candy-that-should-inspire-caution"
+      },
+      {
+        "title": "UPI: Don't OD on black licorice this Halloween, FDA warns",
+        "url": "https://www.upi.com/Health_News/2017/10/30/Dont-OD-on-black-licorice-this-Halloween-FDA-warns/6471509416121/"
+      },
+      {
+        "title": "Cleveland Clinic: Why black licorice can make your heart skip a beat",
+        "url": "https://health.clevelandclinic.org/how-black-licorice-can-make-your-heart-jump"
+      },
+      {
+        "title": "ABC News: How much black licorice is too much",
+        "url": "https://abcnews.go.com/food/story/black-licorice-sweetening-compound-bad-adults-73217430"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "red kidney beans",
+      "undercooked kidney beans",
+      "phytohaemagglutinin",
+      "kidney bean lectin"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Never eat raw or undercooked red kidney beans. Boil dried beans properly before eating or adding to dishes.",
+    "toxicNote": "The FDA Bad Bug Book says as few as four or five raw beans can trigger symptoms. Illness usually begins 1 to 3 hours after eating, with extreme nausea, then vomiting that may be very severe, followed by diarrhea.",
+    "lethalNote": "No fatal dose is established. People normally feel better within a few hours, though some cases needed hospital care.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "raw-kidney-beans",
+    "name": "Raw kidney beans",
+    "category": "Nuts, seeds & legumes",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Raw red kidney beans carry 20,000 to 70,000 hemagglutinating units of the toxin phytohaemagglutinin, against 200 to 400 once fully cooked. The FDA Bad Bug Book says heating to 80 degrees C can make beans about five times more toxic than raw, and slow cookers often do not get hot enough, so beans should be boiled first. White kidney beans carry about a third as much toxin as red.",
+    "sources": [
+      {
+        "title": "FDA Bad Bug Book: Phytohaemagglutinin (kidney bean lectin), archived",
+        "url": "https://webarchive.library.unt.edu/web/20080916015134/http:/vm.cfsan.fda.gov/~mow/chap43.html"
+      },
+      {
+        "title": "Health Canada: Lectins in dry legumes",
+        "url": "https://www.canada.ca/en/health-canada/services/food-nutrition/food-safety/chemical-contaminants/natural-toxins/lectins-legumes.html"
+      },
+      {
+        "title": "Hong Kong Centre for Food Safety: Phytohaemagglutinin in beans",
+        "url": "https://www.cfs.gov.hk/english/multimedia/multimedia_pub/multimedia_pub_fsf_208_01.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sprouted potatoes",
+      "potato sprouts",
+      "solanine"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "MedlinePlus says potatoes that are not green and have had any sprouts removed are safe to eat. Never eat potatoes that are spoiled or green below the skin, and always throw away sprouts.",
+    "toxicNote": "The poison is solanine, which MedlinePlus calls very toxic even in small amounts. Effects are mostly stomach and gut problems, often delayed 8 to 10 hours; nervous system effects can occur with large amounts. Symptoms include nausea, vomiting, diarrhea, fever, headache, hallucinations, delirium, dilated pupils and vision changes.",
+    "lethalNote": "MedlinePlus says these poisonings can be very dangerous, and severe cases can bring paralysis, slow breathing, slow pulse and shock. No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "green-potato",
+    "name": "Green potato",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The Tokyo Metropolitan Government notes solanine is almost not broken down by cooking, baking or other heating, so remove green parts and sprouts completely. Call Poison Control at 1-800-222-1222.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Potato plant poisoning, green tubers and sprouts",
+        "url": "https://medlineplus.gov/ency/article/002875.htm"
+      },
+      {
+        "title": "Tokyo Metropolitan Government: Potato poisoning",
+        "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/15.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "rhubarb leaf",
+      "rheum"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Eat only the stalks. MedlinePlus says the poison is in the leaf blade, while the stalk can be eaten.",
+    "toxicNote": "MedlinePlus lists oxalic acid, and possibly anthraquinone glycosides, as the poisonous ingredients. Symptoms include burning and blisters in the mouth and throat, nausea, vomiting, diarrhea, stomach pain, kidney stones, red-colored urine, seizures and coma.",
+    "lethalNote": "Deaths have been reported but are rare, according to an older MedlinePlus version. No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "rhubarb-leaves",
+    "name": "Rhubarb leaves",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Call Poison Control at 1-800-222-1222 or 911 for any exposure, and have the person's age, weight and condition, the time swallowed and the amount ready.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Rhubarb leaves poisoning",
+        "url": "https://medlineplus.gov/ency/article/002876.htm"
+      },
+      {
+        "title": "MedlinePlus: Rhubarb leaves poisoning (archived 2008 version)",
+        "url": "https://webarchive.library.unt.edu/eot2008/20080920080923/http:/www.nlm.nih.gov/medlineplus/ency/article/002876.htm"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "raw honey",
+      "manuka honey"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not give honey to a baby under 12 months old, in any form, including on a pacifier or baked into food. It is the only known way to prevent infant botulism from honey.",
+    "toxicNote": "Honey can carry Clostridium botulinum spores. In babies under a year the spores can grow in the gut and make toxin, causing infant botulism. A survey cited by the University of Florida found spores in 10 percent of US honey samples.",
+    "lethalNote": "Infant botulism is a serious illness. This app does not give a fatal amount for honey.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "honey",
+    "name": "Honey",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The CDC, American Academy of Pediatrics and National Honey Board recommend no honey for infants under 12 months, according to University of Florida extension. After age one the digestive system is more mature and illness from spores is much less likely. If you think a baby has symptoms, get medical care at once.",
+    "sources": [
+      {
+        "title": "University of Florida IFAS: Infant botulism and honey",
+        "url": "https://ask.ifas.ufl.edu/publication/aa142"
+      },
+      {
+        "title": "California Department of Public Health: Infant botulism, for parents and families",
+        "url": "https://www.cdph.ca.gov/Programs/cls/idld/ibtpp/Pages/For-Parents-and-Families.aspx"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "shark",
+      "swordfish",
+      "king mackerel",
+      "marlin",
+      "orange roughy",
+      "tilefish",
+      "bigeye tuna",
+      "mercury"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA and EPA advise people who might become pregnant, are pregnant or breastfeeding, and children to avoid king mackerel, marlin, orange roughy, shark, swordfish, Gulf of Mexico tilefish and bigeye tuna. These have the highest mercury levels.",
+    "toxicNote": "Mercury in fish can be harmful to the brain and nervous system if a person is exposed to too much over time, according to EPA. This is a long-term exposure risk, not a single-meal dose.",
+    "lethalNote": "No fatal dose is established for mercury from fish.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "high-mercury-fish",
+    "name": "High-mercury fish (shark, swordfish, king mackerel)",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "FDA and EPA advise 2 to 3 servings a week from the Best Choices list, or 1 serving from the Good Choices list. An adult serving is 4 ounces, about the palm of your hand. For children a serving is about 1 ounce at age 1 to 3, 2 ounces at 4 to 7, 3 ounces at 8 to 10 and 4 ounces at 11. Canned and fresh albacore (white) tuna and yellowfin tuna are Good Choices.",
+    "sources": [
+      {
+        "title": "FDA: Advice about eating fish",
+        "url": "https://www.fda.gov/fishadvice"
+      },
+      {
+        "title": "EPA and FDA issue final fish consumption advice",
+        "url": "https://www.epa.gov/archive/epa/newsreleases/epa-and-fda-issue-final-fish-consumption-advice-0.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
   }
 ]

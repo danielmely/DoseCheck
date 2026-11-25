@@ -780,11 +780,6 @@
   "category": "Vegetables & mushrooms"
  },
  {
-  "id": "green-potato",
-  "name": "Green potato",
-  "category": "Vegetables & mushrooms"
- },
- {
   "id": "sweet-potato",
   "name": "Sweet potato",
   "category": "Vegetables & mushrooms"
@@ -812,11 +807,6 @@
  {
   "id": "rhubarb-stalks",
   "name": "Rhubarb stalks",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "rhubarb-leaves",
-  "name": "Rhubarb leaves",
   "category": "Vegetables & mushrooms"
  },
  {
@@ -1690,11 +1680,6 @@
   "category": "Nuts, seeds & legumes"
  },
  {
-  "id": "apricot-kernels",
-  "name": "Apricot kernels",
-  "category": "Nuts, seeds & legumes"
- },
- {
   "id": "black-beans",
   "name": "Black beans",
   "category": "Nuts, seeds & legumes"
@@ -1717,11 +1702,6 @@
  {
   "id": "great-northern-beans",
   "name": "Great northern beans",
-  "category": "Nuts, seeds & legumes"
- },
- {
-  "id": "raw-kidney-beans",
-  "name": "Raw kidney beans",
   "category": "Nuts, seeds & legumes"
  },
  {
@@ -2422,21 +2402,6 @@
  {
   "id": "fresh-tuna",
   "name": "Fresh tuna",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "swordfish",
-  "name": "Swordfish",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "shark",
-  "name": "Shark",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "king-mackerel",
-  "name": "King mackerel",
   "category": "Meat, fish & eggs"
  },
  {
@@ -3510,11 +3475,6 @@
   "category": "Sweets & snacks"
  },
  {
-  "id": "black-licorice",
-  "name": "Black licorice",
-  "category": "Sweets & snacks"
- },
- {
   "id": "red-licorice",
   "name": "Red licorice",
   "category": "Sweets & snacks"
@@ -3552,11 +3512,6 @@
  {
   "id": "cough-drops",
   "name": "Cough drops",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "honey",
-  "name": "Honey",
   "category": "Sweets & snacks"
  },
  {
