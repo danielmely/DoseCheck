@@ -41,8 +41,12 @@ struct ContentView: View {
                     .accessibilityLabel("Saved people")
                 }
             }
-            .navigationDestination(for: Substance.self) { s in
-                SubstanceDetailView(substance: s, profile: profile)
+            .navigationDestination(for: BrowseEntry.self) { entry in
+                if let s = entry.substance {
+                    SubstanceDetailView(substance: s, profile: profile)
+                } else {
+                    PendingDetailView(entry: entry)
+                }
             }
             .safeAreaInset(edge: .bottom) { SafetyFooter() }
             .sheet(isPresented: $showProfiles) {
@@ -62,7 +66,11 @@ struct ContentView: View {
         HStack(spacing: 8) {
             Image(systemName: "magnifyingglass")
                 .foregroundStyle(.secondary)
-            TextField("Advil, Calories, Sugar, etc.", text: $query)
+            TextField(
+                "",
+                text: $query,
+                prompt: Text("Advil, Calories, Sugar, etc.").foregroundColor(Color(.secondaryLabel))
+            )
                 .textInputAutocapitalization(.never)
                 .autocorrectionDisabled()
                 .submitLabel(.search)
@@ -87,9 +95,9 @@ struct ContentView: View {
                 .frame(maxWidth: .infinity, alignment: .leading)
         } else {
             LazyVStack(alignment: .leading, spacing: 0) {
-                ForEach(found) { s in
-                    NavigationLink(value: s) {
-                        SubstanceRow(substance: s)
+                ForEach(found) { entry in
+                    NavigationLink(value: entry) {
+                        SubstanceRow(entry: entry)
                     }
                     .buttonStyle(.plain)
                     Divider()
@@ -100,13 +108,15 @@ struct ContentView: View {
 }
 
 struct SubstanceRow: View {
-    let substance: Substance
+    let entry: BrowseEntry
 
     var body: some View {
         HStack {
             VStack(alignment: .leading, spacing: 2) {
-                Text(substance.name).font(.headline)
-                Text(substance.category).font(.caption).foregroundStyle(.secondary)
+                Text(entry.name).font(.headline)
+                Text(entry.hasData ? entry.category : "\(entry.category) · Coming soon")
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
             }
             Spacer()
             Image(systemName: "chevron.right")

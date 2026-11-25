@@ -2,7 +2,7 @@
   {
     "id": "caffeine",
     "name": "Caffeine",
-    "category": "Drinks & food",
+    "category": "Beverages",
     "aliases": [
       "coffee",
       "energy drink",
@@ -33,7 +33,7 @@
   {
     "id": "table-salt",
     "name": "Table salt (sodium chloride)",
-    "category": "Drinks & food",
+    "category": "Condiments, oils & baking",
     "aliases": [
       "salt",
       "sodium",
@@ -62,7 +62,7 @@
   {
     "id": "ethanol",
     "name": "Alcohol (ethanol)",
-    "category": "Drinks & food",
+    "category": "Beverages",
     "aliases": [
       "beer",
       "wine",
@@ -98,7 +98,7 @@
   {
     "id": "nutmeg",
     "name": "Nutmeg",
-    "category": "Drinks & food",
+    "category": "Herbs & spices",
     "aliases": [
       "spice",
       "myristicin"
@@ -126,7 +126,7 @@
   {
     "id": "sugar",
     "name": "Sugar (sucrose)",
-    "category": "Drinks & food",
+    "category": "Sweets & snacks",
     "aliases": [
       "sweets",
       "table sugar"
@@ -154,7 +154,7 @@
   {
     "id": "acetaminophen",
     "name": "Acetaminophen (Tylenol, paracetamol)",
-    "category": "Medication",
+    "category": "Over-the-counter medications",
     "aliases": [
       "tylenol",
       "paracetamol",
@@ -185,7 +185,7 @@
   {
     "id": "ibuprofen",
     "name": "Ibuprofen (Advil, Motrin)",
-    "category": "Medication",
+    "category": "Over-the-counter medications",
     "aliases": [
       "advil",
       "motrin",

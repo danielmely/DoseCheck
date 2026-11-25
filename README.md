@@ -32,7 +32,7 @@ Bundle ID is `com.danielmely.dosecheck`; change it in `project.yml`.
 
 ## Data
 
-`DoseCheck/Resources/substances.json`. The starter set has 7 entries. 6 are checked against their sources (FDA, NIH/PMC, SDS, product labels, AHA); **alcohol is still unverified** (its lethal figure needs a primary source). The app flags any entry with `"verified": false`.
+`DoseCheck/Resources/catalog.json` lists about 1,500 names for Browse (foods, drinks, supplements, medications, household products, poisonous plants) that have no figures yet; they show "Coming soon". `DoseCheck/Resources/substances.json` holds the entries with real figures. To promote a catalog item, add a full entry to substances.json and remove it from catalog.json. The starter set has 7 entries. 6 are checked against their sources (FDA, NIH/PMC, SDS, product labels, AHA); **alcohol is still unverified** (its lethal figure needs a primary source). The app flags any entry with `"verified": false`.
 
 ## App Store notes
 

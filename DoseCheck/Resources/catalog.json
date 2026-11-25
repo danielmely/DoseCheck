@@ -1,0 +1,7497 @@
+[
+ {
+  "id": "apple",
+  "name": "Apple",
+  "category": "Fruits"
+ },
+ {
+  "id": "apricot",
+  "name": "Apricot",
+  "category": "Fruits"
+ },
+ {
+  "id": "avocado",
+  "name": "Avocado",
+  "category": "Fruits"
+ },
+ {
+  "id": "banana",
+  "name": "Banana",
+  "category": "Fruits"
+ },
+ {
+  "id": "blackberry",
+  "name": "Blackberry",
+  "category": "Fruits"
+ },
+ {
+  "id": "blueberry",
+  "name": "Blueberry",
+  "category": "Fruits"
+ },
+ {
+  "id": "boysenberry",
+  "name": "Boysenberry",
+  "category": "Fruits"
+ },
+ {
+  "id": "breadfruit",
+  "name": "Breadfruit",
+  "category": "Fruits"
+ },
+ {
+  "id": "cantaloupe",
+  "name": "Cantaloupe",
+  "category": "Fruits"
+ },
+ {
+  "id": "cherimoya",
+  "name": "Cherimoya",
+  "category": "Fruits"
+ },
+ {
+  "id": "cherry",
+  "name": "Cherry",
+  "category": "Fruits"
+ },
+ {
+  "id": "clementine",
+  "name": "Clementine",
+  "category": "Fruits"
+ },
+ {
+  "id": "coconut",
+  "name": "Coconut",
+  "category": "Fruits"
+ },
+ {
+  "id": "cranberry",
+  "name": "Cranberry",
+  "category": "Fruits"
+ },
+ {
+  "id": "currant",
+  "name": "Currant",
+  "category": "Fruits"
+ },
+ {
+  "id": "custard-apple",
+  "name": "Custard apple",
+  "category": "Fruits"
+ },
+ {
+  "id": "date",
+  "name": "Date",
+  "category": "Fruits"
+ },
+ {
+  "id": "dragon-fruit",
+  "name": "Dragon fruit",
+  "category": "Fruits"
+ },
+ {
+  "id": "durian",
+  "name": "Durian",
+  "category": "Fruits"
+ },
+ {
+  "id": "elderberry-raw",
+  "name": "Elderberry (raw)",
+  "category": "Fruits"
+ },
+ {
+  "id": "fig",
+  "name": "Fig",
+  "category": "Fruits"
+ },
+ {
+  "id": "gooseberry",
+  "name": "Gooseberry",
+  "category": "Fruits"
+ },
+ {
+  "id": "grape",
+  "name": "Grape",
+  "category": "Fruits"
+ },
+ {
+  "id": "grapefruit",
+  "name": "Grapefruit",
+  "category": "Fruits"
+ },
+ {
+  "id": "guava",
+  "name": "Guava",
+  "category": "Fruits"
+ },
+ {
+  "id": "honeydew-melon",
+  "name": "Honeydew melon",
+  "category": "Fruits"
+ },
+ {
+  "id": "jackfruit",
+  "name": "Jackfruit",
+  "category": "Fruits"
+ },
+ {
+  "id": "kiwi",
+  "name": "Kiwi",
+  "category": "Fruits"
+ },
+ {
+  "id": "kumquat",
+  "name": "Kumquat",
+  "category": "Fruits"
+ },
+ {
+  "id": "lemon",
+  "name": "Lemon",
+  "category": "Fruits"
+ },
+ {
+  "id": "lime",
+  "name": "Lime",
+  "category": "Fruits"
+ },
+ {
+  "id": "lychee",
+  "name": "Lychee",
+  "category": "Fruits"
+ },
+ {
+  "id": "mandarin",
+  "name": "Mandarin",
+  "category": "Fruits"
+ },
+ {
+  "id": "mango",
+  "name": "Mango",
+  "category": "Fruits"
+ },
+ {
+  "id": "mangosteen",
+  "name": "Mangosteen",
+  "category": "Fruits"
+ },
+ {
+  "id": "mulberry",
+  "name": "Mulberry",
+  "category": "Fruits"
+ },
+ {
+  "id": "nectarine",
+  "name": "Nectarine",
+  "category": "Fruits"
+ },
+ {
+  "id": "olive",
+  "name": "Olive",
+  "category": "Fruits"
+ },
+ {
+  "id": "orange",
+  "name": "Orange",
+  "category": "Fruits"
+ },
+ {
+  "id": "papaya",
+  "name": "Papaya",
+  "category": "Fruits"
+ },
+ {
+  "id": "passion-fruit",
+  "name": "Passion fruit",
+  "category": "Fruits"
+ },
+ {
+  "id": "peach",
+  "name": "Peach",
+  "category": "Fruits"
+ },
+ {
+  "id": "pear",
+  "name": "Pear",
+  "category": "Fruits"
+ },
+ {
+  "id": "persimmon",
+  "name": "Persimmon",
+  "category": "Fruits"
+ },
+ {
+  "id": "pineapple",
+  "name": "Pineapple",
+  "category": "Fruits"
+ },
+ {
+  "id": "plantain",
+  "name": "Plantain",
+  "category": "Fruits"
+ },
+ {
+  "id": "plum",
+  "name": "Plum",
+  "category": "Fruits"
+ },
+ {
+  "id": "pomegranate",
+  "name": "Pomegranate",
+  "category": "Fruits"
+ },
+ {
+  "id": "pomelo",
+  "name": "Pomelo",
+  "category": "Fruits"
+ },
+ {
+  "id": "prickly-pear",
+  "name": "Prickly pear",
+  "category": "Fruits"
+ },
+ {
+  "id": "prune",
+  "name": "Prune",
+  "category": "Fruits"
+ },
+ {
+  "id": "quince",
+  "name": "Quince",
+  "category": "Fruits"
+ },
+ {
+  "id": "raisin",
+  "name": "Raisin",
+  "category": "Fruits"
+ },
+ {
+  "id": "raspberry",
+  "name": "Raspberry",
+  "category": "Fruits"
+ },
+ {
+  "id": "rambutan",
+  "name": "Rambutan",
+  "category": "Fruits"
+ },
+ {
+  "id": "star-fruit",
+  "name": "Star fruit",
+  "category": "Fruits"
+ },
+ {
+  "id": "strawberry",
+  "name": "Strawberry",
+  "category": "Fruits"
+ },
+ {
+  "id": "tamarind",
+  "name": "Tamarind",
+  "category": "Fruits"
+ },
+ {
+  "id": "tangerine",
+  "name": "Tangerine",
+  "category": "Fruits"
+ },
+ {
+  "id": "tomato",
+  "name": "Tomato",
+  "category": "Fruits"
+ },
+ {
+  "id": "ugli-fruit",
+  "name": "Ugli fruit",
+  "category": "Fruits"
+ },
+ {
+  "id": "watermelon",
+  "name": "Watermelon",
+  "category": "Fruits"
+ },
+ {
+  "id": "acai-berry",
+  "name": "Acai berry",
+  "category": "Fruits"
+ },
+ {
+  "id": "goji-berry",
+  "name": "Goji berry",
+  "category": "Fruits"
+ },
+ {
+  "id": "noni",
+  "name": "Noni",
+  "category": "Fruits"
+ },
+ {
+  "id": "soursop",
+  "name": "Soursop",
+  "category": "Fruits"
+ },
+ {
+  "id": "sapodilla",
+  "name": "Sapodilla",
+  "category": "Fruits"
+ },
+ {
+  "id": "loquat",
+  "name": "Loquat",
+  "category": "Fruits"
+ },
+ {
+  "id": "jujube",
+  "name": "Jujube",
+  "category": "Fruits"
+ },
+ {
+  "id": "longan",
+  "name": "Longan",
+  "category": "Fruits"
+ },
+ {
+  "id": "feijoa",
+  "name": "Feijoa",
+  "category": "Fruits"
+ },
+ {
+  "id": "horned-melon",
+  "name": "Horned melon",
+  "category": "Fruits"
+ },
+ {
+  "id": "yuzu",
+  "name": "Yuzu",
+  "category": "Fruits"
+ },
+ {
+  "id": "bergamot",
+  "name": "Bergamot",
+  "category": "Fruits"
+ },
+ {
+  "id": "citron",
+  "name": "Citron",
+  "category": "Fruits"
+ },
+ {
+  "id": "blood-orange",
+  "name": "Blood orange",
+  "category": "Fruits"
+ },
+ {
+  "id": "crabapple",
+  "name": "Crabapple",
+  "category": "Fruits"
+ },
+ {
+  "id": "bitter-melon",
+  "name": "Bitter melon",
+  "category": "Fruits"
+ },
+ {
+  "id": "ackee",
+  "name": "Ackee",
+  "category": "Fruits"
+ },
+ {
+  "id": "dried-apricot",
+  "name": "Dried apricot",
+  "category": "Fruits"
+ },
+ {
+  "id": "dried-fig",
+  "name": "Dried fig",
+  "category": "Fruits"
+ },
+ {
+  "id": "dried-mango",
+  "name": "Dried mango",
+  "category": "Fruits"
+ },
+ {
+  "id": "applesauce",
+  "name": "Applesauce",
+  "category": "Fruits"
+ },
+ {
+  "id": "mixed-berries",
+  "name": "Mixed berries",
+  "category": "Fruits"
+ },
+ {
+  "id": "cranberry-sauce",
+  "name": "Cranberry sauce",
+  "category": "Fruits"
+ },
+ {
+  "id": "fruit-cocktail",
+  "name": "Fruit cocktail",
+  "category": "Fruits"
+ },
+ {
+  "id": "canned-peaches",
+  "name": "Canned peaches",
+  "category": "Fruits"
+ },
+ {
+  "id": "dried-cranberries",
+  "name": "Dried cranberries",
+  "category": "Fruits"
+ },
+ {
+  "id": "banana-chips",
+  "name": "Banana chips",
+  "category": "Fruits"
+ },
+ {
+  "id": "coconut-flakes",
+  "name": "Coconut flakes",
+  "category": "Fruits"
+ },
+ {
+  "id": "candied-fruit",
+  "name": "Candied fruit",
+  "category": "Fruits"
+ },
+ {
+  "id": "cherry-pits",
+  "name": "Cherry pits",
+  "category": "Fruits"
+ },
+ {
+  "id": "peach-pits",
+  "name": "Peach pits",
+  "category": "Fruits"
+ },
+ {
+  "id": "artichoke",
+  "name": "Artichoke",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "arugula",
+  "name": "Arugula",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "asparagus",
+  "name": "Asparagus",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "bamboo-shoots",
+  "name": "Bamboo shoots",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "beet",
+  "name": "Beet",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "beet-greens",
+  "name": "Beet greens",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "bell-pepper",
+  "name": "Bell pepper",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "bok-choy",
+  "name": "Bok choy",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "broccoli",
+  "name": "Broccoli",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "broccolini",
+  "name": "Broccolini",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "brussels-sprouts",
+  "name": "Brussels sprouts",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "butternut-squash",
+  "name": "Butternut squash",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "cabbage",
+  "name": "Cabbage",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "red-cabbage",
+  "name": "Red cabbage",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "napa-cabbage",
+  "name": "Napa cabbage",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "carrot",
+  "name": "Carrot",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "cassava",
+  "name": "Cassava",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "cauliflower",
+  "name": "Cauliflower",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "celeriac",
+  "name": "Celeriac",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "celery",
+  "name": "Celery",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "swiss-chard",
+  "name": "Swiss chard",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "chayote",
+  "name": "Chayote",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "chicory",
+  "name": "Chicory",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "collard-greens",
+  "name": "Collard greens",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "corn",
+  "name": "Corn",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "cucumber",
+  "name": "Cucumber",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "daikon",
+  "name": "Daikon",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "eggplant",
+  "name": "Eggplant",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "endive",
+  "name": "Endive",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "fennel-bulb",
+  "name": "Fennel bulb",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "fiddleheads",
+  "name": "Fiddleheads",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "garlic",
+  "name": "Garlic",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "green-beans",
+  "name": "Green beans",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "green-onion",
+  "name": "Green onion",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "horseradish",
+  "name": "Horseradish",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "jalapeno",
+  "name": "Jalapeno",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "jerusalem-artichoke",
+  "name": "Jerusalem artichoke",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "jicama",
+  "name": "Jicama",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "kale",
+  "name": "Kale",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "kohlrabi",
+  "name": "Kohlrabi",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "leek",
+  "name": "Leek",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "lettuce",
+  "name": "Lettuce",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "romaine-lettuce",
+  "name": "Romaine lettuce",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "iceberg-lettuce",
+  "name": "Iceberg lettuce",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "white-button-mushroom",
+  "name": "White button mushroom",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "cremini-mushroom",
+  "name": "Cremini mushroom",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "portobello-mushroom",
+  "name": "Portobello mushroom",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "shiitake-mushroom",
+  "name": "Shiitake mushroom",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "oyster-mushroom",
+  "name": "Oyster mushroom",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "enoki-mushroom",
+  "name": "Enoki mushroom",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "morel-mushroom",
+  "name": "Morel mushroom",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "chanterelle-mushroom",
+  "name": "Chanterelle mushroom",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "porcini-mushroom",
+  "name": "Porcini mushroom",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "mustard-greens",
+  "name": "Mustard greens",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "okra",
+  "name": "Okra",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "onion",
+  "name": "Onion",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "red-onion",
+  "name": "Red onion",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "shallot",
+  "name": "Shallot",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "parsnip",
+  "name": "Parsnip",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "peas",
+  "name": "Peas",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "snow-peas",
+  "name": "Snow peas",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "sugar-snap-peas",
+  "name": "Sugar snap peas",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "potato",
+  "name": "Potato",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "green-potato",
+  "name": "Green potato",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "sweet-potato",
+  "name": "Sweet potato",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "yam",
+  "name": "Yam",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "pumpkin",
+  "name": "Pumpkin",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "radicchio",
+  "name": "Radicchio",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "radish",
+  "name": "Radish",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "rhubarb-stalks",
+  "name": "Rhubarb stalks",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "rhubarb-leaves",
+  "name": "Rhubarb leaves",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "rutabaga",
+  "name": "Rutabaga",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "spinach",
+  "name": "Spinach",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "spaghetti-squash",
+  "name": "Spaghetti squash",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "zucchini",
+  "name": "Zucchini",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "acorn-squash",
+  "name": "Acorn squash",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "taro",
+  "name": "Taro",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "tomatillo",
+  "name": "Tomatillo",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "turnip",
+  "name": "Turnip",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "watercress",
+  "name": "Watercress",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "habanero-pepper",
+  "name": "Habanero pepper",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "serrano-pepper",
+  "name": "Serrano pepper",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "poblano-pepper",
+  "name": "Poblano pepper",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "ghost-pepper",
+  "name": "Ghost pepper",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "banana-pepper",
+  "name": "Banana pepper",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "pickles",
+  "name": "Pickles",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "sauerkraut",
+  "name": "Sauerkraut",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "kimchi",
+  "name": "Kimchi",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "nori-seaweed",
+  "name": "Nori seaweed",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "kelp",
+  "name": "Kelp",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "wakame",
+  "name": "Wakame",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "alfalfa-sprouts",
+  "name": "Alfalfa sprouts",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "bean-sprouts",
+  "name": "Bean sprouts",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "microgreens",
+  "name": "Microgreens",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "lotus-root",
+  "name": "Lotus root",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "water-chestnut",
+  "name": "Water chestnut",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "edamame",
+  "name": "Edamame",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "collards",
+  "name": "Collards",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "escarole",
+  "name": "Escarole",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "frisee",
+  "name": "Frisee",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "mizuna",
+  "name": "Mizuna",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "tatsoi",
+  "name": "Tatsoi",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "sweet-corn",
+  "name": "Sweet corn",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "baby-corn",
+  "name": "Baby corn",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "pearl-onion",
+  "name": "Pearl onion",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "ramps",
+  "name": "Ramps",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "celtuce",
+  "name": "Celtuce",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "burdock-root",
+  "name": "Burdock root",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "sunchoke",
+  "name": "Sunchoke",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "purple-cabbage",
+  "name": "Purple cabbage",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "cherry-tomatoes",
+  "name": "Cherry tomatoes",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "sun-dried-tomatoes",
+  "name": "Sun-dried tomatoes",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "canned-tomatoes",
+  "name": "Canned tomatoes",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "tomato-paste",
+  "name": "Tomato paste",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "roasted-red-peppers",
+  "name": "Roasted red peppers",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "pepperoncini",
+  "name": "Pepperoncini",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "hot-chili-peppers",
+  "name": "Hot chili peppers",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "carolina-reaper-pepper",
+  "name": "Carolina Reaper pepper",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "thai-chili",
+  "name": "Thai chili",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "scotch-bonnet-pepper",
+  "name": "Scotch bonnet pepper",
+  "category": "Vegetables & mushrooms"
+ },
+ {
+  "id": "allspice",
+  "name": "Allspice",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "anise",
+  "name": "Anise",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "asafoetida",
+  "name": "Asafoetida",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "basil",
+  "name": "Basil",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "bay-leaf",
+  "name": "Bay leaf",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "black-pepper",
+  "name": "Black pepper",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "caraway",
+  "name": "Caraway",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "cardamom",
+  "name": "Cardamom",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "cayenne-pepper",
+  "name": "Cayenne pepper",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "celery-seed",
+  "name": "Celery seed",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "chervil",
+  "name": "Chervil",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "chili-powder",
+  "name": "Chili powder",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "chives",
+  "name": "Chives",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "cilantro",
+  "name": "Cilantro",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "cinnamon",
+  "name": "Cinnamon",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "cloves",
+  "name": "Cloves",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "coriander",
+  "name": "Coriander",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "cumin",
+  "name": "Cumin",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "curry-powder",
+  "name": "Curry powder",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "dill",
+  "name": "Dill",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "fennel-seed",
+  "name": "Fennel seed",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "fenugreek",
+  "name": "Fenugreek",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "garlic-powder",
+  "name": "Garlic powder",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "ginger",
+  "name": "Ginger",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "herbes-de-provence",
+  "name": "Herbes de Provence",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "juniper-berries",
+  "name": "Juniper berries",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "lavender-culinary",
+  "name": "Lavender (culinary)",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "lemongrass",
+  "name": "Lemongrass",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "lemon-balm",
+  "name": "Lemon balm",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "licorice-root",
+  "name": "Licorice root",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "mace",
+  "name": "Mace",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "marjoram",
+  "name": "Marjoram",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "mint",
+  "name": "Mint",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "peppermint",
+  "name": "Peppermint",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "spearmint",
+  "name": "Spearmint",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "mustard-seed",
+  "name": "Mustard seed",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "oregano",
+  "name": "Oregano",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "paprika",
+  "name": "Paprika",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "smoked-paprika",
+  "name": "Smoked paprika",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "parsley",
+  "name": "Parsley",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "white-pepper",
+  "name": "White pepper",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "pink-peppercorn",
+  "name": "Pink peppercorn",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "poppy-seed",
+  "name": "Poppy seed",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "rosemary",
+  "name": "Rosemary",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "saffron",
+  "name": "Saffron",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "sage",
+  "name": "Sage",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "savory",
+  "name": "Savory",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "sesame-seed",
+  "name": "Sesame seed",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "star-anise",
+  "name": "Star anise",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "sumac",
+  "name": "Sumac",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "tarragon",
+  "name": "Tarragon",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "thyme",
+  "name": "Thyme",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "turmeric",
+  "name": "Turmeric",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "vanilla-bean",
+  "name": "Vanilla bean",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "wasabi",
+  "name": "Wasabi",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "za-atar",
+  "name": "Za'atar",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "garam-masala",
+  "name": "Garam masala",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "five-spice-powder",
+  "name": "Five-spice powder",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "old-bay-seasoning",
+  "name": "Old Bay seasoning",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "italian-seasoning",
+  "name": "Italian seasoning",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "cajun-seasoning",
+  "name": "Cajun seasoning",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "taco-seasoning",
+  "name": "Taco seasoning",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "onion-powder",
+  "name": "Onion powder",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "curry-leaves",
+  "name": "Curry leaves",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "kaffir-lime-leaf",
+  "name": "Kaffir lime leaf",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "galangal",
+  "name": "Galangal",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "annatto",
+  "name": "Annatto",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "tonka-bean",
+  "name": "Tonka bean",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "sassafras",
+  "name": "Sassafras",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "epazote",
+  "name": "Epazote",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "lovage",
+  "name": "Lovage",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "borage",
+  "name": "Borage",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "catnip",
+  "name": "Catnip",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "chamomile-flowers",
+  "name": "Chamomile flowers",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "comfrey",
+  "name": "Comfrey",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "dried-chili-flakes",
+  "name": "Dried chili flakes",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "crushed-red-pepper",
+  "name": "Crushed red pepper",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "chipotle-powder",
+  "name": "Chipotle powder",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "ancho-chili-powder",
+  "name": "Ancho chili powder",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "lemon-pepper",
+  "name": "Lemon pepper",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "seasoned-salt",
+  "name": "Seasoned salt",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "garlic-salt",
+  "name": "Garlic salt",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "celery-salt",
+  "name": "Celery salt",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "adobo-seasoning",
+  "name": "Adobo seasoning",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "jerk-seasoning",
+  "name": "Jerk seasoning",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "ras-el-hanout",
+  "name": "Ras el hanout",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "berbere",
+  "name": "Berbere",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "harissa",
+  "name": "Harissa",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "tajin",
+  "name": "Tajin",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "everything-bagel-seasoning",
+  "name": "Everything bagel seasoning",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "pumpkin-pie-spice",
+  "name": "Pumpkin pie spice",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "apple-pie-spice",
+  "name": "Apple pie spice",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "mulling-spices",
+  "name": "Mulling spices",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "pickling-spice",
+  "name": "Pickling spice",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "poultry-seasoning",
+  "name": "Poultry seasoning",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "chinese-five-spice",
+  "name": "Chinese five spice",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "black-cardamom",
+  "name": "Black cardamom",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "long-pepper",
+  "name": "Long pepper",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "grains-of-paradise",
+  "name": "Grains of paradise",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "mahlab",
+  "name": "Mahlab",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "nigella-seeds",
+  "name": "Nigella seeds",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "ajwain",
+  "name": "Ajwain",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "amchur",
+  "name": "Amchur",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "hing",
+  "name": "Hing",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "kala-namak",
+  "name": "Kala namak",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "methi-leaves",
+  "name": "Methi leaves",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "shatavari",
+  "name": "Shatavari",
+  "category": "Herbs & spices"
+ },
+ {
+  "id": "almond",
+  "name": "Almond",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "bitter-almond",
+  "name": "Bitter almond",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "brazil-nut",
+  "name": "Brazil nut",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "cashew",
+  "name": "Cashew",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "chestnut",
+  "name": "Chestnut",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "hazelnut",
+  "name": "Hazelnut",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "macadamia-nut",
+  "name": "Macadamia nut",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "peanut",
+  "name": "Peanut",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "pecan",
+  "name": "Pecan",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "pine-nut",
+  "name": "Pine nut",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "pistachio",
+  "name": "Pistachio",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "walnut",
+  "name": "Walnut",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "chia-seeds",
+  "name": "Chia seeds",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "flaxseed",
+  "name": "Flaxseed",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "hemp-seeds",
+  "name": "Hemp seeds",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "pumpkin-seeds",
+  "name": "Pumpkin seeds",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "sunflower-seeds",
+  "name": "Sunflower seeds",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "apple-seeds",
+  "name": "Apple seeds",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "apricot-kernels",
+  "name": "Apricot kernels",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "black-beans",
+  "name": "Black beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "black-eyed-peas",
+  "name": "Black-eyed peas",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "chickpeas",
+  "name": "Chickpeas",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "fava-beans",
+  "name": "Fava beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "great-northern-beans",
+  "name": "Great northern beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "raw-kidney-beans",
+  "name": "Raw kidney beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "cooked-kidney-beans",
+  "name": "Cooked kidney beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "lentils",
+  "name": "Lentils",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "lima-beans",
+  "name": "Lima beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "mung-beans",
+  "name": "Mung beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "navy-beans",
+  "name": "Navy beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "pinto-beans",
+  "name": "Pinto beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "soybeans",
+  "name": "Soybeans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "split-peas",
+  "name": "Split peas",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "tofu",
+  "name": "Tofu",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "tempeh",
+  "name": "Tempeh",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "peanut-butter",
+  "name": "Peanut butter",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "almond-butter",
+  "name": "Almond butter",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "hummus",
+  "name": "Hummus",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "trail-mix",
+  "name": "Trail mix",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "cashew-butter",
+  "name": "Cashew butter",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "sunflower-butter",
+  "name": "Sunflower butter",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "tahini",
+  "name": "Tahini",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "natto",
+  "name": "Natto",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "miso",
+  "name": "Miso",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "adzuki-beans",
+  "name": "Adzuki beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "cannellini-beans",
+  "name": "Cannellini beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "carob",
+  "name": "Carob",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "lupin-beans",
+  "name": "Lupin beans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "roasted-chickpeas",
+  "name": "Roasted chickpeas",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "boiled-peanuts",
+  "name": "Boiled peanuts",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "honey-roasted-peanuts",
+  "name": "Honey roasted peanuts",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "mixed-nuts",
+  "name": "Mixed nuts",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "candied-pecans",
+  "name": "Candied pecans",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "pumpkin-seed-butter",
+  "name": "Pumpkin seed butter",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "edamame-hummus",
+  "name": "Edamame hummus",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "soy-nuts",
+  "name": "Soy nuts",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "walnut-oil",
+  "name": "Walnut oil",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "acorns-processed",
+  "name": "Acorns (processed)",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "water-chestnuts-canned",
+  "name": "Water chestnuts (canned)",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "betel-nut",
+  "name": "Betel nut",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "kola-nut",
+  "name": "Kola nut",
+  "category": "Nuts, seeds & legumes"
+ },
+ {
+  "id": "amaranth",
+  "name": "Amaranth",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "barley",
+  "name": "Barley",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "brown-rice",
+  "name": "Brown rice",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "white-rice",
+  "name": "White rice",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "wild-rice",
+  "name": "Wild rice",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "basmati-rice",
+  "name": "Basmati rice",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "jasmine-rice",
+  "name": "Jasmine rice",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "buckwheat",
+  "name": "Buckwheat",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "bulgur",
+  "name": "Bulgur",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "corn-tortilla",
+  "name": "Corn tortilla",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "flour-tortilla",
+  "name": "Flour tortilla",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "cornmeal",
+  "name": "Cornmeal",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "couscous",
+  "name": "Couscous",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "farro",
+  "name": "Farro",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "millet",
+  "name": "Millet",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "oats",
+  "name": "Oats",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "rolled-oats",
+  "name": "Rolled oats",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "quinoa",
+  "name": "Quinoa",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "rye",
+  "name": "Rye",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "sorghum",
+  "name": "Sorghum",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "spelt",
+  "name": "Spelt",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "teff",
+  "name": "Teff",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "wheat",
+  "name": "Wheat",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "whole-wheat-bread",
+  "name": "Whole wheat bread",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "white-bread",
+  "name": "White bread",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "sourdough-bread",
+  "name": "Sourdough bread",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "rye-bread",
+  "name": "Rye bread",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "bagel",
+  "name": "Bagel",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "croissant",
+  "name": "Croissant",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "english-muffin",
+  "name": "English muffin",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "pita-bread",
+  "name": "Pita bread",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "naan",
+  "name": "Naan",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "pancakes",
+  "name": "Pancakes",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "waffles",
+  "name": "Waffles",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "corn-flakes-cereal",
+  "name": "Corn flakes cereal",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "granola",
+  "name": "Granola",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "oatmeal",
+  "name": "Oatmeal",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "grits",
+  "name": "Grits",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "spaghetti",
+  "name": "Spaghetti",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "macaroni",
+  "name": "Macaroni",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "egg-noodles",
+  "name": "Egg noodles",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "rice-noodles",
+  "name": "Rice noodles",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "ramen-noodles",
+  "name": "Ramen noodles",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "soba-noodles",
+  "name": "Soba noodles",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "udon-noodles",
+  "name": "Udon noodles",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "popcorn",
+  "name": "Popcorn",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "rice-cakes",
+  "name": "Rice cakes",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "crackers",
+  "name": "Crackers",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "pretzels",
+  "name": "Pretzels",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "breadcrumbs",
+  "name": "Breadcrumbs",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "polenta",
+  "name": "Polenta",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "semolina",
+  "name": "Semolina",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "pizza-dough",
+  "name": "Pizza dough",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "raw-flour",
+  "name": "Raw flour",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "raw-cookie-dough",
+  "name": "Raw cookie dough",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "brioche",
+  "name": "Brioche",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "focaccia",
+  "name": "Focaccia",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "ciabatta",
+  "name": "Ciabatta",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "baguette",
+  "name": "Baguette",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "cornbread",
+  "name": "Cornbread",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "biscuits",
+  "name": "Biscuits",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "scones",
+  "name": "Scones",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "muffins",
+  "name": "Muffins",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "banana-bread",
+  "name": "Banana bread",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "pumpernickel",
+  "name": "Pumpernickel",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "gluten-free-bread",
+  "name": "Gluten-free bread",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "wheat-germ",
+  "name": "Wheat germ",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "wheat-bran",
+  "name": "Wheat bran",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "oat-bran",
+  "name": "Oat bran",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "rice-bran",
+  "name": "Rice bran",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "cream-of-wheat",
+  "name": "Cream of wheat",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "instant-oatmeal",
+  "name": "Instant oatmeal",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "sprouted-grain-bread",
+  "name": "Sprouted grain bread",
+  "category": "Grains & bread"
+ },
+ {
+  "id": "bacon",
+  "name": "Bacon",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "ground-beef",
+  "name": "Ground beef",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "beef-steak",
+  "name": "Beef steak",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "beef-liver",
+  "name": "Beef liver",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "bison",
+  "name": "Bison",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "chicken-breast",
+  "name": "Chicken breast",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "chicken-thigh",
+  "name": "Chicken thigh",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "chicken-liver",
+  "name": "Chicken liver",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "duck",
+  "name": "Duck",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "goose",
+  "name": "Goose",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "ham",
+  "name": "Ham",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "pork-chop",
+  "name": "Pork chop",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "pork-belly",
+  "name": "Pork belly",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "sausage",
+  "name": "Sausage",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "salami",
+  "name": "Salami",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "pepperoni",
+  "name": "Pepperoni",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "turkey",
+  "name": "Turkey",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "deli-turkey",
+  "name": "Deli turkey",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "venison",
+  "name": "Venison",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "rabbit",
+  "name": "Rabbit",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "beef-jerky",
+  "name": "Beef jerky",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "prosciutto",
+  "name": "Prosciutto",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "spam",
+  "name": "Spam",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "chicken-eggs",
+  "name": "Chicken eggs",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "raw-eggs",
+  "name": "Raw eggs",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "quail-eggs",
+  "name": "Quail eggs",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "duck-eggs",
+  "name": "Duck eggs",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "cod",
+  "name": "Cod",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "salmon",
+  "name": "Salmon",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "canned-tuna",
+  "name": "Canned tuna",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "fresh-tuna",
+  "name": "Fresh tuna",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "swordfish",
+  "name": "Swordfish",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "shark",
+  "name": "Shark",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "king-mackerel",
+  "name": "King mackerel",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "mackerel",
+  "name": "Mackerel",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "sardines",
+  "name": "Sardines",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "anchovies",
+  "name": "Anchovies",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "herring",
+  "name": "Herring",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "tilapia",
+  "name": "Tilapia",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "trout",
+  "name": "Trout",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "catfish",
+  "name": "Catfish",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "halibut",
+  "name": "Halibut",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "mahi-mahi",
+  "name": "Mahi-mahi",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "pufferfish-fugu",
+  "name": "Pufferfish (fugu)",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "shrimp",
+  "name": "Shrimp",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "crab",
+  "name": "Crab",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "lobster",
+  "name": "Lobster",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "oysters-cooked",
+  "name": "Oysters (cooked)",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "raw-oysters",
+  "name": "Raw oysters",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "clams",
+  "name": "Clams",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "mussels",
+  "name": "Mussels",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "scallops",
+  "name": "Scallops",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "squid",
+  "name": "Squid",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "octopus",
+  "name": "Octopus",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "caviar",
+  "name": "Caviar",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "sushi",
+  "name": "Sushi",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "sashimi",
+  "name": "Sashimi",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "tilefish",
+  "name": "Tilefish",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "eel",
+  "name": "Eel",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "bone-broth",
+  "name": "Bone broth",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "lamb-chop",
+  "name": "Lamb chop",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "veal",
+  "name": "Veal",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "goat-meat",
+  "name": "Goat meat",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "turkey-bacon",
+  "name": "Turkey bacon",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "corned-beef",
+  "name": "Corned beef",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "pastrami",
+  "name": "Pastrami",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "bologna",
+  "name": "Bologna",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "liverwurst",
+  "name": "Liverwurst",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "pate",
+  "name": "Pate",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "blood-sausage",
+  "name": "Blood sausage",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "oxtail",
+  "name": "Oxtail",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "beef-tongue",
+  "name": "Beef tongue",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "tripe",
+  "name": "Tripe",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "chicken-wings",
+  "name": "Chicken wings",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "duck-liver-foie-gras",
+  "name": "Duck liver (foie gras)",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "raw-fish",
+  "name": "Raw fish",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "smoked-salmon",
+  "name": "Smoked salmon",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "lox",
+  "name": "Lox",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "fish-sticks",
+  "name": "Fish sticks",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "crab-cake",
+  "name": "Crab cake",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "imitation-crab",
+  "name": "Imitation crab",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "crawfish",
+  "name": "Crawfish",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "sea-urchin",
+  "name": "Sea urchin",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "escolar",
+  "name": "Escolar",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "bluefish",
+  "name": "Bluefish",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "grouper",
+  "name": "Grouper",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "snapper",
+  "name": "Snapper",
+  "category": "Meat, fish & eggs"
+ },
+ {
+  "id": "butter",
+  "name": "Butter",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "buttermilk",
+  "name": "Buttermilk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "cheddar-cheese",
+  "name": "Cheddar cheese",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "cottage-cheese",
+  "name": "Cottage cheese",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "heavy-cream",
+  "name": "Heavy cream",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "cream-cheese",
+  "name": "Cream cheese",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "feta",
+  "name": "Feta",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "goat-cheese",
+  "name": "Goat cheese",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "gouda",
+  "name": "Gouda",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "ice-cream",
+  "name": "Ice cream",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "kefir",
+  "name": "Kefir",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "margarine",
+  "name": "Margarine",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "mozzarella",
+  "name": "Mozzarella",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "parmesan",
+  "name": "Parmesan",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "raw-milk",
+  "name": "Raw milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "ricotta",
+  "name": "Ricotta",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "sour-cream",
+  "name": "Sour cream",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "swiss-cheese",
+  "name": "Swiss cheese",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "whey-protein",
+  "name": "Whey protein",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "whole-milk",
+  "name": "Whole milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "skim-milk",
+  "name": "Skim milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "yogurt",
+  "name": "Yogurt",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "greek-yogurt",
+  "name": "Greek yogurt",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "blue-cheese",
+  "name": "Blue cheese",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "brie",
+  "name": "Brie",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "almond-milk",
+  "name": "Almond milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "oat-milk",
+  "name": "Oat milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "soy-milk",
+  "name": "Soy milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "coconut-milk",
+  "name": "Coconut milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "rice-milk",
+  "name": "Rice milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "condensed-milk",
+  "name": "Condensed milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "evaporated-milk",
+  "name": "Evaporated milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "half-and-half",
+  "name": "Half-and-half",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "whipped-cream",
+  "name": "Whipped cream",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "ghee",
+  "name": "Ghee",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "casein-protein",
+  "name": "Casein protein",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "plant-based-cheese",
+  "name": "Plant-based cheese",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "eggnog",
+  "name": "Eggnog",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "provolone",
+  "name": "Provolone",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "colby-jack",
+  "name": "Colby jack",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "pepper-jack",
+  "name": "Pepper jack",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "camembert",
+  "name": "Camembert",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "gorgonzola",
+  "name": "Gorgonzola",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "halloumi",
+  "name": "Halloumi",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "paneer",
+  "name": "Paneer",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "mascarpone",
+  "name": "Mascarpone",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "cashew-milk",
+  "name": "Cashew milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "pea-milk",
+  "name": "Pea milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "lactose-free-milk",
+  "name": "Lactose-free milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "chocolate-milk",
+  "name": "Chocolate milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "powdered-milk",
+  "name": "Powdered milk",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "infant-formula",
+  "name": "Infant formula",
+  "category": "Dairy & alternatives"
+ },
+ {
+  "id": "water",
+  "name": "Water",
+  "category": "Beverages"
+ },
+ {
+  "id": "sparkling-water",
+  "name": "Sparkling water",
+  "category": "Beverages"
+ },
+ {
+  "id": "coffee",
+  "name": "Coffee",
+  "category": "Beverages"
+ },
+ {
+  "id": "espresso",
+  "name": "Espresso",
+  "category": "Beverages"
+ },
+ {
+  "id": "decaf-coffee",
+  "name": "Decaf coffee",
+  "category": "Beverages"
+ },
+ {
+  "id": "cold-brew-coffee",
+  "name": "Cold brew coffee",
+  "category": "Beverages"
+ },
+ {
+  "id": "instant-coffee",
+  "name": "Instant coffee",
+  "category": "Beverages"
+ },
+ {
+  "id": "black-tea",
+  "name": "Black tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "green-tea",
+  "name": "Green tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "matcha",
+  "name": "Matcha",
+  "category": "Beverages"
+ },
+ {
+  "id": "white-tea",
+  "name": "White tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "oolong-tea",
+  "name": "Oolong tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "herbal-tea",
+  "name": "Herbal tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "chai",
+  "name": "Chai",
+  "category": "Beverages"
+ },
+ {
+  "id": "yerba-mate",
+  "name": "Yerba mate",
+  "category": "Beverages"
+ },
+ {
+  "id": "kombucha",
+  "name": "Kombucha",
+  "category": "Beverages"
+ },
+ {
+  "id": "cola",
+  "name": "Cola",
+  "category": "Beverages"
+ },
+ {
+  "id": "diet-cola",
+  "name": "Diet cola",
+  "category": "Beverages"
+ },
+ {
+  "id": "root-beer",
+  "name": "Root beer",
+  "category": "Beverages"
+ },
+ {
+  "id": "ginger-ale",
+  "name": "Ginger ale",
+  "category": "Beverages"
+ },
+ {
+  "id": "lemon-lime-soda",
+  "name": "Lemon-lime soda",
+  "category": "Beverages"
+ },
+ {
+  "id": "orange-soda",
+  "name": "Orange soda",
+  "category": "Beverages"
+ },
+ {
+  "id": "tonic-water",
+  "name": "Tonic water",
+  "category": "Beverages"
+ },
+ {
+  "id": "club-soda",
+  "name": "Club soda",
+  "category": "Beverages"
+ },
+ {
+  "id": "energy-drink",
+  "name": "Energy drink",
+  "category": "Beverages"
+ },
+ {
+  "id": "red-bull",
+  "name": "Red Bull",
+  "category": "Beverages"
+ },
+ {
+  "id": "monster-energy",
+  "name": "Monster Energy",
+  "category": "Beverages"
+ },
+ {
+  "id": "celsius",
+  "name": "Celsius",
+  "category": "Beverages"
+ },
+ {
+  "id": "rockstar",
+  "name": "Rockstar",
+  "category": "Beverages"
+ },
+ {
+  "id": "5-hour-energy",
+  "name": "5-hour Energy",
+  "category": "Beverages"
+ },
+ {
+  "id": "mountain-dew",
+  "name": "Mountain Dew",
+  "category": "Beverages"
+ },
+ {
+  "id": "dr-pepper",
+  "name": "Dr Pepper",
+  "category": "Beverages"
+ },
+ {
+  "id": "pepsi",
+  "name": "Pepsi",
+  "category": "Beverages"
+ },
+ {
+  "id": "coca-cola",
+  "name": "Coca-Cola",
+  "category": "Beverages"
+ },
+ {
+  "id": "sprite",
+  "name": "Sprite",
+  "category": "Beverages"
+ },
+ {
+  "id": "gatorade",
+  "name": "Gatorade",
+  "category": "Beverages"
+ },
+ {
+  "id": "powerade",
+  "name": "Powerade",
+  "category": "Beverages"
+ },
+ {
+  "id": "pedialyte",
+  "name": "Pedialyte",
+  "category": "Beverages"
+ },
+ {
+  "id": "coconut-water",
+  "name": "Coconut water",
+  "category": "Beverages"
+ },
+ {
+  "id": "orange-juice",
+  "name": "Orange juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "apple-juice",
+  "name": "Apple juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "grape-juice",
+  "name": "Grape juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "cranberry-juice",
+  "name": "Cranberry juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "tomato-juice",
+  "name": "Tomato juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "pineapple-juice",
+  "name": "Pineapple juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "lemonade",
+  "name": "Lemonade",
+  "category": "Beverages"
+ },
+ {
+  "id": "smoothie",
+  "name": "Smoothie",
+  "category": "Beverages"
+ },
+ {
+  "id": "protein-shake",
+  "name": "Protein shake",
+  "category": "Beverages"
+ },
+ {
+  "id": "hot-chocolate",
+  "name": "Hot chocolate",
+  "category": "Beverages"
+ },
+ {
+  "id": "milkshake",
+  "name": "Milkshake",
+  "category": "Beverages"
+ },
+ {
+  "id": "beer",
+  "name": "Beer",
+  "category": "Beverages"
+ },
+ {
+  "id": "light-beer",
+  "name": "Light beer",
+  "category": "Beverages"
+ },
+ {
+  "id": "ipa",
+  "name": "IPA",
+  "category": "Beverages"
+ },
+ {
+  "id": "stout",
+  "name": "Stout",
+  "category": "Beverages"
+ },
+ {
+  "id": "hard-seltzer",
+  "name": "Hard seltzer",
+  "category": "Beverages"
+ },
+ {
+  "id": "hard-cider",
+  "name": "Hard cider",
+  "category": "Beverages"
+ },
+ {
+  "id": "red-wine",
+  "name": "Red wine",
+  "category": "Beverages"
+ },
+ {
+  "id": "white-wine",
+  "name": "White wine",
+  "category": "Beverages"
+ },
+ {
+  "id": "champagne",
+  "name": "Champagne",
+  "category": "Beverages"
+ },
+ {
+  "id": "vodka",
+  "name": "Vodka",
+  "category": "Beverages"
+ },
+ {
+  "id": "gin",
+  "name": "Gin",
+  "category": "Beverages"
+ },
+ {
+  "id": "rum",
+  "name": "Rum",
+  "category": "Beverages"
+ },
+ {
+  "id": "whiskey",
+  "name": "Whiskey",
+  "category": "Beverages"
+ },
+ {
+  "id": "bourbon",
+  "name": "Bourbon",
+  "category": "Beverages"
+ },
+ {
+  "id": "scotch",
+  "name": "Scotch",
+  "category": "Beverages"
+ },
+ {
+  "id": "tequila",
+  "name": "Tequila",
+  "category": "Beverages"
+ },
+ {
+  "id": "brandy",
+  "name": "Brandy",
+  "category": "Beverages"
+ },
+ {
+  "id": "cognac",
+  "name": "Cognac",
+  "category": "Beverages"
+ },
+ {
+  "id": "sake",
+  "name": "Sake",
+  "category": "Beverages"
+ },
+ {
+  "id": "soju",
+  "name": "Soju",
+  "category": "Beverages"
+ },
+ {
+  "id": "mead",
+  "name": "Mead",
+  "category": "Beverages"
+ },
+ {
+  "id": "vermouth",
+  "name": "Vermouth",
+  "category": "Beverages"
+ },
+ {
+  "id": "absinthe",
+  "name": "Absinthe",
+  "category": "Beverages"
+ },
+ {
+  "id": "liqueur",
+  "name": "Liqueur",
+  "category": "Beverages"
+ },
+ {
+  "id": "grain-alcohol-everclear",
+  "name": "Grain alcohol (Everclear)",
+  "category": "Beverages"
+ },
+ {
+  "id": "moonshine",
+  "name": "Moonshine",
+  "category": "Beverages"
+ },
+ {
+  "id": "margarita",
+  "name": "Margarita",
+  "category": "Beverages"
+ },
+ {
+  "id": "mojito",
+  "name": "Mojito",
+  "category": "Beverages"
+ },
+ {
+  "id": "bloody-mary",
+  "name": "Bloody Mary",
+  "category": "Beverages"
+ },
+ {
+  "id": "old-fashioned",
+  "name": "Old Fashioned",
+  "category": "Beverages"
+ },
+ {
+  "id": "long-island-iced-tea",
+  "name": "Long Island iced tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "mimosa",
+  "name": "Mimosa",
+  "category": "Beverages"
+ },
+ {
+  "id": "non-alcoholic-beer",
+  "name": "Non-alcoholic beer",
+  "category": "Beverages"
+ },
+ {
+  "id": "aloe-vera-juice",
+  "name": "Aloe vera juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "wheatgrass-juice",
+  "name": "Wheatgrass juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "sports-drink",
+  "name": "Sports drink",
+  "category": "Beverages"
+ },
+ {
+  "id": "electrolyte-drink",
+  "name": "Electrolyte drink",
+  "category": "Beverages"
+ },
+ {
+  "id": "coffee-creamer",
+  "name": "Coffee creamer",
+  "category": "Beverages"
+ },
+ {
+  "id": "bubble-tea",
+  "name": "Bubble tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "iced-tea",
+  "name": "Iced tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "sweet-tea",
+  "name": "Sweet tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "arnold-palmer",
+  "name": "Arnold Palmer",
+  "category": "Beverages"
+ },
+ {
+  "id": "vitamin-water",
+  "name": "Vitamin water",
+  "category": "Beverages"
+ },
+ {
+  "id": "alkaline-water",
+  "name": "Alkaline water",
+  "category": "Beverages"
+ },
+ {
+  "id": "tap-water",
+  "name": "Tap water",
+  "category": "Beverages"
+ },
+ {
+  "id": "seltzer",
+  "name": "Seltzer",
+  "category": "Beverages"
+ },
+ {
+  "id": "prune-juice",
+  "name": "Prune juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "beet-juice",
+  "name": "Beet juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "carrot-juice",
+  "name": "Carrot juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "green-juice",
+  "name": "Green juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "cold-pressed-juice",
+  "name": "Cold-pressed juice",
+  "category": "Beverages"
+ },
+ {
+  "id": "horchata",
+  "name": "Horchata",
+  "category": "Beverages"
+ },
+ {
+  "id": "lassi",
+  "name": "Lassi",
+  "category": "Beverages"
+ },
+ {
+  "id": "sangria",
+  "name": "Sangria",
+  "category": "Beverages"
+ },
+ {
+  "id": "irish-cream",
+  "name": "Irish cream",
+  "category": "Beverages"
+ },
+ {
+  "id": "amaretto",
+  "name": "Amaretto",
+  "category": "Beverages"
+ },
+ {
+  "id": "coffee-liqueur",
+  "name": "Coffee liqueur",
+  "category": "Beverages"
+ },
+ {
+  "id": "hot-toddy",
+  "name": "Hot toddy",
+  "category": "Beverages"
+ },
+ {
+  "id": "spiked-eggnog",
+  "name": "Spiked eggnog",
+  "category": "Beverages"
+ },
+ {
+  "id": "pre-workout-drink",
+  "name": "Pre-workout drink",
+  "category": "Beverages"
+ },
+ {
+  "id": "guarana-drink",
+  "name": "Guarana drink",
+  "category": "Beverages"
+ },
+ {
+  "id": "decaf-tea",
+  "name": "Decaf tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "rooibos-tea",
+  "name": "Rooibos tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "hibiscus-tea",
+  "name": "Hibiscus tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "ginger-tea",
+  "name": "Ginger tea",
+  "category": "Beverages"
+ },
+ {
+  "id": "mate-latte",
+  "name": "Mate latte",
+  "category": "Beverages"
+ },
+ {
+  "id": "frappuccino",
+  "name": "Frappuccino",
+  "category": "Beverages"
+ },
+ {
+  "id": "latte",
+  "name": "Latte",
+  "category": "Beverages"
+ },
+ {
+  "id": "cappuccino",
+  "name": "Cappuccino",
+  "category": "Beverages"
+ },
+ {
+  "id": "candy-bar",
+  "name": "Candy bar",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "milk-chocolate",
+  "name": "Milk chocolate",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "dark-chocolate",
+  "name": "Dark chocolate",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "white-chocolate",
+  "name": "White chocolate",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "cocoa-powder",
+  "name": "Cocoa powder",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "gummy-bears",
+  "name": "Gummy bears",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "hard-candy",
+  "name": "Hard candy",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "jelly-beans",
+  "name": "Jelly beans",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "black-licorice",
+  "name": "Black licorice",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "red-licorice",
+  "name": "Red licorice",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "lollipop",
+  "name": "Lollipop",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "marshmallow",
+  "name": "Marshmallow",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "caramel",
+  "name": "Caramel",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "cotton-candy",
+  "name": "Cotton candy",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "chewing-gum",
+  "name": "Chewing gum",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "breath-mints",
+  "name": "Breath mints",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "cough-drops",
+  "name": "Cough drops",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "honey",
+  "name": "Honey",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "maple-syrup",
+  "name": "Maple syrup",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "agave-syrup",
+  "name": "Agave syrup",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "corn-syrup",
+  "name": "Corn syrup",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "high-fructose-corn-syrup",
+  "name": "High-fructose corn syrup",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "brown-sugar",
+  "name": "Brown sugar",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "powdered-sugar",
+  "name": "Powdered sugar",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "molasses",
+  "name": "Molasses",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "stevia",
+  "name": "Stevia",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "aspartame",
+  "name": "Aspartame",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "sucralose",
+  "name": "Sucralose",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "saccharin",
+  "name": "Saccharin",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "erythritol",
+  "name": "Erythritol",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "xylitol",
+  "name": "Xylitol",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "sorbitol",
+  "name": "Sorbitol",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "monk-fruit-sweetener",
+  "name": "Monk fruit sweetener",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "cake",
+  "name": "Cake",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "cupcake",
+  "name": "Cupcake",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "brownie",
+  "name": "Brownie",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "cookie",
+  "name": "Cookie",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "donut",
+  "name": "Donut",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "pie",
+  "name": "Pie",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "pudding",
+  "name": "Pudding",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "gelatin-dessert",
+  "name": "Gelatin dessert",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "cheesecake",
+  "name": "Cheesecake",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "popsicle",
+  "name": "Popsicle",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "pastry",
+  "name": "Pastry",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "toaster-pastry",
+  "name": "Toaster pastry",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "potato-chips",
+  "name": "Potato chips",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "tortilla-chips",
+  "name": "Tortilla chips",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "cheese-puffs",
+  "name": "Cheese puffs",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "pork-rinds",
+  "name": "Pork rinds",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "nachos",
+  "name": "Nachos",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "french-fries",
+  "name": "French fries",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "onion-rings",
+  "name": "Onion rings",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "granola-bar",
+  "name": "Granola bar",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "protein-bar",
+  "name": "Protein bar",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "energy-bar",
+  "name": "Energy bar",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "fruit-snacks",
+  "name": "Fruit snacks",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "fruit-roll-up",
+  "name": "Fruit roll-up",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "hazelnut-spread",
+  "name": "Hazelnut spread",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "jam",
+  "name": "Jam",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "jelly",
+  "name": "Jelly",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "marmalade",
+  "name": "Marmalade",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "pancake-syrup",
+  "name": "Pancake syrup",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "sprinkles",
+  "name": "Sprinkles",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "frosting",
+  "name": "Frosting",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "chocolate-chips",
+  "name": "Chocolate chips",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "candy-corn",
+  "name": "Candy corn",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "sour-candy",
+  "name": "Sour candy",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "peanut-brittle",
+  "name": "Peanut brittle",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "fudge",
+  "name": "Fudge",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "toffee",
+  "name": "Toffee",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "turkish-delight",
+  "name": "Turkish delight",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "baklava",
+  "name": "Baklava",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "mochi",
+  "name": "Mochi",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "halva",
+  "name": "Halva",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "chocolate-covered-espresso-beans",
+  "name": "Chocolate-covered espresso beans",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "dark-chocolate-85",
+  "name": "Dark chocolate (85%)",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "cacao-nibs",
+  "name": "Cacao nibs",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "carob-chips",
+  "name": "Carob chips",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "sugar-free-candy",
+  "name": "Sugar-free candy",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "sugar-free-gum",
+  "name": "Sugar-free gum",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "gum-xylitol",
+  "name": "Gum (xylitol)",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "rock-candy",
+  "name": "Rock candy",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "cinnamon-candy",
+  "name": "Cinnamon candy",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "salt-water-taffy",
+  "name": "Salt water taffy",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "gumdrops",
+  "name": "Gumdrops",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "chocolate-truffle",
+  "name": "Chocolate truffle",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "caramel-apple",
+  "name": "Caramel apple",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "funnel-cake",
+  "name": "Funnel cake",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "churro",
+  "name": "Churro",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "tiramisu",
+  "name": "Tiramisu",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "flan",
+  "name": "Flan",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "gelato",
+  "name": "Gelato",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "sorbet",
+  "name": "Sorbet",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "frozen-yogurt",
+  "name": "Frozen yogurt",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "snow-cone",
+  "name": "Snow cone",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "pop-rocks",
+  "name": "Pop rocks",
+  "category": "Sweets & snacks"
+ },
+ {
+  "id": "cheeseburger",
+  "name": "Cheeseburger",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "pizza-slice",
+  "name": "Pizza slice",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "chicken-nuggets",
+  "name": "Chicken nuggets",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "fried-rice",
+  "name": "Fried rice",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "pad-thai",
+  "name": "Pad thai",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "lasagna",
+  "name": "Lasagna",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "macaroni-and-cheese",
+  "name": "Macaroni and cheese",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "chili",
+  "name": "Chili",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "tacos",
+  "name": "Tacos",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "burrito",
+  "name": "Burrito",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "quesadilla",
+  "name": "Quesadilla",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "enchiladas",
+  "name": "Enchiladas",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "fajitas",
+  "name": "Fajitas",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "ramen-restaurant",
+  "name": "Ramen (restaurant)",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "pho",
+  "name": "Pho",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "curry",
+  "name": "Curry",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "butter-chicken",
+  "name": "Butter chicken",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "chicken-tikka-masala",
+  "name": "Chicken tikka masala",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "tandoori-chicken",
+  "name": "Tandoori chicken",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "biryani",
+  "name": "Biryani",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "falafel",
+  "name": "Falafel",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "gyro",
+  "name": "Gyro",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "shawarma",
+  "name": "Shawarma",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "kebab",
+  "name": "Kebab",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "dumplings",
+  "name": "Dumplings",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "egg-rolls",
+  "name": "Egg rolls",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "spring-rolls",
+  "name": "Spring rolls",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "general-tso-s-chicken",
+  "name": "General Tso's chicken",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "orange-chicken",
+  "name": "Orange chicken",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "beef-and-broccoli",
+  "name": "Beef and broccoli",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "lo-mein",
+  "name": "Lo mein",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "chow-mein",
+  "name": "Chow mein",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "sushi-roll",
+  "name": "Sushi roll",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "poke-bowl",
+  "name": "Poke bowl",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "bibimbap",
+  "name": "Bibimbap",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "korean-fried-chicken",
+  "name": "Korean fried chicken",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "tempura",
+  "name": "Tempura",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "teriyaki-chicken",
+  "name": "Teriyaki chicken",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "pot-roast",
+  "name": "Pot roast",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "meatloaf",
+  "name": "Meatloaf",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "meatballs",
+  "name": "Meatballs",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "spaghetti-and-meatballs",
+  "name": "Spaghetti and meatballs",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "chicken-parmesan",
+  "name": "Chicken parmesan",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "eggplant-parmesan",
+  "name": "Eggplant parmesan",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "fettuccine-alfredo",
+  "name": "Fettuccine alfredo",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "risotto",
+  "name": "Risotto",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "paella",
+  "name": "Paella",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "gumbo",
+  "name": "Gumbo",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "jambalaya",
+  "name": "Jambalaya",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "clam-chowder",
+  "name": "Clam chowder",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "chicken-noodle-soup",
+  "name": "Chicken noodle soup",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "tomato-soup",
+  "name": "Tomato soup",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "french-onion-soup",
+  "name": "French onion soup",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "minestrone",
+  "name": "Minestrone",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "lentil-soup",
+  "name": "Lentil soup",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "split-pea-soup",
+  "name": "Split pea soup",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "caesar-salad",
+  "name": "Caesar salad",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "cobb-salad",
+  "name": "Cobb salad",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "greek-salad",
+  "name": "Greek salad",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "potato-salad",
+  "name": "Potato salad",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "coleslaw",
+  "name": "Coleslaw",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "egg-salad",
+  "name": "Egg salad",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "tuna-salad",
+  "name": "Tuna salad",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "chicken-salad",
+  "name": "Chicken salad",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "blt-sandwich",
+  "name": "BLT sandwich",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "grilled-cheese",
+  "name": "Grilled cheese",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "club-sandwich",
+  "name": "Club sandwich",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "reuben-sandwich",
+  "name": "Reuben sandwich",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "philly-cheesesteak",
+  "name": "Philly cheesesteak",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "hot-dog",
+  "name": "Hot dog",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "corn-dog",
+  "name": "Corn dog",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "fried-chicken",
+  "name": "Fried chicken",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "fish-and-chips",
+  "name": "Fish and chips",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "fish-tacos",
+  "name": "Fish tacos",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "crab-rangoon",
+  "name": "Crab rangoon",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "buffalo-wings",
+  "name": "Buffalo wings",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "mozzarella-sticks",
+  "name": "Mozzarella sticks",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "loaded-fries",
+  "name": "Loaded fries",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "breakfast-burrito",
+  "name": "Breakfast burrito",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "eggs-benedict",
+  "name": "Eggs benedict",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "french-toast",
+  "name": "French toast",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "omelette",
+  "name": "Omelette",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "hash-browns",
+  "name": "Hash browns",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "biscuits-and-gravy",
+  "name": "Biscuits and gravy",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "frozen-dinner",
+  "name": "Frozen dinner",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "instant-ramen",
+  "name": "Instant ramen",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "instant-mashed-potatoes",
+  "name": "Instant mashed potatoes",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "canned-soup",
+  "name": "Canned soup",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "canned-beans",
+  "name": "Canned beans",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "canned-chili",
+  "name": "Canned chili",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "baby-food",
+  "name": "Baby food",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "dog-treats",
+  "name": "Dog treats",
+  "category": "Prepared foods"
+ },
+ {
+  "id": "sea-salt",
+  "name": "Sea salt",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "kosher-salt",
+  "name": "Kosher salt",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "himalayan-pink-salt",
+  "name": "Himalayan pink salt",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "iodized-salt",
+  "name": "Iodized salt",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "baking-soda",
+  "name": "Baking soda",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "baking-powder",
+  "name": "Baking powder",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "cream-of-tartar",
+  "name": "Cream of tartar",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "yeast",
+  "name": "Yeast",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "cornstarch",
+  "name": "Cornstarch",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "gelatin",
+  "name": "Gelatin",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "vinegar",
+  "name": "Vinegar",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "apple-cider-vinegar",
+  "name": "Apple cider vinegar",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "balsamic-vinegar",
+  "name": "Balsamic vinegar",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "white-vinegar",
+  "name": "White vinegar",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "soy-sauce",
+  "name": "Soy sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "fish-sauce",
+  "name": "Fish sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "worcestershire-sauce",
+  "name": "Worcestershire sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "hot-sauce",
+  "name": "Hot sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "sriracha",
+  "name": "Sriracha",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "ketchup",
+  "name": "Ketchup",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "mustard",
+  "name": "Mustard",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "mayonnaise",
+  "name": "Mayonnaise",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "ranch-dressing",
+  "name": "Ranch dressing",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "italian-dressing",
+  "name": "Italian dressing",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "bbq-sauce",
+  "name": "BBQ sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "tartar-sauce",
+  "name": "Tartar sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "teriyaki-sauce",
+  "name": "Teriyaki sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "oyster-sauce",
+  "name": "Oyster sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "hoisin-sauce",
+  "name": "Hoisin sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "pesto",
+  "name": "Pesto",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "salsa",
+  "name": "Salsa",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "guacamole",
+  "name": "Guacamole",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "marinara-sauce",
+  "name": "Marinara sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "alfredo-sauce",
+  "name": "Alfredo sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "gravy",
+  "name": "Gravy",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "bouillon-cube",
+  "name": "Bouillon cube",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "chicken-broth",
+  "name": "Chicken broth",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "msg-monosodium-glutamate",
+  "name": "MSG (monosodium glutamate)",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "olive-oil",
+  "name": "Olive oil",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "extra-virgin-olive-oil",
+  "name": "Extra virgin olive oil",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "coconut-oil",
+  "name": "Coconut oil",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "vegetable-oil",
+  "name": "Vegetable oil",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "canola-oil",
+  "name": "Canola oil",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "sesame-oil",
+  "name": "Sesame oil",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "peanut-oil",
+  "name": "Peanut oil",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "avocado-oil",
+  "name": "Avocado oil",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "sunflower-oil",
+  "name": "Sunflower oil",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "lard",
+  "name": "Lard",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "shortening",
+  "name": "Shortening",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "cooking-spray",
+  "name": "Cooking spray",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "vanilla-extract",
+  "name": "Vanilla extract",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "almond-extract",
+  "name": "Almond extract",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "lemon-juice",
+  "name": "Lemon juice",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "lime-juice",
+  "name": "Lime juice",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "food-coloring",
+  "name": "Food coloring",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "liquid-smoke",
+  "name": "Liquid smoke",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "pectin",
+  "name": "Pectin",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "xanthan-gum",
+  "name": "Xanthan gum",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "cocoa-butter",
+  "name": "Cocoa butter",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "capers",
+  "name": "Capers",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "pickle-juice",
+  "name": "Pickle juice",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "wasabi-paste",
+  "name": "Wasabi paste",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "nutritional-yeast",
+  "name": "Nutritional yeast",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "citric-acid",
+  "name": "Citric acid",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "sodium-benzoate",
+  "name": "Sodium benzoate",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "potassium-sorbate",
+  "name": "Potassium sorbate",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "carrageenan",
+  "name": "Carrageenan",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "soy-lecithin",
+  "name": "Soy lecithin",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "bht",
+  "name": "BHT",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "sodium-phosphate",
+  "name": "Sodium phosphate",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "tartaric-acid",
+  "name": "Tartaric acid",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "lye-food-grade",
+  "name": "Lye (food-grade)",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "agar",
+  "name": "Agar",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "mirin",
+  "name": "Mirin",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "rice-vinegar",
+  "name": "Rice vinegar",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "tamari",
+  "name": "Tamari",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "coconut-aminos",
+  "name": "Coconut aminos",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "chili-oil",
+  "name": "Chili oil",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "chili-crisp",
+  "name": "Chili crisp",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "tahini-sauce",
+  "name": "Tahini sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "tzatziki",
+  "name": "Tzatziki",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "chimichurri",
+  "name": "Chimichurri",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "aioli",
+  "name": "Aioli",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "honey-mustard",
+  "name": "Honey mustard",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "cocktail-sauce",
+  "name": "Cocktail sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "steak-sauce",
+  "name": "Steak sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "buffalo-sauce",
+  "name": "Buffalo sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "sweet-and-sour-sauce",
+  "name": "Sweet and sour sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "duck-sauce",
+  "name": "Duck sauce",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "ponzu",
+  "name": "Ponzu",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "miso-paste",
+  "name": "Miso paste",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "gochujang",
+  "name": "Gochujang",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "sambal",
+  "name": "Sambal",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "fish-sauce-thai",
+  "name": "Fish sauce (Thai)",
+  "category": "Condiments, oils & baking"
+ },
+ {
+  "id": "vitamin-a",
+  "name": "Vitamin A",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-b1-thiamine",
+  "name": "Vitamin B1 (thiamine)",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-b2-riboflavin",
+  "name": "Vitamin B2 (riboflavin)",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-b3-niacin",
+  "name": "Vitamin B3 (niacin)",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-b5-pantothenic-acid",
+  "name": "Vitamin B5 (pantothenic acid)",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-b6",
+  "name": "Vitamin B6",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-b7-biotin",
+  "name": "Vitamin B7 (biotin)",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-b9-folate",
+  "name": "Vitamin B9 (folate)",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-b12",
+  "name": "Vitamin B12",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-c",
+  "name": "Vitamin C",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-d",
+  "name": "Vitamin D",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-e",
+  "name": "Vitamin E",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-k",
+  "name": "Vitamin K",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "calcium",
+  "name": "Calcium",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "chromium",
+  "name": "Chromium",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "copper",
+  "name": "Copper",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "fluoride",
+  "name": "Fluoride",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "iodine",
+  "name": "Iodine",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "iron",
+  "name": "Iron",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "magnesium",
+  "name": "Magnesium",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "manganese",
+  "name": "Manganese",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "molybdenum",
+  "name": "Molybdenum",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "phosphorus",
+  "name": "Phosphorus",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "potassium",
+  "name": "Potassium",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "selenium",
+  "name": "Selenium",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "sodium",
+  "name": "Sodium",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "zinc",
+  "name": "Zinc",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "multivitamin",
+  "name": "Multivitamin",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "prenatal-vitamin",
+  "name": "Prenatal vitamin",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "children-s-gummy-vitamins",
+  "name": "Children's gummy vitamins",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "iron-supplement",
+  "name": "Iron supplement",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "potassium-chloride",
+  "name": "Potassium chloride",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "magnesium-citrate",
+  "name": "Magnesium citrate",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "zinc-lozenges",
+  "name": "Zinc lozenges",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "cod-liver-oil",
+  "name": "Cod liver oil",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "fish-oil",
+  "name": "Fish oil",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "omega-3",
+  "name": "Omega-3",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "beta-carotene",
+  "name": "Beta-carotene",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "choline",
+  "name": "Choline",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "electrolyte-tablets",
+  "name": "Electrolyte tablets",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "calcium-carbonate",
+  "name": "Calcium carbonate",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-b-complex",
+  "name": "Vitamin B complex",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "folic-acid",
+  "name": "Folic acid",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "retinol",
+  "name": "Retinol",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-d3",
+  "name": "Vitamin D3",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-k2",
+  "name": "Vitamin K2",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "magnesium-glycinate",
+  "name": "Magnesium glycinate",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "magnesium-oxide",
+  "name": "Magnesium oxide",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "calcium-citrate",
+  "name": "Calcium citrate",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "iron-bisglycinate",
+  "name": "Iron bisglycinate",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "ferrous-sulfate",
+  "name": "Ferrous sulfate",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "zinc-gluconate",
+  "name": "Zinc gluconate",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-c-gummies",
+  "name": "Vitamin C gummies",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vitamin-b12-shots",
+  "name": "Vitamin B12 shots",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "biotin-gummies",
+  "name": "Biotin gummies",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "hair-skin-and-nails-vitamins",
+  "name": "Hair skin and nails vitamins",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "boron",
+  "name": "Boron",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "vanadium",
+  "name": "Vanadium",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "silica",
+  "name": "Silica",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "lithium-trace",
+  "name": "Lithium (trace)",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "colloidal-minerals",
+  "name": "Colloidal minerals",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "trace-minerals",
+  "name": "Trace minerals",
+  "category": "Vitamins & minerals"
+ },
+ {
+  "id": "aloe-vera",
+  "name": "Aloe vera",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "ashwagandha",
+  "name": "Ashwagandha",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "bilberry",
+  "name": "Bilberry",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "black-cohosh",
+  "name": "Black cohosh",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "blue-green-algae",
+  "name": "Blue-green algae",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "chlorella",
+  "name": "Chlorella",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "spirulina",
+  "name": "Spirulina",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "chamomile-extract",
+  "name": "Chamomile extract",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "coenzyme-q10",
+  "name": "Coenzyme Q10",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "collagen",
+  "name": "Collagen",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "creatine",
+  "name": "Creatine",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "cranberry-extract",
+  "name": "Cranberry extract",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "dandelion-root",
+  "name": "Dandelion root",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "echinacea",
+  "name": "Echinacea",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "elderberry-syrup",
+  "name": "Elderberry syrup",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "evening-primrose-oil",
+  "name": "Evening primrose oil",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "feverfew",
+  "name": "Feverfew",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "garlic-supplement",
+  "name": "Garlic supplement",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "ginkgo-biloba",
+  "name": "Ginkgo biloba",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "ginseng",
+  "name": "Ginseng",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "glucosamine",
+  "name": "Glucosamine",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "goldenseal",
+  "name": "Goldenseal",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "green-tea-extract",
+  "name": "Green tea extract",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "hawthorn",
+  "name": "Hawthorn",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "hemp-oil",
+  "name": "Hemp oil",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "hops",
+  "name": "Hops",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "horse-chestnut-extract",
+  "name": "Horse chestnut extract",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "kava",
+  "name": "Kava",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "kratom",
+  "name": "Kratom",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "lavender-oil",
+  "name": "Lavender oil",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "l-theanine",
+  "name": "L-theanine",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "maca",
+  "name": "Maca",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "melatonin",
+  "name": "Melatonin",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "milk-thistle",
+  "name": "Milk thistle",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "moringa",
+  "name": "Moringa",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "msm",
+  "name": "MSM",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "reishi-mushroom",
+  "name": "Reishi mushroom",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "lion-s-mane-mushroom",
+  "name": "Lion's mane mushroom",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "chaga-mushroom",
+  "name": "Chaga mushroom",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "cordyceps",
+  "name": "Cordyceps",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "n-acetylcysteine-nac",
+  "name": "N-acetylcysteine (NAC)",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "nettle-leaf",
+  "name": "Nettle leaf",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "passionflower",
+  "name": "Passionflower",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "peppermint-oil",
+  "name": "Peppermint oil",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "probiotics",
+  "name": "Probiotics",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "protein-powder",
+  "name": "Protein powder",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "psyllium-husk",
+  "name": "Psyllium husk",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "red-yeast-rice",
+  "name": "Red yeast rice",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "rhodiola",
+  "name": "Rhodiola",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "saw-palmetto",
+  "name": "Saw palmetto",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "st-john-s-wort",
+  "name": "St. John's wort",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "tart-cherry",
+  "name": "Tart cherry",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "valerian-root",
+  "name": "Valerian root",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "yohimbe",
+  "name": "Yohimbe",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "5-htp",
+  "name": "5-HTP",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "same",
+  "name": "SAMe",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "caffeine-pills",
+  "name": "Caffeine pills",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "pre-workout-powder",
+  "name": "Pre-workout powder",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "bcaas",
+  "name": "BCAAs",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "beta-alanine",
+  "name": "Beta-alanine",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "bitter-orange",
+  "name": "Bitter orange",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "garcinia-cambogia",
+  "name": "Garcinia cambogia",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "ephedra",
+  "name": "Ephedra",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "hoodia",
+  "name": "Hoodia",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "cbd-oil",
+  "name": "CBD oil",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "berberine",
+  "name": "Berberine",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "colloidal-silver",
+  "name": "Colloidal silver",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "apple-cider-vinegar-gummies",
+  "name": "Apple cider vinegar gummies",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "activated-charcoal",
+  "name": "Activated charcoal",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "bentonite-clay",
+  "name": "Bentonite clay",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "diatomaceous-earth",
+  "name": "Diatomaceous earth",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "sea-moss",
+  "name": "Sea moss",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "black-seed-oil",
+  "name": "Black seed oil",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "oregano-oil",
+  "name": "Oregano oil",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "tea-tree-oil",
+  "name": "Tea tree oil",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "essential-oils",
+  "name": "Essential oils",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "bee-pollen",
+  "name": "Bee pollen",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "royal-jelly",
+  "name": "Royal jelly",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "propolis",
+  "name": "Propolis",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "noni-juice",
+  "name": "Noni juice",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "turmeric-supplement",
+  "name": "Turmeric supplement",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "curcumin",
+  "name": "Curcumin",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "quercetin",
+  "name": "Quercetin",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "resveratrol",
+  "name": "Resveratrol",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "lutein",
+  "name": "Lutein",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "lycopene",
+  "name": "Lycopene",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "alpha-lipoic-acid",
+  "name": "Alpha-lipoic acid",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "carnitine",
+  "name": "Carnitine",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "taurine",
+  "name": "Taurine",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "glutamine",
+  "name": "Glutamine",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "glycine",
+  "name": "Glycine",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "tryptophan",
+  "name": "Tryptophan",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "arginine",
+  "name": "Arginine",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "citrulline",
+  "name": "Citrulline",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "ketone-supplements",
+  "name": "Ketone supplements",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "electrolyte-powder",
+  "name": "Electrolyte powder",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "greens-powder",
+  "name": "Greens powder",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "fiber-supplement",
+  "name": "Fiber supplement",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "digestive-enzymes",
+  "name": "Digestive enzymes",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "slippery-elm",
+  "name": "Slippery elm",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "marshmallow-root",
+  "name": "Marshmallow root",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "burdock-supplement",
+  "name": "Burdock supplement",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "gotu-kola",
+  "name": "Gotu kola",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "holy-basil",
+  "name": "Holy basil",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "bacopa",
+  "name": "Bacopa",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "tribulus",
+  "name": "Tribulus",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "fenugreek-supplement",
+  "name": "Fenugreek supplement",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "dhea",
+  "name": "DHEA",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "pregnenolone",
+  "name": "Pregnenolone",
+  "category": "Herbal & dietary supplements"
+ },
+ {
+  "id": "aspirin",
+  "name": "Aspirin",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "baby-aspirin",
+  "name": "Baby aspirin",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "naproxen-aleve",
+  "name": "Naproxen (Aleve)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "diphenhydramine-benadryl",
+  "name": "Diphenhydramine (Benadryl)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "doxylamine-unisom",
+  "name": "Doxylamine (Unisom)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "cetirizine-zyrtec",
+  "name": "Cetirizine (Zyrtec)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "loratadine-claritin",
+  "name": "Loratadine (Claritin)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "fexofenadine-allegra",
+  "name": "Fexofenadine (Allegra)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "chlorpheniramine",
+  "name": "Chlorpheniramine",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "pseudoephedrine-sudafed",
+  "name": "Pseudoephedrine (Sudafed)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "phenylephrine",
+  "name": "Phenylephrine",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "guaifenesin-mucinex",
+  "name": "Guaifenesin (Mucinex)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "dextromethorphan-robitussin",
+  "name": "Dextromethorphan (Robitussin)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "loperamide-imodium",
+  "name": "Loperamide (Imodium)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "bismuth-subsalicylate-pepto-bismol",
+  "name": "Bismuth subsalicylate (Pepto-Bismol)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "famotidine-pepcid",
+  "name": "Famotidine (Pepcid)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "omeprazole-prilosec",
+  "name": "Omeprazole (Prilosec)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "esomeprazole-nexium",
+  "name": "Esomeprazole (Nexium)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "lansoprazole",
+  "name": "Lansoprazole",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "tums",
+  "name": "Tums",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "milk-of-magnesia",
+  "name": "Milk of Magnesia",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "aluminum-hydroxide-antacid",
+  "name": "Aluminum hydroxide antacid",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "simethicone-gas-x",
+  "name": "Simethicone (Gas-X)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "docusate-colace",
+  "name": "Docusate (Colace)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "senna",
+  "name": "Senna",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "bisacodyl-dulcolax",
+  "name": "Bisacodyl (Dulcolax)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "polyethylene-glycol-miralax",
+  "name": "Polyethylene glycol (Miralax)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "psyllium-metamucil",
+  "name": "Psyllium (Metamucil)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "meclizine-dramamine-less-drowsy",
+  "name": "Meclizine (Dramamine Less Drowsy)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "dimenhydrinate-dramamine",
+  "name": "Dimenhydrinate (Dramamine)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "hydrocortisone-cream",
+  "name": "Hydrocortisone cream",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "excedrin",
+  "name": "Excedrin",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "midol",
+  "name": "Midol",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "nyquil",
+  "name": "NyQuil",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "dayquil",
+  "name": "DayQuil",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "theraflu",
+  "name": "Theraflu",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "tylenol-pm",
+  "name": "Tylenol PM",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "advil-pm",
+  "name": "Advil PM",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "alka-seltzer",
+  "name": "Alka-Seltzer",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "oxymetazoline-afrin",
+  "name": "Oxymetazoline (Afrin)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "nicotine-gum",
+  "name": "Nicotine gum",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "nicotine-patch",
+  "name": "Nicotine patch",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "nicotine-lozenge",
+  "name": "Nicotine lozenge",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "benzocaine",
+  "name": "Benzocaine",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "lidocaine-cream",
+  "name": "Lidocaine cream",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "camphor",
+  "name": "Camphor",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "menthol-rub-vicks",
+  "name": "Menthol rub (Vicks)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "hydrogen-peroxide",
+  "name": "Hydrogen peroxide",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "rubbing-alcohol",
+  "name": "Rubbing alcohol",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "cough-syrup",
+  "name": "Cough syrup",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "eye-drops-tetrahydrozoline",
+  "name": "Eye drops (tetrahydrozoline)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "visine",
+  "name": "Visine",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "minoxidil-rogaine",
+  "name": "Minoxidil (Rogaine)",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "castor-oil",
+  "name": "Castor oil",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "mineral-oil",
+  "name": "Mineral oil",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "glycerin-suppository",
+  "name": "Glycerin suppository",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "fiber-gummies",
+  "name": "Fiber gummies",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "zinc-cold-remedy",
+  "name": "Zinc cold remedy",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "cold-eeze",
+  "name": "Cold-Eeze",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "sudafed-pe",
+  "name": "Sudafed PE",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "claritin-d",
+  "name": "Claritin-D",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "allegra-d",
+  "name": "Allegra-D",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "zyrtec-d",
+  "name": "Zyrtec-D",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "benadryl-cream",
+  "name": "Benadryl cream",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "calamine-lotion",
+  "name": "Calamine lotion",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "neosporin",
+  "name": "Neosporin",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "bacitracin",
+  "name": "Bacitracin",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "pepto-bismol-chewables",
+  "name": "Pepto-Bismol chewables",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "imodium-a-d",
+  "name": "Imodium A-D",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "prevacid-24hr",
+  "name": "Prevacid 24HR",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "zantac-360",
+  "name": "Zantac 360",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "pepcid-complete",
+  "name": "Pepcid Complete",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "rolaids",
+  "name": "Rolaids",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "gaviscon",
+  "name": "Gaviscon",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "emetrol",
+  "name": "Emetrol",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "tylenol-arthritis",
+  "name": "Tylenol Arthritis",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "motrin-ib",
+  "name": "Motrin IB",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "aleve-pm",
+  "name": "Aleve PM",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "bayer-aspirin",
+  "name": "Bayer aspirin",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "ecotrin",
+  "name": "Ecotrin",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "goody-s-powder",
+  "name": "Goody's powder",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "bc-powder",
+  "name": "BC powder",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "orajel",
+  "name": "Orajel",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "anbesol",
+  "name": "Anbesol",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "sudafed-12-hour",
+  "name": "Sudafed 12 hour",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "mucinex-dm",
+  "name": "Mucinex DM",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "robitussin-dm",
+  "name": "Robitussin DM",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "delsym",
+  "name": "Delsym",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "triaminic",
+  "name": "Triaminic",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "children-s-tylenol",
+  "name": "Children's Tylenol",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "children-s-motrin",
+  "name": "Children's Motrin",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "pedia-lax",
+  "name": "Pedia-Lax",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "gripe-water",
+  "name": "Gripe water",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "teething-gel",
+  "name": "Teething gel",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "bleach",
+  "name": "Bleach",
+  "category": "Household products"
+ },
+ {
+  "id": "ammonia",
+  "name": "Ammonia",
+  "category": "Household products"
+ },
+ {
+  "id": "drain-cleaner",
+  "name": "Drain cleaner",
+  "category": "Household products"
+ },
+ {
+  "id": "toilet-bowl-cleaner",
+  "name": "Toilet bowl cleaner",
+  "category": "Household products"
+ },
+ {
+  "id": "dish-soap",
+  "name": "Dish soap",
+  "category": "Household products"
+ },
+ {
+  "id": "dishwasher-pods",
+  "name": "Dishwasher pods",
+  "category": "Household products"
+ },
+ {
+  "id": "laundry-detergent",
+  "name": "Laundry detergent",
+  "category": "Household products"
+ },
+ {
+  "id": "laundry-pods",
+  "name": "Laundry pods",
+  "category": "Household products"
+ },
+ {
+  "id": "fabric-softener",
+  "name": "Fabric softener",
+  "category": "Household products"
+ },
+ {
+  "id": "window-cleaner",
+  "name": "Window cleaner",
+  "category": "Household products"
+ },
+ {
+  "id": "all-purpose-cleaner",
+  "name": "All-purpose cleaner",
+  "category": "Household products"
+ },
+ {
+  "id": "oven-cleaner",
+  "name": "Oven cleaner",
+  "category": "Household products"
+ },
+ {
+  "id": "hand-sanitizer",
+  "name": "Hand sanitizer",
+  "category": "Household products"
+ },
+ {
+  "id": "mouthwash",
+  "name": "Mouthwash",
+  "category": "Household products"
+ },
+ {
+  "id": "toothpaste",
+  "name": "Toothpaste",
+  "category": "Household products"
+ },
+ {
+  "id": "fluoride-rinse",
+  "name": "Fluoride rinse",
+  "category": "Household products"
+ },
+ {
+  "id": "shampoo",
+  "name": "Shampoo",
+  "category": "Household products"
+ },
+ {
+  "id": "conditioner",
+  "name": "Conditioner",
+  "category": "Household products"
+ },
+ {
+  "id": "body-wash",
+  "name": "Body wash",
+  "category": "Household products"
+ },
+ {
+  "id": "bar-soap",
+  "name": "Bar soap",
+  "category": "Household products"
+ },
+ {
+  "id": "hand-soap",
+  "name": "Hand soap",
+  "category": "Household products"
+ },
+ {
+  "id": "sunscreen",
+  "name": "Sunscreen",
+  "category": "Household products"
+ },
+ {
+  "id": "lotion",
+  "name": "Lotion",
+  "category": "Household products"
+ },
+ {
+  "id": "nail-polish-remover-acetone",
+  "name": "Nail polish remover (acetone)",
+  "category": "Household products"
+ },
+ {
+  "id": "nail-polish",
+  "name": "Nail polish",
+  "category": "Household products"
+ },
+ {
+  "id": "perfume",
+  "name": "Perfume",
+  "category": "Household products"
+ },
+ {
+  "id": "hair-dye",
+  "name": "Hair dye",
+  "category": "Household products"
+ },
+ {
+  "id": "deodorant",
+  "name": "Deodorant",
+  "category": "Household products"
+ },
+ {
+  "id": "antifreeze",
+  "name": "Antifreeze",
+  "category": "Household products"
+ },
+ {
+  "id": "windshield-washer-fluid",
+  "name": "Windshield washer fluid",
+  "category": "Household products"
+ },
+ {
+  "id": "motor-oil",
+  "name": "Motor oil",
+  "category": "Household products"
+ },
+ {
+  "id": "gasoline",
+  "name": "Gasoline",
+  "category": "Household products"
+ },
+ {
+  "id": "kerosene",
+  "name": "Kerosene",
+  "category": "Household products"
+ },
+ {
+  "id": "lamp-oil",
+  "name": "Lamp oil",
+  "category": "Household products"
+ },
+ {
+  "id": "paint-thinner",
+  "name": "Paint thinner",
+  "category": "Household products"
+ },
+ {
+  "id": "paint",
+  "name": "Paint",
+  "category": "Household products"
+ },
+ {
+  "id": "turpentine",
+  "name": "Turpentine",
+  "category": "Household products"
+ },
+ {
+  "id": "glue",
+  "name": "Glue",
+  "category": "Household products"
+ },
+ {
+  "id": "super-glue",
+  "name": "Super glue",
+  "category": "Household products"
+ },
+ {
+  "id": "silica-gel-packets",
+  "name": "Silica gel packets",
+  "category": "Household products"
+ },
+ {
+  "id": "mothballs",
+  "name": "Mothballs",
+  "category": "Household products"
+ },
+ {
+  "id": "rat-poison",
+  "name": "Rat poison",
+  "category": "Household products"
+ },
+ {
+  "id": "ant-bait",
+  "name": "Ant bait",
+  "category": "Household products"
+ },
+ {
+  "id": "insect-repellent-deet",
+  "name": "Insect repellent (DEET)",
+  "category": "Household products"
+ },
+ {
+  "id": "fertilizer",
+  "name": "Fertilizer",
+  "category": "Household products"
+ },
+ {
+  "id": "weed-killer",
+  "name": "Weed killer",
+  "category": "Household products"
+ },
+ {
+  "id": "charcoal-lighter-fluid",
+  "name": "Charcoal lighter fluid",
+  "category": "Household products"
+ },
+ {
+  "id": "lighter-fluid",
+  "name": "Lighter fluid",
+  "category": "Household products"
+ },
+ {
+  "id": "pool-chlorine",
+  "name": "Pool chlorine",
+  "category": "Household products"
+ },
+ {
+  "id": "button-batteries",
+  "name": "Button batteries",
+  "category": "Household products"
+ },
+ {
+  "id": "magnets",
+  "name": "Magnets",
+  "category": "Household products"
+ },
+ {
+  "id": "epsom-salt",
+  "name": "Epsom salt",
+  "category": "Household products"
+ },
+ {
+  "id": "play-doh",
+  "name": "Play-Doh",
+  "category": "Household products"
+ },
+ {
+  "id": "crayons",
+  "name": "Crayons",
+  "category": "Household products"
+ },
+ {
+  "id": "glow-sticks",
+  "name": "Glow sticks",
+  "category": "Household products"
+ },
+ {
+  "id": "candles",
+  "name": "Candles",
+  "category": "Household products"
+ },
+ {
+  "id": "cat-litter",
+  "name": "Cat litter",
+  "category": "Household products"
+ },
+ {
+  "id": "dishwasher-detergent",
+  "name": "Dishwasher detergent",
+  "category": "Household products"
+ },
+ {
+  "id": "carpet-cleaner",
+  "name": "Carpet cleaner",
+  "category": "Household products"
+ },
+ {
+  "id": "disinfecting-wipes",
+  "name": "Disinfecting wipes",
+  "category": "Household products"
+ },
+ {
+  "id": "air-freshener",
+  "name": "Air freshener",
+  "category": "Household products"
+ },
+ {
+  "id": "febreze",
+  "name": "Febreze",
+  "category": "Household products"
+ },
+ {
+  "id": "pine-cleaner",
+  "name": "Pine cleaner",
+  "category": "Household products"
+ },
+ {
+  "id": "lysol",
+  "name": "Lysol",
+  "category": "Household products"
+ },
+ {
+  "id": "clorox-wipes",
+  "name": "Clorox wipes",
+  "category": "Household products"
+ },
+ {
+  "id": "rust-remover",
+  "name": "Rust remover",
+  "category": "Household products"
+ },
+ {
+  "id": "tile-cleaner",
+  "name": "Tile cleaner",
+  "category": "Household products"
+ },
+ {
+  "id": "grout-cleaner",
+  "name": "Grout cleaner",
+  "category": "Household products"
+ },
+ {
+  "id": "mildew-remover",
+  "name": "Mildew remover",
+  "category": "Household products"
+ },
+ {
+  "id": "wood-polish",
+  "name": "Wood polish",
+  "category": "Household products"
+ },
+ {
+  "id": "furniture-polish",
+  "name": "Furniture polish",
+  "category": "Household products"
+ },
+ {
+  "id": "shoe-polish",
+  "name": "Shoe polish",
+  "category": "Household products"
+ },
+ {
+  "id": "bug-spray",
+  "name": "Bug spray",
+  "category": "Household products"
+ },
+ {
+  "id": "wasp-spray",
+  "name": "Wasp spray",
+  "category": "Household products"
+ },
+ {
+  "id": "flea-treatment",
+  "name": "Flea treatment",
+  "category": "Household products"
+ },
+ {
+  "id": "tick-medicine",
+  "name": "Tick medicine",
+  "category": "Household products"
+ },
+ {
+  "id": "de-icer",
+  "name": "De-icer",
+  "category": "Household products"
+ },
+ {
+  "id": "road-salt",
+  "name": "Road salt",
+  "category": "Household products"
+ },
+ {
+  "id": "ice-melt",
+  "name": "Ice melt",
+  "category": "Household products"
+ },
+ {
+  "id": "garden-slug-bait",
+  "name": "Garden slug bait",
+  "category": "Household products"
+ },
+ {
+  "id": "snail-bait",
+  "name": "Snail bait",
+  "category": "Household products"
+ },
+ {
+  "id": "moss-killer",
+  "name": "Moss killer",
+  "category": "Household products"
+ },
+ {
+  "id": "algaecide",
+  "name": "Algaecide",
+  "category": "Household products"
+ },
+ {
+  "id": "pool-shock",
+  "name": "Pool shock",
+  "category": "Household products"
+ },
+ {
+  "id": "muriatic-acid",
+  "name": "Muriatic acid",
+  "category": "Household products"
+ },
+ {
+  "id": "sulfuric-acid",
+  "name": "Sulfuric acid",
+  "category": "Household products"
+ },
+ {
+  "id": "hydrochloric-acid",
+  "name": "Hydrochloric acid",
+  "category": "Household products"
+ },
+ {
+  "id": "lye",
+  "name": "Lye",
+  "category": "Household products"
+ },
+ {
+  "id": "caustic-soda",
+  "name": "Caustic soda",
+  "category": "Household products"
+ },
+ {
+  "id": "denatured-alcohol",
+  "name": "Denatured alcohol",
+  "category": "Household products"
+ },
+ {
+  "id": "isopropyl-alcohol",
+  "name": "Isopropyl alcohol",
+  "category": "Household products"
+ },
+ {
+  "id": "methanol",
+  "name": "Methanol",
+  "category": "Household products"
+ },
+ {
+  "id": "ethylene-glycol",
+  "name": "Ethylene glycol",
+  "category": "Household products"
+ },
+ {
+  "id": "propylene-glycol",
+  "name": "Propylene glycol",
+  "category": "Household products"
+ },
+ {
+  "id": "acetone",
+  "name": "Acetone",
+  "category": "Household products"
+ },
+ {
+  "id": "toluene",
+  "name": "Toluene",
+  "category": "Household products"
+ },
+ {
+  "id": "xylene",
+  "name": "Xylene",
+  "category": "Household products"
+ },
+ {
+  "id": "mineral-spirits",
+  "name": "Mineral spirits",
+  "category": "Household products"
+ },
+ {
+  "id": "brake-fluid",
+  "name": "Brake fluid",
+  "category": "Household products"
+ },
+ {
+  "id": "transmission-fluid",
+  "name": "Transmission fluid",
+  "category": "Household products"
+ },
+ {
+  "id": "hand-lotion",
+  "name": "Hand lotion",
+  "category": "Household products"
+ },
+ {
+  "id": "baby-powder",
+  "name": "Baby powder",
+  "category": "Household products"
+ },
+ {
+  "id": "talcum-powder",
+  "name": "Talcum powder",
+  "category": "Household products"
+ },
+ {
+  "id": "diaper-cream",
+  "name": "Diaper cream",
+  "category": "Household products"
+ },
+ {
+  "id": "baby-wipes",
+  "name": "Baby wipes",
+  "category": "Household products"
+ },
+ {
+  "id": "contact-lens-solution",
+  "name": "Contact lens solution",
+  "category": "Household products"
+ },
+ {
+  "id": "denture-cleaner",
+  "name": "Denture cleaner",
+  "category": "Household products"
+ },
+ {
+  "id": "teeth-whitening-strips",
+  "name": "Teeth whitening strips",
+  "category": "Household products"
+ },
+ {
+  "id": "hair-relaxer",
+  "name": "Hair relaxer",
+  "category": "Household products"
+ },
+ {
+  "id": "hair-spray",
+  "name": "Hair spray",
+  "category": "Household products"
+ },
+ {
+  "id": "dry-shampoo",
+  "name": "Dry shampoo",
+  "category": "Household products"
+ },
+ {
+  "id": "shaving-cream",
+  "name": "Shaving cream",
+  "category": "Household products"
+ },
+ {
+  "id": "aftershave",
+  "name": "Aftershave",
+  "category": "Household products"
+ },
+ {
+  "id": "cologne",
+  "name": "Cologne",
+  "category": "Household products"
+ },
+ {
+  "id": "hand-cream",
+  "name": "Hand cream",
+  "category": "Household products"
+ },
+ {
+  "id": "lip-balm",
+  "name": "Lip balm",
+  "category": "Household products"
+ },
+ {
+  "id": "makeup-remover",
+  "name": "Makeup remover",
+  "category": "Household products"
+ },
+ {
+  "id": "mascara",
+  "name": "Mascara",
+  "category": "Household products"
+ },
+ {
+  "id": "nail-glue",
+  "name": "Nail glue",
+  "category": "Household products"
+ },
+ {
+  "id": "liquid-nails",
+  "name": "Liquid nails",
+  "category": "Household products"
+ },
+ {
+  "id": "spackle",
+  "name": "Spackle",
+  "category": "Household products"
+ },
+ {
+  "id": "caulk",
+  "name": "Caulk",
+  "category": "Household products"
+ },
+ {
+  "id": "cement",
+  "name": "Cement",
+  "category": "Household products"
+ },
+ {
+  "id": "concrete-mix",
+  "name": "Concrete mix",
+  "category": "Household products"
+ },
+ {
+  "id": "plaster",
+  "name": "Plaster",
+  "category": "Household products"
+ },
+ {
+  "id": "joint-compound",
+  "name": "Joint compound",
+  "category": "Household products"
+ },
+ {
+  "id": "aconite-monkshood",
+  "name": "Aconite (monkshood)",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "azalea",
+  "name": "Azalea",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "belladonna",
+  "name": "Belladonna",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "castor-bean",
+  "name": "Castor bean",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "daffodil-bulbs",
+  "name": "Daffodil bulbs",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "death-cap-mushroom",
+  "name": "Death cap mushroom",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "destroying-angel-mushroom",
+  "name": "Destroying angel mushroom",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "dieffenbachia",
+  "name": "Dieffenbachia",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "english-ivy",
+  "name": "English ivy",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "foxglove",
+  "name": "Foxglove",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "poison-hemlock",
+  "name": "Poison hemlock",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "water-hemlock",
+  "name": "Water hemlock",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "holly-berries",
+  "name": "Holly berries",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "hydrangea",
+  "name": "Hydrangea",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "jimsonweed",
+  "name": "Jimsonweed",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "lily-of-the-valley",
+  "name": "Lily of the valley",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "lantana",
+  "name": "Lantana",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "mistletoe",
+  "name": "Mistletoe",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "morning-glory-seeds",
+  "name": "Morning glory seeds",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "oleander",
+  "name": "Oleander",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "philodendron",
+  "name": "Philodendron",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "poinsettia",
+  "name": "Poinsettia",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "poison-ivy",
+  "name": "Poison ivy",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "pokeweed",
+  "name": "Pokeweed",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "rhododendron",
+  "name": "Rhododendron",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "rosary-pea",
+  "name": "Rosary pea",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "sago-palm",
+  "name": "Sago palm",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "snowdrop",
+  "name": "Snowdrop",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "tulip-bulbs",
+  "name": "Tulip bulbs",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "wisteria",
+  "name": "Wisteria",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "yew",
+  "name": "Yew",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "angel-s-trumpet",
+  "name": "Angel's trumpet",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "autumn-crocus",
+  "name": "Autumn crocus",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "bittersweet-nightshade",
+  "name": "Bittersweet nightshade",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "buttercup",
+  "name": "Buttercup",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "cherry-laurel",
+  "name": "Cherry laurel",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "elephant-ear",
+  "name": "Elephant ear",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "fly-agaric-mushroom",
+  "name": "Fly agaric mushroom",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "false-morel",
+  "name": "False morel",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "galerina-mushroom",
+  "name": "Galerina mushroom",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "larkspur",
+  "name": "Larkspur",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "lupine",
+  "name": "Lupine",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "mayapple",
+  "name": "Mayapple",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "peace-lily",
+  "name": "Peace lily",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "pothos",
+  "name": "Pothos",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "snake-plant",
+  "name": "Snake plant",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "zz-plant",
+  "name": "ZZ plant",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "jade-plant",
+  "name": "Jade plant",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "amaryllis",
+  "name": "Amaryllis",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "black-walnut-hulls",
+  "name": "Black walnut hulls",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "bloodroot",
+  "name": "Bloodroot",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "chinaberry",
+  "name": "Chinaberry",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "cycad",
+  "name": "Cycad",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "daphne",
+  "name": "Daphne",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "laburnum",
+  "name": "Laburnum",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "black-nightshade",
+  "name": "Black nightshade",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "moonseed",
+  "name": "Moonseed",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "white-snakeroot",
+  "name": "White snakeroot",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "wild-cherry-leaves",
+  "name": "Wild cherry leaves",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "horse-nettle",
+  "name": "Horse nettle",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "giant-hogweed",
+  "name": "Giant hogweed",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "oak-acorns-raw",
+  "name": "Oak acorns (raw)",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "buckeye",
+  "name": "Buckeye",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "deadly-nightshade",
+  "name": "Deadly nightshade",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "baneberry",
+  "name": "Baneberry",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "pokeberry",
+  "name": "Pokeberry",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "virginia-creeper",
+  "name": "Virginia creeper",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "boxwood",
+  "name": "Boxwood",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "cyclamen",
+  "name": "Cyclamen",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "crown-of-thorns",
+  "name": "Crown of thorns",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "kalanchoe",
+  "name": "Kalanchoe",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "ivy-boston",
+  "name": "Ivy (Boston)",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "climbing-lily",
+  "name": "Climbing lily",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "golden-chain-tree",
+  "name": "Golden chain tree",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "mountain-laurel",
+  "name": "Mountain laurel",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "nerium",
+  "name": "Nerium",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "yellow-oleander",
+  "name": "Yellow oleander",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "strychnine-tree",
+  "name": "Strychnine tree",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "manchineel",
+  "name": "Manchineel",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "tung-nut",
+  "name": "Tung nut",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "euphorbia",
+  "name": "Euphorbia",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "aloe-plant",
+  "name": "Aloe (plant)",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "caladium",
+  "name": "Caladium",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "calla-lily",
+  "name": "Calla lily",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "chrysanthemum",
+  "name": "Chrysanthemum",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "clematis",
+  "name": "Clematis",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "hyacinth",
+  "name": "Hyacinth",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "iris",
+  "name": "Iris",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "marigold",
+  "name": "Marigold",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "narcissus",
+  "name": "Narcissus",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "sweet-pea",
+  "name": "Sweet pea",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "tomato-leaves",
+  "name": "Tomato leaves",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "potato-leaves",
+  "name": "Potato leaves",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "apple-tree-leaves",
+  "name": "Apple tree leaves",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "stinging-nettle",
+  "name": "Stinging nettle",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "jack-in-the-pulpit",
+  "name": "Jack-in-the-pulpit",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "skunk-cabbage",
+  "name": "Skunk cabbage",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "starfruit-kidney-risk",
+  "name": "Starfruit (kidney risk)",
+  "category": "Poisonous plants & fungi"
+ },
+ {
+  "id": "cigarettes",
+  "name": "Cigarettes",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "cigars",
+  "name": "Cigars",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "chewing-tobacco",
+  "name": "Chewing tobacco",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "snus",
+  "name": "Snus",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "nicotine-pouches",
+  "name": "Nicotine pouches",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "e-cigarette-liquid",
+  "name": "E-cigarette liquid",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "vape-pods",
+  "name": "Vape pods",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "hookah-tobacco",
+  "name": "Hookah tobacco",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "pipe-tobacco",
+  "name": "Pipe tobacco",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "nicotine-e-juice-concentrate",
+  "name": "Nicotine e-juice (concentrate)",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "cigarette-butts",
+  "name": "Cigarette butts",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "roll-your-own-tobacco",
+  "name": "Roll-your-own tobacco",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "kretek",
+  "name": "Kretek",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "dissolvable-nicotine-strips",
+  "name": "Dissolvable nicotine strips",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "nicotine-lozenges",
+  "name": "Nicotine lozenges",
+  "category": "Tobacco & nicotine"
+ },
+ {
+  "id": "nicotine-gum-4-mg",
+  "name": "Nicotine gum (4 mg)",
+  "category": "Tobacco & nicotine"
+ }
+]
