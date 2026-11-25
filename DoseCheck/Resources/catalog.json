@@ -4875,16 +4875,6 @@
   "category": "Vitamins & minerals"
  },
  {
-  "id": "fish-oil",
-  "name": "Fish oil",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "omega-3",
-  "name": "Omega-3",
-  "category": "Vitamins & minerals"
- },
- {
   "id": "beta-carotene",
   "name": "Beta-carotene",
   "category": "Vitamins & minerals"
@@ -5010,11 +5000,6 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "creatine",
-  "name": "Creatine",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "cranberry-extract",
   "name": "Cranberry extract",
   "category": "Herbal & dietary supplements"
@@ -5070,11 +5055,6 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "green-tea-extract",
-  "name": "Green tea extract",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "hawthorn",
   "name": "Hawthorn",
   "category": "Herbal & dietary supplements"
@@ -5100,11 +5080,6 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "kratom",
-  "name": "Kratom",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "lavender-oil",
   "name": "Lavender oil",
   "category": "Herbal & dietary supplements"
@@ -5117,11 +5092,6 @@
  {
   "id": "maca",
   "name": "Maca",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "melatonin",
-  "name": "Melatonin",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -5207,11 +5177,6 @@
  {
   "id": "saw-palmetto",
   "name": "Saw palmetto",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "st-john-s-wort",
-  "name": "St. John's wort",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -5530,33 +5495,8 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "pseudoephedrine-sudafed",
-  "name": "Pseudoephedrine (Sudafed)",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "phenylephrine",
   "name": "Phenylephrine",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "guaifenesin-mucinex",
-  "name": "Guaifenesin (Mucinex)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "dextromethorphan-robitussin",
-  "name": "Dextromethorphan (Robitussin)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "bismuth-subsalicylate-pepto-bismol",
-  "name": "Bismuth subsalicylate (Pepto-Bismol)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "omeprazole-prilosec",
-  "name": "Omeprazole (Prilosec)",
   "category": "Over-the-counter medications"
  },
  {
@@ -5567,11 +5507,6 @@
  {
   "id": "lansoprazole",
   "name": "Lansoprazole",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "tums",
-  "name": "Tums",
   "category": "Over-the-counter medications"
  },
  {
@@ -5672,11 +5607,6 @@
  {
   "id": "oxymetazoline-afrin",
   "name": "Oxymetazoline (Afrin)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "nicotine-gum",
-  "name": "Nicotine gum",
   "category": "Over-the-counter medications"
  },
  {
@@ -5810,11 +5740,6 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "pepto-bismol-chewables",
-  "name": "Pepto-Bismol chewables",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "prevacid-24hr",
   "name": "Prevacid 24HR",
   "category": "Over-the-counter medications"
@@ -5930,11 +5855,6 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "bleach",
-  "name": "Bleach",
-  "category": "Household products"
- },
- {
   "id": "ammonia",
   "name": "Ammonia",
   "category": "Household products"
@@ -5957,16 +5877,6 @@
  {
   "id": "dishwasher-pods",
   "name": "Dishwasher pods",
-  "category": "Household products"
- },
- {
-  "id": "laundry-detergent",
-  "name": "Laundry detergent",
-  "category": "Household products"
- },
- {
-  "id": "laundry-pods",
-  "name": "Laundry pods",
   "category": "Household products"
  },
  {
@@ -6172,11 +6082,6 @@
  {
   "id": "pool-chlorine",
   "name": "Pool chlorine",
-  "category": "Household products"
- },
- {
-  "id": "button-batteries",
-  "name": "Button batteries",
   "category": "Household products"
  },
  {
@@ -6565,63 +6470,13 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "azalea",
-  "name": "Azalea",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "belladonna",
-  "name": "Belladonna",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "castor-bean",
-  "name": "Castor bean",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "daffodil-bulbs",
   "name": "Daffodil bulbs",
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "death-cap-mushroom",
-  "name": "Death cap mushroom",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "destroying-angel-mushroom",
-  "name": "Destroying angel mushroom",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "dieffenbachia",
-  "name": "Dieffenbachia",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "english-ivy",
-  "name": "English ivy",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "foxglove",
-  "name": "Foxglove",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "poison-hemlock",
-  "name": "Poison hemlock",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "water-hemlock",
   "name": "Water hemlock",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "holly-berries",
-  "name": "Holly berries",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -6645,38 +6500,13 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "mistletoe",
-  "name": "Mistletoe",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "morning-glory-seeds",
   "name": "Morning glory seeds",
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "oleander",
-  "name": "Oleander",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "philodendron",
-  "name": "Philodendron",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "poinsettia",
-  "name": "Poinsettia",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "poison-ivy",
   "name": "Poison ivy",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "pokeweed",
-  "name": "Pokeweed",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -6717,11 +6547,6 @@
  {
   "id": "angel-s-trumpet",
   "name": "Angel's trumpet",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "autumn-crocus",
-  "name": "Autumn crocus",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -6772,11 +6597,6 @@
  {
   "id": "mayapple",
   "name": "Mayapple",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "peace-lily",
-  "name": "Peace lily",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -6872,11 +6692,6 @@
  {
   "id": "buckeye",
   "name": "Buckeye",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "deadly-nightshade",
-  "name": "Deadly nightshade",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -7122,11 +6937,6 @@
  {
   "id": "nicotine-lozenges",
   "name": "Nicotine lozenges",
-  "category": "Tobacco & nicotine"
- },
- {
-  "id": "nicotine-gum-4-mg",
-  "name": "Nicotine gum (4 mg)",
   "category": "Tobacco & nicotine"
  }
 ]
