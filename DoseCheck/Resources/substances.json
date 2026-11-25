@@ -29072,5 +29072,946 @@
         "url": "https://www.fda.gov/food/buy-store-serve-safe-food/food-allergies-what-you-need-know"
       }
     ]
+  },
+  {
+    "aliases": [
+      "lager",
+      "ale"
+    ],
+    "servingName": "12 oz can or bottle at about 5% alcohol (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "beer",
+    "name": "Beer",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "lite beer"
+    ],
+    "servingName": "12 oz of beer; check the label, since light beers vary in strength",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "light-beer",
+    "name": "Light beer",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "india pale ale"
+    ],
+    "servingName": "12 oz of beer; many IPAs are stronger than 5% and count as more than one drink",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "ipa",
+    "name": "IPA",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "porter"
+    ],
+    "servingName": "12 oz of beer; strength varies, so check the label",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "stout",
+    "name": "Stout",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "white claw",
+      "truly"
+    ],
+    "servingName": "12 oz can at about 5% alcohol; check the label",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "hard-seltzer",
+    "name": "Hard seltzer",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "8 oz at about 7% alcohol (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "malt-liquor",
+    "name": "Malt liquor",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "merlot",
+      "cabernet"
+    ],
+    "servingName": "5 oz glass at about 12% alcohol (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "red-wine",
+    "name": "Red wine",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "chardonnay",
+      "pinot grigio"
+    ],
+    "servingName": "5 oz glass at about 12% alcohol (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "white-wine",
+    "name": "White wine",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "prosecco",
+      "sparkling wine"
+    ],
+    "servingName": "5 oz glass at about 12% alcohol (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "champagne",
+    "name": "Champagne",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1.5 oz shot at 40% alcohol, 80-proof (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "vodka",
+    "name": "Vodka",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1.5 oz shot at 40% alcohol, 80-proof (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "gin",
+    "name": "Gin",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1.5 oz shot at 40% alcohol, 80-proof (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "rum",
+    "name": "Rum",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "whisky"
+    ],
+    "servingName": "1.5 oz shot at 40% alcohol, 80-proof (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "whiskey",
+    "name": "Whiskey",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1.5 oz shot at 40% alcohol, 80-proof (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "bourbon",
+    "name": "Bourbon",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1.5 oz shot at 40% alcohol, 80-proof (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "scotch",
+    "name": "Scotch",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1.5 oz shot at 40% alcohol, 80-proof (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "tequila",
+    "name": "Tequila",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1.5 oz shot at about 40% alcohol (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "brandy",
+    "name": "Brandy",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1.5 oz shot at about 40% alcohol (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "cognac",
+    "name": "Cognac",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
   }
 ]
