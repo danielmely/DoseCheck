@@ -4,9 +4,9 @@ iOS app (SwiftUI, iOS 17+) that answers "how much of this is too much?" Search a
 
 ## Features
 
-- Saved people (top-left button): name, gender, height, weight, and lb or kg preference. Several people can be saved and one is active. Stored on the device only.
+- Saved people (top-left button): name, gender at birth, height, weight, and lb or kg preference. Several people can be saved and one is active. Stored on the device only.
 - Every edible shows three answers: safe daily intake, toxicity reported, and fatal dose. If there is no reliable number, the row says why.
-- Weight scales toxic and fatal doses, gender selects sex-specific guidance (sugar, alcohol), and height + weight + gender estimate body water (Hume-Weyers) for the blood alcohol estimate.
+- Weight scales toxic and fatal doses, gender at birth selects sex-specific guidance (sugar, alcohol), and height + weight + gender at birth estimate body water (Hume-Weyers) for the blood alcohol estimate.
 - Pinned call buttons for Poison Control and the 988 lifeline on every screen.
 
 ## Design rules

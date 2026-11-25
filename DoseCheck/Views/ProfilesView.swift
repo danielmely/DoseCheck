@@ -41,7 +41,7 @@ struct ProfilesView: View {
                         }
                     }
                 } footer: {
-                    Text("Weight scales the toxic and fatal doses. Gender picks sex-specific guidance. Height, weight and gender together estimate body water for the alcohol estimate. Saved on this device only.")
+                    Text("Weight scales the toxic and fatal doses. Gender at birth picks sex-specific guidance. Height, weight and gender at birth together estimate body water for the alcohol estimate. Saved on this device only.")
                 }
             }
             .navigationTitle("Saved people")
@@ -101,8 +101,8 @@ struct ProfileEditView: View {
                         .textInputAutocapitalization(.words)
                 }
 
-                Section("Gender") {
-                    Picker("Gender", selection: $gender) {
+                Section("Gender at birth") {
+                    Picker("Gender at birth", selection: $gender) {
                         ForEach(Gender.allCases) { Text($0.label).tag($0) }
                     }
                 }
