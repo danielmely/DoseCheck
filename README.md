@@ -23,7 +23,7 @@ Bundle ID is `com.danielmely.dosecheck`; change it in `project.yml`.
 
 ## Data
 
-`DoseCheck/Resources/substances.json`. The starter set is 7 entries and **none are verified yet**. Check each figure against its primary source (NIH PubChem/HSDB, product labels, FDA, poison.org) and set `"verified": true` before shipping.
+`DoseCheck/Resources/substances.json`. The starter set has 7 entries. 6 are checked against their sources (FDA, NIH/PMC, SDS, product labels, AHA); **alcohol is still unverified** (its lethal figure needs a primary source). The app flags any entry with `"verified": false`.
 
 ## App Store notes
 

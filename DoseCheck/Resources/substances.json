@@ -5,15 +5,19 @@
     "category": "Drinks & food",
     "aliases": ["coffee", "energy drink", "caffeine powder", "tea"],
     "isMedication": false,
-    "toxicMgPerKg": 10,
+    "toxicMgPerKg": 15,
     "lethalMgPerKg": 150,
     "lethalBasis": "human estimate (about 150-200 mg/kg reported)",
     "guidanceDailyLimitMg": 400,
     "servingName": "cup of brewed coffee (~95 mg)",
     "servingMg": 95,
-    "notes": "Pure caffeine powder is far more dangerous than drinks. The FDA says one teaspoon of powder equals roughly 28 cups of coffee, and it is almost impossible to measure safely at home. Symptoms of too much: racing heart, tremor, vomiting, seizures.",
-    "sources": ["NIH PubChem: Caffeine (toxicity)", "FDA: Pure and highly concentrated caffeine"],
-    "verified": false
+    "notes": "The FDA puts toxic effects (racing heart, dangerous heart rhythms, seizures) at roughly 1.2 g, and life-threatening doses typically at 10 to 14 g, though less can be dangerous for children and sensitive people. Pure caffeine powder is far more dangerous than drinks: one teaspoon equals roughly 28 cups of coffee, and it is almost impossible to measure safely at home.",
+    "sources": [
+      "FDA: Pure and highly concentrated caffeine (fda.gov/media/112363/download)",
+      "FDA: Spilling the beans, how much caffeine is too much",
+      "PubMed 30422505: caffeine toxicity review"
+    ],
+    "verified": true
   },
   {
     "id": "table-salt",
@@ -21,15 +25,18 @@
     "category": "Drinks & food",
     "aliases": ["salt", "sodium", "NaCl"],
     "isMedication": false,
-    "toxicMgPerKg": 500,
-    "lethalMgPerKg": 1000,
-    "lethalBasis": "human estimate (wide range reported)",
-    "guidanceDailyLimitMg": 2300,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": 500,
+    "lethalBasis": "low end of the reported human range (0.5-1 g/kg)",
+    "guidanceDailyLimitMg": 5750,
     "servingName": "teaspoon of table salt (~6 g)",
     "servingMg": 6000,
-    "notes": "Salt poisoning is a real risk, especially in small children. Never use salt water to induce vomiting.",
-    "sources": ["NIH PubChem: Sodium chloride (toxicity)", "Dietary Guidelines for Americans (sodium)"],
-    "verified": false
+    "notes": "The daily guidance of 2,300 mg is for sodium, which equals about 5.75 g of salt (a bit under one teaspoon). Salt poisoning is a real risk, especially in small children. Never use salt water to induce vomiting. No firm threshold for toxic effects is shown because published figures vary too widely.",
+    "sources": [
+      "PMC5537768: reported cases of fatal salt poisoning",
+      "Dietary Guidelines for Americans: sodium limit (2,300 mg)"
+    ],
+    "verified": true
   },
   {
     "id": "ethanol",
@@ -43,8 +50,12 @@
     "guidanceDailyLimitMg": 14000,
     "servingName": "standard drink (14 g pure alcohol)",
     "servingMg": 14000,
-    "notes": "Drinking fast can be dangerous at far lower amounts, and children are much more vulnerable. US guidance is up to 1 drink a day for women and 2 for men. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
-    "sources": ["NIAAA: Alcohol poisoning", "NIH PubChem: Ethanol (toxicity)"],
+    "notes": "Around 0.8 g/kg (3 to 4 drinks) brings a blood alcohol level of about 0.10, and severe symptoms can develop at 0.8 to 1.2 g/kg. Drinking fast can be dangerous at far lower amounts, and children are much more vulnerable. US guidance is up to 1 drink a day for women and 2 for men. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+    "sources": [
+      "Medical Tribune / Empendium: ethanol toxic dose",
+      "NIAAA: Alcohol poisoning",
+      "Lethal figure still needs a primary source"
+    ],
     "verified": false
   },
   {
@@ -59,9 +70,12 @@
     "guidanceDailyLimitMg": null,
     "servingName": "teaspoon of ground nutmeg (~2.2 g)",
     "servingMg": 2200,
-    "notes": "Normal cooking amounts are fine. Poisoning has been reported around 5 g (about 2 teaspoons) or more: nausea, racing heart, confusion, hallucinations, lasting a day or longer. Deaths are rare and no firm lethal dose is established.",
-    "sources": ["Poison control center case reports on nutmeg ingestion"],
-    "verified": false
+    "notes": "Normal cooking amounts are fine. Poisoning has been reported at about 5 g (roughly 2 teaspoons): nausea, racing heart, confusion, hallucinations, lasting a day or longer. Fatalities are very rare and no lethal dose is established.",
+    "sources": [
+      "Hallstrom and Thuvander 1997: Toxicological evaluation of myristicin",
+      "PubMed 11343860: nutmeg poisoning case series"
+    ],
+    "verified": true
   },
   {
     "id": "sugar",
@@ -75,9 +89,12 @@
     "guidanceDailyLimitMg": 25000,
     "servingName": "teaspoon of sugar (~4.2 g)",
     "servingMg": 4200,
-    "notes": "The lethal figure comes from rats. A person could not realistically eat that much, and the real harms of sugar are long-term, not a single-dose poisoning. Guidance limit shown is the American Heart Association figure for added sugar for women.",
-    "sources": ["Sucrose safety data sheet (rat oral LD50)", "American Heart Association: added sugar"],
-    "verified": false
+    "notes": "The lethal figure comes from rats. A person could not realistically eat that much, and the real harms of sugar are long-term, not a single-dose poisoning. The guidance limit is the American Heart Association figure for added sugar for most women and children over 2 (36 g for most men).",
+    "sources": [
+      "Sucrose safety data sheets (oral rat LD50 29,700 mg/kg)",
+      "American Heart Association: added sugar limits"
+    ],
+    "verified": true
   },
   {
     "id": "acetaminophen",
@@ -91,9 +108,12 @@
     "guidanceDailyLimitMg": 3000,
     "servingName": "extra-strength tablet (500 mg)",
     "servingMg": 500,
-    "notes": "Accidental overdose is common because acetaminophen is hidden in many cold, flu and sleep products. Count every source. An overdose can feel fine for the first day while liver damage develops, so call Poison Control immediately if more than directed was taken.",
-    "sources": ["Product label (extra strength): max 3,000 mg/day", "poison.org"],
-    "verified": false
+    "notes": "The Extra Strength label limit is 6 tablets (3,000 mg) in 24 hours; other products have different limits, so check your label. Accidental overdose is common because acetaminophen is hidden in many cold, flu and sleep products. Count every source. An overdose can feel fine for the first day while liver damage develops, so call Poison Control immediately if more than directed was taken.",
+    "sources": [
+      "Extra Strength Tylenol Drug Facts label (DailyMed)",
+      "poison.org"
+    ],
+    "verified": true
   },
   {
     "id": "ibuprofen",
@@ -107,8 +127,11 @@
     "guidanceDailyLimitMg": 1200,
     "servingName": "tablet (200 mg)",
     "servingMg": 200,
-    "notes": "OTC label limit is 1,200 mg a day unless a doctor says otherwise. Take with food. Can harm the stomach and kidneys at higher doses. Call Poison Control if more than directed was taken.",
-    "sources": ["Product label (OTC): max 1,200 mg/day", "poison.org"],
-    "verified": false
+    "notes": "The OTC label limit is 1,200 mg a day unless a doctor says otherwise. Take with food. Higher doses can harm the stomach and kidneys. Call Poison Control if more than directed was taken.",
+    "sources": [
+      "FDA OTC monograph: ibuprofen 200 mg tablets, max 1,200 mg/day",
+      "poison.org"
+    ],
+    "verified": true
   }
 ]
