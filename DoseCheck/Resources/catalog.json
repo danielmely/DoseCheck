@@ -3480,11 +3480,6 @@
   "category": "Beverages"
  },
  {
-  "id": "sugar",
-  "name": "Sugar",
-  "category": "Sweets & snacks"
- },
- {
   "id": "candy-bar",
   "name": "Candy bar",
   "category": "Sweets & snacks"
@@ -4393,11 +4388,6 @@
   "id": "dog-treats",
   "name": "Dog treats",
   "category": "Prepared foods"
- },
- {
-  "id": "table-salt",
-  "name": "Table salt",
-  "category": "Condiments, oils & baking"
  },
  {
   "id": "baking-soda",
@@ -5468,16 +5458,6 @@
   "id": "pregnenolone",
   "name": "Pregnenolone",
   "category": "Herbal & dietary supplements"
- },
- {
-  "id": "acetaminophen",
-  "name": "Acetaminophen",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "ibuprofen",
-  "name": "Ibuprofen",
-  "category": "Over-the-counter medications"
  },
  {
   "id": "baby-aspirin",
