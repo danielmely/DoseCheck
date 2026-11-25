@@ -15,7 +15,7 @@ iOS app (SwiftUI, iOS 17+) that answers "how much of this is too much?" Search a
 
 - Safety framing first: first-launch disclaimer, plus Poison Control (1-800-222-1222) and 988 shown on every screen.
 - Medications show label guidance only. No toxic or lethal numbers.
-- Every figure is an estimate. Entries carry `verified` and `sources` fields; the UI flags anything unverified.
+- Every figure is an estimate. Entries carry `verified`, `sources` and (where it applies) `guidanceMgPerKg` and `measuredAs` fields; the UI flags anything unverified.
 - Substances with no established human lethal dose say so instead of showing an animal number as fact.
 
 ## Run it
@@ -32,7 +32,7 @@ Bundle ID is `com.danielmely.dosecheck`; change it in `project.yml`.
 
 ## Data
 
-`DoseCheck/Resources/catalog.json` lists about 1,500 names for Browse (foods, drinks, supplements, medications, household products, poisonous plants) that have no figures yet; they show "Coming soon". `DoseCheck/Resources/substances.json` holds the entries with real figures. To promote a catalog item, add a full entry to substances.json and remove it from catalog.json. The starter set has 7 entries. 6 are checked against their sources (FDA, NIH/PMC, SDS, product labels, AHA); **alcohol is still unverified** (its lethal figure needs a primary source). The app flags any entry with `"verified": false`.
+`DoseCheck/Resources/catalog.json` lists about 1,400 names for Browse (foods, drinks, supplements, medications, household products, poisonous plants) that have no figures yet; they show "Coming soon". `DoseCheck/Resources/substances.json` holds the entries with real figures. To promote a catalog item, add a full entry to substances.json and remove it from catalog.json. There are 72 entries with figures: caffeine drinks and chocolates (FDA, Mayo Clinic), sweeteners (FDA acceptable daily intakes), vitamins and minerals (National Academies upper intake levels), salts, and common OTC medications (Drug Facts labels, label limits only). **Alcohol is still unverified** (its lethal figure needs a primary source). Every entry stores its sources as `{title, url}`; the yellow Sources button in the footer lists them all. The app flags any entry with `"verified": false`.
 
 ## App Store notes
 

@@ -2975,38 +2975,8 @@
   "category": "Beverages"
  },
  {
-  "id": "coffee",
-  "name": "Coffee",
-  "category": "Beverages"
- },
- {
-  "id": "espresso",
-  "name": "Espresso",
-  "category": "Beverages"
- },
- {
-  "id": "decaf-coffee",
-  "name": "Decaf coffee",
-  "category": "Beverages"
- },
- {
   "id": "cold-brew-coffee",
   "name": "Cold brew coffee",
-  "category": "Beverages"
- },
- {
-  "id": "instant-coffee",
-  "name": "Instant coffee",
-  "category": "Beverages"
- },
- {
-  "id": "black-tea",
-  "name": "Black tea",
-  "category": "Beverages"
- },
- {
-  "id": "green-tea",
-  "name": "Green tea",
   "category": "Beverages"
  },
  {
@@ -3045,16 +3015,6 @@
   "category": "Beverages"
  },
  {
-  "id": "cola",
-  "name": "Cola",
-  "category": "Beverages"
- },
- {
-  "id": "diet-cola",
-  "name": "Diet cola",
-  "category": "Beverages"
- },
- {
   "id": "root-beer",
   "name": "Root beer",
   "category": "Beverages"
@@ -3085,21 +3045,6 @@
   "category": "Beverages"
  },
  {
-  "id": "energy-drink",
-  "name": "Energy drink",
-  "category": "Beverages"
- },
- {
-  "id": "red-bull",
-  "name": "Red Bull",
-  "category": "Beverages"
- },
- {
-  "id": "monster-energy",
-  "name": "Monster Energy",
-  "category": "Beverages"
- },
- {
   "id": "celsius",
   "name": "Celsius",
   "category": "Beverages"
@@ -3110,11 +3055,6 @@
   "category": "Beverages"
  },
  {
-  "id": "5-hour-energy",
-  "name": "5-hour Energy",
-  "category": "Beverages"
- },
- {
   "id": "mountain-dew",
   "name": "Mountain Dew",
   "category": "Beverages"
@@ -3122,16 +3062,6 @@
  {
   "id": "dr-pepper",
   "name": "Dr Pepper",
-  "category": "Beverages"
- },
- {
-  "id": "pepsi",
-  "name": "Pepsi",
-  "category": "Beverages"
- },
- {
-  "id": "coca-cola",
-  "name": "Coca-Cola",
   "category": "Beverages"
  },
  {
@@ -3202,11 +3132,6 @@
  {
   "id": "protein-shake",
   "name": "Protein shake",
-  "category": "Beverages"
- },
- {
-  "id": "hot-chocolate",
-  "name": "Hot chocolate",
   "category": "Beverages"
  },
  {
@@ -3410,11 +3335,6 @@
   "category": "Beverages"
  },
  {
-  "id": "iced-tea",
-  "name": "Iced tea",
-  "category": "Beverages"
- },
- {
   "id": "sweet-tea",
   "name": "Sweet tea",
   "category": "Beverages"
@@ -3560,18 +3480,13 @@
   "category": "Beverages"
  },
  {
+  "id": "sugar",
+  "name": "Sugar",
+  "category": "Sweets & snacks"
+ },
+ {
   "id": "candy-bar",
   "name": "Candy bar",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "milk-chocolate",
-  "name": "Milk chocolate",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "dark-chocolate",
-  "name": "Dark chocolate",
   "category": "Sweets & snacks"
  },
  {
@@ -3682,26 +3597,6 @@
  {
   "id": "molasses",
   "name": "Molasses",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "stevia",
-  "name": "Stevia",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "aspartame",
-  "name": "Aspartame",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "sucralose",
-  "name": "Sucralose",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "saccharin",
-  "name": "Saccharin",
   "category": "Sweets & snacks"
  },
  {
@@ -4500,23 +4395,8 @@
   "category": "Prepared foods"
  },
  {
-  "id": "sea-salt",
-  "name": "Sea salt",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "kosher-salt",
-  "name": "Kosher salt",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "himalayan-pink-salt",
-  "name": "Himalayan pink salt",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "iodized-salt",
-  "name": "Iodized salt",
+  "id": "table-salt",
+  "name": "Table salt",
   "category": "Condiments, oils & baking"
  },
  {
@@ -4970,141 +4850,6 @@
   "category": "Condiments, oils & baking"
  },
  {
-  "id": "vitamin-a",
-  "name": "Vitamin A",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-b1-thiamine",
-  "name": "Vitamin B1 (thiamine)",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-b2-riboflavin",
-  "name": "Vitamin B2 (riboflavin)",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-b3-niacin",
-  "name": "Vitamin B3 (niacin)",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-b5-pantothenic-acid",
-  "name": "Vitamin B5 (pantothenic acid)",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-b6",
-  "name": "Vitamin B6",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-b7-biotin",
-  "name": "Vitamin B7 (biotin)",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-b9-folate",
-  "name": "Vitamin B9 (folate)",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-b12",
-  "name": "Vitamin B12",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-c",
-  "name": "Vitamin C",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-d",
-  "name": "Vitamin D",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-e",
-  "name": "Vitamin E",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-k",
-  "name": "Vitamin K",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "calcium",
-  "name": "Calcium",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "chromium",
-  "name": "Chromium",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "copper",
-  "name": "Copper",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "fluoride",
-  "name": "Fluoride",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "iodine",
-  "name": "Iodine",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "iron",
-  "name": "Iron",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "magnesium",
-  "name": "Magnesium",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "manganese",
-  "name": "Manganese",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "molybdenum",
-  "name": "Molybdenum",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "phosphorus",
-  "name": "Phosphorus",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "potassium",
-  "name": "Potassium",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "selenium",
-  "name": "Selenium",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "sodium",
-  "name": "Sodium",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "zinc",
-  "name": "Zinc",
-  "category": "Vitamins & minerals"
- },
- {
   "id": "multivitamin",
   "name": "Multivitamin",
   "category": "Vitamins & minerals"
@@ -5117,21 +4862,6 @@
  {
   "id": "children-s-gummy-vitamins",
   "name": "Children's gummy vitamins",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "iron-supplement",
-  "name": "Iron supplement",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "potassium-chloride",
-  "name": "Potassium chloride",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "magnesium-citrate",
-  "name": "Magnesium citrate",
   "category": "Vitamins & minerals"
  },
  {
@@ -5160,11 +4890,6 @@
   "category": "Vitamins & minerals"
  },
  {
-  "id": "choline",
-  "name": "Choline",
-  "category": "Vitamins & minerals"
- },
- {
   "id": "electrolyte-tablets",
   "name": "Electrolyte tablets",
   "category": "Vitamins & minerals"
@@ -5180,33 +4905,8 @@
   "category": "Vitamins & minerals"
  },
  {
-  "id": "folic-acid",
-  "name": "Folic acid",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "retinol",
-  "name": "Retinol",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-d3",
-  "name": "Vitamin D3",
-  "category": "Vitamins & minerals"
- },
- {
   "id": "vitamin-k2",
   "name": "Vitamin K2",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "magnesium-glycinate",
-  "name": "Magnesium glycinate",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "magnesium-oxide",
-  "name": "Magnesium oxide",
   "category": "Vitamins & minerals"
  },
  {
@@ -5217,16 +4917,6 @@
  {
   "id": "iron-bisglycinate",
   "name": "Iron bisglycinate",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "ferrous-sulfate",
-  "name": "Ferrous sulfate",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "zinc-gluconate",
-  "name": "Zinc gluconate",
   "category": "Vitamins & minerals"
  },
  {
@@ -5247,16 +4937,6 @@
  {
   "id": "hair-skin-and-nails-vitamins",
   "name": "Hair skin and nails vitamins",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "boron",
-  "name": "Boron",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vanadium",
-  "name": "Vanadium",
   "category": "Vitamins & minerals"
  },
  {
@@ -5825,8 +5505,13 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "aspirin",
-  "name": "Aspirin",
+  "id": "acetaminophen",
+  "name": "Acetaminophen",
+  "category": "Over-the-counter medications"
+ },
+ {
+  "id": "ibuprofen",
+  "name": "Ibuprofen",
   "category": "Over-the-counter medications"
  },
  {
@@ -5835,33 +5520,8 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "naproxen-aleve",
-  "name": "Naproxen (Aleve)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "diphenhydramine-benadryl",
-  "name": "Diphenhydramine (Benadryl)",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "doxylamine-unisom",
   "name": "Doxylamine (Unisom)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "cetirizine-zyrtec",
-  "name": "Cetirizine (Zyrtec)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "loratadine-claritin",
-  "name": "Loratadine (Claritin)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "fexofenadine-allegra",
-  "name": "Fexofenadine (Allegra)",
   "category": "Over-the-counter medications"
  },
  {
@@ -5890,18 +5550,8 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "loperamide-imodium",
-  "name": "Loperamide (Imodium)",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "bismuth-subsalicylate-pepto-bismol",
   "name": "Bismuth subsalicylate (Pepto-Bismol)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "famotidine-pepcid",
-  "name": "Famotidine (Pepcid)",
   "category": "Over-the-counter medications"
  },
  {
@@ -6165,11 +5815,6 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "imodium-a-d",
-  "name": "Imodium A-D",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "prevacid-24hr",
   "name": "Prevacid 24HR",
   "category": "Over-the-counter medications"
@@ -6212,16 +5857,6 @@
  {
   "id": "aleve-pm",
   "name": "Aleve PM",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "bayer-aspirin",
-  "name": "Bayer aspirin",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "ecotrin",
-  "name": "Ecotrin",
   "category": "Over-the-counter medications"
  },
  {

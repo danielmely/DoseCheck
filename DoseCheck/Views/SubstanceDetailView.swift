@@ -15,6 +15,14 @@ struct SubstanceDetailView: View {
 
             personSection
 
+            if let measured = substance.measuredAs {
+                Section {
+                    Label("Figures below are for the \(measured) in this item.", systemImage: "info.circle")
+                        .font(.footnote)
+                        .foregroundStyle(.secondary)
+                }
+            }
+
             if substance.isMedication {
                 medicationSection
             } else {
@@ -32,7 +40,7 @@ struct SubstanceDetailView: View {
 
             if !substance.sources.isEmpty {
                 Section("Sources") {
-                    ForEach(substance.sources, id: \.self) { Text($0).font(.footnote) }
+                    ForEach(substance.sources) { SourceLink(source: $0) }
                 }
             }
         }
@@ -71,7 +79,13 @@ struct SubstanceDetailView: View {
 
     @ViewBuilder
     private var safeRow: some View {
-        if let mg = substance.dailyLimitMg(for: profile.gender) {
+        if let perKg = substance.guidanceMgPerKg {
+            DoseRow(
+                mg: perKg * profile.weightKg,
+                substance: substance,
+                footnote: "Acceptable daily intake of \(Format.servings(perKg)) mg per kg, scaled to \(profile.weightText)"
+            )
+        } else if let mg = substance.dailyLimitMg(for: profile.gender) {
             DoseRow(mg: mg, substance: substance, footnote: limitFootnote)
         } else {
             NoteRow(text: substance.safeNote ?? "No established daily limit.")
@@ -153,6 +167,25 @@ private struct DoseRow: View {
     }
 }
 
+/// A tappable source row. Falls back to plain text when there is no link.
+struct SourceLink: View {
+    let source: SourceRef
+
+    var body: some View {
+        if let text = source.url, let url = URL(string: text) {
+            Link(destination: url) {
+                HStack {
+                    Text(source.title).font(.footnote).multilineTextAlignment(.leading)
+                    Spacer()
+                    Image(systemName: "arrow.up.right.square").foregroundStyle(.secondary)
+                }
+            }
+        } else {
+            Text(source.title).font(.footnote)
+        }
+    }
+}
+
 private struct NoteRow: View {
     let text: String
 
@@ -163,7 +196,10 @@ private struct NoteRow: View {
 
 enum Format {
     static func mass(_ mg: Double) -> String {
-        mg >= 1000 ? String(format: "%.1f g", mg / 1000) : String(format: "%.0f mg", mg)
+        if mg >= 1000 { return String(format: "%.1f g", mg / 1000) }
+        if mg >= 10 { return String(format: "%.0f mg", mg) }
+        if mg >= 1 { return String(format: "%.1f mg", mg) }
+        return String(format: "%.0f µg", mg * 1000)
     }
 
     static func servings(_ n: Double) -> String {

@@ -1,5 +1,30 @@
 import Foundation
 
+/// A source for a figure. Older data files stored plain strings, so decoding accepts both.
+struct SourceRef: Codable, Hashable, Identifiable {
+    let title: String
+    let url: String?
+    var id: String { title }
+
+    init(title: String, url: String?) {
+        self.title = title
+        self.url = url
+    }
+
+    init(from decoder: Decoder) throws {
+        if let single = try? decoder.singleValueContainer(), let text = try? single.decode(String.self) {
+            title = text
+            url = nil
+            return
+        }
+        let c = try decoder.container(keyedBy: CodingKeys.self)
+        title = try c.decode(String.self, forKey: .title)
+        url = try c.decodeIfPresent(String.self, forKey: .url)
+    }
+
+    private enum CodingKeys: String, CodingKey { case title, url }
+}
+
 /// One entry in the bundled toxicity reference.
 /// All figures are estimates. Medications intentionally carry no toxic/lethal
 /// numbers: the app shows only label guidance and Poison Control for them.
@@ -25,6 +50,8 @@ struct Substance: Codable, Identifiable, Hashable {
     let guidanceDailyLimitMg: Double?
     let guidanceMaleMg: Double?
     let guidanceFemaleMg: Double?
+    /// Daily limit per kg of body weight (e.g. sweetener acceptable daily intakes). Scaled by weight.
+    let guidanceMgPerKg: Double?
 
     /// Shown when a figure is missing.
     let safeNote: String?
@@ -34,12 +61,17 @@ struct Substance: Codable, Identifiable, Hashable {
     /// Extra calculations, e.g. "bac" for the blood alcohol estimate.
     let extras: [String]?
 
+    /// What the figures measure when it differs from the item, e.g. "caffeine" for a coffee.
+    let measuredAs: String?
+
     let servingName: String
     let servingMg: Double
     let notes: String
-    let sources: [String]
+    let sources: [SourceRef]
     /// False until the figures are checked against the primary sources.
     let verified: Bool
+
+    var hasWeightBasedLimit: Bool { guidanceMgPerKg != nil }
 
     var hasSexSpecificLimit: Bool {
         guidanceMaleMg != nil || guidanceFemaleMg != nil

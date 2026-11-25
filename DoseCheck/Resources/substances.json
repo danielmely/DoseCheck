@@ -1,215 +1,2645 @@
 [
-  {
-    "id": "caffeine",
-    "name": "Caffeine",
-    "category": "Beverages",
-    "aliases": [
-      "coffee",
-      "energy drink",
-      "caffeine powder",
-      "tea"
-    ],
-    "isMedication": false,
-    "toxicMgPerKg": 15,
-    "lethalMgPerKg": 150,
-    "lethalBasis": "human estimate (about 150-200 mg/kg reported)",
-    "guidanceDailyLimitMg": 400,
-    "servingName": "cup of brewed coffee (~95 mg)",
-    "servingMg": 95,
-    "notes": "The FDA puts toxic effects (racing heart, dangerous heart rhythms, seizures) at roughly 1.2 g, and life-threatening doses typically at 10 to 14 g, though less can be dangerous for children and sensitive people. Pure caffeine powder is far more dangerous than drinks: one teaspoon equals roughly 28 cups of coffee, and it is almost impossible to measure safely at home.",
-    "sources": [
-      "FDA: Pure and highly concentrated caffeine (fda.gov/media/112363/download)",
-      "FDA: Spilling the beans, how much caffeine is too much",
-      "PubMed 30422505: caffeine toxicity review"
-    ],
-    "verified": true,
-    "guidanceMaleMg": null,
-    "guidanceFemaleMg": null,
-    "safeNote": null,
-    "toxicNote": null,
-    "lethalNote": null,
-    "extras": null
-  },
-  {
-    "id": "table-salt",
-    "name": "Table salt (sodium chloride)",
-    "category": "Condiments, oils & baking",
-    "aliases": [
-      "salt",
-      "sodium",
-      "NaCl"
-    ],
-    "isMedication": false,
-    "toxicMgPerKg": null,
-    "lethalMgPerKg": 500,
-    "lethalBasis": "low end of the reported human range (0.5-1 g/kg)",
-    "guidanceDailyLimitMg": 5750,
-    "servingName": "teaspoon of table salt (~6 g)",
-    "servingMg": 6000,
-    "notes": "The daily guidance of 2,300 mg is for sodium, which equals about 5.75 g of salt (a bit under one teaspoon). Salt poisoning is a real risk, especially in small children. Never use salt water to induce vomiting. No firm threshold for toxic effects is shown because published figures vary too widely.",
-    "sources": [
-      "PMC5537768: reported cases of fatal salt poisoning",
-      "Dietary Guidelines for Americans: sodium limit (2,300 mg)"
-    ],
-    "verified": true,
-    "toxicNote": "No reliable human dose threshold. Early signs are strong thirst, weakness and nausea; severe cases bring confusion, muscle twitching and seizures.",
-    "guidanceMaleMg": null,
-    "guidanceFemaleMg": null,
-    "safeNote": null,
-    "lethalNote": null,
-    "extras": null
-  },
-  {
-    "id": "ethanol",
-    "name": "Alcohol (ethanol)",
-    "category": "Beverages",
-    "aliases": [
-      "beer",
-      "wine",
-      "liquor",
-      "vodka",
-      "whiskey",
-      "drinking"
-    ],
-    "isMedication": false,
-    "toxicMgPerKg": 1000,
-    "lethalMgPerKg": 5000,
-    "lethalBasis": "human estimate; tolerance varies enormously",
-    "guidanceDailyLimitMg": null,
-    "servingName": "standard drink (14 g pure alcohol)",
-    "servingMg": 14000,
-    "notes": "Around 0.8 g/kg (3 to 4 drinks) brings a blood alcohol level of about 0.10, and severe symptoms can develop at 0.8 to 1.2 g/kg. Drinking fast can be dangerous at far lower amounts, and children are much more vulnerable. US guidance is up to 1 drink a day for women and 2 for men. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
-    "sources": [
-      "Medical Tribune / Empendium: ethanol toxic dose",
-      "NIAAA: Alcohol poisoning",
-      "Hume and Weyers 1971 (body water from height and weight)",
-      "Lethal figure still needs a primary source"
-    ],
-    "verified": false,
-    "guidanceMaleMg": 28000,
-    "guidanceFemaleMg": 14000,
-    "extras": [
-      "bac"
-    ],
-    "safeNote": null,
-    "toxicNote": null,
-    "lethalNote": null
-  },
-  {
-    "id": "nutmeg",
-    "name": "Nutmeg",
-    "category": "Herbs & spices",
-    "aliases": [
-      "spice",
-      "myristicin"
-    ],
-    "isMedication": false,
-    "toxicMgPerKg": 70,
-    "lethalMgPerKg": null,
-    "lethalBasis": null,
-    "guidanceDailyLimitMg": null,
-    "servingName": "teaspoon of ground nutmeg (~2.2 g)",
-    "servingMg": 2200,
-    "notes": "Normal cooking amounts are fine. Poisoning has been reported at about 5 g (roughly 2 teaspoons): nausea, racing heart, confusion, hallucinations, lasting a day or longer. Fatalities are very rare and no lethal dose is established.",
-    "sources": [
-      "Hallstrom and Thuvander 1997: Toxicological evaluation of myristicin",
-      "PubMed 11343860: nutmeg poisoning case series"
-    ],
-    "verified": true,
-    "safeNote": "No official daily limit. Normal cooking amounts are not a concern.",
-    "lethalNote": "No established fatal dose. Deaths are very rare.",
-    "guidanceMaleMg": null,
-    "guidanceFemaleMg": null,
-    "toxicNote": null,
-    "extras": null
-  },
-  {
-    "id": "sugar",
-    "name": "Sugar (sucrose)",
-    "category": "Sweets & snacks",
-    "aliases": [
-      "sweets",
-      "table sugar"
-    ],
-    "isMedication": false,
-    "toxicMgPerKg": null,
-    "lethalMgPerKg": 29700,
-    "lethalBasis": "rat LD50; not a realistic human figure",
-    "guidanceDailyLimitMg": null,
-    "servingName": "teaspoon of sugar (~4.2 g)",
-    "servingMg": 4200,
-    "notes": "The lethal figure comes from rats. A person could not realistically eat that much, and the real harms of sugar are long-term, not a single-dose poisoning. The guidance limit is the American Heart Association figure for added sugar for most women and children over 2 (36 g for most men).",
-    "sources": [
-      "Sucrose safety data sheets (oral rat LD50 29,700 mg/kg)",
-      "American Heart Association: added sugar limits"
-    ],
-    "verified": true,
-    "guidanceMaleMg": 36000,
-    "guidanceFemaleMg": 25000,
-    "toxicNote": "Not acutely toxic to people at realistic amounts. Rats given huge doses showed sluggishness and diarrhea. The harm from sugar is long-term, not from a single dose.",
-    "safeNote": null,
-    "lethalNote": null,
-    "extras": null
-  },
-  {
-    "id": "acetaminophen",
-    "name": "Acetaminophen (Tylenol, paracetamol)",
-    "category": "Over-the-counter medications",
-    "aliases": [
-      "tylenol",
-      "paracetamol",
-      "APAP",
-      "pain reliever",
-      "cold and flu"
-    ],
-    "isMedication": true,
-    "toxicMgPerKg": null,
-    "lethalMgPerKg": null,
-    "lethalBasis": null,
-    "guidanceDailyLimitMg": 3000,
-    "servingName": "extra-strength tablet (500 mg)",
-    "servingMg": 500,
-    "notes": "The Extra Strength label limit is 6 tablets (3,000 mg) in 24 hours; other products have different limits, so check your label. Accidental overdose is common because acetaminophen is hidden in many cold, flu and sleep products. Count every source. An overdose can feel fine for the first day while liver damage develops, so call Poison Control immediately if more than directed was taken.",
-    "sources": [
-      "Extra Strength Tylenol Drug Facts label (DailyMed)",
-      "poison.org"
-    ],
-    "verified": true,
-    "guidanceMaleMg": null,
-    "guidanceFemaleMg": null,
-    "safeNote": null,
-    "toxicNote": null,
-    "lethalNote": null,
-    "extras": null
-  },
-  {
-    "id": "ibuprofen",
-    "name": "Ibuprofen (Advil, Motrin)",
-    "category": "Over-the-counter medications",
-    "aliases": [
-      "advil",
-      "motrin",
-      "NSAID",
-      "pain reliever"
-    ],
-    "isMedication": true,
-    "toxicMgPerKg": null,
-    "lethalMgPerKg": null,
-    "lethalBasis": null,
-    "guidanceDailyLimitMg": 1200,
-    "servingName": "tablet (200 mg)",
-    "servingMg": 200,
-    "notes": "The OTC label limit is 1,200 mg a day unless a doctor says otherwise. Take with food. Higher doses can harm the stomach and kidneys. Call Poison Control if more than directed was taken.",
-    "sources": [
-      "FDA OTC monograph: ibuprofen 200 mg tablets, max 1,200 mg/day",
-      "poison.org"
-    ],
-    "verified": true,
-    "guidanceMaleMg": null,
-    "guidanceFemaleMg": null,
-    "safeNote": null,
-    "toxicNote": null,
-    "lethalNote": null,
-    "extras": null
-  }
+ {
+  "id": "caffeine",
+  "name": "Caffeine",
+  "category": "Beverages",
+  "aliases": [
+   "coffee",
+   "energy drink",
+   "caffeine powder",
+   "tea"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "servingName": "cup of brewed coffee (~95 mg)",
+  "servingMg": 95,
+  "notes": "The FDA puts toxic effects (racing heart, dangerous heart rhythms, seizures) at roughly 1.2 g, and life-threatening doses typically at 10 to 14 g, though less can be dangerous for children and sensitive people. Pure caffeine powder is far more dangerous than drinks: one teaspoon equals roughly 28 cups of coffee, and it is almost impossible to measure safely at home.",
+  "sources": [
+   {
+    "title": "FDA: Pure and highly concentrated caffeine (fda.gov/media/112363/download)",
+    "url": "https://www.fda.gov/media/112363/download"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "PubMed 30422505: caffeine toxicity review",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30422505/"
+   }
+  ],
+  "verified": true,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "guidanceMgPerKg": null,
+  "measuredAs": null
+ },
+ {
+  "id": "table-salt",
+  "name": "Table salt (sodium chloride)",
+  "category": "Condiments, oils & baking",
+  "aliases": [
+   "salt",
+   "sodium",
+   "NaCl"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": 500,
+  "lethalBasis": "low end of the reported human range (0.5-1 g/kg)",
+  "guidanceDailyLimitMg": 5750,
+  "servingName": "teaspoon of table salt (~6 g)",
+  "servingMg": 6000,
+  "notes": "The daily guidance of 2,300 mg is for sodium, which equals about 5.75 g of salt (a bit under one teaspoon). Salt poisoning is a real risk, especially in small children. Never use salt water to induce vomiting. No firm threshold for toxic effects is shown because published figures vary too widely.",
+  "sources": [
+   {
+    "title": "PMC5537768: reported cases of fatal salt poisoning",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5537768/"
+   },
+   {
+    "title": "Dietary Guidelines for Americans: sodium limit (2,300 mg)",
+    "url": "https://www.dietaryguidelines.gov/"
+   }
+  ],
+  "verified": true,
+  "toxicNote": "No reliable human dose threshold. Early signs are strong thirst, weakness and nausea; severe cases bring confusion, muscle twitching and seizures.",
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "safeNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "guidanceMgPerKg": null,
+  "measuredAs": null
+ },
+ {
+  "id": "ethanol",
+  "name": "Alcohol (ethanol)",
+  "category": "Beverages",
+  "aliases": [
+   "beer",
+   "wine",
+   "liquor",
+   "vodka",
+   "whiskey",
+   "drinking"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 1000,
+  "lethalMgPerKg": 5000,
+  "lethalBasis": "human estimate; tolerance varies enormously",
+  "guidanceDailyLimitMg": null,
+  "servingName": "standard drink (14 g pure alcohol)",
+  "servingMg": 14000,
+  "notes": "Around 0.8 g/kg (3 to 4 drinks) brings a blood alcohol level of about 0.10, and severe symptoms can develop at 0.8 to 1.2 g/kg. Drinking fast can be dangerous at far lower amounts, and children are much more vulnerable. US guidance is up to 1 drink a day for women and 2 for men. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
+  "sources": [
+   {
+    "title": "Medical Tribune / Empendium: ethanol toxic dose",
+    "url": null
+   },
+   {
+    "title": "NIAAA: Alcohol poisoning",
+    "url": null
+   },
+   {
+    "title": "Hume and Weyers 1971 (body water from height and weight)",
+    "url": null
+   },
+   {
+    "title": "Lethal figure still needs a primary source",
+    "url": null
+   }
+  ],
+  "verified": false,
+  "guidanceMaleMg": 28000,
+  "guidanceFemaleMg": 14000,
+  "extras": [
+   "bac"
+  ],
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "guidanceMgPerKg": null,
+  "measuredAs": null
+ },
+ {
+  "id": "nutmeg",
+  "name": "Nutmeg",
+  "category": "Herbs & spices",
+  "aliases": [
+   "spice",
+   "myristicin"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 70,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "servingName": "teaspoon of ground nutmeg (~2.2 g)",
+  "servingMg": 2200,
+  "notes": "Normal cooking amounts are fine. Poisoning has been reported at about 5 g (roughly 2 teaspoons): nausea, racing heart, confusion, hallucinations, lasting a day or longer. Fatalities are very rare and no lethal dose is established.",
+  "sources": [
+   {
+    "title": "Hallstrom and Thuvander 1997: Toxicological evaluation of myristicin",
+    "url": null
+   },
+   {
+    "title": "PubMed 11343860: nutmeg poisoning case series",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11343860/"
+   }
+  ],
+  "verified": true,
+  "safeNote": "No official daily limit. Normal cooking amounts are not a concern.",
+  "lethalNote": "No established fatal dose. Deaths are very rare.",
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "toxicNote": null,
+  "extras": null,
+  "guidanceMgPerKg": null,
+  "measuredAs": null
+ },
+ {
+  "id": "sugar",
+  "name": "Sugar (sucrose)",
+  "category": "Sweets & snacks",
+  "aliases": [
+   "sweets",
+   "table sugar"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": 29700,
+  "lethalBasis": "rat LD50; not a realistic human figure",
+  "guidanceDailyLimitMg": null,
+  "servingName": "teaspoon of sugar (~4.2 g)",
+  "servingMg": 4200,
+  "notes": "The lethal figure comes from rats. A person could not realistically eat that much, and the real harms of sugar are long-term, not a single-dose poisoning. The guidance limit is the American Heart Association figure for added sugar for most women and children over 2 (36 g for most men).",
+  "sources": [
+   {
+    "title": "Sucrose safety data sheets (oral rat LD50 29,700 mg/kg)",
+    "url": null
+   },
+   {
+    "title": "American Heart Association: added sugar limits",
+    "url": "https://cpr.heart.org/en/healthy-living/healthy-eating/eat-smart/sugar/how-too-much-added-sugar-affects-your-health-infographic"
+   }
+  ],
+  "verified": true,
+  "guidanceMaleMg": 36000,
+  "guidanceFemaleMg": 25000,
+  "toxicNote": "Not acutely toxic to people at realistic amounts. Rats given huge doses showed sluggishness and diarrhea. The harm from sugar is long-term, not from a single dose.",
+  "safeNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "guidanceMgPerKg": null,
+  "measuredAs": null
+ },
+ {
+  "id": "acetaminophen",
+  "name": "Acetaminophen (Tylenol, paracetamol)",
+  "category": "Over-the-counter medications",
+  "aliases": [
+   "tylenol",
+   "paracetamol",
+   "APAP",
+   "pain reliever",
+   "cold and flu"
+  ],
+  "isMedication": true,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 3000,
+  "servingName": "extra-strength tablet (500 mg)",
+  "servingMg": 500,
+  "notes": "The Extra Strength label limit is 6 tablets (3,000 mg) in 24 hours; other products have different limits, so check your label. Accidental overdose is common because acetaminophen is hidden in many cold, flu and sleep products. Count every source. An overdose can feel fine for the first day while liver damage develops, so call Poison Control immediately if more than directed was taken.",
+  "sources": [
+   {
+    "title": "Extra Strength Tylenol Drug Facts label (DailyMed)",
+    "url": null
+   },
+   {
+    "title": "poison.org",
+    "url": "https://www.poison.org/"
+   }
+  ],
+  "verified": true,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "guidanceMgPerKg": null,
+  "measuredAs": null
+ },
+ {
+  "id": "ibuprofen",
+  "name": "Ibuprofen (Advil, Motrin)",
+  "category": "Over-the-counter medications",
+  "aliases": [
+   "advil",
+   "motrin",
+   "NSAID",
+   "pain reliever"
+  ],
+  "isMedication": true,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 1200,
+  "servingName": "tablet (200 mg)",
+  "servingMg": 200,
+  "notes": "The OTC label limit is 1,200 mg a day unless a doctor says otherwise. Take with food. Higher doses can harm the stomach and kidneys. Call Poison Control if more than directed was taken.",
+  "sources": [
+   {
+    "title": "FDA OTC monograph: ibuprofen 200 mg tablets, max 1,200 mg/day",
+    "url": null
+   },
+   {
+    "title": "poison.org",
+    "url": "https://www.poison.org/"
+   }
+  ],
+  "verified": true,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "guidanceMgPerKg": null,
+  "measuredAs": null
+ },
+ {
+  "aliases": [
+   "brewed coffee",
+   "java"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "coffee",
+  "name": "Coffee",
+  "category": "Beverages",
+  "servingName": "8 oz cup (~96 mg caffeine)",
+  "servingMg": 96,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+   },
+   {
+    "title": "Approximate caffeine content in selected drinks (PMC3310521)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3310521/table/T1"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "espresso shot"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "espresso",
+  "name": "Espresso",
+  "category": "Beverages",
+  "servingName": "1 oz shot (~63 mg caffeine)",
+  "servingMg": 63,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "decaffeinated coffee"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "decaf-coffee",
+  "name": "Decaf coffee",
+  "category": "Beverages",
+  "servingName": "8 oz cup (~2 mg caffeine)",
+  "servingMg": 2,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g. Decaf is not caffeine free.",
+  "sources": [
+   {
+    "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "instant-coffee",
+  "name": "Instant coffee",
+  "category": "Beverages",
+  "servingName": "8 oz cup (~62 mg caffeine)",
+  "servingMg": 62,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "tea"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "black-tea",
+  "name": "Black tea",
+  "category": "Beverages",
+  "servingName": "8 oz cup (~47 mg caffeine)",
+  "servingMg": 47,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Clemson Cooperative Extension: Caffeine factsheet",
+    "url": "https://hgic.clemson.edu/factsheet/caffeine/"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "green-tea",
+  "name": "Green tea",
+  "category": "Beverages",
+  "servingName": "8 oz cup (~29 mg caffeine)",
+  "servingMg": 29,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "bottled tea"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "iced-tea",
+  "name": "Iced tea",
+  "category": "Beverages",
+  "servingName": "8 oz bottled (~26 mg caffeine)",
+  "servingMg": 26,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "soda",
+   "pop"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "cola",
+  "name": "Cola",
+  "category": "Beverages",
+  "servingName": "8 oz serving (~33 mg caffeine)",
+  "servingMg": 33,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "coke"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "coca-cola",
+  "name": "Coca-Cola",
+  "category": "Beverages",
+  "servingName": "12 oz can (~34 mg caffeine)",
+  "servingMg": 34,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Approximate caffeine content in selected drinks (PMC3310521)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3310521/table/T1"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "diet coke"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "diet-cola",
+  "name": "Diet cola",
+  "category": "Beverages",
+  "servingName": "12 oz can (~46 mg caffeine, Diet Coke)",
+  "servingMg": 46,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Approximate caffeine content in selected drinks (PMC3310521)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3310521/table/T1"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "pepsi",
+  "name": "Pepsi",
+  "category": "Beverages",
+  "servingName": "12 oz can (~38 mg caffeine)",
+  "servingMg": 38,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Approximate caffeine content in selected drinks (PMC3310521)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3310521/table/T1"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "energy"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "energy-drink",
+  "name": "Energy drink",
+  "category": "Beverages",
+  "servingName": "8 oz can (~79 mg caffeine)",
+  "servingMg": 79,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g. Energy drinks may also contain other stimulants that can add to the effect.",
+  "sources": [
+   {
+    "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "red-bull",
+  "name": "Red Bull",
+  "category": "Beverages",
+  "servingName": "8.4 oz can (~80 mg caffeine)",
+  "servingMg": 80,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Mayo Clinic and manufacturer-reported figure (energy drink, about 80 mg per 8 oz)",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "monster"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "monster-energy",
+  "name": "Monster Energy",
+  "category": "Beverages",
+  "servingName": "16 oz can (~160 mg caffeine)",
+  "servingMg": 160,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g. One can of a 16 oz energy drink is about 40 percent of the daily 400 mg figure.",
+  "sources": [
+   {
+    "title": "Approximate caffeine content in selected drinks (PMC3310521)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3310521/table/T1"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "energy shot"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "5-hour-energy",
+  "name": "5-hour Energy",
+  "category": "Beverages",
+  "servingName": "2 oz shot (~200 mg caffeine)",
+  "servingMg": 200,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "cocoa"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "hot-chocolate",
+  "name": "Hot chocolate",
+  "category": "Beverages",
+  "servingName": "1 cup (~8 mg caffeine)",
+  "servingMg": 8,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Alberta Health: Learning About Caffeine",
+    "url": "https://myhealth.alberta.ca/health/AfterCareInformation/pages/conditions.aspx?HwId=abr5743"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "milk-chocolate",
+  "name": "Milk chocolate",
+  "category": "Sweets & snacks",
+  "servingName": "40 g bar (~10 mg caffeine)",
+  "servingMg": 10,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Alberta Health: Learning About Caffeine",
+    "url": "https://myhealth.alberta.ca/health/AfterCareInformation/pages/conditions.aspx?HwId=abr5743"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": 15,
+  "lethalMgPerKg": 150,
+  "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+  "guidanceDailyLimitMg": 400,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "caffeine",
+  "verified": true,
+  "id": "dark-chocolate",
+  "name": "Dark chocolate",
+  "category": "Sweets & snacks",
+  "servingName": "40 g bar (~27 mg caffeine)",
+  "servingMg": 27,
+  "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+  "sources": [
+   {
+    "title": "Alberta Health: Learning About Caffeine",
+    "url": "https://myhealth.alberta.ca/health/AfterCareInformation/pages/conditions.aspx?HwId=abr5743"
+   },
+   {
+    "title": "FDA: Spilling the beans, how much caffeine is too much",
+    "url": null
+   },
+   {
+    "title": "FDA: Pure and highly concentrated caffeine",
+    "url": "https://www.fda.gov/media/112363/download"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": 500,
+  "lethalBasis": "low end of the reported human range (0.5 to 1 g/kg)",
+  "guidanceDailyLimitMg": 5750,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable human dose threshold. Early signs are strong thirst, weakness and nausea; severe cases bring confusion, muscle twitching and seizures.",
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "salt (sodium chloride)",
+  "verified": true,
+  "id": "sea-salt",
+  "name": "Sea salt",
+  "category": "Condiments, oils & baking",
+  "servingName": "teaspoon of fine salt (~6 g)",
+  "servingMg": 6000,
+  "notes": "Daily guidance is 2,300 mg of sodium, which is about 5.75 g of salt, whatever kind of salt it is. Sea salt has about the same sodium as table salt, so the same limit applies. Never use salt water to induce vomiting.",
+  "sources": [
+   {
+    "title": "Dietary Guidelines for Americans: sodium limit (2,300 mg)",
+    "url": "https://www.dietaryguidelines.gov/"
+   },
+   {
+    "title": "PMC5537768: reported cases of fatal salt poisoning",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5537768/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": 500,
+  "lethalBasis": "low end of the reported human range (0.5 to 1 g/kg)",
+  "guidanceDailyLimitMg": 5750,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable human dose threshold. Early signs are strong thirst, weakness and nausea; severe cases bring confusion, muscle twitching and seizures.",
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "salt (sodium chloride)",
+  "verified": true,
+  "id": "kosher-salt",
+  "name": "Kosher salt",
+  "category": "Condiments, oils & baking",
+  "servingName": "teaspoon of fine salt (~6 g)",
+  "servingMg": 6000,
+  "notes": "Daily guidance is 2,300 mg of sodium, which is about 5.75 g of salt, whatever kind of salt it is. Kosher salt flakes are lighter per teaspoon than fine salt, so weigh it rather than counting teaspoons. Never use salt water to induce vomiting.",
+  "sources": [
+   {
+    "title": "Dietary Guidelines for Americans: sodium limit (2,300 mg)",
+    "url": "https://www.dietaryguidelines.gov/"
+   },
+   {
+    "title": "PMC5537768: reported cases of fatal salt poisoning",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5537768/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "pink salt"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": 500,
+  "lethalBasis": "low end of the reported human range (0.5 to 1 g/kg)",
+  "guidanceDailyLimitMg": 5750,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable human dose threshold. Early signs are strong thirst, weakness and nausea; severe cases bring confusion, muscle twitching and seizures.",
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "salt (sodium chloride)",
+  "verified": true,
+  "id": "himalayan-pink-salt",
+  "name": "Himalayan pink salt",
+  "category": "Condiments, oils & baking",
+  "servingName": "teaspoon of fine salt (~6 g)",
+  "servingMg": 6000,
+  "notes": "Daily guidance is 2,300 mg of sodium, which is about 5.75 g of salt, whatever kind of salt it is. Pink salt is still mostly sodium chloride, so the same limit applies. Never use salt water to induce vomiting.",
+  "sources": [
+   {
+    "title": "Dietary Guidelines for Americans: sodium limit (2,300 mg)",
+    "url": "https://www.dietaryguidelines.gov/"
+   },
+   {
+    "title": "PMC5537768: reported cases of fatal salt poisoning",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5537768/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": 500,
+  "lethalBasis": "low end of the reported human range (0.5 to 1 g/kg)",
+  "guidanceDailyLimitMg": 5750,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable human dose threshold. Early signs are strong thirst, weakness and nausea; severe cases bring confusion, muscle twitching and seizures.",
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": "salt (sodium chloride)",
+  "verified": true,
+  "id": "iodized-salt",
+  "name": "Iodized salt",
+  "category": "Condiments, oils & baking",
+  "servingName": "teaspoon of fine salt (~6 g)",
+  "servingMg": 6000,
+  "notes": "Daily guidance is 2,300 mg of sodium, which is about 5.75 g of salt, whatever kind of salt it is. Iodine added to salt is tiny compared with the sodium. Never use salt water to induce vomiting.",
+  "sources": [
+   {
+    "title": "Dietary Guidelines for Americans: sodium limit (2,300 mg)",
+    "url": "https://www.dietaryguidelines.gov/"
+   },
+   {
+    "title": "PMC5537768: reported cases of fatal salt poisoning",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5537768/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "equal",
+   "nutrasweet",
+   "diet soda sweetener"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": 50,
+  "safeNote": null,
+  "toxicNote": "No acute toxicity level has been set for people. The acceptable daily intake is a lifetime daily limit with a large safety margin built in, so passing it once is not the same as being poisoned.",
+  "lethalNote": "No established fatal dose in people.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "aspartame",
+  "name": "Aspartame",
+  "category": "Sweets & snacks",
+  "servingName": "gram",
+  "servingMg": 1000,
+  "notes": "Safe daily intake is the FDA acceptable daily intake of 50 mg per kg of body weight (the WHO and JECFA figure is 40). People with phenylketonuria (PKU) must avoid it.",
+  "sources": [
+   {
+    "title": "FDA: Aspartame and other sweeteners in food",
+    "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+   },
+   {
+    "title": "FDA: sweetener ADI and packet chart",
+    "url": "https://fda.gov/media/168517/download"
+   },
+   {
+    "title": "Cochrane review table of regulatory ADIs for sweeteners (PMC7387865)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7387865/table/CD012885-tbl-0002"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "splenda"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": 5,
+  "safeNote": null,
+  "toxicNote": "No acute toxicity level has been set for people. The acceptable daily intake is a lifetime daily limit with a large safety margin built in, so passing it once is not the same as being poisoned.",
+  "lethalNote": "No established fatal dose in people.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "sucralose",
+  "name": "Sucralose",
+  "category": "Sweets & snacks",
+  "servingName": "gram",
+  "servingMg": 1000,
+  "notes": "Safe daily intake is the FDA acceptable daily intake of 5 mg per kg of body weight (the EFSA and JECFA figure is 15).",
+  "sources": [
+   {
+    "title": "FDA: Aspartame and other sweeteners in food",
+    "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+   },
+   {
+    "title": "FDA: sweetener ADI and packet chart",
+    "url": "https://fda.gov/media/168517/download"
+   },
+   {
+    "title": "Cochrane review table of regulatory ADIs for sweeteners (PMC7387865)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7387865/table/CD012885-tbl-0002"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "sweet n low",
+   "sweet'n low"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": 15,
+  "safeNote": null,
+  "toxicNote": "No acute toxicity level has been set for people. The acceptable daily intake is a lifetime daily limit with a large safety margin built in, so passing it once is not the same as being poisoned.",
+  "lethalNote": "No established fatal dose in people.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "saccharin",
+  "name": "Saccharin",
+  "category": "Sweets & snacks",
+  "servingName": "gram",
+  "servingMg": 1000,
+  "notes": "Safe daily intake is the FDA acceptable daily intake of 15 mg per kg of body weight (the EFSA and JECFA figure is 5).",
+  "sources": [
+   {
+    "title": "FDA: Aspartame and other sweeteners in food",
+    "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+   },
+   {
+    "title": "FDA: sweetener ADI and packet chart",
+    "url": "https://fda.gov/media/168517/download"
+   },
+   {
+    "title": "Cochrane review table of regulatory ADIs for sweeteners (PMC7387865)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7387865/table/CD012885-tbl-0002"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "truvia",
+   "steviol glycosides",
+   "rebaudioside"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": 4,
+  "safeNote": null,
+  "toxicNote": "No acute toxicity level has been set for people. The acceptable daily intake is a lifetime daily limit with a large safety margin built in, so passing it once is not the same as being poisoned.",
+  "lethalNote": "No established fatal dose in people.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "stevia",
+  "name": "Stevia",
+  "category": "Sweets & snacks",
+  "servingName": "gram",
+  "servingMg": 1000,
+  "notes": "Safe daily intake is the acceptable daily intake of 4 mg per kg of body weight, measured as steviol equivalents (FDA, EFSA and JECFA agree). Rebaudioside A has an equivalent figure of 12 mg per kg. Check the label, because stevia products vary in strength.",
+  "sources": [
+   {
+    "title": "FDA: Aspartame and other sweeteners in food",
+    "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+   },
+   {
+    "title": "FDA: sweetener ADI and packet chart",
+    "url": "https://fda.gov/media/168517/download"
+   },
+   {
+    "title": "Cochrane review table of regulatory ADIs for sweeteners (PMC7387865)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7387865/table/CD012885-tbl-0002"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "retinol",
+   "preformed vitamin a"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 3.0,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-a",
+  "name": "Vitamin A",
+  "category": "Vitamins & minerals",
+  "servingName": "100 µg (0.1 mg)",
+  "servingMg": 0.1,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 3,000 µg a day of preformed vitamin A (retinol), counted from food and supplements together. Too much can harm the liver and bones, and can cause birth defects in pregnancy.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "niacin",
+   "nicotinic acid"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 35,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-b3",
+  "name": "Vitamin B3 (niacin)",
+  "category": "Vitamins & minerals",
+  "servingName": "50 mg tablet",
+  "servingMg": 50,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL of 35 mg applies to niacin from supplements and fortified foods. High doses can cause flushing and liver problems.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "pyridoxine"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 100,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-b6",
+  "name": "Vitamin B6",
+  "category": "Vitamins & minerals",
+  "servingName": "50 mg tablet",
+  "servingMg": 50,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 100 mg a day. Long-term high doses can damage nerves.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "folate",
+   "folic acid"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 1.0,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-b9",
+  "name": "Vitamin B9 (folate)",
+  "category": "Vitamins & minerals",
+  "servingName": "400 µg (0.4 mg) tablet",
+  "servingMg": 0.4,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL of 1,000 µg a day applies to folic acid from supplements and fortified foods, not folate in food. High folic acid can hide a vitamin B12 deficiency.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "ascorbic acid"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 2000,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-c",
+  "name": "Vitamin C",
+  "category": "Vitamins & minerals",
+  "servingName": "500 mg tablet",
+  "servingMg": 500,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 2,000 mg a day. Above that, diarrhea and stomach upset are common.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "vitamin d3",
+   "cholecalciferol",
+   "sunshine vitamin"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 0.1,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-d",
+  "name": "Vitamin D",
+  "category": "Vitamins & minerals",
+  "servingName": "25 µg (1,000 IU) softgel",
+  "servingMg": 0.025,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 100 µg (4,000 IU) a day. Very high amounts can raise blood calcium and harm the kidneys and heart.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "tocopherol"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 1000,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-e",
+  "name": "Vitamin E",
+  "category": "Vitamins & minerals",
+  "servingName": "100 mg capsule",
+  "servingMg": 100,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL of 1,000 mg applies to supplemental alpha-tocopherol. High doses can raise bleeding risk.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "phylloquinone",
+   "vitamin k1"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": "No upper limit has been set. That is not proof that any amount is safe.",
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-k",
+  "name": "Vitamin K",
+  "category": "Vitamins & minerals",
+  "servingName": "100 µg (0.1 mg)",
+  "servingMg": 0.1,
+  "notes": "No upper limit has been set for vitamin K. If you take a blood thinner such as warfarin, keep your intake steady and ask your doctor before supplements.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "thiamin"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": "No upper limit has been set. That is not proof that any amount is safe.",
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-b1",
+  "name": "Vitamin B1 (thiamine)",
+  "category": "Vitamins & minerals",
+  "servingName": "1 mg",
+  "servingMg": 1,
+  "notes": "No upper limit has been set for thiamine.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "riboflavin"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": "No upper limit has been set. That is not proof that any amount is safe.",
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-b2",
+  "name": "Vitamin B2 (riboflavin)",
+  "category": "Vitamins & minerals",
+  "servingName": "1 mg",
+  "servingMg": 1,
+  "notes": "No upper limit has been set for riboflavin.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "pantothenic acid"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": "No upper limit has been set. That is not proof that any amount is safe.",
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-b5",
+  "name": "Vitamin B5 (pantothenic acid)",
+  "category": "Vitamins & minerals",
+  "servingName": "1 mg",
+  "servingMg": 1,
+  "notes": "No upper limit has been set for pantothenic acid.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "biotin"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": "No upper limit has been set. That is not proof that any amount is safe.",
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-b7",
+  "name": "Vitamin B7 (biotin)",
+  "category": "Vitamins & minerals",
+  "servingName": "100 µg (0.1 mg)",
+  "servingMg": 0.1,
+  "notes": "No upper limit has been set for biotin. High-dose biotin can distort some lab tests, including some thyroid and heart tests.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "cobalamin"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": "No upper limit has been set. That is not proof that any amount is safe.",
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vitamin-b12",
+  "name": "Vitamin B12",
+  "category": "Vitamins & minerals",
+  "servingName": "100 µg (0.1 mg)",
+  "servingMg": 0.1,
+  "notes": "No upper limit has been set for vitamin B12.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": "No upper limit has been set. That is not proof that any amount is safe.",
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "chromium",
+  "name": "Chromium",
+  "category": "Vitamins & minerals",
+  "servingName": "100 µg (0.1 mg)",
+  "servingMg": 0.1,
+  "notes": "No upper limit has been set for chromium.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 2500,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "calcium",
+  "name": "Calcium",
+  "category": "Vitamins & minerals",
+  "servingName": "500 mg tablet",
+  "servingMg": 500,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 2,500 mg a day from food and supplements together. Too much can cause kidney stones and constipation.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 10,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "copper",
+  "name": "Copper",
+  "category": "Vitamins & minerals",
+  "servingName": "1 mg",
+  "servingMg": 1,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 10 mg a day (10,000 µg). Too much can damage the liver.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "sodium fluoride"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 5,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 10,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": "Reported fatal amounts start around 16 mg per kg in children, with adult estimates of about 32 to 64 mg per kg. Poisoning is a medical emergency at any lower amount too.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "fluoride",
+  "name": "Fluoride",
+  "category": "Vitamins & minerals",
+  "servingName": "1 mg",
+  "servingMg": 1,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 10 mg a day. Acute poisoning is a risk from swallowing fluoride products: about 5 mg per kg is called the probably toxic dose, which a small child can reach by swallowing a lot of toothpaste. Reported deaths have occurred from about 16 mg per kg in children. Call Poison Control for any large swallow.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "Whitford 2011, Acute toxicity of ingested fluoride (PubMed 21701192)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21701192/"
+   },
+   {
+    "title": "Medscape: Fluoride toxicity",
+    "url": "https://www.emedicine.com/emerg/topic181.htm"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "iodide",
+   "kelp"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 1.1,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "iodine",
+  "name": "Iodine",
+  "category": "Vitamins & minerals",
+  "servingName": "150 µg (0.15 mg)",
+  "servingMg": 0.15,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 1,100 µg a day. Too much can cause thyroid problems.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "iron supplement",
+   "ferrous sulfate",
+   "elemental iron"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": 20,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 45,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": "Over 60 mg per kg of elemental iron can cause severe, potentially fatal poisoning. Amounts differ by product: a 325 mg ferrous sulfate tablet holds about 65 mg of elemental iron.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "iron",
+  "name": "Iron",
+  "category": "Vitamins & minerals",
+  "servingName": "18 mg tablet (elemental iron)",
+  "servingMg": 18,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 45 mg a day. Iron is one of the most dangerous supplement poisonings for young children: under 20 mg per kg of elemental iron is not expected to be toxic, 20 to 60 mg per kg causes moderate symptoms, and more than 60 mg per kg can cause severe poisoning. Keep iron out of children's reach. Call Poison Control right away.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "StatPearls: Iron Toxicity (NBK526131)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK526131/"
+   },
+   {
+    "title": "Merck Manual Professional: Iron Poisoning",
+    "url": "https://www.merckmanuals.com/professional/injuries-poisoning/poisoning/iron-poisoning"
+   },
+   {
+    "title": "Poison Control (poison.org)",
+    "url": "https://www.poison.org/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "magnesium citrate",
+   "magnesium oxide",
+   "magnesium glycinate"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 350,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "magnesium",
+  "name": "Magnesium",
+  "category": "Vitamins & minerals",
+  "servingName": "100 mg",
+  "servingMg": 100,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL of 350 mg applies to magnesium from supplements and medicines only, not food or water. Too much usually causes diarrhea.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 11,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "manganese",
+  "name": "Manganese",
+  "category": "Vitamins & minerals",
+  "servingName": "1 mg",
+  "servingMg": 1,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 11 mg a day.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 2.0,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "molybdenum",
+  "name": "Molybdenum",
+  "category": "Vitamins & minerals",
+  "servingName": "100 µg (0.1 mg)",
+  "servingMg": 0.1,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 2,000 µg a day.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 4000,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "phosphorus",
+  "name": "Phosphorus",
+  "category": "Vitamins & minerals",
+  "servingName": "100 mg",
+  "servingMg": 100,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 4 g a day.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 0.4,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "selenium",
+  "name": "Selenium",
+  "category": "Vitamins & minerals",
+  "servingName": "100 µg (0.1 mg)",
+  "servingMg": 0.1,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 400 µg a day. Chronic excess can cause hair and nail loss and nerve damage.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "zinc gluconate"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 40,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "zinc",
+  "name": "Zinc",
+  "category": "Vitamins & minerals",
+  "servingName": "10 mg",
+  "servingMg": 10,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 40 mg a day. Too much can cause nausea and, over time, a copper deficiency.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 3500,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "choline",
+  "name": "Choline",
+  "category": "Vitamins & minerals",
+  "servingName": "100 mg",
+  "servingMg": 100,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 3.5 g a day.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 20,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "boron",
+  "name": "Boron",
+  "category": "Vitamins & minerals",
+  "servingName": "1 mg",
+  "servingMg": 1,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 20 mg a day.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 1.8,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "vanadium",
+  "name": "Vanadium",
+  "category": "Vitamins & minerals",
+  "servingName": "1 mg",
+  "servingMg": 1,
+  "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 1.8 mg a day, based on animal data. There is no reason to add it to food, and supplements should be used with caution.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 2300,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "sodium",
+  "name": "Sodium",
+  "category": "Vitamins & minerals",
+  "servingName": "1 mg",
+  "servingMg": 1,
+  "notes": "No upper limit (UL) could be set for sodium. The 2,300 mg a day figure is the chronic disease risk reduction intake (CDRR) in the 2019 DRIs: above it, intake is expected to raise blood pressure and cardiovascular risk. Sodium is not the same as salt: 2,300 mg of sodium is about 5.75 g of salt.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "Dietary Guidelines for Americans: sodium limit (2,300 mg)",
+    "url": "https://www.dietaryguidelines.gov/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "potassium chloride"
+  ],
+  "isMedication": false,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": null,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": "No upper limit has been set. That is not proof that any amount is safe.",
+  "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+  "lethalNote": "No established fatal dose from food or supplement amounts.",
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "potassium",
+  "name": "Potassium",
+  "category": "Vitamins & minerals",
+  "servingName": "100 mg",
+  "servingMg": 100,
+  "notes": "No upper limit has been set for potassium from food. Supplements and salt substitutes are different: very high intake can be dangerous with kidney disease or with some blood pressure medicines, so ask a doctor first.",
+  "sources": [
+   {
+    "title": "National Academies (NASEM): Dietary Reference Intakes, Tolerable Upper Intake Levels",
+    "url": "https://www.nationalacademies.org/cdn/materials/9fb9faeb-1faf-41d1-b2f7-381c9b8bdbef"
+   },
+   {
+    "title": "NIH Office of Dietary Supplements: vitamin and mineral fact sheets",
+    "url": "https://ods.od.nih.gov/factsheets/list-all/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "bayer",
+   "ecotrin",
+   "salicylate"
+  ],
+  "isMedication": true,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 3900,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "aspirin",
+  "name": "Aspirin",
+  "category": "Over-the-counter medications",
+  "servingName": "regular-strength tablet (325 mg)",
+  "servingMg": 325,
+  "notes": "The Regular Strength label says adults and children 12 and over take 1 or 2 tablets every 4 hours or 3 tablets every 6 hours, not to exceed 12 tablets (3,900 mg) in 24 hours. Children and teens with a viral illness should not take aspirin because of the risk of Reye's syndrome. Aspirin overdose can look mild at first; call Poison Control right away.",
+  "sources": [
+   {
+    "title": "DailyMed: Bayer Advanced Aspirin Regular Strength label",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11086b35-760b-460d-b1b6-e20ad6baf764"
+   },
+   {
+    "title": "Poison Control (poison.org)",
+    "url": "https://www.poison.org/"
+   }
+  ]
+ },
+ {
+  "aliases": [],
+  "isMedication": true,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 3900,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "bayer-aspirin",
+  "name": "Bayer aspirin",
+  "category": "Over-the-counter medications",
+  "servingName": "regular-strength tablet (325 mg)",
+  "servingMg": 325,
+  "notes": "This is the Regular Strength 325 mg product. The label limit is 12 tablets (3,900 mg) in 24 hours.",
+  "sources": [
+   {
+    "title": "DailyMed: Bayer Advanced Aspirin Regular Strength label",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=11086b35-760b-460d-b1b6-e20ad6baf764"
+   },
+   {
+    "title": "Poison Control (poison.org)",
+    "url": "https://www.poison.org/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "aleve",
+   "naproxen sodium"
+  ],
+  "isMedication": true,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 660,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "naproxen",
+  "name": "Naproxen (Aleve)",
+  "category": "Over-the-counter medications",
+  "servingName": "tablet (220 mg naproxen sodium)",
+  "servingMg": 220,
+  "notes": "The label says take 1 tablet every 8 to 12 hours; for the first dose you may take 2 within the first hour. Do not exceed 2 tablets in any 8 to 12 hour period or 3 tablets (660 mg) in 24 hours. Use the smallest effective dose.",
+  "sources": [
+   {
+    "title": "DailyMed: Aleve label (naproxen sodium 220 mg)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3c0ddd25-5a9a-4628-a971-65fe2a9775b5"
+   },
+   {
+    "title": "Poison Control (poison.org)",
+    "url": "https://www.poison.org/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "benadryl",
+   "antihistamine",
+   "sleep aid"
+  ],
+  "isMedication": true,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 300,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "diphenhydramine",
+  "name": "Diphenhydramine (Benadryl)",
+  "category": "Over-the-counter medications",
+  "servingName": "tablet (25 mg)",
+  "servingMg": 25,
+  "notes": "The label says adults and children 12 and over take 1 to 2 tablets (25 to 50 mg) every 4 to 6 hours and not more than 6 times in 24 hours, a maximum of 300 mg. It causes drowsiness, and it is in many sleep aids and cold products, so count every product.",
+  "sources": [
+   {
+    "title": "DailyMed: Diphenhydramine HCl 25 mg label",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b440eb2e-4de9-2b65-e053-2995a90abda8"
+   },
+   {
+    "title": "Poison Control (poison.org)",
+    "url": "https://www.poison.org/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "zyrtec"
+  ],
+  "isMedication": true,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 10,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "cetirizine",
+  "name": "Cetirizine (Zyrtec)",
+  "category": "Over-the-counter medications",
+  "servingName": "tablet (10 mg)",
+  "servingMg": 10,
+  "notes": "The adult label dose is 5 or 10 mg once a day, with a maximum of 10 mg in 24 hours.",
+  "sources": [
+   {
+    "title": "AAAAI: Allergy medications drug guide",
+    "url": "https://www.aaaai.org/tools-for-the-public/drug-guide/allergy-medications"
+   },
+   {
+    "title": "Poison Control (poison.org)",
+    "url": "https://www.poison.org/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "claritin",
+   "alavert"
+  ],
+  "isMedication": true,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 10,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "loratadine",
+  "name": "Loratadine (Claritin)",
+  "category": "Over-the-counter medications",
+  "servingName": "tablet (10 mg)",
+  "servingMg": 10,
+  "notes": "The label dose is one 10 mg tablet a day for adults and children 6 and over. Do not take more than 1 tablet in 24 hours.",
+  "sources": [
+   {
+    "title": "AAAAI: Allergy medications drug guide",
+    "url": "https://www.aaaai.org/tools-for-the-public/drug-guide/allergy-medications"
+   },
+   {
+    "title": "Poison Control (poison.org)",
+    "url": "https://www.poison.org/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "allegra"
+  ],
+  "isMedication": true,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 180,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "fexofenadine",
+  "name": "Fexofenadine (Allegra)",
+  "category": "Over-the-counter medications",
+  "servingName": "24-hour tablet (180 mg)",
+  "servingMg": 180,
+  "notes": "Adults and children 12 and over take one 180 mg tablet once a day, or 60 mg twice a day. Avoid taking it with fruit juice or aluminum and magnesium antacids.",
+  "sources": [
+   {
+    "title": "AAAAI: Allergy medications drug guide",
+    "url": "https://www.aaaai.org/tools-for-the-public/drug-guide/allergy-medications"
+   },
+   {
+    "title": "Poison Control (poison.org)",
+    "url": "https://www.poison.org/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "imodium",
+   "imodium a-d",
+   "anti-diarrheal"
+  ],
+  "isMedication": true,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 8,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "loperamide",
+  "name": "Loperamide (Imodium)",
+  "category": "Over-the-counter medications",
+  "servingName": "capsule or caplet (2 mg)",
+  "servingMg": 2,
+  "notes": "The maximum approved adult dose is 8 mg a day for OTC use (16 mg for prescription use). Taking much more than directed can cause serious heart rhythm problems and death.",
+  "sources": [
+   {
+    "title": "FDA: Loperamide (Imodium A-D) information",
+    "url": "https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/loperamide-marketed-imodium-d-information"
+   },
+   {
+    "title": "Poison Control (poison.org)",
+    "url": "https://www.poison.org/"
+   }
+  ]
+ },
+ {
+  "aliases": [
+   "pepcid",
+   "pepcid ac",
+   "acid reducer"
+  ],
+  "isMedication": true,
+  "toxicMgPerKg": null,
+  "lethalMgPerKg": null,
+  "lethalBasis": null,
+  "guidanceDailyLimitMg": 20,
+  "guidanceMaleMg": null,
+  "guidanceFemaleMg": null,
+  "guidanceMgPerKg": null,
+  "safeNote": null,
+  "toxicNote": null,
+  "lethalNote": null,
+  "extras": null,
+  "measuredAs": null,
+  "verified": true,
+  "id": "famotidine",
+  "name": "Famotidine (Pepcid)",
+  "category": "Over-the-counter medications",
+  "servingName": "Pepcid AC tablet (10 mg)",
+  "servingMg": 10,
+  "notes": "The OTC label says do not take more than 2 tablets in 24 hours. That is 20 mg for 10 mg tablets, and 40 mg for the Maximum Strength 20 mg tablets (the 20 mg figure shown here is for the regular strength). Do not use for more than 2 weeks unless a doctor says so.",
+  "sources": [
+   {
+    "title": "MedlinePlus: Famotidine",
+    "url": "https://medlineplus.gov/druginfo/meds/a687011.html"
+   },
+   {
+    "title": "Poison Control (poison.org)",
+    "url": "https://www.poison.org/"
+   }
+  ]
+ }
 ]

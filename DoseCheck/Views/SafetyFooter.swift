@@ -10,18 +10,32 @@ private struct CallButton: View {
 
     var body: some View {
         Link(destination: URL(string: "tel:\(number)")!) {
-            VStack(spacing: 2) {
-                Label(title, systemImage: icon)
-                    .font(.subheadline.weight(.semibold))
-                Text(subtitle)
-                    .font(.caption2)
-            }
-            .frame(maxWidth: .infinity)
-            .padding(.vertical, 8)
+            FooterLabel(title: title, subtitle: subtitle, icon: icon)
         }
         .buttonStyle(.borderedProminent)
         .tint(tint)
         .accessibilityLabel("\(title), \(subtitle)")
+    }
+}
+
+private struct FooterLabel: View {
+    let title: String
+    let subtitle: String
+    let icon: String
+
+    var body: some View {
+        VStack(spacing: 2) {
+            Label(title, systemImage: icon)
+                .font(.footnote.weight(.semibold))
+                .lineLimit(1)
+                .minimumScaleFactor(0.7)
+            Text(subtitle)
+                .font(.caption2)
+                .lineLimit(1)
+                .minimumScaleFactor(0.7)
+        }
+        .frame(maxWidth: .infinity)
+        .padding(.vertical, 8)
     }
 }
 
@@ -34,27 +48,38 @@ struct PoisonControlButton: View {
     }
 }
 
-/// Always-visible bar with the two emergency call buttons.
+/// Always-visible bar: suicide hotline (red) on the left, Poison Control (orange)
+/// in the middle, sources (yellow) on the right.
 struct SafetyFooter: View {
+    @State private var showSources = false
+
     var body: some View {
-        HStack(spacing: 10) {
+        HStack(spacing: 8) {
+            CallButton(
+                title: "Suicide Hotline",
+                subtitle: "Call 988",
+                icon: "heart.fill",
+                number: "988",
+                tint: .red
+            )
             CallButton(
                 title: "Poison Control",
                 subtitle: "1-800-222-1222",
                 icon: "phone.fill",
                 number: "18002221222",
-                tint: .red
+                tint: .orange
             )
-            CallButton(
-                title: "Suicide & Crisis Lifeline",
-                subtitle: "Call 988",
-                icon: "heart.fill",
-                number: "988",
-                tint: .blue
-            )
+            Button { showSources = true } label: {
+                FooterLabel(title: "Sources", subtitle: "Where data is from", icon: "book.fill")
+                    .foregroundStyle(.black)
+            }
+            .buttonStyle(.borderedProminent)
+            .tint(.yellow)
+            .accessibilityLabel("Sources, where the data comes from")
         }
         .padding(.horizontal)
         .padding(.vertical, 10)
         .background(.ultraThinMaterial)
+        .sheet(isPresented: $showSources) { SourcesView() }
     }
 }
