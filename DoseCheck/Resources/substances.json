@@ -3,7 +3,12 @@
     "id": "caffeine",
     "name": "Caffeine",
     "category": "Drinks & food",
-    "aliases": ["coffee", "energy drink", "caffeine powder", "tea"],
+    "aliases": [
+      "coffee",
+      "energy drink",
+      "caffeine powder",
+      "tea"
+    ],
     "isMedication": false,
     "toxicMgPerKg": 15,
     "lethalMgPerKg": 150,
@@ -17,13 +22,23 @@
       "FDA: Spilling the beans, how much caffeine is too much",
       "PubMed 30422505: caffeine toxicity review"
     ],
-    "verified": true
+    "verified": true,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null
   },
   {
     "id": "table-salt",
     "name": "Table salt (sodium chloride)",
     "category": "Drinks & food",
-    "aliases": ["salt", "sodium", "NaCl"],
+    "aliases": [
+      "salt",
+      "sodium",
+      "NaCl"
+    ],
     "isMedication": false,
     "toxicMgPerKg": null,
     "lethalMgPerKg": 500,
@@ -36,33 +51,58 @@
       "PMC5537768: reported cases of fatal salt poisoning",
       "Dietary Guidelines for Americans: sodium limit (2,300 mg)"
     ],
-    "verified": true
+    "verified": true,
+    "toxicNote": "No reliable human dose threshold. Early signs are strong thirst, weakness and nausea; severe cases bring confusion, muscle twitching and seizures.",
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "safeNote": null,
+    "lethalNote": null,
+    "extras": null
   },
   {
     "id": "ethanol",
     "name": "Alcohol (ethanol)",
     "category": "Drinks & food",
-    "aliases": ["beer", "wine", "liquor", "vodka", "whiskey", "drinking"],
+    "aliases": [
+      "beer",
+      "wine",
+      "liquor",
+      "vodka",
+      "whiskey",
+      "drinking"
+    ],
     "isMedication": false,
     "toxicMgPerKg": 1000,
     "lethalMgPerKg": 5000,
     "lethalBasis": "human estimate; tolerance varies enormously",
-    "guidanceDailyLimitMg": 14000,
+    "guidanceDailyLimitMg": null,
     "servingName": "standard drink (14 g pure alcohol)",
     "servingMg": 14000,
     "notes": "Around 0.8 g/kg (3 to 4 drinks) brings a blood alcohol level of about 0.10, and severe symptoms can develop at 0.8 to 1.2 g/kg. Drinking fast can be dangerous at far lower amounts, and children are much more vulnerable. US guidance is up to 1 drink a day for women and 2 for men. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911.",
     "sources": [
       "Medical Tribune / Empendium: ethanol toxic dose",
       "NIAAA: Alcohol poisoning",
+      "Hume and Weyers 1971 (body water from height and weight)",
       "Lethal figure still needs a primary source"
     ],
-    "verified": false
+    "verified": false,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "extras": [
+      "bac"
+    ],
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null
   },
   {
     "id": "nutmeg",
     "name": "Nutmeg",
     "category": "Drinks & food",
-    "aliases": ["spice", "myristicin"],
+    "aliases": [
+      "spice",
+      "myristicin"
+    ],
     "isMedication": false,
     "toxicMgPerKg": 70,
     "lethalMgPerKg": null,
@@ -75,18 +115,27 @@
       "Hallstrom and Thuvander 1997: Toxicological evaluation of myristicin",
       "PubMed 11343860: nutmeg poisoning case series"
     ],
-    "verified": true
+    "verified": true,
+    "safeNote": "No official daily limit. Normal cooking amounts are not a concern.",
+    "lethalNote": "No established fatal dose. Deaths are very rare.",
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "toxicNote": null,
+    "extras": null
   },
   {
     "id": "sugar",
     "name": "Sugar (sucrose)",
     "category": "Drinks & food",
-    "aliases": ["sweets", "table sugar"],
+    "aliases": [
+      "sweets",
+      "table sugar"
+    ],
     "isMedication": false,
     "toxicMgPerKg": null,
     "lethalMgPerKg": 29700,
     "lethalBasis": "rat LD50; not a realistic human figure",
-    "guidanceDailyLimitMg": 25000,
+    "guidanceDailyLimitMg": null,
     "servingName": "teaspoon of sugar (~4.2 g)",
     "servingMg": 4200,
     "notes": "The lethal figure comes from rats. A person could not realistically eat that much, and the real harms of sugar are long-term, not a single-dose poisoning. The guidance limit is the American Heart Association figure for added sugar for most women and children over 2 (36 g for most men).",
@@ -94,13 +143,25 @@
       "Sucrose safety data sheets (oral rat LD50 29,700 mg/kg)",
       "American Heart Association: added sugar limits"
     ],
-    "verified": true
+    "verified": true,
+    "guidanceMaleMg": 36000,
+    "guidanceFemaleMg": 25000,
+    "toxicNote": "Not acutely toxic to people at realistic amounts. Rats given huge doses showed sluggishness and diarrhea. The harm from sugar is long-term, not from a single dose.",
+    "safeNote": null,
+    "lethalNote": null,
+    "extras": null
   },
   {
     "id": "acetaminophen",
     "name": "Acetaminophen (Tylenol, paracetamol)",
     "category": "Medication",
-    "aliases": ["tylenol", "paracetamol", "APAP", "pain reliever", "cold and flu"],
+    "aliases": [
+      "tylenol",
+      "paracetamol",
+      "APAP",
+      "pain reliever",
+      "cold and flu"
+    ],
     "isMedication": true,
     "toxicMgPerKg": null,
     "lethalMgPerKg": null,
@@ -113,13 +174,24 @@
       "Extra Strength Tylenol Drug Facts label (DailyMed)",
       "poison.org"
     ],
-    "verified": true
+    "verified": true,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null
   },
   {
     "id": "ibuprofen",
     "name": "Ibuprofen (Advil, Motrin)",
     "category": "Medication",
-    "aliases": ["advil", "motrin", "NSAID", "pain reliever"],
+    "aliases": [
+      "advil",
+      "motrin",
+      "NSAID",
+      "pain reliever"
+    ],
     "isMedication": true,
     "toxicMgPerKg": null,
     "lethalMgPerKg": null,
@@ -132,6 +204,12 @@
       "FDA OTC monograph: ibuprofen 200 mg tablets, max 1,200 mg/day",
       "poison.org"
     ],
-    "verified": true
+    "verified": true,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null
   }
 ]

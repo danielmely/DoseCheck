@@ -2,16 +2,30 @@ import SwiftUI
 
 struct ContentView: View {
     @EnvironmentObject private var store: SubstanceStore
-    @AppStorage("weightKg") private var weightKg: Double = 70
-    @AppStorage("useMetric") private var useMetric: Bool = false
+    @EnvironmentObject private var profiles: ProfileStore
     @AppStorage("acceptedDisclaimer") private var acceptedDisclaimer: Bool = false
     @State private var query = ""
+    @State private var showProfiles = false
+
+    private var profile: Profile { profiles.active ?? .generic }
 
     var body: some View {
         NavigationStack {
             List {
-                Section("Your body weight") {
-                    WeightRow(weightKg: $weightKg, useMetric: $useMetric)
+                Section {
+                    Button { showProfiles = true } label: {
+                        VStack(alignment: .leading, spacing: 4) {
+                            Text("Results for").font(.caption).foregroundStyle(.secondary)
+                            Text(profile.name).font(.headline)
+                            Text(profile.summary).font(.footnote).foregroundStyle(.secondary)
+                            if profile.isGeneric {
+                                Text("Save your profile for numbers that fit you.")
+                                    .font(.footnote)
+                                    .foregroundStyle(.blue)
+                            }
+                        }
+                    }
+                    .buttonStyle(.plain)
                 }
 
                 Section("Substances") {
@@ -32,10 +46,22 @@ struct ContentView: View {
             }
             .navigationTitle("DoseCheck")
             .searchable(text: $query, prompt: "Search coffee, salt, nutmeg…")
+            .toolbar {
+                ToolbarItem(placement: .topBarLeading) {
+                    Button { showProfiles = true } label: {
+                        Label(profiles.active?.name ?? "Add person", systemImage: "person.crop.circle")
+                            .labelStyle(.titleAndIcon)
+                    }
+                    .accessibilityLabel("Saved people")
+                }
+            }
             .navigationDestination(for: Substance.self) { s in
-                SubstanceDetailView(substance: s, weightKg: weightKg)
+                SubstanceDetailView(substance: s, profile: profile)
             }
             .safeAreaInset(edge: .bottom) { SafetyFooter() }
+            .sheet(isPresented: $showProfiles) {
+                ProfilesView()
+            }
         }
         .sheet(isPresented: .init(
             get: { !acceptedDisclaimer },
@@ -43,31 +69,6 @@ struct ContentView: View {
         )) {
             DisclaimerView { acceptedDisclaimer = true }
                 .interactiveDismissDisabled()
-        }
-    }
-}
-
-private struct WeightRow: View {
-    @Binding var weightKg: Double
-    @Binding var useMetric: Bool
-
-    private var displayValue: Binding<Double> {
-        Binding(
-            get: { useMetric ? weightKg : weightKg * 2.20462 },
-            set: { weightKg = useMetric ? $0 : $0 / 2.20462 }
-        )
-    }
-
-    var body: some View {
-        HStack {
-            TextField("Weight", value: displayValue, format: .number.precision(.fractionLength(0...1)))
-                .keyboardType(.decimalPad)
-                .frame(maxWidth: 100)
-            Picker("Unit", selection: $useMetric) {
-                Text("lb").tag(false)
-                Text("kg").tag(true)
-            }
-            .pickerStyle(.segmented)
         }
     }
 }

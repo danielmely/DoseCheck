@@ -2,6 +2,13 @@
 
 iOS app (SwiftUI, iOS 17+) that answers "how much of this is too much?" Search a substance, enter your body weight, and see everyday guidance limits, toxic thresholds and rough lethal estimates in familiar units (cups of coffee, teaspoons of salt).
 
+## Features
+
+- Saved people (top-left button): name, gender, height, weight, and lb or kg preference. Several people can be saved and one is active. Stored on the device only.
+- Every edible shows three answers: safe daily intake, toxicity reported, and fatal dose. If there is no reliable number, the row says why.
+- Weight scales toxic and fatal doses, gender selects sex-specific guidance (sugar, alcohol), and height + weight + gender estimate body water (Hume-Weyers) for the blood alcohol estimate.
+- Pinned call buttons for Poison Control and the 988 lifeline on every screen.
+
 ## Design rules
 
 - Safety framing first: first-launch disclaimer, plus Poison Control (1-800-222-1222) and 988 shown on every screen.
