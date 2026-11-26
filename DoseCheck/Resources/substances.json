@@ -30013,5 +30013,2161 @@
     "isMedication": false,
     "safeNote": null,
     "toxicNote": null
+  },
+  {
+    "aliases": [
+      "cozaar"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: dizziness, fainting, and a fast or slow heartbeat.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "losartan",
+    "name": "Losartan (Cozaar)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: do not take it during pregnancy, since it can harm the baby.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Losartan",
+        "url": "https://medlineplus.gov/druginfo/meds/a695008.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "zocor",
+      "statin"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "simvastatin",
+    "name": "Simvastatin (Zocor)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus lists muscle problems, liver damage and allergic reactions as serious side effects, and cautions about pregnancy, liver disease and alcohol.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Simvastatin",
+        "url": "https://medlineplus.gov/druginfo/meds/a692030.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "crestor",
+      "statin"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "rosuvastatin",
+    "name": "Rosuvastatin (Crestor)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus gives no overdose symptoms for this drug, only the Poison Control and 911 guidance.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Rosuvastatin",
+        "url": "https://medlineplus.gov/druginfo/meds/a603033.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "hctz",
+      "water pill"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hydrochlorothiazide",
+    "name": "Hydrochlorothiazide",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus gives no overdose symptoms for this drug.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Hydrochlorothiazide",
+        "url": "https://medlineplus.gov/druginfo/meds/a682571.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lasix",
+      "water pill"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: extreme thirst, dry mouth, dizziness, confusion, extreme tiredness, vomiting and stomach cramps.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "furosemide",
+    "name": "Furosemide (Lasix)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "This is a diuretic (water pill), so too much can cause dehydration.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Furosemide",
+        "url": "https://medlineplus.gov/druginfo/meds/a682858.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "coumadin",
+      "jantoven",
+      "blood thinner"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: bloody or tarry stools, coughing or vomiting blood or coffee-ground material, pink, red or dark brown urine, heavy menstrual bleeding, unusual bruising and oozing from minor cuts.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "warfarin",
+    "name": "Warfarin (Coumadin)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: warfarin can cause serious, sometimes fatal bleeding, and the risk rises with age, high or long-term doses, injuries or surgery, and interacting medicines or supplements.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Warfarin",
+        "url": "https://medlineplus.gov/druginfo/meds/a682277.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "eliquis",
+      "blood thinner"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: unusual bleeding or bruising, red, brown or pink urine, red or black tarry stools, and coughing or vomiting blood.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "apixaban",
+    "name": "Apixaban (Eliquis)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: stopping it early raises stroke risk in atrial fibrillation, and spinal or epidural procedures on a blood thinner can cause spinal blood clots and paralysis.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Apixaban",
+        "url": "https://medlineplus.gov/druginfo/meds/a613032.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "plavix",
+      "blood thinner"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: unusual bruising or bleeding.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "clopidogrel",
+    "name": "Clopidogrel (Plavix)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: some people convert it poorly, which raises their risk of heart attack and stroke.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Clopidogrel",
+        "url": "https://medlineplus.gov/druginfo/meds/a601040.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lexapro",
+      "ssri"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: a fast or pounding heartbeat, seizures and coma.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "escitalopram",
+    "name": "Escitalopram (Lexapro)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: antidepressants raised suicidal thoughts and actions in people under 24.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Escitalopram",
+        "url": "https://medlineplus.gov/druginfo/meds/a603005.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "prozac",
+      "ssri"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: restlessness, fever, sweating, confusion, a racing heartbeat, tremors, hallucinations, nausea, seizures and coma.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "fluoxetine",
+    "name": "Fluoxetine (Prozac)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: antidepressants raised suicidal thoughts and actions in people under 24.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Fluoxetine",
+        "url": "https://medlineplus.gov/druginfo/meds/a689006.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "wellbutrin",
+      "zyban"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: seizure, hallucinations, loss of consciousness and a rapid or pounding heartbeat.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bupropion",
+    "name": "Bupropion (Wellbutrin)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: antidepressants raised suicidal thoughts and actions in people under 24.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Bupropion",
+        "url": "https://medlineplus.gov/druginfo/meds/a695033.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "desyrel"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: vomiting, drowsiness, heartbeat changes, seizures, trouble breathing and a painful erection that does not go away.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "trazodone",
+    "name": "Trazodone",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: it may raise suicidal thoughts and behavior, mainly in people under 24 and in the first months or after dose changes.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Trazodone",
+        "url": "https://medlineplus.gov/druginfo/meds/a681038.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "celexa",
+      "ssri"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: seizures.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "citalopram",
+    "name": "Citalopram (Celexa)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: antidepressants raised suicidal thoughts and actions in people under 24.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Citalopram",
+        "url": "https://medlineplus.gov/druginfo/meds/a699001.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "effexor",
+      "snri"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: dizziness, nausea, vomiting, burning or numbness in the hands and feet, hot and cold spells, sleepiness, seizures, a fast, slow or irregular heartbeat and coma.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "venlafaxine",
+    "name": "Venlafaxine (Effexor)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: higher risk of suicidal thoughts and actions in people under 24, mainly early in treatment or after dose increases.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Venlafaxine",
+        "url": "https://medlineplus.gov/druginfo/meds/a694020.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cymbalta",
+      "snri"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: blood pressure changes, seizures, dizziness or fainting, and drowsiness or unresponsiveness.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "duloxetine",
+    "name": "Duloxetine (Cymbalta)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: antidepressants raised suicidal thoughts and actions in people under 24.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Duloxetine",
+        "url": "https://medlineplus.gov/druginfo/meds/a604030.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ativan",
+      "benzodiazepine",
+      "benzo"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: drowsiness, confusion, slowed breathing and heartbeat, coordination problems and loss of consciousness.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lorazepam",
+    "name": "Lorazepam (Ativan)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: benzodiazepines combined with opioids or other sedating drugs can cause serious breathing problems, and they can be habit-forming with withdrawal.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Lorazepam",
+        "url": "https://medlineplus.gov/druginfo/meds/a682053.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "klonopin",
+      "benzodiazepine",
+      "benzo"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: drowsiness, confusion and coma.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "clonazepam",
+    "name": "Clonazepam (Klonopin)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: benzodiazepines combined with opioids or other sedating drugs can cause serious breathing problems, and they can be habit-forming with withdrawal.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Clonazepam",
+        "url": "https://medlineplus.gov/druginfo/meds/a682279.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "valium",
+      "benzodiazepine",
+      "benzo"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: drowsiness, confusion, slowed breathing and heartbeat, and loss of consciousness.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "diazepam",
+    "name": "Diazepam (Valium)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: benzodiazepines combined with opioids or other sedating drugs can cause serious breathing problems, and they can be habit-forming with withdrawal.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Diazepam",
+        "url": "https://medlineplus.gov/druginfo/meds/a682047.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ambien",
+      "sleeping pill"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: drowsiness, coma and slowed breathing or heartbeat.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "zolpidem",
+    "name": "Zolpidem (Ambien)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: it can cause possibly life-threatening sleep behaviors such as driving or eating while not fully awake, with no memory afterward.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Zolpidem",
+        "url": "https://medlineplus.gov/druginfo/meds/a693025.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "vicodin",
+      "norco",
+      "opioid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: narrowed or widened pupils, slow or stopped breathing, a slow heartbeat, cold clammy or blue skin, sleepiness and being unable to wake.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hydrocodone",
+    "name": "Hydrocodone",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: habit-forming, serious breathing problems, danger to others especially children, and risks with alcohol and pregnancy.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Hydrocodone",
+        "url": "https://medlineplus.gov/druginfo/meds/a601006.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ms contin",
+      "opioid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: slow, shallow or irregular breathing, excessive sleepiness, being unable to wake, limp muscles, cold clammy skin, changed pupils and a slow heartbeat.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "morphine",
+    "name": "Morphine",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: habit-forming, serious breathing problems, risk to others especially children, dangerous interactions, and harm to a baby if used in pregnancy.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Morphine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682133.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "dolophine",
+      "opioid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: changed pupils, slow or shallow breathing, sleepiness, being unable to wake, cool clammy or blue skin and a slow heartbeat.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "methadone",
+    "name": "Methadone",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: dependence, dangerous breathing and heart problems, drug and alcohol interactions, harm to others, and newborn withdrawal.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Methadone",
+        "url": "https://medlineplus.gov/druginfo/meds/a682134.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "suboxone",
+      "subutex",
+      "opioid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: narrowed pupils, extreme drowsiness, slow or shallow breathing and being unable to wake.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "buprenorphine",
+    "name": "Buprenorphine",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus has separate pages for other buprenorphine forms (patch, film, injection).",
+    "sources": [
+      {
+        "title": "MedlinePlus: Buprenorphine",
+        "url": "https://medlineplus.gov/druginfo/meds/a626094.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ritalin",
+      "concerta",
+      "stimulant"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: stomach upset, fainting or dizziness, vision changes, rapid breathing, agitation, shaking or twitching, confusion, hallucinations, sweating, fever, a racing or irregular heartbeat and enlarged pupils.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "methylphenidate",
+    "name": "Methylphenidate (Ritalin)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: habit-forming, so take only as prescribed, never share it, and store it securely.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Methylphenidate",
+        "url": "https://medlineplus.gov/druginfo/meds/a682188.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "adderall",
+      "stimulant"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: restlessness, confusion, aggression, twitching, weakness, rapid or irregular heartbeat, nausea, vomiting, diarrhea, seizures and coma.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "amphetamine",
+    "name": "Amphetamine (Adderall)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: habit-forming, overuse can cause serious heart problems or sudden death, and it should not be stopped abruptly.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Amphetamine",
+        "url": "https://medlineplus.gov/druginfo/meds/a616004.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "vyvanse",
+      "stimulant"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: restlessness, confusion, aggression, hallucinations, rapid breathing, tremor, fever, a fast or irregular heartbeat, seizures and coma.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lisdexamfetamine",
+    "name": "Lisdexamfetamine (Vyvanse)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: habit-forming, with misuse risks.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Lisdexamfetamine",
+        "url": "https://medlineplus.gov/druginfo/meds/a607047.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "zithromax",
+      "z-pak",
+      "antibiotic"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "azithromycin",
+    "name": "Azithromycin (Zithromax)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus gives no overdose symptoms for this drug.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Azithromycin",
+        "url": "https://medlineplus.gov/druginfo/meds/a697037.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cipro",
+      "antibiotic"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ciprofloxacin",
+    "name": "Ciprofloxacin",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: fluoroquinolones can cause tendon rupture, nerve damage, nervous system effects and worsening of myasthenia gravis.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Ciprofloxacin",
+        "url": "https://medlineplus.gov/druginfo/meds/a688016.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "vibramycin",
+      "antibiotic"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "doxycycline",
+    "name": "Doxycycline",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus gives no overdose symptoms for this drug.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Doxycycline",
+        "url": "https://medlineplus.gov/druginfo/meds/a682063.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "keflex",
+      "antibiotic"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: nausea, vomiting, diarrhea, pink, red or dark urine and stomach pain.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cephalexin",
+    "name": "Cephalexin (Keflex)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Antibiotic; finish the course as prescribed.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Cephalexin",
+        "url": "https://medlineplus.gov/druginfo/meds/a682733.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "bactrim",
+      "septra",
+      "co-trimoxazole",
+      "antibiotic"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sulfamethoxazole-trimethoprim",
+    "name": "Sulfamethoxazole-trimethoprim (Bactrim)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus gives no overdose symptoms for this drug.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Sulfamethoxazole-trimethoprim",
+        "url": "https://medlineplus.gov/druginfo/meds/a684026.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "proair",
+      "ventolin",
+      "inhaler"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: seizures, chest pain, a rapid or irregular heartbeat, nervousness, headache, shaking, dry mouth, nausea, dizziness, unusual tiredness and trouble sleeping.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "albuterol",
+    "name": "Albuterol",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "This is a rescue inhaler or tablet; follow the prescribed number of puffs.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Albuterol",
+        "url": "https://medlineplus.gov/druginfo/meds/a607004.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "singulair"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: stomach pain, sleepiness, thirst, headache, vomiting and restlessness or agitation.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "montelukast",
+    "name": "Montelukast (Singulair)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: it can cause serious mental health and behavior changes, including suicidal thoughts, so call your doctor right away if they occur.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Montelukast",
+        "url": "https://medlineplus.gov/druginfo/meds/a600014.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "protonix",
+      "ppi"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "pantoprazole",
+    "name": "Pantoprazole (Protonix)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus says proton pump inhibitors may raise the risk of wrist, hip or spine fractures and fundic gland polyps, mainly with high doses or use for a year or longer.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Pantoprazole",
+        "url": "https://medlineplus.gov/druginfo/meds/a601246.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "zofran"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: brief sudden loss of vision, dizziness or lightheadedness, fainting, constipation and an irregular heartbeat.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ondansetron",
+    "name": "Ondansetron (Zofran)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Anti-nausea medicine.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Ondansetron",
+        "url": "https://medlineplus.gov/druginfo/meds/a601209.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "viagra",
+      "revatio"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sildenafil",
+    "name": "Sildenafil (Viagra)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus covers sudden vision or hearing loss and heart-related events as serious side effects.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Sildenafil",
+        "url": "https://medlineplus.gov/druginfo/meds/a699015.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cialis",
+      "adcirca"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tadalafil",
+    "name": "Tadalafil (Cialis)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus covers nitrate interactions and sudden vision or hearing loss.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Tadalafil",
+        "url": "https://medlineplus.gov/druginfo/meds/a604008.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "glucotrol",
+      "sulfonylurea"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: low blood sugar symptoms, plus seizures and loss of consciousness.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "glipizide",
+    "name": "Glipizide",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Low blood sugar is the main overdose danger with this diabetes drug.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Glipizide",
+        "url": "https://medlineplus.gov/druginfo/meds/a684060.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "januvia"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sitagliptin",
+    "name": "Sitagliptin (Januvia)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus gives no overdose symptoms for this drug.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Sitagliptin",
+        "url": "https://medlineplus.gov/druginfo/meds/a606023.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ozempic",
+      "wegovy",
+      "rybelsus"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "semaglutide",
+    "name": "Semaglutide (Ozempic)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: it may raise the risk of thyroid tumors, including thyroid cancer; family history of thyroid tumors or MEN 2 matters.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Semaglutide",
+        "url": "https://medlineplus.gov/druginfo/meds/a619057.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lithobid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: diarrhea, vomiting, drowsiness, muscle weakness, loss of coordination, blurred vision, ringing in the ears and frequent urination.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lithium",
+    "name": "Lithium",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Lithium has a narrow safe range, so blood levels are monitored by the prescriber.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Lithium",
+        "url": "https://medlineplus.gov/druginfo/meds/a681039.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "seroquel"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: drowsiness and a fast heartbeat.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "quetiapine",
+    "name": "Quetiapine (Seroquel)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: older adults with dementia face higher risk of death, and antidepressant-type warnings apply to young people.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Quetiapine",
+        "url": "https://medlineplus.gov/druginfo/meds/a698019.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "abilify"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: drowsiness, weakness, widened pupils, nausea, vomiting, heartbeat changes, uncontrolled movements, confusion, seizures and loss of consciousness.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "aripiprazole",
+    "name": "Aripiprazole (Abilify)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: older adults with dementia face higher risk of death and stroke, and young people on antidepressants may have more suicidal thoughts.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Aripiprazole",
+        "url": "https://medlineplus.gov/druginfo/meds/a603012.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lamictal"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: loss of balance, eye movements, double vision, more seizures, an irregular heartbeat and coma.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lamotrigine",
+    "name": "Lamotrigine (Lamictal)",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: serious rashes (boxed warning); stop and call the doctor at any new rash.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Lamotrigine",
+        "url": "https://medlineplus.gov/druginfo/meds/a695007.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tegretol"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: coma, seizures, jerky movements, sleepiness, dizziness, vision changes, slowed or irregular breathing, a rapid heartbeat, nausea, vomiting and trouble urinating.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "carbamazepine",
+    "name": "Carbamazepine",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: life-threatening skin reactions (SJS/TEN) and drops in blood cells.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Carbamazepine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682237.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "topamax"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: seizures, drowsiness, speech problems, blurred or double vision, trouble thinking, loss of coordination, loss of consciousness, dizziness, stomach pain, agitation and depression.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "topiramate",
+    "name": "Topiramate",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus cautions about mental health changes and suicidal thoughts.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Topiramate",
+        "url": "https://medlineplus.gov/druginfo/meds/a697012.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lioresal"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: vomiting, weak muscle tone, drowsiness, vision problems, coma, trouble breathing and seizures.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "baclofen",
+    "name": "Baclofen",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Muscle relaxant; do not stop suddenly without your doctor.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Baclofen",
+        "url": "https://medlineplus.gov/druginfo/meds/a682530.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "zanaflex"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: drowsiness, extreme tiredness, confusion, a slow heartbeat, fainting, dizziness, slow or shallow breathing and loss of consciousness.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tizanidine",
+    "name": "Tizanidine",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Muscle relaxant.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Tizanidine",
+        "url": "https://medlineplus.gov/druginfo/meds/a601121.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "robaxin"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "methocarbamol",
+    "name": "Methocarbamol",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus gives no overdose symptoms for this drug.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Methocarbamol",
+        "url": "https://medlineplus.gov/druginfo/meds/a682579.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "mobic",
+      "nsaid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: lack of energy, drowsiness, nausea, vomiting, stomach pain, bloody or black tarry stools, bloody or coffee-ground vomit, trouble breathing, seizures and coma.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "meloxicam",
+    "name": "Meloxicam",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: NSAIDs can raise the risk of heart attack and stroke and cause stomach or intestinal ulcers and bleeding.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Meloxicam",
+        "url": "https://medlineplus.gov/druginfo/meds/a601242.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "voltaren",
+      "cataflam",
+      "nsaid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: feeling sick, vomiting, stomach pain, dark or bloody stools, sleepiness, slow or uneven breathing and unconsciousness.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "diclofenac",
+    "name": "Diclofenac",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: boxed warning for heart attack, stroke and stomach or intestinal bleeding.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Diclofenac",
+        "url": "https://medlineplus.gov/druginfo/meds/a689002.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "colcrys",
+      "gout"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: stomach pain, nausea, vomiting, diarrhea, bruising or bleeding, signs of infection, pale or gray lips, slowed breathing and a slow or irregular heartbeat.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "colchicine",
+    "name": "Colchicine",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Colchicine has a narrow margin between a helpful and a harmful dose.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Colchicine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682711.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "zyloprim",
+      "gout"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "allopurinol",
+    "name": "Allopurinol",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus has no overdose section for this drug.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Allopurinol",
+        "url": "https://medlineplus.gov/druginfo/meds/a682673.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lanoxin"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "digoxin",
+    "name": "Digoxin",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Digoxin has a narrow safe range, so blood levels are monitored. MedlinePlus lists no overdose symptoms; call Poison Control for any extra dose.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Digoxin",
+        "url": "https://medlineplus.gov/druginfo/meds/a682301.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "catapres"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: fainting, a slow heart rate, trouble breathing, shivering, slurred speech, tiredness, confusion, cold pale skin, drowsiness, weakness and small pupils.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "clonidine",
+    "name": "Clonidine",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Do not stop suddenly without your doctor.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Clonidine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682243.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "inderal",
+      "beta blocker"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: a slow heartbeat, dizziness, fatigue or weakness, fainting and trouble breathing.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "propranolol",
+    "name": "Propranolol",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Beta blocker; do not stop suddenly without your doctor.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Propranolol",
+        "url": "https://medlineplus.gov/druginfo/meds/a682607.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "coreg",
+      "beta blocker"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: a slow heartbeat, dizziness, fainting, trouble breathing, wheezing, vomiting, loss of consciousness and seizures.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "carvedilol",
+    "name": "Carvedilol",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Beta blocker; do not stop suddenly without your doctor.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Carvedilol",
+        "url": "https://medlineplus.gov/druginfo/meds/a697042.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "aldactone",
+      "water pill"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: sleepiness, confusion, rash, nausea, vomiting, dizziness, diarrhea, tingling in the arms and legs, loss of muscle tone, leg weakness and an irregular or slow heartbeat.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "spironolactone",
+    "name": "Spironolactone",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: it caused tumors in laboratory animals, so discuss risks and benefits with your doctor.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Spironolactone",
+        "url": "https://medlineplus.gov/druginfo/meds/a682627.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "atarax",
+      "vistaril"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: sedation and seizures.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hydroxyzine",
+    "name": "Hydroxyzine",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Can cause drowsiness.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Hydroxyzine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682866.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "phenergan"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Your prescriber sets the dose, and it differs from person to person. This app does not show a daily limit for prescription drugs. Take it exactly as prescribed, never take extra, and ask your pharmacist or doctor if unsure.",
+    "toxicNote": "No dose threshold is shown. Overdose signs listed by MedlinePlus: breathing problems, dizziness, fainting, a fast heartbeat, muscle stiffness, loss of coordination, dry mouth, enlarged pupils, nausea, constipation, agitation and nightmares.",
+    "lethalNote": "No fatal dose is shown for prescription drugs. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "promethazine",
+    "name": "Promethazine",
+    "category": "Prescription medications",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "MedlinePlus warning: it can slow or stop breathing and can be fatal in young children, so it is not for children under 2.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Promethazine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682284.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
   }
 ]
