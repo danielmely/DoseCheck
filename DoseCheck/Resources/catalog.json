@@ -1850,86 +1850,6 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "doxylamine-unisom",
-  "name": "Doxylamine (Unisom)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "chlorpheniramine",
-  "name": "Chlorpheniramine",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "phenylephrine",
-  "name": "Phenylephrine",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "esomeprazole-nexium",
-  "name": "Esomeprazole (Nexium)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "lansoprazole",
-  "name": "Lansoprazole",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "milk-of-magnesia",
-  "name": "Milk of Magnesia",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "aluminum-hydroxide-antacid",
-  "name": "Aluminum hydroxide antacid",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "simethicone-gas-x",
-  "name": "Simethicone (Gas-X)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "docusate-colace",
-  "name": "Docusate (Colace)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "senna",
-  "name": "Senna",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "bisacodyl-dulcolax",
-  "name": "Bisacodyl (Dulcolax)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "polyethylene-glycol-miralax",
-  "name": "Polyethylene glycol (Miralax)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "psyllium-metamucil",
-  "name": "Psyllium (Metamucil)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "meclizine-dramamine-less-drowsy",
-  "name": "Meclizine (Dramamine Less Drowsy)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "dimenhydrinate-dramamine",
-  "name": "Dimenhydrinate (Dramamine)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "hydrocortisone-cream",
-  "name": "Hydrocortisone cream",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "excedrin",
   "name": "Excedrin",
   "category": "Over-the-counter medications"
@@ -1970,26 +1890,6 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "oxymetazoline-afrin",
-  "name": "Oxymetazoline (Afrin)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "nicotine-patch",
-  "name": "Nicotine patch",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "nicotine-lozenge",
-  "name": "Nicotine lozenge",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "benzocaine",
-  "name": "Benzocaine",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "lidocaine-cream",
   "name": "Lidocaine cream",
   "category": "Over-the-counter medications"
@@ -2020,18 +1920,8 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "eye-drops-tetrahydrozoline",
-  "name": "Eye drops (tetrahydrozoline)",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "visine",
   "name": "Visine",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "minoxidil-rogaine",
-  "name": "Minoxidil (Rogaine)",
   "category": "Over-the-counter medications"
  },
  {
@@ -2092,21 +1982,6 @@
  {
   "id": "calamine-lotion",
   "name": "Calamine lotion",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "neosporin",
-  "name": "Neosporin",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "bacitracin",
-  "name": "Bacitracin",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "prevacid-24hr",
-  "name": "Prevacid 24HR",
   "category": "Over-the-counter medications"
  },
  {

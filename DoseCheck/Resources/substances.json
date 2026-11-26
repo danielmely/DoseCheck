@@ -32169,5 +32169,901 @@
         "url": "https://www.poison.org/"
       }
     ]
+  },
+  {
+    "aliases": [
+      "unisom",
+      "sleep aid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Take only the amount on the label. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "doxylamine-unisom",
+    "name": "Doxylamine (Unisom)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus advises adults 65 and older to usually avoid it, since safer and more effective options exist.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Doxylamine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682537.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "chlor-trimeton",
+      "antihistamine"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not take more, or more often, than directed. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "chlorpheniramine",
+    "name": "Chlorpheniramine",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus advises adults 65 and older to usually avoid it, since safer and more effective options exist.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Chlorpheniramine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682543.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sudafed pe",
+      "decongestant"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not take more or more often than directed. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "phenylephrine",
+    "name": "Phenylephrine",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says not to give it in cough and cold combination products to children under 4, and not to take it with MAOI antidepressants or within 2 weeks of stopping one.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Phenylephrine",
+        "url": "https://medlineplus.gov/druginfo/meds/a606008.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nexium",
+      "ppi"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not take more, less, or more often than directed. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "Overdose signs listed by MedlinePlus: confusion, drowsiness, blurred vision, a fast heartbeat, nausea, sweating, flushing, headache and dry mouth.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "esomeprazole-nexium",
+    "name": "Esomeprazole (Nexium)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says to check with a doctor first if you are pregnant, breastfeeding, have liver disease, or are 65 or older.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Esomeprazole",
+        "url": "https://medlineplus.gov/druginfo/meds/a699054.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "prevacid",
+      "ppi"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not take more or less than directed, or for longer than directed. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lansoprazole",
+    "name": "Lansoprazole",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus advises caution with allergies, pregnancy or breastfeeding, and PKU.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Lansoprazole",
+        "url": "https://medlineplus.gov/druginfo/meds/a695020.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "prevacid",
+      "lansoprazole"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not take more or less than directed, or for longer than directed. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "prevacid-24hr",
+    "name": "Prevacid 24HR",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "This is lansoprazole; the information comes from the MedlinePlus lansoprazole page.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Lansoprazole",
+        "url": "https://medlineplus.gov/druginfo/meds/a695020.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "magnesium hydroxide",
+      "antacid",
+      "laxative"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not take more, or more often, than directed, and not for over a week without a doctor's approval. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "milk-of-magnesia",
+    "name": "Milk of Magnesia",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says people with kidney disease or a magnesium-restricted diet should check with a doctor first.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Magnesium hydroxide",
+        "url": "https://medlineplus.gov/druginfo/meds/a601073.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "antacid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not use for more than 2 weeks unless a doctor directs it. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "aluminum-hydroxide-antacid",
+    "name": "Aluminum hydroxide antacid",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus asks you to tell your doctor if you have high blood pressure, heart or kidney disease or GI bleeding, or are pregnant or breastfeeding.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Aluminum hydroxide",
+        "url": "https://medlineplus.gov/druginfo/meds/a699048.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "gas-x",
+      "mylicon"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "MedlinePlus says not to take more than six tablets or eight capsules a day unless a doctor directs it. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "simethicone-gas-x",
+    "name": "Simethicone (Gas-X)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "Tablet and capsule strengths vary by brand, so use the package label.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Simethicone",
+        "url": "https://medlineplus.gov/druginfo/meds/a682683.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "colace",
+      "stool softener"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not take more, less, or more often than directed, and not for more than 1 week without a doctor's direction. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "docusate-colace",
+    "name": "Docusate (Colace)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says to check about interactions with mineral oil.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Docusate",
+        "url": "https://medlineplus.gov/druginfo/meds/a601113.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "senokot",
+      "laxative"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not use for more than about a week without a doctor. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "senna",
+    "name": "Senna",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus cautions adults 65 and older against long-term use because safer options exist.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Senna",
+        "url": "https://medlineplus.gov/druginfo/meds/a601112.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "dulcolax",
+      "laxative"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not take more than once a day or for more than a week without talking to your doctor. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bisacodyl-dulcolax",
+    "name": "Bisacodyl (Dulcolax)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says to check with a doctor first if you have stomach pain, nausea, vomiting, or a sudden bowel change lasting over 2 weeks.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Bisacodyl",
+        "url": "https://medlineplus.gov/druginfo/meds/a601027.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "miralax",
+      "laxative"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not take more, more often, or longer than directed. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "Overdose signs listed by MedlinePlus: diarrhea, thirst, confusion and seizures.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "polyethylene-glycol-miralax",
+    "name": "Polyethylene glycol (Miralax)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says anyone with a history of, or current symptoms of, a bowel blockage should talk to a doctor first.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Polyethylene glycol 3350",
+        "url": "https://medlineplus.gov/druginfo/meds/a603032.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "metamucil",
+      "fiber"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not take more or less than directed, or for over a week without a doctor's approval. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "psyllium-metamucil",
+    "name": "Psyllium (Metamucil)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says people with diabetes, heart or kidney disease, or an intestinal blockage should check with a doctor first.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Psyllium",
+        "url": "https://medlineplus.gov/druginfo/meds/a601104.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "dramamine less drowsy",
+      "antivert",
+      "bonine"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Take only the amount directed, no more and not more often. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "meclizine",
+    "name": "Meclizine (Dramamine Less Drowsy)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus advises adults 65 and older to usually avoid it, since safer and more effective options exist.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Meclizine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682548.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "dramamine"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not exceed the package-label dose or how often it says to take it. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "Overdose signs listed by MedlinePlus: large pupils, a flushed face, drowsiness, agitation, hallucinations, confusion, trouble speaking or swallowing, unsteadiness, seizures, and unresponsiveness or coma.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "dimenhydrinate-dramamine",
+    "name": "Dimenhydrinate (Dramamine)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says it is generally not recommended for children under 2 without a doctor's direction, or for adults 65 and older.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Dimenhydrinate",
+        "url": "https://medlineplus.gov/druginfo/meds/a607046.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cortizone-10",
+      "topical steroid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not apply more, less, or more often than directed. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hydrocortisone-cream",
+    "name": "Hydrocortisone cream",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says children may face a higher risk of side effects such as slowed growth, and to tell your doctor if you have diabetes or Cushing's syndrome.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Hydrocortisone topical",
+        "url": "https://medlineplus.gov/druginfo/meds/a682793.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "afrin",
+      "nasal spray"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "MedlinePlus says not to use it for more than 3 days. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "oxymetazoline-afrin",
+    "name": "Oxymetazoline (Afrin)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus advises avoiding it in children under 6 unless a doctor recommends it.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Oxymetazoline nasal spray",
+        "url": "https://medlineplus.gov/druginfo/meds/a608026.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "orajel",
+      "anbesol"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not use more or more often than directed. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "benzocaine",
+    "name": "Benzocaine",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says to call Poison Control if the product is swallowed.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Benzocaine and menthol topical",
+        "url": "https://medlineplus.gov/druginfo/meds/a626035.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "rogaine"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Using more than directed will not speed hair growth and may increase side effects. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "minoxidil-rogaine",
+    "name": "Minoxidil (Rogaine)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus advises talking to a doctor first if you have heart, kidney, liver or scalp disease, or are pregnant or breastfeeding.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Minoxidil topical",
+        "url": "https://medlineplus.gov/druginfo/meds/a689003.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "antibiotic ointment"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not use more, less, or more often than directed. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bacitracin",
+    "name": "Bacitracin",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says it is not suited to deep cuts, animal bites, serious burns or large injuries.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Bacitracin topical",
+        "url": "https://medlineplus.gov/druginfo/meds/a614052.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "triple antibiotic ointment",
+      "neomycin"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not use more, less, or more often than directed. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "neosporin",
+    "name": "Neosporin",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus advises against use on deep cuts, puncture wounds, animal bites, serious burns or large areas, and says people with hearing problems or kidney disease should talk to a doctor first.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Neomycin, polymyxin and bacitracin topical",
+        "url": "https://medlineplus.gov/druginfo/meds/a601098.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "visine",
+      "redness relief drops"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Use exactly as directed, never more or more often. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tetrahydrozoline-eye-drops",
+    "name": "Eye drops (tetrahydrozoline)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus advises talking to a doctor first if you have an eye infection, heart disease, high blood pressure or an overactive thyroid. Swallowing eye drops of this kind is a poisoning risk, especially for children, so keep the bottle out of reach and call Poison Control if it is swallowed.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Tetrahydrozoline eye drops",
+        "url": "https://medlineplus.gov/druginfo/meds/a682563.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nicoderm"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not use more or fewer patches than directed, or wear them more often. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "MedlinePlus does not list overdose symptoms for this drug. Call Poison Control at 1-800-222-1222 if too much was taken.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "nicotine-patch",
+    "name": "Nicotine patch",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus says not to smoke or use other nicotine products while using the patch, and to use caution with heart problems.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Nicotine patch",
+        "url": "https://medlineplus.gov/druginfo/meds/a601084.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nicorette lozenge"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "MedlinePlus says not to exceed 5 lozenges in any 6-hour span or 20 per day, and never use more than one at a time. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "Overdose signs listed by MedlinePlus: queasiness, vomiting, dizziness, diarrhea, weakness and a racing pulse.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "nicotine-lozenge",
+    "name": "Nicotine lozenge",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "Do not combine with another nicotine quit aid such as a patch or gum.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Nicotine lozenges",
+        "url": "https://medlineplus.gov/druginfo/meds/a606019.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
   }
 ]
