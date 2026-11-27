@@ -10,11 +10,6 @@
   "category": "Fruits"
  },
  {
-  "id": "star-fruit",
-  "name": "Star fruit",
-  "category": "Fruits"
- },
- {
   "id": "noni",
   "name": "Noni",
   "category": "Fruits"
@@ -1075,28 +1070,13 @@
   "category": "Prescription medications"
  },
  {
-  "id": "fluoride-rinse",
-  "name": "Fluoride rinse",
-  "category": "Household products"
- },
- {
   "id": "body-wash",
   "name": "Body wash",
   "category": "Household products"
  },
  {
-  "id": "deodorant",
-  "name": "Deodorant",
-  "category": "Household products"
- },
- {
   "id": "epsom-salt",
   "name": "Epsom salt",
-  "category": "Household products"
- },
- {
-  "id": "candles",
-  "name": "Candles",
   "category": "Household products"
  },
  {
@@ -1170,23 +1150,8 @@
   "category": "Household products"
  },
  {
-  "id": "contact-lens-solution",
-  "name": "Contact lens solution",
-  "category": "Household products"
- },
- {
-  "id": "denture-cleaner",
-  "name": "Denture cleaner",
-  "category": "Household products"
- },
- {
   "id": "dry-shampoo",
   "name": "Dry shampoo",
-  "category": "Household products"
- },
- {
-  "id": "shaving-cream",
-  "name": "Shaving cream",
   "category": "Household products"
  },
  {
@@ -1235,73 +1200,13 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "tulip-bulbs",
-  "name": "Tulip bulbs",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "bittersweet-nightshade",
-  "name": "Bittersweet nightshade",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "fly-agaric-mushroom",
-  "name": "Fly agaric mushroom",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "false-morel",
-  "name": "False morel",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "galerina-mushroom",
-  "name": "Galerina mushroom",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "lupine",
-  "name": "Lupine",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "snake-plant",
-  "name": "Snake plant",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "zz-plant",
-  "name": "ZZ plant",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "black-walnut-hulls",
   "name": "Black walnut hulls",
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "bloodroot",
-  "name": "Bloodroot",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "chinaberry",
-  "name": "Chinaberry",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "black-nightshade",
-  "name": "Black nightshade",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "moonseed",
   "name": "Moonseed",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "white-snakeroot",
-  "name": "White snakeroot",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -1315,53 +1220,8 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "giant-hogweed",
-  "name": "Giant hogweed",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "baneberry",
   "name": "Baneberry",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "cyclamen",
-  "name": "Cyclamen",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "crown-of-thorns",
-  "name": "Crown of thorns",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "kalanchoe",
-  "name": "Kalanchoe",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "ivy-boston",
-  "name": "Ivy (Boston)",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "climbing-lily",
-  "name": "Climbing lily",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "nerium",
-  "name": "Nerium",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "strychnine-tree",
-  "name": "Strychnine tree",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "manchineel",
-  "name": "Manchineel",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -1370,48 +1230,8 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "euphorbia",
-  "name": "Euphorbia",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "aloe-plant",
-  "name": "Aloe (plant)",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "chrysanthemum",
-  "name": "Chrysanthemum",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "marigold",
   "name": "Marigold",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "sweet-pea",
-  "name": "Sweet pea",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "tomato-leaves",
-  "name": "Tomato leaves",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "potato-leaves",
-  "name": "Potato leaves",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "skunk-cabbage",
-  "name": "Skunk cabbage",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "starfruit-kidney-risk",
-  "name": "Starfruit (kidney risk)",
   "category": "Poisonous plants & fungi"
  },
  {

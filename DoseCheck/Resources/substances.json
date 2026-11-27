@@ -3262,7 +3262,9 @@
     "aliases": [
       "nerium oleander",
       "yellow oleander",
-      "thevetia"
+      "thevetia",
+      "Nerium",
+      "Nerium oleander"
     ],
     "isMedication": false,
     "toxicMgPerKg": null,
@@ -44289,6 +44291,1325 @@
       {
         "title": "EPA: Green cleaning curriculum",
         "url": "https://www.epa.gov/sites/default/files/documents/ece_curriculum_7.2013_for_uploading.pdf"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tulip",
+      "tulipa"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not eat them. They look like onions and are eaten by mistake.",
+    "toxicNote": "Poison Control says the exact toxicity of eaten tulip bulbs has not been fully established. Two 11-year-olds who ate one developed nausea, and one felt shaky. Handling tulips can cause an irritating rash known as tulip fingers.",
+    "lethalNote": "No fatal dose is established. Poison Control notes that boiling and eating fewer than 5 bulbs a day during World War II famine caused only mild stomach effects in adults.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tulip-bulbs",
+    "name": "Tulip bulbs",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep bulbs stored away from the kitchen and from children. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "Poison Control: Tulip bulb toxicity",
+        "url": "https://www.poison.org/articles/tulip-bulb-toxicity-191"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lupin",
+      "lupinus",
+      "bitter lupin beans"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it. Bitter lupin seeds must be debittered by long soaking and boiling before they are eaten.",
+    "toxicNote": "Unprocessed lupin beans contain alkaloids that block cholinergic receptors, causing an anticholinergic syndrome: dilated pupils, dry mouth, blurred vision, lightheadedness and weakness, usually within 60 minutes. In a review of 27 case reports, symptoms most often began within an hour.",
+    "lethalNote": "No fatal dose is established. In two case reports, people who ate 200 to 500 g of insufficiently soaked bitter lupine seeds recovered within 24 to 36 hours.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lupine",
+    "name": "Lupine",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Garden lupines (ornamental) also contain quinolizidine alkaloids. Alkaloid content varies widely between species. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "PMC: Lupin poisoning, a review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12014556/"
+      },
+      {
+        "title": "PubMed: Anticholinergic syndrome after lupine seeds (Tourmos)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22746013/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "solanum nigrum",
+      "deadly nightshade lookalike"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "MedlinePlus lists atropine and solanine, which is very poisonous even in small amounts, as the poisons. Unripe fruit and leaves have the most. Symptoms include dry mouth, enlarged pupils, stomach pain, vomiting and diarrhea.",
+    "lethalNote": "MedlinePlus says death is unlikely with treatment, and symptoms last 1 to 3 days and may need a hospital stay. The approximate lethal dose of solanine for humans is reported at 2 to 5 mg/kg.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "black-nightshade",
+    "name": "Black nightshade",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not confuse with deadly nightshade (belladonna), which is far more dangerous. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Black nightshade poisoning",
+        "url": "https://medlineplus.gov/ency/article/002887.htm"
+      },
+      {
+        "title": "PMC: Glycoalkaloids of Solanaceae",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9579588/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "woody nightshade",
+      "solanum dulcamara",
+      "blue nightshade"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "All parts contain the glycoalkaloid solanine. Symptoms of solanine poisoning may include nausea, vomiting, diarrhea and abnormal heart rhythm. A large ingestion in a 4-year-old caused an anticholinergic crisis that resolved with physostigmine.",
+    "lethalNote": "Severe toxicity can include neurologic complications such as paralysis and, rarely, death, according to the CDC.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bittersweet-nightshade",
+    "name": "Bittersweet nightshade",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The red berries attract children. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "CDC PHIL: European bittersweet",
+        "url": "https://wwwn.cdc.gov/phil/Details.aspx?pid=23537"
+      },
+      {
+        "title": "MedlinePlus: Blue nightshade poisoning",
+        "url": "https://medlineplus.gov/ency/article/002888.htm"
+      },
+      {
+        "title": "PubMed: Anticholinergic toxicity from nightshade berry poisoning",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9017490/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "amanita muscaria",
+      "fly amanita"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Contains muscimol and ibotenic acid. It also has small amounts of muscarine, usually too little to cause a cholinergic picture. Effects include nausea, confusion, drowsiness, agitation and hallucinations.",
+    "lethalNote": "Deaths are rare. Amanita species such as death caps are far more dangerous, and wild mushrooms should never be eaten without expert identification.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "fly-agaric",
+    "name": "Fly agaric mushroom",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Never forage and eat mushrooms from photos or apps alone. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "StatPearls: Mushroom toxicity",
+        "url": "https://ncbi.nlm.nih.gov/sites/books/NBK537111/"
+      },
+      {
+        "title": "PMC: Toxicological profiles of mushrooms",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4206786/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "gyromitra esculenta",
+      "brain mushroom"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it. It is mistaken for true morels.",
+    "toxicNote": "Gyromitrin turns into monomethylhydrazine, a cytotoxin. Poisoning can cause seizures, delayed stomach illness and liver damage. Even breathing vapors while cooking it can cause toxicity.",
+    "lethalNote": "Gyromitrin poisoning is described as life-threatening. In Germany the mushroom is no longer classified as edible.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "false-morel",
+    "name": "False morel",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Parboiling does not reliably remove the toxin. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "StatPearls: Gyromitra mushroom toxicity",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK470580/"
+      },
+      {
+        "title": "PMC: Mushroom poisoning",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7868946/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "galerina marginata",
+      "deadly galerina"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Galerina contains amatoxins, which cause delayed vomiting and diarrhea followed by liver and kidney injury. Early symptoms can fade before organ damage appears.",
+    "lethalNote": "Amatoxin mushrooms are responsible for most deaths from mushroom poisoning. One review found 2% of Amanita patients needed liver transplants and one study found about 10% mortality.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "galerina",
+    "name": "Galerina mushroom",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Small brown mushrooms growing on wood can be Galerina. Go to emergency care even if you feel better. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "PubMed: Cytotoxic fungi, an overview",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14505933/"
+      },
+      {
+        "title": "StatPearls: Mushroom toxicity",
+        "url": "https://ncbi.nlm.nih.gov/sites/books/NBK537111/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "heracleum mantegazzianum"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not touch. Wear protective clothing and avoid sunlight on exposed skin.",
+    "toxicNote": "Sap contains furanocoumarins. Contact followed by sunlight causes phytophotodermatitis: burning, blisters and long-lasting darkened skin.",
+    "lethalNote": "This is mainly a skin hazard. Rarely, full-thickness burns or tissue death occur.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "giant-hogweed",
+    "name": "Giant hogweed",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Wash the skin with soap and water right away and keep it out of sunlight for at least 48 hours; seek care for blisters. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "Poison Control: Giant hogweed and its toxic cousins",
+        "url": "https://www.poison.org/articles/giant-hogweed-and-its-toxic-cousins-193"
+      },
+      {
+        "title": "PubMed: Occupational exposure to giant hogweed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24549994/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "hippomane mancinella",
+      "beach apple",
+      "death apple"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not touch or eat any part. Do not stand under it in the rain or burn it.",
+    "toxicNote": "Contact with bark, leaves or sap causes blisters and extreme pain.",
+    "lethalNote": "NLM says one bite of the apple-like fruit can be lethal.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "manchineel",
+    "name": "Manchineel",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Rain washing sap off the tree can burn skin. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "NLM: Manchineel apple of death",
+        "url": "https://www.ncbi.nlm.nih.gov/search/research-news/16969/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "melia azedarach",
+      "white cedar",
+      "pride of india"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Small ingestions can cause vomiting and diarrhea within an hour. All parts can cause poisoning.",
+    "lethalNote": "Poison Control says most reports of severe symptoms from large ingestions come from animals, and 5 to 6 fruits can kill a small dog. In one human case, an 18-month-old who ate half a fruit had no symptoms.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "chinaberry-tree",
+    "name": "Chinaberry",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Observe for GI upset for 8 hours after small ingestions per Poison Control. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "Poison Control: Are chinaberry trees poisonous?",
+        "url": "https://www.poison.org/articles/are-chinaberry-trees-poisonous-223"
+      },
+      {
+        "title": "PMC: Emerging plant intoxications in animals",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10467095/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ageratina altissima",
+      "milk sickness plant"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Contains tremetol, a mixture linked to trembles in livestock and milk sickness in people who drank milk from cows that ate it. Drying does not always remove toxicity: goats were poisoned by plant stored for 5 years.",
+    "lethalNote": "No human dose is established. The toxin has not been proven in live animals and the toxic agent may be a metabolite.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "white-snakeroot",
+    "name": "White snakeroot",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Historically a cause of many human poisonings in the 1800s American Midwest. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "PubMed: Toxicity of white snakeroot in goats",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25641641/"
+      },
+      {
+        "title": "PubMed: Natural plant toxicants in milk",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2180885/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "gloriosa superba",
+      "glory lily",
+      "flame lily"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "All parts, especially tubers and seeds, contain colchicine. Poisoning causes severe vomiting and diarrhea, shock, multi-organ failure and delayed bone marrow effects.",
+    "lethalNote": "A fatal colchicine case report reported death after 61 hours with severe diarrhea, shock, ARDS and multiorgan failure.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "climbing-lily",
+    "name": "Climbing lily",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Tubers resemble sweet potato or yam. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "PMC: Gloriosa superba seed poisoning case report",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4915169/"
+      },
+      {
+        "title": "PubMed: Fatal colchicine poisoning",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21387793/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "strychnos nux-vomica",
+      "nux vomica"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Seeds contain strychnine and brucine. Symptoms begin within hours: anxiety, agitation, twitching and muscle spasms progressing to convulsions while conscious.",
+    "lethalNote": "Strychnine causes muscle spasms and rigidity that can lead to respiratory failure and death.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "strychnine-tree",
+    "name": "Strychnine tree",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Nux vomica is banned or restricted in most countries. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "LiverTox: Nux vomica",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK589896/"
+      },
+      {
+        "title": "StatPearls: Strychnine toxicity",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK459306/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "spurge",
+      "pencil cactus",
+      "milk bush"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not touch the sap, and wear eye protection when pruning.",
+    "toxicNote": "The milky sap is very irritating to skin, eyes and mouth. Eye exposure can begin to hurt immediately and can cause serious injury.",
+    "lethalNote": "StatPearls says eye damage can progress to blindness without prompt treatment.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "euphorbia",
+    "name": "Euphorbia",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Flush skin and eyes with water immediately and keep rinsing. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "Poison Control: Keep away from spurge sap",
+        "url": "https://www.poison.org/articles/keep-away-from-spurge-sap-222"
+      },
+      {
+        "title": "StatPearls: Euphorbia tirucalli toxicity",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK574526/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "euphorbia milii"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not touch the sap, and wear eye protection when pruning.",
+    "toxicNote": "The milky sap is very irritating to skin, eyes and mouth. Eye exposure can begin to hurt immediately and can cause serious injury.",
+    "lethalNote": "StatPearls says eye damage can progress to blindness without prompt treatment.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "crown-of-thorns",
+    "name": "Crown of thorns",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Flush skin and eyes with water immediately and keep rinsing. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "Poison Control: Keep away from spurge sap",
+        "url": "https://www.poison.org/articles/keep-away-from-spurge-sap-222"
+      },
+      {
+        "title": "StatPearls: Euphorbia tirucalli toxicity",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK574526/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "mother of millions",
+      "mother-in-law plant"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "ASPCA lists kalanchoe as toxic to dogs and cats, with vomiting, diarrhea and, rarely, abnormal heart rhythm. The toxins are bufadienolides, a type of cardiac glycoside.",
+    "lethalNote": "No human dose is established. Related Crassulaceae cause chronic neurotoxic poisoning in grazing livestock.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "kalanchoe",
+    "name": "Kalanchoe",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Mainly a pet and livestock hazard. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "ASPCA: Kalanchoe",
+        "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/kalanchoe"
+      },
+      {
+        "title": "PMC: Bufadienolides of Kalanchoe species",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5696496/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sansevieria",
+      "mother-in-law's tongue"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not eat. Keep away from pets and young children.",
+    "toxicNote": "Contains saponins. ASPCA lists it as toxic to dogs and cats, causing nausea, vomiting and diarrhea.",
+    "lethalNote": "No fatal dose is established; serious poisoning is not expected.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "snake-plant",
+    "name": "Snake plant",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Mild stomach upset is the typical effect. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "ASPCA: Snake plant",
+        "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/snake-plant"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cyclamen persicum"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not eat, especially the tubers. Keep from pets and children.",
+    "toxicNote": "Terpenoid saponins cause salivation, vomiting and diarrhea. ASPCA says large ingestions of tubers in pets can cause heart rhythm abnormalities, seizures and death.",
+    "lethalNote": "Pet data: large tuber ingestions can be fatal. Human data are limited.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cyclamen",
+    "name": "Cyclamen",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Tubers contain the highest concentration of toxin. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "ASPCA: Cyclamen",
+        "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/cyclamen"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "aloe vera plant",
+      "aloe latex"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Eating the whole leaf or the yellow latex under the skin is not advised.",
+    "toxicNote": "The leaf latex contains anthraquinones. Ingestion is associated with diarrhea, low potassium, abdominal pain and, with prolonged use, kidney failure and a dilated, poorly working colon.",
+    "lethalNote": "No fatal dose is established. Aloe vera whole leaf extract showed clear evidence of carcinogenic activity in rats, according to a toxicity review.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "aloe-plant",
+    "name": "Aloe (plant)",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Gel from the inner leaf is different from the latex. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "PMC: Aloe vera, a review of toxicity and adverse clinical effects",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6349368/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lathyrus odoratus"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it. The flowering ornamental is not a food pea.",
+    "toxicNote": "The seeds contain a lathyrogen, gamma-glutamyl-beta-aminopropionitrile, that interferes with collagen and causes skeletal deformities and aortic rupture in animals.",
+    "lethalNote": "Human poisoning from ornamental sweet peas is not well documented.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "sweet-pea",
+    "name": "Sweet pea",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Eating large amounts over a long time is the concern. Avoid eating the seeds or pods. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "PMC: Naturally occurring toxic factors in plants used as food",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1935363/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tomato plant leaves",
+      "tomato stems"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not eat the leaves or stems. Ripe tomato fruit is fine.",
+    "toxicNote": "Leaves, stems and unripe fruit contain alpha-tomatine, a steroidal glycoalkaloid. Glycoalkaloid doses of 1 to 5 mg/kg are acutely toxic to humans.",
+    "lethalNote": "Doses of 3 to 6 mg/kg of glycoalkaloids have resulted in death, according to a food-toxin review (potato data).",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "tomato-leaves",
+    "name": "Tomato leaves",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Cooking does not destroy glycoalkaloids. Tomatine is much less toxic than solanine in practice. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "PMC: Naturally occurring food toxins",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3153292/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "potato tops",
+      "potato plant"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not eat the leaves, sprouts or green tubers.",
+    "toxicNote": "Potato tops contain much higher glycoalkaloids than tubers. In a UK study, leaf samples had up to 22.6 mg alpha-solanine and up to 55.7 mg alpha-chaconine per 100 g.",
+    "lethalNote": "Glycoalkaloid doses of 1 to 5 mg/kg are acutely toxic and 3 to 6 mg/kg have resulted in death, per a food-toxin review.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "potato-leaves",
+    "name": "Potato leaves",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Tubers kept from light contained only 0.05 to 0.65 mg alpha-solanine per 100 g. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "PubMed: Toxic hazard of green potato tops",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8655092/"
+      },
+      {
+        "title": "PMC: Naturally occurring food toxins",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3153292/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "carambola",
+      "averrhoa carambola",
+      "star fruit"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Avoid completely with kidney disease. Otherwise limit to small servings and do not eat on an empty stomach.",
+    "toxicNote": "Contains caramboxin, a neurotoxin, and oxalate. In people with impaired kidneys it can cause hiccups, confusion, seizures and status epilepticus. Oxalate can also cause acute kidney injury.",
+    "lethalNote": "Starfruit toxicity can cause severe and often fatal encephalopathy in kidney failure patients, even after small amounts. One man who ate more than 50 starfruit needed dialysis.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "starfruit",
+    "name": "Starfruit (kidney risk)",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "People with normal kidneys usually clear the toxin, but dehydration and an empty stomach raise the risk. If someone eats any, call Poison Control at 1-800-222-1222 and name the plant exactly. Call 911 for seizures, collapse or trouble breathing.",
+    "sources": [
+      {
+        "title": "PubMed: Nephrotoxicity and neurotoxicity following star fruit",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33693950/"
+      },
+      {
+        "title": "PMC: Acute kidney injury with neurological features: star fruit",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6977387/"
+      },
+      {
+        "title": "PMC: Starfruit neurotoxicity in a hemodialysis patient",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13433546/"
+      },
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sanguinaria canadensis",
+      "black salve"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it. Do not apply bloodroot or black salve to skin.",
+    "toxicNote": "The root contains sanguinarine, which kills cells by blocking Na+/K+-ATPase. On skin it forms an eschar (dead tissue), and bloodroot products can cause significant tissue destruction and keloid scarring. StatPearls says swallowed sanguinarine may induce heart failure and myocarditis.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bloodroot",
+    "name": "Bloodroot",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Black salve is advertised as a skin cancer cure but clinical evidence is lacking and it destroys healthy tissue too. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "CDC PHIL: Bloodroot",
+        "url": "https://wwwn.cdc.gov/phil/Details.aspx?pid=23529"
+      },
+      {
+        "title": "PubMed: Bloodroot",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23169210/"
+      },
+      {
+        "title": "StatPearls: Plant alkaloids toxicity",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK587364/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "symplocarpus foetidus"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Contains insoluble calcium oxalate crystals. Chewing causes oral irritation, pain and swelling of mouth, tongue and lips, drooling, vomiting and difficulty swallowing (ASPCA lists it as toxic to dogs, cats and horses).",
+    "lethalNote": "Serious poisoning is not expected.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "skunk-cabbage",
+    "name": "Skunk cabbage",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Rinse the mouth and sip water or milk; call Poison Control if swelling affects swallowing or breathing. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "ASPCA: Skunk cabbage",
+        "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/skunk-cabbage"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "zamioculcas zamiifolia"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it. Keep from pets and children.",
+    "toxicNote": "ASPCA lists the ZZ plant among insoluble calcium oxalate houseplants. Chewing causes mouth and throat irritation, drooling, vomiting and diarrhea.",
+    "lethalNote": "Serious poisoning is not expected.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "zz-plant",
+    "name": "ZZ plant",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Poison Control says oxalate plants cause quick mouth pain, and nausea, vomiting and diarrhea are rare. Wash hands after handling. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "ASPCA: These houseplants can cause trouble for your pets",
+        "url": "https://www.aspca.org/news/these-houseplants-can-cause-trouble-your-pets"
+      },
+      {
+        "title": "Poison Control: Alocasia (oxalate plants)",
+        "url": "https://www.poison.org/articles/are-plants-in-the-alocasia-genus-poisonous-221"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "mum",
+      "daisy mum",
+      "garden mums"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not eat garden mums.",
+    "toxicNote": "ASPCA lists chrysanthemum as toxic to dogs, cats and horses. Toxins are sesquiterpene lactones and pyrethrins, causing vomiting, diarrhea, drooling, incoordination and skin irritation.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "chrysanthemum",
+    "name": "Chrysanthemum",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Mostly a pet hazard; contact dermatitis can occur in people. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "ASPCA: Chrysanthemum",
+        "url": "https://www.aspca.org/pet-care/aspca-poison-control/toxic-and-non-toxic-plants/chrysanthemum"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "parthenocissus tricuspidata",
+      "boston ivy berries"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "A case-report review groups Boston ivy among plants with soluble oxalates, which can cause systemic oxalate toxicity (kidney effects) when eaten in quantity.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "boston-ivy",
+    "name": "Ivy (Boston)",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Berries attract children; swallowing small amounts is usually mild. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "PMC: Poisoning from Alocasia roots (oxalate plants table)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12031045/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "antiperspirant",
+      "deodorant stick"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not swallow. Keep out of children's reach.",
+    "toxicNote": "MedlinePlus lists aluminum salts and ethyl alcohol as the harmful ingredients. Swallowing can cause throat burning, abdominal pain, vomiting, diarrhea, blurred vision, slurred speech, low blood pressure and, with large amounts, collapse. Eye contact can burn.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "deodorant",
+    "name": "Deodorant",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not make the person throw up unless told to. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Deodorant poisoning",
+        "url": "https://medlineplus.gov/ency/article/002696.htm"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "shaving foam",
+      "shave gel"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not swallow. Keep out of children's reach.",
+    "toxicNote": "MedlinePlus says shaving cream is not very poisonous; most symptoms come from allergic reaction or eye contact. Ingredients of concern are anionic and nonionic surfactants. Symptoms can include throat burning, stomach pain, vomiting, rash and blurred vision.",
+    "lethalNote": "Recovery is very likely.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "shaving-cream",
+    "name": "Shaving cream",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Rinse eyes with water for 15 minutes if splashed. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Shaving cream poisoning",
+        "url": "https://medlineplus.gov/ency/article/002717.htm"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "candle wax",
+      "paraffin wax"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not eat. Keep candles away from toddlers.",
+    "toxicNote": "MedlinePlus considers candle wax nonpoisonous, but a large amount swallowed may block the intestines. Scents and dyes can cause allergic reactions.",
+    "lethalNote": "Recovery is very likely.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "candles",
+    "name": "Candles",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Burning candles pose fire and indoor-air hazards separate from swallowing. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Candles poisoning",
+        "url": "https://medlineplus.gov/ency/article/002766.htm"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "polident",
+      "denture tablets",
+      "denture cleanser"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not swallow tablets or the soaking solution. Rinse dentures well.",
+    "toxicNote": "In a case report, a man who swallowed three denture cleanser tablets developed a perforated gastric ulcer within 7 days; authors say intact tablet fragments likely cause significant stomach injury, while dissolved tablets are less likely to. Consumer reports describe burning mouth and upset stomach after swallowing solution.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "denture-cleaner",
+    "name": "Denture cleaner",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Ingesting whole tablets is more hazardous than the dissolved liquid. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "PMC: Ingestion of a denture cleanser, gastric perforation?",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550105/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "saline lens solution",
+      "multipurpose solution"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Use only as directed for lenses. Never put hydrogen peroxide solution directly in the eye.",
+    "toxicNote": "Poison Control says swallowing contact lens solution can cause nausea, mild stomach upset and burning in the mouth and throat. Hydrogen peroxide solution in the eye causes chemical burns.",
+    "lethalNote": "Serious poisoning from swallowing is not expected.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "contact-lens-solution",
+    "name": "Contact lens solution",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Peroxide and rinse solutions come in similar bottles; check the label every time. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "Poison Control: Contact lens solutions",
+        "url": "https://www.poison.org/articles/contact-lens-solutions-daily-care-for-your-eyes"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "fluoride mouthwash",
+      "anticavity rinse"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Swish and spit. Do not give to children who may swallow.",
+    "toxicNote": "Poison Control says swallowing a mouthful is unlikely to cause toxicity, but large amounts can cause toxicity from alcohol and/or fluoride: nausea, vomiting, diarrhea, blood electrolyte changes and kidney and heart problems. ATSDR says rinses contain high fluoride and are not intended to be ingested.",
+    "lethalNote": "One review gives a probably toxic fluoride dose of about 5 mg/kg for children and an acute lethal dose of 32 to 64 mg/kg for adults.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "fluoride-rinse",
+    "name": "Fluoride rinse",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Call Poison Control for any child who swallows more than a mouthful. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "Poison Control: Mouthwash, swish and spit",
+        "url": "https://www.poison.org/articles/mouthwash"
+      },
+      {
+        "title": "ATSDR: Fluorides public health statement",
+        "url": "https://wwwn.cdc.gov/TSP/PHS/PHS.aspx?phsid=210&toxid=38"
+      },
+      {
+        "title": "PMC: Dental product exposures reported to the PIC Erfurt",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7228954/"
       },
       {
         "title": "Poison Control (poison.org)",
