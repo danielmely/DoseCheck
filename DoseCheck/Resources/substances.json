@@ -35683,5 +35683,971 @@
         "url": "https://www.poison.org/articles/multi-surface-cleaning-spray"
       }
     ]
+  },
+  {
+    "aliases": [
+      "ammonium hydroxide"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed. Never mix it with bleach.",
+    "toxicNote": "Poison Control says mixing bleach and ammonia creates poisonous chloramine gas, which irritates the airways and causes throat irritation, nasal burning and coughing. Fume exposure can also cause eye, nose and throat irritation, difficulty breathing, headache and dizziness. This entry covers fumes; Poison Control's pages do not give a swallowed amount.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ammonia",
+    "name": "Ammonia",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Open windows and leave the area if you smell a chlorine-like odor after mixing cleaners. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: What's that smell?",
+        "url": "https://www.poison.org/articles/unknown-fumes"
+      },
+      {
+        "title": "Poison Control: What happens when you drink bleach?",
+        "url": "https://www.poison.org/articles/what-is-bleach"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says fabric softeners contain some of the same chemicals as detergents, and mouth, skin or eye irritation is possible if a child swallows or splashes it.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "fabric-softener",
+    "name": "Fabric softener",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Children and laundry products",
+        "url": "https://www.poison.org/articles/laundry-products"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "windex",
+      "glass cleaner"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says glass cleaner is irritating if swallowed, causing stomach irritation, nausea, vomiting and diarrhea. In severe cases confusion, drowsiness and mouth burns can occur. Mixing with bleach can make poisonous gas.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "window-cleaner",
+    "name": "Window cleaner",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Poison Control's page is about Windex products specifically. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Is Windex toxic?",
+        "url": "https://www.poison.org/articles/is-windex-toxic"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "hair conditioner"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says most hair rinses and conditioners are relatively safe, causing no toxicity or mild irritation of the mouth, throat or stomach if swallowed. More significant stomach irritation can occur with some color rinses (ammonia or hydrogen peroxide) and deep conditioners that contain cationic detergents.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "conditioner",
+    "name": "Conditioner",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: What happens if you ingest hair rinse or conditioner?",
+        "url": "https://www.poison.org/articles/hair-rinse-and-conditioner"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says toxicity is low if sunscreen is accidentally swallowed, applied to the eyes or inhaled. It can sometimes cause skin irritation, rash and allergic contact dermatitis.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sunscreen",
+    "name": "Sunscreen",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Poison Control says toxicity is low if sunscreen is accidentally swallowed. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Are sunscreen products safe?",
+        "url": "https://www.poison.org/articles/sunscreen"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "baby lotion"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control's page on baby lotions and eczema creams says that if a baby swallows lotion they may have a mild upset stomach, loose stools or diarrhea. Take it away, wipe out the mouth and give a small amount of water.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lotion",
+    "name": "Lotion",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "This entry reflects Poison Control's guidance for baby lotions; other lotions may differ. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Baby lotion and eczema creams",
+        "url": "https://www.poison.org/articles/dry-skin-and-more-baby-lotion-and-eczema-creams"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says nail polish is not poisonous when used as intended, but some ingredients can be harmful if swallowed or inhaled over a long time. Swallowing it can cause nausea, vomiting and stomach pain. If it gets in the eye, rinse for at least 15 minutes.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "nail-polish",
+    "name": "Nail polish",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Is nail polish poisonous?",
+        "url": "https://www.poison.org/articles/nail-polish"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says perfume is an alcohol source. After a swallow, give a light snack to prevent a drop in blood sugar, and call Poison Control.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "perfume",
+    "name": "Perfume",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Call Poison Control with the product's label. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: My child drank perfume",
+        "url": "https://www.poison.org/articles/perfume"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says perfume and cologne are an alcohol source. After a swallow, give a light snack to prevent a drop in blood sugar, and call Poison Control.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cologne",
+    "name": "Cologne",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Call Poison Control with the product's label. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: My child drank perfume",
+        "url": "https://www.poison.org/articles/perfume"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says swallowed hair dye can cause mouth and stomach irritation or injury and life-threatening allergic reactions, and a chemical burn is possible depending on the product.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hair-dye",
+    "name": "Hair dye",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Follow the label's instructions. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Concerns about hair dye",
+        "url": "https://www.poison.org/articles/hair-dye"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says hairspray is minimally toxic when used as directed, and swallowing small amounts is usually not dangerous. Deliberately swallowing or inhaling it can be very dangerous.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hair-spray",
+    "name": "Hair spray",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Rinse eyes or mouth, or get fresh air, if irritated. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: The safety of hairspray",
+        "url": "https://www.poison.org/articles/hairspray"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says lip products should not be eaten or swallowed. In one reported case a 2-year-old ate two packets of lip balm and was advised to have a snack and watch for nausea, vomiting or diarrhea. Do not induce vomiting.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lip-balm",
+    "name": "Lip balm",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: What you need to know about lip products",
+        "url": "https://www.poison.org/articles/lip-products-224"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "talc"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not inhale it, and do not eat it.",
+    "toxicNote": "Poison Control says talcum powder can be fatal if inhaled, and serious lung problems can occur if talc is inhaled. Many baby powders now contain corn starch instead of talc.",
+    "lethalNote": "Poison Control says talcum powder can be fatal if inhaled. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "baby-powder",
+    "name": "Baby powder",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Are diaper rash products dangerous?",
+        "url": "https://www.poison.org/articles/2011-mar/are-diaper-rash-products-dangerous"
+      },
+      {
+        "title": "Poison Control: Cosmetic powders",
+        "url": "https://www.poison.org/articles/cosmetics-powders"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "talc"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not inhale it, and do not eat it.",
+    "toxicNote": "Poison Control says talcum powder can be fatal if inhaled, and serious lung problems can occur if talc is inhaled. Many baby powders now contain corn starch instead of talc.",
+    "lethalNote": "Poison Control says talcum powder can be fatal if inhaled. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "talcum-powder",
+    "name": "Talcum powder",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Are diaper rash products dangerous?",
+        "url": "https://www.poison.org/articles/2011-mar/are-diaper-rash-products-dangerous"
+      },
+      {
+        "title": "Poison Control: Cosmetic powders",
+        "url": "https://www.poison.org/articles/cosmetics-powders"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "diaper rash cream"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says vomiting and diarrhea are expected if a child swallows a large amount of diaper cream, and the usual advice is fluids to drink. The exception among diaper products is talcum powder, which can be fatal if inhaled.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "diaper-cream",
+    "name": "Diaper cream",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Are diaper rash products dangerous?",
+        "url": "https://www.poison.org/articles/2011-mar/are-diaper-rash-products-dangerous"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says paint is toxic when swallowed, causing irritation, burning, nausea, vomiting, diarrhea and abdominal pain, and oil-based paints can be aspirated into the lungs. Latex paint is mildly irritating, and swallowed latex paint causes upset stomach or vomiting.",
+    "lethalNote": "Poison Control says oil-based paint can be inhaled into the lungs when swallowed, causing aspiration pneumonia. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "paint",
+    "name": "Paint",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Toxicity of paint, varnish, and lacquers",
+        "url": "https://www.poison.org/articles/paint-varnish-lacquer"
+      },
+      {
+        "title": "Poison Control: Paints for indoor use",
+        "url": "https://www.poison.org/articles/paints-for-indoor-use"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "school glue",
+      "elmers"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be eaten.",
+    "toxicNote": "Poison Control says most school glues are not poisons.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "glue",
+    "name": "Glue",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Safe use of art products",
+        "url": "https://www.poison.org/articles/safe-use-of-art-products"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "krazy glue",
+      "cyanoacrylate"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not eat it. Do not pull bonded skin apart.",
+    "toxicNote": "Poison Control says super glue is not toxic once dry; the main effect is bonding of surfaces. Do not pull bonded areas apart.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "super-glue",
+    "name": "Super glue",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Is super glue toxic?",
+        "url": "https://www.poison.org/articles/super-glue"
+      },
+      {
+        "title": "Poison Control: Safe use of art products",
+        "url": "https://www.poison.org/articles/safe-use-of-art-products"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says unintentional exposures to ant baits generally pose little risk because of their low concentration. Toddlers who taste ant bait might develop nausea and vomiting, and skin or eye contact causes irritation.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ant-bait",
+    "name": "Ant bait",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Skin or eye irritation is possible. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Is ant bait safe around children?",
+        "url": "https://www.poison.org/articles/is-ant-bait-safe-around-children-193"
+      },
+      {
+        "title": "Poison Control: Borates, borax, and boric acid",
+        "url": "https://www.poison.org/articles/borates"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "deet",
+      "bug spray"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed. Do not use DEET on children under 2 months.",
+    "toxicNote": "Poison Control describes a case in which a child drank a repellent containing DEET and had seizures.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "insect-repellent-deet",
+    "name": "Insect repellent (DEET)",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not use DEET on infants under 2 months; follow the label. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Use DEET safely",
+        "url": "https://www.poison.org/articles/use-deet-safely"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "insecticide"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says insecticides may be toxic on skin, in the eyes, inhaled or swallowed. Pyrethroids are less toxic to humans, with irritation the most common effect; large swallows can cause seizures, coma and respiratory arrest.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bug-spray",
+    "name": "Bug spray",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Check the label for the active ingredient and tell Poison Control.",
+    "sources": [
+      {
+        "title": "Poison Control: Bug off: Getting the facts on insecticides",
+        "url": "https://www.poison.org/articles/insecticide"
+      },
+      {
+        "title": "Poison Control: Pyrethroids",
+        "url": "https://www.poison.org/articles/pyrethroids"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says lawn fertilizer is irritating and can cause stomach upset if swallowed. Some products also contain weed killers and insecticides.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "fertilizer",
+    "name": "Fertilizer",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Read the label for added weed killers or insecticides. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Lawn chemicals",
+        "url": "https://www.poison.org/articles/lawn-chemicals"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "pool chemicals"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says chlorinating products for home pools are generally safe for swimmers when used properly. Chloramine gas irritates the respiratory tract, causing coughing and trouble breathing. Never mix bleach with an acid or ammonia product.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "pool-chlorine",
+    "name": "Pool chlorine",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Never mix bleach with an acid. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: What to know about chlorine safety",
+        "url": "https://www.poison.org/articles/pool-chemical-safety-192"
+      },
+      {
+        "title": "Poison Control: Chlorine gas",
+        "url": "https://www.poison.org/articles/chlorine-gas"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be eaten.",
+    "toxicNote": "Poison Control says Play-Doh is not toxic. A large amount swallowed may cause a mild upset stomach, and it is a choking hazard.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "play-doh",
+    "name": "Play-Doh",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Choking hazard for young children. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Is Play-Doh edible?",
+        "url": "https://www.poison.org/articles/playdoh"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be eaten.",
+    "toxicNote": "Poison Control says crayons are not poisonous, but a child can inhale one.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "crayons",
+    "name": "Crayons",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Call 911 if a child is having trouble breathing. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Non-toxic substances: Can they harm my children?",
+        "url": "https://www.poison.org/articles/nontoxic-substances-can-cause-worry"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says glow sticks are not poisonous. If swallowed, mouth irritation and an upset stomach can occur. Rinse skin and eyes if the liquid leaks.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "glow-sticks",
+    "name": "Glow sticks",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Are glow sticks dangerous?",
+        "url": "https://www.poison.org/articles/glow-sticks"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "rock salt"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says ice-melt products commonly contain sodium chloride, calcium chloride, potassium chloride, magnesium chloride or urea. If swallowed they can be irritating and cause stomach distress, and on skin or paws they cause irritation and dryness.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ice-melt",
+    "name": "Ice melt",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Check which chemical is in your product. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Pets, kids, and ice melt products",
+        "url": "https://www.poison.org/articles/ice-melt-products-harmful-to-pets-and-kids"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "rock salt"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says ice-melt products commonly contain sodium chloride, calcium chloride, potassium chloride, magnesium chloride or urea. If swallowed they can be irritating and cause stomach distress, and on skin or paws they cause irritation and dryness.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "road-salt",
+    "name": "Road salt",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Check which chemical is in your product. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Pets, kids, and ice melt products",
+        "url": "https://www.poison.org/articles/ice-melt-products-harmful-to-pets-and-kids"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says spackle is not meant to be swallowed, and small amounts are safe.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "spackle",
+    "name": "Spackle",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Keep spackle out of reach of children",
+        "url": "https://www.poison.org/articles/keep-spackle-out-of-reach-of-children-214"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says caulk is generally only a mild irritant, and serious effects are not expected from fumes, eye or hand contact, or a little in the mouth. Cured caulk is a possible choking hazard and may cause mild stomach upset.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "caulk",
+    "name": "Caulk",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: What you need to know about caulk",
+        "url": "https://www.poison.org/articles/caulk-164"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "concrete",
+      "portland cement"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed. Avoid skin and eye contact.",
+    "toxicNote": "Poison Control says cement is corrosive because of its high pH, and can burn skin, eyes, mouth and lungs. Swallowing it can burn the lips, mouth, throat and stomach, with drooling, trouble swallowing or vomiting, and in some cases cement can harden in the gut and cause obstruction.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cement",
+    "name": "Cement",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Cement can harden in the gut. Wash thoroughly if it gets on skin. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Don't get burned by cement",
+        "url": "https://www.poison.org/articles/cement"
+      }
+    ]
   }
 ]

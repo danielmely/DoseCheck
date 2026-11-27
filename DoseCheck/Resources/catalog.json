@@ -2055,23 +2055,8 @@
   "category": "Prescription medications"
  },
  {
-  "id": "ammonia",
-  "name": "Ammonia",
-  "category": "Household products"
- },
- {
   "id": "dishwasher-pods",
   "name": "Dishwasher pods",
-  "category": "Household products"
- },
- {
-  "id": "fabric-softener",
-  "name": "Fabric softener",
-  "category": "Household products"
- },
- {
-  "id": "window-cleaner",
-  "name": "Window cleaner",
   "category": "Household products"
  },
  {
@@ -2080,38 +2065,8 @@
   "category": "Household products"
  },
  {
-  "id": "conditioner",
-  "name": "Conditioner",
-  "category": "Household products"
- },
- {
   "id": "body-wash",
   "name": "Body wash",
-  "category": "Household products"
- },
- {
-  "id": "sunscreen",
-  "name": "Sunscreen",
-  "category": "Household products"
- },
- {
-  "id": "lotion",
-  "name": "Lotion",
-  "category": "Household products"
- },
- {
-  "id": "nail-polish",
-  "name": "Nail polish",
-  "category": "Household products"
- },
- {
-  "id": "perfume",
-  "name": "Perfume",
-  "category": "Household products"
- },
- {
-  "id": "hair-dye",
-  "name": "Hair dye",
   "category": "Household products"
  },
  {
@@ -2120,38 +2075,8 @@
   "category": "Household products"
  },
  {
-  "id": "paint",
-  "name": "Paint",
-  "category": "Household products"
- },
- {
   "id": "turpentine",
   "name": "Turpentine",
-  "category": "Household products"
- },
- {
-  "id": "glue",
-  "name": "Glue",
-  "category": "Household products"
- },
- {
-  "id": "super-glue",
-  "name": "Super glue",
-  "category": "Household products"
- },
- {
-  "id": "ant-bait",
-  "name": "Ant bait",
-  "category": "Household products"
- },
- {
-  "id": "insect-repellent-deet",
-  "name": "Insect repellent (DEET)",
-  "category": "Household products"
- },
- {
-  "id": "fertilizer",
-  "name": "Fertilizer",
   "category": "Household products"
  },
  {
@@ -2160,28 +2085,8 @@
   "category": "Household products"
  },
  {
-  "id": "pool-chlorine",
-  "name": "Pool chlorine",
-  "category": "Household products"
- },
- {
   "id": "epsom-salt",
   "name": "Epsom salt",
-  "category": "Household products"
- },
- {
-  "id": "play-doh",
-  "name": "Play-Doh",
-  "category": "Household products"
- },
- {
-  "id": "crayons",
-  "name": "Crayons",
-  "category": "Household products"
- },
- {
-  "id": "glow-sticks",
-  "name": "Glow sticks",
   "category": "Household products"
  },
  {
@@ -2255,11 +2160,6 @@
   "category": "Household products"
  },
  {
-  "id": "bug-spray",
-  "name": "Bug spray",
-  "category": "Household products"
- },
- {
   "id": "wasp-spray",
   "name": "Wasp spray",
   "category": "Household products"
@@ -2277,16 +2177,6 @@
  {
   "id": "de-icer",
   "name": "De-icer",
-  "category": "Household products"
- },
- {
-  "id": "road-salt",
-  "name": "Road salt",
-  "category": "Household products"
- },
- {
-  "id": "ice-melt",
-  "name": "Ice melt",
   "category": "Household products"
  },
  {
@@ -2370,21 +2260,6 @@
   "category": "Household products"
  },
  {
-  "id": "baby-powder",
-  "name": "Baby powder",
-  "category": "Household products"
- },
- {
-  "id": "talcum-powder",
-  "name": "Talcum powder",
-  "category": "Household products"
- },
- {
-  "id": "diaper-cream",
-  "name": "Diaper cream",
-  "category": "Household products"
- },
- {
   "id": "baby-wipes",
   "name": "Baby wipes",
   "category": "Household products"
@@ -2410,11 +2285,6 @@
   "category": "Household products"
  },
  {
-  "id": "hair-spray",
-  "name": "Hair spray",
-  "category": "Household products"
- },
- {
   "id": "dry-shampoo",
   "name": "Dry shampoo",
   "category": "Household products"
@@ -2430,18 +2300,8 @@
   "category": "Household products"
  },
  {
-  "id": "cologne",
-  "name": "Cologne",
-  "category": "Household products"
- },
- {
   "id": "hand-cream",
   "name": "Hand cream",
-  "category": "Household products"
- },
- {
-  "id": "lip-balm",
-  "name": "Lip balm",
   "category": "Household products"
  },
  {
@@ -2462,21 +2322,6 @@
  {
   "id": "liquid-nails",
   "name": "Liquid nails",
-  "category": "Household products"
- },
- {
-  "id": "spackle",
-  "name": "Spackle",
-  "category": "Household products"
- },
- {
-  "id": "caulk",
-  "name": "Caulk",
-  "category": "Household products"
- },
- {
-  "id": "cement",
-  "name": "Cement",
   "category": "Household products"
  },
  {
