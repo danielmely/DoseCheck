@@ -33065,5 +33065,329 @@
         "url": "https://www.poison.org/"
       }
     ]
+  },
+  {
+    "aliases": [
+      "tylenol pm extra strength",
+      "acetaminophen pm"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 1000,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This is the maximum on the product's Drug Facts label, not a target. Do not take it with other products that contain the same ingredient.",
+    "toxicNote": "Taking more than the label directs can cause serious harm. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": "acetaminophen",
+    "verified": true,
+    "id": "tylenol-pm",
+    "name": "Tylenol PM",
+    "category": "Over-the-counter medications",
+    "servingName": "caplet (500 mg acetaminophen)",
+    "servingMg": 500,
+    "notes": "Each caplet has acetaminophen 500 mg and diphenhydramine 25 mg. Label: 2 caplets at bedtime, no more than 2 caplets in 24 hours, not for children under 12. Acetaminophen is in many products. The label warns of severe liver damage with more than the daily maximum, with other acetaminophen products, or with 3 or more alcoholic drinks every day.",
+    "sources": [
+      {
+        "title": "Tylenol PM Extra Strength Drug Facts (DailyMed)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=639f4e01-9723-a619-e053-2991aa0a549a"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "excedrin extra strength",
+      "excedrin migraine"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 2000,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This is the maximum on the product's Drug Facts label, not a target. Do not take it with other products that contain the same ingredient.",
+    "toxicNote": "Taking more than the label directs can cause serious harm. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": "acetaminophen",
+    "verified": true,
+    "id": "excedrin",
+    "name": "Excedrin",
+    "category": "Over-the-counter medications",
+    "servingName": "caplet (250 mg acetaminophen)",
+    "servingMg": 250,
+    "notes": "Each Extra Strength caplet has acetaminophen 250 mg, aspirin 250 mg and caffeine 65 mg. Label: 2 caplets every 6 hours, not more than 8 caplets in 24 hours. The label also warns about aspirin allergy and stomach bleeding, and that the dose has about as much caffeine as a cup of coffee. Acetaminophen is in many products. The label warns of severe liver damage with more than the daily maximum, with other acetaminophen products, or with 3 or more alcoholic drinks every day.",
+    "sources": [
+      {
+        "title": "Excedrin Extra Strength Drug Facts (DailyMed)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=60af6b21-9dc2-461e-a9bd-28d8e75cecb5"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "advil pm caplets"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This is the maximum on the product's Drug Facts label, not a target. Do not take it with other products that contain the same ingredient.",
+    "toxicNote": "Taking more than the label directs can cause serious harm. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": "ibuprofen",
+    "verified": true,
+    "id": "advil-pm",
+    "name": "Advil PM",
+    "category": "Over-the-counter medications",
+    "servingName": "caplet (200 mg ibuprofen)",
+    "servingMg": 200,
+    "notes": "Each caplet has ibuprofen 200 mg and diphenhydramine citrate 38 mg. Label: 2 caplets at bedtime, no more than 2 caplets in 24 hours. The label warns of severe stomach bleeding and allergic reactions.",
+    "sources": [
+      {
+        "title": "Advil PM Drug Facts (DailyMed)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a3c30dd2-75f3-4f8b-88d7-4a63dea5bad7"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "naproxen pm"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 440,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This is the maximum on the product's Drug Facts label, not a target. Do not take it with other products that contain the same ingredient.",
+    "toxicNote": "Taking more than the label directs can cause serious harm. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": "naproxen sodium",
+    "verified": true,
+    "id": "aleve-pm",
+    "name": "Aleve PM",
+    "category": "Over-the-counter medications",
+    "servingName": "caplet (220 mg naproxen sodium)",
+    "servingMg": 220,
+    "notes": "Each caplet has naproxen sodium 220 mg and diphenhydramine 25 mg. Label: 2 caplets at bedtime, no more than 2 caplets in 24 hours. The label warns of severe stomach bleeding.",
+    "sources": [
+      {
+        "title": "Aleve PM Drug Facts (DailyMed)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82891458-ab0d-459a-8602-dcebd22c3010"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "motrin",
+      "ibuprofen"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 1200,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This is the maximum on the product's Drug Facts label, not a target. Do not take it with other products that contain the same ingredient.",
+    "toxicNote": "Taking more than the label directs can cause serious harm. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": "ibuprofen",
+    "verified": true,
+    "id": "motrin-ib",
+    "name": "Motrin IB",
+    "category": "Over-the-counter medications",
+    "servingName": "caplet (200 mg)",
+    "servingMg": 200,
+    "notes": "Label for adults and children 12 and older: 1 caplet every 4 to 6 hours, 2 only if 1 does not work, and do not exceed 6 caplets in 24 hours unless a doctor directs it.",
+    "sources": [
+      {
+        "title": "Motrin IB Drug Facts (DailyMed)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d21129f8-4d96-4e36-bc39-a534306dd77e"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tylenol 8 hr arthritis pain",
+      "extended release acetaminophen"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 3900,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This is the maximum on the product's Drug Facts label, not a target. Do not take it with other products that contain the same ingredient.",
+    "toxicNote": "Taking more than the label directs can cause serious harm. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": "acetaminophen",
+    "verified": true,
+    "id": "tylenol-arthritis",
+    "name": "Tylenol Arthritis",
+    "category": "Over-the-counter medications",
+    "servingName": "caplet (650 mg)",
+    "servingMg": 650,
+    "notes": "Extended-release: 2 caplets every 8 hours, swallow whole, no more than 6 caplets in 24 hours. Acetaminophen is in many products. The label warns of severe liver damage with more than the daily maximum, with other acetaminophen products, or with 3 or more alcoholic drinks every day.",
+    "sources": [
+      {
+        "title": "Tylenol 8 HR Arthritis Pain Drug Facts (DailyMed)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3af22fc8-e4e0-4863-8696-6bc1257047cb"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "midol complete"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 3000,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This is the maximum on the product's Drug Facts label, not a target. Do not take it with other products that contain the same ingredient.",
+    "toxicNote": "Taking more than the label directs can cause serious harm. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": "acetaminophen",
+    "verified": true,
+    "id": "midol",
+    "name": "Midol",
+    "category": "Over-the-counter medications",
+    "servingName": "caplet (500 mg acetaminophen)",
+    "servingMg": 500,
+    "notes": "Midol Complete caplets have acetaminophen 500 mg, caffeine 60 mg and pyrilamine 15 mg. Label: 2 caplets every 6 hours as needed, not more than 6 caplets per day. It may cause drowsiness. Acetaminophen is in many products. The label warns of severe liver damage with more than the daily maximum, with other acetaminophen products, or with 3 or more alcoholic drinks every day.",
+    "sources": [
+      {
+        "title": "Midol Complete Drug Facts (DailyMed)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ce9e6acb-a38b-4c9b-a7e8-3e1c2a49a324"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "vicks nyquil",
+      "nyquil cold and flu"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This product has no single milligram limit in this app. Follow the Directions on the package label and do not combine it with other cold, pain or sleep products that contain the same ingredient.",
+    "toxicNote": "Taking more than the label directs can cause serious harm. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": "acetaminophen",
+    "verified": true,
+    "id": "nyquil",
+    "name": "NyQuil",
+    "category": "Over-the-counter medications",
+    "servingName": "30 mL dose",
+    "servingMg": 650,
+    "notes": "Each 30 mL dose of Vicks NyQuil Cold & Flu liquid has acetaminophen 650 mg, dextromethorphan 30 mg and doxylamine 12.5 mg. Directions: 30 mL every 6 hours for age 12 and over. NyQuil Severe is a different formula taken every 4 hours, so read your bottle. Acetaminophen is in many products. The label warns of severe liver damage with more than the daily maximum, with other acetaminophen products, or with 3 or more alcoholic drinks every day.",
+    "sources": [
+      {
+        "title": "Vicks NyQuil Cold & Flu Drug Facts (DailyMed)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=330d42da-5041-3059-e063-6394a90a2d55"
+      },
+      {
+        "title": "Vicks NyQuil Severe Cold & Flu Drug Facts (DailyMed)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d1657403-b953-4db1-9a86-343e9e769a1a"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "vicks dayquil"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This product has no single milligram limit in this app. Follow the Directions on the package label and do not combine it with other cold, pain or sleep products that contain the same ingredient.",
+    "toxicNote": "Taking more than the label directs can cause serious harm. Call Poison Control at 1-800-222-1222 for any overdose.",
+    "lethalNote": "No fatal dose is shown for this product. An overdose is a medical emergency: call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": "acetaminophen",
+    "verified": true,
+    "id": "dayquil",
+    "name": "DayQuil",
+    "category": "Over-the-counter medications",
+    "servingName": "15 mL dose",
+    "servingMg": 325,
+    "notes": "The liquid has acetaminophen 325 mg, dextromethorphan 10 mg and phenylephrine 5 mg in each 15 mL. Check your bottle's directions. Acetaminophen is in many products. The label warns of severe liver damage with more than the daily maximum, with other acetaminophen products, or with 3 or more alcoholic drinks every day.",
+    "sources": [
+      {
+        "title": "Vicks DayQuil and NyQuil Drug Facts (DailyMed)",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=04dc3835-64be-d9e4-e063-6394a90a8599"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
   }
 ]

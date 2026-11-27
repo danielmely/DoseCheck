@@ -1850,38 +1850,8 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "excedrin",
-  "name": "Excedrin",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "midol",
-  "name": "Midol",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "nyquil",
-  "name": "NyQuil",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "dayquil",
-  "name": "DayQuil",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "theraflu",
   "name": "Theraflu",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "tylenol-pm",
-  "name": "Tylenol PM",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "advil-pm",
-  "name": "Advil PM",
   "category": "Over-the-counter medications"
  },
  {
@@ -2007,21 +1977,6 @@
  {
   "id": "emetrol",
   "name": "Emetrol",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "tylenol-arthritis",
-  "name": "Tylenol Arthritis",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "motrin-ib",
-  "name": "Motrin IB",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "aleve-pm",
-  "name": "Aleve PM",
   "category": "Over-the-counter medications"
  },
  {
