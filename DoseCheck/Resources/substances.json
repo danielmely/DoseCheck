@@ -39678,5 +39678,1477 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11321869/"
       }
     ]
+  },
+  {
+    "aliases": [
+      "guaifenesin dextromethorphan"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 120,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "dextromethorphan",
+    "verified": true,
+    "id": "mucinex-dm",
+    "name": "Mucinex DM",
+    "category": "Over-the-counter medications",
+    "servingName": "tablet (30 mg dextromethorphan)",
+    "servingMg": 30,
+    "notes": "This is the 12-hour 600 mg guaifenesin and 30 mg dextromethorphan tablet. The label says adults and children 12 and over take 1 or 2 tablets every 12 hours, no more than 4 tablets in 24 hours (120 mg dextromethorphan). The Maximum Strength tablet has double the amounts, and its limit is 2 tablets in 24 hours. Not for children under 12.",
+    "sources": [
+      {
+        "title": "DailyMed: Mucinex DM label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4226f394-f85e-45b1-8d5f-7cffb7dd492f"
+      },
+      {
+        "title": "DailyMed: Mucinex DM Maximum Strength label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=588eddc1-fa30-41cc-8ed9-c01319ea21c6"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "dextromethorphan polistirex"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 120,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "dextromethorphan",
+    "verified": true,
+    "id": "delsym",
+    "name": "Delsym",
+    "category": "Over-the-counter medications",
+    "servingName": "5 mL (30 mg dextromethorphan)",
+    "servingMg": 30,
+    "notes": "Delsym is a 12-hour cough suppressant. The label says adults and children 12 and over take 10 mL every 12 hours, no more than 20 mL (120 mg dextromethorphan) in 24 hours. The label gives smaller doses for children 4 to 11 and says not to use it under age 4, so check the label for a child.",
+    "sources": [
+      {
+        "title": "DailyMed: Delsym label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e3e1d126-76c2-4776-8ce0-449625b7e6ba"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "phenylephrine sinus congestion"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 60,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "phenylephrine",
+    "verified": true,
+    "id": "sudafed-pe",
+    "name": "Sudafed PE",
+    "category": "Over-the-counter medications",
+    "servingName": "tablet (10 mg phenylephrine)",
+    "servingMg": 10,
+    "notes": "The label says adults and children 12 and over take 1 tablet every 4 hours, no more than 6 tablets (60 mg phenylephrine) in 24 hours. Ask a doctor first if you have heart disease, high blood pressure, thyroid disease, diabetes or trouble urinating from an enlarged prostate. Not the same as Sudafed with pseudoephedrine.",
+    "sources": [
+      {
+        "title": "DailyMed: Sudafed PE Sinus Congestion label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ca08917-1a75-4365-8520-c083e6a4225a"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "pseudoephedrine 120 mg"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 240,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "pseudoephedrine",
+    "verified": true,
+    "id": "sudafed-12-hour",
+    "name": "Sudafed 12 Hour",
+    "category": "Over-the-counter medications",
+    "servingName": "tablet (120 mg pseudoephedrine)",
+    "servingMg": 120,
+    "notes": "The label says adults and children 12 and over take 1 tablet every 12 hours, no more than 2 tablets (240 mg pseudoephedrine) in 24 hours. Do not use under age 12. Ask a doctor first if you have heart disease, high blood pressure, thyroid disease, diabetes or trouble urinating from an enlarged prostate. Do not crush or chew.",
+    "sources": [
+      {
+        "title": "DailyMed: Sudafed Sinus Congestion 12 Hour label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d600b5d5-7d95-4ad6-a95b-6d73502743d7"
+      },
+      {
+        "title": "MedlinePlus: Pseudoephedrine",
+        "url": "https://medlineplus.gov/druginfo/meds/a682619.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "loratadine pseudoephedrine"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 240,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "pseudoephedrine",
+    "verified": true,
+    "id": "claritin-d",
+    "name": "Claritin-D",
+    "category": "Over-the-counter medications",
+    "servingName": "tablet (pseudoephedrine 240 mg in the 24 Hour; 120 mg in the 12 Hour)",
+    "servingMg": 240,
+    "notes": "Figures are for pseudoephedrine. The 24 Hour tablet (loratadine 10 mg, pseudoephedrine 240 mg) is 1 tablet daily, no more than 1 in 24 hours. The 12 Hour tablet (loratadine 5 mg, pseudoephedrine 120 mg) is 1 tablet every 12 hours, no more than 2 in 24 hours. Either way the pseudoephedrine limit is 240 mg a day. Ask a doctor first for ages under 12 or liver or kidney disease. Do not crush or chew.",
+    "sources": [
+      {
+        "title": "DailyMed: Claritin-D 24 Hour label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3ea6a90b-8cb1-46b0-9ff7-be7090245e53"
+      },
+      {
+        "title": "DailyMed: Claritin-D 12 Hour label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=a7125705-01ff-4418-8c53-9209c2bbb484&type=display"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "fexofenadine pseudoephedrine"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 240,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "pseudoephedrine",
+    "verified": true,
+    "id": "allegra-d",
+    "name": "Allegra-D",
+    "category": "Over-the-counter medications",
+    "servingName": "tablet (120 mg pseudoephedrine, 60 mg fexofenadine)",
+    "servingMg": 120,
+    "notes": "Figures are for pseudoephedrine. The label says adults and children 12 and over take 1 tablet every 12 hours on an empty stomach with water, no more than 2 tablets in 24 hours. Do not use under 12. Adults 65 and older, and people with kidney disease, should ask a doctor first. Swallow whole.",
+    "sources": [
+      {
+        "title": "DailyMed: Allegra-D 12 Hour label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=b32e172a-abf5-4c17-aa39-19e517952b91"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cetirizine pseudoephedrine"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 240,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "pseudoephedrine",
+    "verified": true,
+    "id": "zyrtec-d",
+    "name": "Zyrtec-D",
+    "category": "Over-the-counter medications",
+    "servingName": "tablet (120 mg pseudoephedrine, 5 mg cetirizine)",
+    "servingMg": 120,
+    "notes": "Figures are for pseudoephedrine. The label says adults and children 12 and over take 1 tablet every 12 hours, no more than 2 tablets in 24 hours. Adults 65 and older, children under 12, and people with liver or kidney disease should ask a doctor first. Swallow whole; do not break or chew.",
+    "sources": [
+      {
+        "title": "DailyMed: Zyrtec-D label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1ecf9ba-1c03-7fb7-e053-2a95a90a875a"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "alka seltzer original",
+      "aspirin sodium bicarbonate citric acid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 2600,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "aspirin",
+    "verified": true,
+    "id": "alka-seltzer",
+    "name": "Alka-Seltzer",
+    "category": "Over-the-counter medications",
+    "servingName": "tablet (325 mg aspirin)",
+    "servingMg": 325,
+    "notes": "Figures are for aspirin in Alka-Seltzer Original. The label says adults and children 12 and over dissolve 2 tablets in 4 ounces of water every 4 hours, no more than 8 tablets (2,600 mg aspirin) in 24 hours. Adults 60 and over: no more than 4 tablets (1,300 mg) in 24 hours. Ask a doctor for children under 12. Each tablet also has 567 mg of sodium. Aspirin raises bleeding risk, so check with a doctor if you take blood thinners.",
+    "sources": [
+      {
+        "title": "DailyMed: Alka-Seltzer Original label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5be36a7f-7d1f-468d-9c29-92c8cd3ef1bc"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "famotidine calcium carbonate magnesium hydroxide"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 20,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "famotidine",
+    "verified": true,
+    "id": "pepcid-complete",
+    "name": "Pepcid Complete",
+    "category": "Over-the-counter medications",
+    "servingName": "chewable tablet (10 mg famotidine)",
+    "servingMg": 10,
+    "notes": "Figures are for famotidine. Each chewable tablet has 10 mg famotidine, 800 mg calcium carbonate and 165 mg magnesium hydroxide. The label says adults and children 12 and over chew 1 tablet to relieve symptoms and not use more than 2 chewable tablets in 24 hours (20 mg famotidine). Do not swallow whole. Ask a doctor for children under 12. See a doctor if you need it for more than 14 days.",
+    "sources": [
+      {
+        "title": "DailyMed: Pepcid Complete label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=39f7ee67-4eab-42b0-82fc-40dc8ce7666b"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "rolaids original"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 6750,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "calcium carbonate",
+    "verified": true,
+    "id": "rolaids",
+    "name": "Rolaids",
+    "category": "Over-the-counter medications",
+    "servingName": "chewable tablet (675 mg calcium carbonate)",
+    "servingMg": 675,
+    "notes": "Figures are for calcium carbonate in Rolaids Original (675 mg calcium carbonate and 135 mg magnesium hydroxide per tablet). The label says adults and children 12 and over chew 2 to 4 tablets as symptoms occur, with no more than 10 tablets in 24 hours, and not at that maximum for more than 2 weeks unless a doctor says so. Ask a doctor first if you have kidney disease or a magnesium-restricted diet. Ultra Strength and Max Strength tablets are stronger and have lower tablet limits (7 and 6 a day), so follow the package.",
+    "sources": [
+      {
+        "title": "DailyMed: Rolaids Original label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28d9b359-ae44-2c87-e063-6394a90a22f0&audience=professional"
+      },
+      {
+        "title": "DailyMed: Rolaids Ultra Strength 1200 label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28d9897d-46bf-d206-e063-6394a90a2b27&audience=consumer"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "gaviscon extra strength"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 2560,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "aluminum hydroxide",
+    "verified": true,
+    "id": "gaviscon",
+    "name": "Gaviscon",
+    "category": "Over-the-counter medications",
+    "servingName": "chewable tablet (160 mg aluminum hydroxide)",
+    "servingMg": 160,
+    "notes": "Figures are for aluminum hydroxide in Gaviscon Extra Strength chewable tablets (160 mg aluminum hydroxide and 105 mg magnesium carbonate). The label says chew 2 to 4 tablets four times a day, no more than 16 tablets in 24 hours, and not at the maximum for over 2 weeks. Do not swallow whole. Tell a doctor or pharmacist if you take prescription drugs, since antacids can interact. The liquid versions have different strengths and limits, so use the package.",
+    "sources": [
+      {
+        "title": "DailyMed: Gaviscon Extra Strength tablets label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f367927-c366-465c-a059-e2cfb337d562"
+      },
+      {
+        "title": "DailyMed: Gaviscon liquid label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2d74e5bc-1f10-4fb6-9258-cd906e360013"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "goodys",
+      "headache powder"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 2080,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "aspirin",
+    "verified": true,
+    "id": "goodys-powder",
+    "name": "Goody's powder",
+    "category": "Over-the-counter medications",
+    "servingName": "powder (520 mg aspirin)",
+    "servingMg": 520,
+    "notes": "Figures are for aspirin in Goody's Extra Strength powder, which also has 260 mg acetaminophen and 32.5 mg caffeine per powder. The label says to take no more than 4 powders in 24 hours, which it calls the maximum daily amount, and warns of severe liver damage from more than that or from combining with other acetaminophen products. Some Goody's versions use 325 mg acetaminophen, 500 mg aspirin and 65 mg caffeine per pack, with the same 4-pack limit, so check your box. Aspirin raises stomach bleeding risk, especially with blood thinners or 3 or more alcoholic drinks a day.",
+    "sources": [
+      {
+        "title": "DailyMed: Goody's Extra Strength label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=16d774cc-4247-4bf8-9b5a-c338ffebda3d"
+      },
+      {
+        "title": "DailyMed: Goody's Mixed Fruit Blast label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6cb758bf-5a50-46bb-96e7-65b810b12de0"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "bc",
+      "bc original"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 3380,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "aspirin",
+    "verified": true,
+    "id": "bc-powder",
+    "name": "BC powder",
+    "category": "Over-the-counter medications",
+    "servingName": "powder (845 mg aspirin)",
+    "servingMg": 845,
+    "notes": "Figures are for aspirin in original BC powder, which also has 65 mg caffeine. The label says adults and children 12 and over place 1 powder on the tongue every 6 hours and take no more than 4 powders in 24 hours unless a doctor says so. BC Arthritis has 1,000 mg aspirin per powder, and BC Max Strength adds 500 mg acetaminophen to 500 mg aspirin, with the same 4-powder limit, so check your product. Aspirin raises stomach bleeding risk, especially with blood thinners or 3 or more alcoholic drinks a day.",
+    "sources": [
+      {
+        "title": "DailyMed: BC powder label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=226173d4-b6d5-4fe6-b24e-1cc5d1b31c88"
+      },
+      {
+        "title": "DailyMed: BC Max label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e2a07ab-23e6-49b4-a676-212dc6880f14"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "phosphorated carbohydrate",
+      "anti-nausea liquid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "The label says not to take more than 5 doses in 1 hour without asking a doctor. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "emetrol",
+    "name": "Emetrol",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "Emetrol is a sugar-and-phosphoric-acid solution for upset stomach with nausea. The label says adults and children 12 and over take 1 to 2 tablespoons, children 2 to 11 take 1 to 2 teaspoons, repeat every 15 minutes until the nausea eases, and not more than 5 doses in 1 hour without asking a doctor. It contains fructose, so it is not for people with hereditary fructose intolerance, and people with diabetes should ask a doctor first.",
+    "sources": [
+      {
+        "title": "DailyMed: Emetrol label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a8469128-592a-4682-82c7-4d2a6f97a998"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tetrahydrozoline",
+      "red eye drops"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Use only the number of drops on the label. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "visine",
+    "name": "Visine",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "Visine Red Eye drops contain 0.05% tetrahydrozoline. The label says adults and children 6 and over put 1 to 2 drops in the affected eye up to 4 times a day, children under 6 should ask a doctor, and the label says not to use it under age 2 on some versions. It is for the eye only. The label says that if it is swallowed, get medical help or contact Poison Control right away, and Poison Control is 1-800-222-1222.",
+    "sources": [
+      {
+        "title": "DailyMed: Visine A.C. label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=257b9666-0163-499b-9673-bf6f4d6899b1&audience=consumer"
+      },
+      {
+        "title": "DailyMed: Visine Red Eye Comfort label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d7abd7cb-e094-481f-bea5-a5983e2c9ef4"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "robitussin cough chest congestion dm",
+      "dextromethorphan guaifenesin liquid"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 120,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "dextromethorphan",
+    "verified": true,
+    "id": "robitussin-dm",
+    "name": "Robitussin DM",
+    "category": "Over-the-counter medications",
+    "servingName": "20 mL dose (20 mg dextromethorphan)",
+    "servingMg": 20,
+    "notes": "Figures are for dextromethorphan in the adult Robitussin Cough + Chest Congestion DM liquid (20 mg dextromethorphan and 200 mg guaifenesin in each 20 mL; Maximum Strength has 400 mg guaifenesin). The label says to take 20 mL every 4 hours and not more than 6 doses in 24 hours. The adult product is not for children under 12. Measure only with the dosing cup.",
+    "sources": [
+      {
+        "title": "DailyMed: Robitussin Cough + Chest Congestion DM label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4908b326-e1da-44ca-8087-7e41a16c27b0"
+      },
+      {
+        "title": "DailyMed: Robitussin Maximum Strength DM label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f1d022dd-c2ca-497f-87d5-9ef3e20e8ea7"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "theraflu severe cold",
+      "theraflu daytime"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 3250,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "acetaminophen",
+    "verified": true,
+    "id": "theraflu",
+    "name": "Theraflu",
+    "category": "Over-the-counter medications",
+    "servingName": "packet (650 mg acetaminophen)",
+    "servingMg": 650,
+    "notes": "Figures are for acetaminophen in Theraflu Daytime Severe Cold and Cough powder (650 mg acetaminophen, 20 mg dextromethorphan and 10 mg phenylephrine per packet). The label says one packet every 4 hours and not more than 5 packets in 24 hours unless a doctor directs it. Not for children under 12. Other Theraflu versions use different amounts (for example 500 mg acetaminophen per packet with a 6-packet limit), so follow your box. The labels warn of severe liver damage from more than 4,000 mg of acetaminophen in 24 hours, from other acetaminophen products, or from 3 or more alcoholic drinks a day.",
+    "sources": [
+      {
+        "title": "DailyMed: Theraflu Daytime Severe Cold and Cough label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=60acfcf4-5b55-40ef-b432-faeed8457881&audience=consumer"
+      },
+      {
+        "title": "DailyMed: Theraflu Severe Cold Relief Daytime packets label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7d902237-a990-4c5e-875b-291e124e143b"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "baby orajel",
+      "benzocaine gel"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Use only as the label directs, and never for a child under 2. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "orajel",
+    "name": "Orajel",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "Orajel is a brand of benzocaine mouth-pain product. The FDA warns that OTC oral products with benzocaine should not be used for infants and children younger than 2, because they can cause methemoglobinemia, a life-threatening drop in the oxygen carried by the blood. The FDA also asked makers to stop marketing benzocaine products for teething pain in children. Poison Control says even small amounts of benzocaine can be dangerous for infants.",
+    "sources": [
+      {
+        "title": "FDA: Risk of serious blood disorder prompts FDA action on OTC benzocaine products",
+        "url": "https://www.fda.gov/Drugs/DrugSafety/ucm608265.htm"
+      },
+      {
+        "title": "Poison Control: Teething gels, a warning",
+        "url": "https://www.poison.org/articles/teething-gels-a-warning"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "benzocaine liquid",
+      "benzocaine gel"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Use only as the label directs, and never for a child under 2. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "anbesol",
+    "name": "Anbesol",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "Anbesol is a brand of benzocaine mouth-pain product. The FDA warns that OTC oral products with benzocaine should not be used for infants and children younger than 2, because they can cause methemoglobinemia, a life-threatening drop in the oxygen carried by the blood. The FDA also asked makers to stop marketing benzocaine products for teething pain in children. Poison Control says even small amounts of benzocaine can be dangerous for infants.",
+    "sources": [
+      {
+        "title": "FDA: Risk of serious blood disorder prompts FDA action on OTC benzocaine products",
+        "url": "https://www.fda.gov/Drugs/DrugSafety/ucm608265.htm"
+      },
+      {
+        "title": "Poison Control: Teething gels, a warning",
+        "url": "https://www.poison.org/articles/teething-gels-a-warning"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "baby teething gel",
+      "teething"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not use teething gels with benzocaine on a child under 2. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "teething-gel",
+    "name": "Teething gel",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "The FDA warns that OTC oral products with benzocaine should not be used for infants and children younger than 2, because they can cause methemoglobinemia, a life-threatening drop in the oxygen carried by the blood. The FDA also asked makers to stop marketing benzocaine products for teething pain in children. Poison Control says even small amounts of benzocaine can be dangerous for infants. The FDA also warned against using lidocaine liquid for teething pain in infants and children.",
+    "sources": [
+      {
+        "title": "FDA: Risk of serious blood disorder prompts FDA action on OTC benzocaine products",
+        "url": "https://www.fda.gov/Drugs/DrugSafety/ucm608265.htm"
+      },
+      {
+        "title": "Poison Control: Teething gels, a warning",
+        "url": "https://www.poison.org/articles/teething-gels-a-warning"
+      },
+      {
+        "title": "FDA: Do not use lidocaine to treat teething pain",
+        "url": "https://www.fda.gov/Drugs/DrugSafety/ucm402240.htm"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lidocaine 4%",
+      "numbing cream"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Use a thin layer on small areas of intact skin only, as the label directs. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lidocaine-cream",
+    "name": "Lidocaine cream",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "The FDA recommends not using OTC pain relief products with more than 4% lidocaine on the skin, and not applying OTC pain relief products heavily over large areas of skin or to irritated or broken skin. Applying lidocaine cream to larger areas or for longer than recommended can let enough lidocaine get absorbed to cause serious side effects, so follow the package.",
+    "sources": [
+      {
+        "title": "FDA: Warns consumers to avoid certain topical pain relief products",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-warns-consumers-avoid-certain-topical-pain-relief-products-due-potential-dangerous-health"
+      },
+      {
+        "title": "MedlinePlus: Lidocaine transdermal patch",
+        "url": "https://medlineplus.gov/druginfo/meds/a603026.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "camphorated oil",
+      "camphor ointment"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not swallow it. If any was swallowed, call Poison Control at 1-800-222-1222. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "camphor",
+    "name": "Camphor",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "The FDA limited camphor in medicinal products to under 11% after a series of unintentional ingestions. Swallowing camphor is dangerous, especially for young children: it can cause seizures within minutes, nausea and vomiting, and burning of the mouth and throat. Poison Control says even a small amount is dangerous if swallowed. Keep camphor products, moth repellents and vaporizer liquids out of reach.",
+    "sources": [
+      {
+        "title": "PubMed: A cluster of children with seizures caused by camphor poisoning",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19403490/"
+      },
+      {
+        "title": "MedlinePlus: Camphor overdose",
+        "url": "https://medlineplus.gov/ency/article/002566.htm"
+      },
+      {
+        "title": "Poison Control: Essential oils, poisonous when misused",
+        "url": "https://www.poison.org/articles/essential-oils"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "vicks vaporub",
+      "vaporub",
+      "camphor menthol rub"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "For use on the skin only, as the label directs. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "menthol-rub-vicks",
+    "name": "Menthol rub (Vicks)",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "MedlinePlus lists Vicks VapoRub among camphor-containing products and names camphor and menthol as the harmful ingredients if too much is taken. Symptoms listed include abdominal pain, burning of the mouth or throat, tremors, seizures, nausea and vomiting, rapid pulse, slow breathing and sleepiness. Poison Control also warns that liquid vaporizer medicine containing camphor is poisonous to swallow. Use on the skin only as the label directs.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Camphor overdose",
+        "url": "https://medlineplus.gov/ency/article/002566.htm"
+      },
+      {
+        "title": "Poison Control: Vaporizer medicine, dangerous to swallow",
+        "url": "https://www.poison.org/articles/vaporizer-medicine"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "h2o2",
+      "3% hydrogen peroxide"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not drink it. If any was swallowed, call Poison Control at 1-800-222-1222. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hydrogen-peroxide",
+    "name": "Hydrogen peroxide",
+    "category": "Over-the-counter medications",
+    "servingName": "dose",
+    "servingMg": 1,
+    "notes": "Poison Control says small amounts of household (3%) hydrogen peroxide usually only cause mild irritation, higher concentrations can cause burns, and rarely, oxygen bubbles can block blood flow to tissue. StatPearls says ingestions of more than 10% are uncommon but carry a much higher risk of serious harm, and that hydrogen peroxide is not safe for internal use. Only buy the 3% strength and keep it in its original dark bottle.",
+    "sources": [
+      {
+        "title": "Poison Control: Is hydrogen peroxide safe?",
+        "url": "https://www.poison.org/articles/hydrogen-peroxide"
+      },
+      {
+        "title": "StatPearls: Hydrogen peroxide toxicity",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK585102/"
+      },
+      {
+        "title": "CDC ATSDR: Hydrogen peroxide ToxFAQs",
+        "url": "https://www.atsdr.cdc.gov/toxfaqs/tfacts174.pdf"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tums",
+      "oyster shell calcium"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 2500,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": "elemental calcium",
+    "verified": true,
+    "id": "calcium-carbonate",
+    "name": "Calcium carbonate",
+    "category": "Vitamins & minerals",
+    "servingName": "500 mg elemental calcium",
+    "servingMg": 500,
+    "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 2,500 mg of calcium a day from food and supplements together. Calcium carbonate is a salt, so the tablet weight is larger than the calcium it supplies: check the label for elemental calcium. Too much can cause constipation and kidney stones. Calcium is absorbed best at 500 mg or less at one time.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Calcium",
+        "url": "https://ods.od.nih.gov/factsheets/Calcium-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Calcium (health professional)",
+        "url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "citracal"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 2500,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": "No reliable acute toxicity figure. Harm is mostly from long-term high intake above the upper limit.",
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": "elemental calcium",
+    "verified": true,
+    "id": "calcium-citrate",
+    "name": "Calcium citrate",
+    "category": "Vitamins & minerals",
+    "servingName": "250 mg elemental calcium",
+    "servingMg": 250,
+    "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 2,500 mg of calcium a day from food and supplements together. Count elemental calcium from the label, not the tablet weight. Calcium supplements can cause gas, bloating and constipation.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Calcium",
+        "url": "https://ods.od.nih.gov/factsheets/Calcium-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Calcium (health professional)",
+        "url": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ferrous bisglycinate",
+      "iron chelate"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": 20,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 45,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": "No fatal dose for this form is established. Iron overdose in children can be fatal. Call Poison Control at 1-800-222-1222 right away.",
+    "extras": null,
+    "measuredAs": "elemental iron",
+    "verified": true,
+    "id": "iron-bisglycinate",
+    "name": "Iron bisglycinate",
+    "category": "Vitamins & minerals",
+    "servingName": "18 mg elemental iron",
+    "servingMg": 18,
+    "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 45 mg of elemental iron a day. Accidental overdose of iron products is a leading cause of fatal poisoning in children under 6, so keep it out of reach. ODS lists acute intakes above 20 mg per kg of elemental iron as a risk for serious effects. Call Poison Control right away.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Iron",
+        "url": "https://ods.od.nih.gov/factsheets/Iron-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Iron (health professional)",
+        "url": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cold lozenges zinc"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 40,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": "High zinc causes nausea, dizziness, headache, vomiting and loss of appetite.",
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": "elemental zinc",
+    "verified": true,
+    "id": "zinc-lozenges",
+    "name": "Zinc lozenges",
+    "category": "Vitamins & minerals",
+    "servingName": "13 mg zinc lozenge",
+    "servingMg": 13,
+    "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 40 mg of zinc a day. Zinc of 50 mg or more for weeks can block copper absorption and lower immunity. Nausea and stomach upset are common with high amounts.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Zinc",
+        "url": "https://ods.od.nih.gov/factsheets/Zinc-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Zinc (health professional)",
+        "url": "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 2000,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": "Too much can cause diarrhea, nausea and stomach cramps.",
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": "vitamin C",
+    "verified": true,
+    "id": "vitamin-c-gummies",
+    "name": "Vitamin C gummies",
+    "category": "Vitamins & minerals",
+    "servingName": "250 mg gummy",
+    "servingMg": 250,
+    "notes": "The daily number is the tolerable upper intake level (UL) for adults 19 to 50: the highest daily intake not expected to cause harm. It is not a recommended amount. The UL is 2,000 mg of vitamin C a day. Above that, diarrhea, nausea and stomach cramps are common. High amounts can worsen iron overload in people with hemochromatosis. Gummies look like candy, so keep them away from children.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Vitamin C",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminC-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Vitamin C (health professional)",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "menaquinone",
+      "mk-7"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Vitamin K has no established upper limit. It can interact with warfarin, so ask your doctor first if you take a blood thinner.",
+    "toxicNote": null,
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "vitamin-k2",
+    "name": "Vitamin K2",
+    "category": "Vitamins & minerals",
+    "servingName": "100 mcg",
+    "servingMg": 0.1,
+    "notes": "No upper limit is set for vitamin K because of its low toxicity. If you take warfarin or another blood thinner, keep your vitamin K intake steady and ask your doctor before taking K2.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Vitamin K",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminK-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Vitamin K (health professional)",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cyanocobalamin injection",
+      "methylcobalamin injection"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Vitamin B12 has no established upper limit. Use shots as your clinician directs.",
+    "toxicNote": null,
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "vitamin-b12-shots",
+    "name": "Vitamin B12 shots",
+    "category": "Vitamins & minerals",
+    "servingName": "1,000 mcg injection",
+    "servingMg": 1,
+    "notes": "Vitamin B12 has no established upper limit because it is generally considered safe even at high doses. Injections are given by a clinician for deficiency.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Vitamin B12",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Frequently asked questions",
+        "url": "https://ods.od.nih.gov/HealthInformation/ODS_Frequently_Asked_Questions.aspx"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Biotin has no established upper limit, but high amounts can distort lab tests such as thyroid tests.",
+    "toxicNote": null,
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "biotin-gummies",
+    "name": "Biotin gummies",
+    "category": "Vitamins & minerals",
+    "servingName": "5,000 mcg gummy",
+    "servingMg": 5,
+    "notes": "No upper limit is set for biotin because there is no evidence it is toxic at high intakes. But biotin above recommended amounts can cause falsely high or falsely low lab results, including thyroid and heart tests. Tell your doctor and the lab you take it.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Biotin",
+        "url": "https://ods.od.nih.gov/factsheets/Biotin-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Biotin (health professional)",
+        "url": "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "hair vitamins",
+      "biotin hair gummies"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this product, so follow the package label. High biotin can distort lab tests.",
+    "toxicNote": null,
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hair-skin-and-nails-vitamins",
+    "name": "Hair skin and nails vitamins",
+    "category": "Vitamins & minerals",
+    "servingName": "serving",
+    "servingMg": 1,
+    "notes": "ODS notes that almost all of these products contain very high doses of biotin. Biotin has no upper limit, but it can cause false results on some lab tests, including thyroid hormone tests. Check the label for other ingredients such as vitamin A, which does have a limit.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Biotin",
+        "url": "https://ods.od.nih.gov/factsheets/Biotin-HealthProfessional/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Hair, skin and nails",
+        "url": "https://ods.od.nih.gov/news/The_Scoop_-_Spring_2018.aspx"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "provitamin a"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No upper limit is set, but high-dose supplements raised lung cancer risk in smokers and asbestos-exposed people.",
+    "toxicNote": null,
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "beta-carotene",
+    "name": "Beta-carotene",
+    "category": "Vitamins & minerals",
+    "servingName": "15 mg capsule",
+    "servingMg": 15,
+    "notes": "There is no upper limit for beta-carotene from food or standard supplement use. However, studies in smokers, former smokers and asbestos workers found high-dose supplements (20 to 30 mg a day for several years) raised the risk of lung cancer and death. Smokers should avoid high-dose beta-carotene.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Vitamin A and carotenoids",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminA-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Vitamin A and carotenoids (health professional)",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this product. The vitamin A in it has an adult upper limit of 3,000 mcg a day, so follow the label.",
+    "toxicNote": null,
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cod-liver-oil",
+    "name": "Cod liver oil",
+    "category": "Vitamins & minerals",
+    "servingName": "teaspoon",
+    "servingMg": 1,
+    "notes": "Cod liver oil supplies preformed vitamin A and vitamin D along with omega-3 fats. Preformed vitamin A has an upper limit of 3,000 mcg a day for adults, and too much can cause liver damage and birth defects, so count vitamin A and D from every product. Check the label for amounts, since they vary by brand.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Omega-3 fatty acids",
+        "url": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Vitamin A",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminA-Consumer/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "b-complex"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a single limit for a B complex. Vitamin B6 (100 mg), niacin and folic acid have upper limits, so follow the label.",
+    "toxicNote": null,
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "vitamin-b-complex",
+    "name": "Vitamin B complex",
+    "category": "Vitamins & minerals",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Most B vitamins have no upper limit, but vitamin B6 (100 mg a day), niacin and folic acid do, and high B6 can cause nerve damage. Check the label for these three.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Vitamin B6",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminB6-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Frequently asked questions",
+        "url": "https://ods.od.nih.gov/HealthInformation/ODS_Frequently_Asked_Questions.aspx"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "multivitamin mineral",
+      "mvm"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this product, so follow the package label. Keep out of reach of children.",
+    "toxicNote": null,
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "multivitamin",
+    "name": "Multivitamin",
+    "category": "Vitamins & minerals",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Basic multivitamins keep most nutrients near the daily values. Smokers and possibly former smokers should avoid products with large amounts of beta-carotene or vitamin A. People on warfarin should talk to a provider about vitamin K. Iron-containing multivitamins are a leading cause of poisoning in young children, so keep them locked away.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Multivitamin/mineral supplements",
+        "url": "https://ods.od.nih.gov/factsheets/MVMS-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Multivitamin/mineral supplements (health professional)",
+        "url": "https://ods.od.nih.gov/factsheets/MVMS-HealthProfessional/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "prenatal"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this product, so follow the package label and your provider.",
+    "toxicNote": null,
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "prenatal-vitamin",
+    "name": "Prenatal vitamin",
+    "category": "Vitamins & minerals",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Prenatal products often supply vitamin A as beta-carotene, and the upper limits for pregnancy still apply to nutrients like preformed vitamin A, iron (45 mg) and calcium (2,500 mg). Follow your prenatal label and your provider's advice. Keep out of reach of children because of the iron.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Pregnancy: dietary supplements and life stages",
+        "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Multivitamin/mineral supplements",
+        "url": "https://ods.od.nih.gov/factsheets/MVMS-Consumer/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "kids gummy vitamins"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this product, so follow the package label. Call Poison Control at 1-800-222-1222 if a child eats extra.",
+    "toxicNote": null,
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "children-s-gummy-vitamins",
+    "name": "Children's gummy vitamins",
+    "category": "Vitamins & minerals",
+    "servingName": "gummy",
+    "servingMg": 1,
+    "notes": "Gummies look like candy. Products that contain iron carry a warning because accidental iron overdose is a leading cause of fatal poisoning in children under 6. Give only the labeled amount and store them out of reach. Call Poison Control right away if a child eats extra.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Iron",
+        "url": "https://ods.od.nih.gov/factsheets/Iron-Consumer/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
   }
 ]

@@ -1225,83 +1225,8 @@
   "category": "Condiments, oils & baking"
  },
  {
-  "id": "multivitamin",
-  "name": "Multivitamin",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "prenatal-vitamin",
-  "name": "Prenatal vitamin",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "children-s-gummy-vitamins",
-  "name": "Children's gummy vitamins",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "zinc-lozenges",
-  "name": "Zinc lozenges",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "cod-liver-oil",
-  "name": "Cod liver oil",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "beta-carotene",
-  "name": "Beta-carotene",
-  "category": "Vitamins & minerals"
- },
- {
   "id": "electrolyte-tablets",
   "name": "Electrolyte tablets",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "calcium-carbonate",
-  "name": "Calcium carbonate",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-b-complex",
-  "name": "Vitamin B complex",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-k2",
-  "name": "Vitamin K2",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "calcium-citrate",
-  "name": "Calcium citrate",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "iron-bisglycinate",
-  "name": "Iron bisglycinate",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-c-gummies",
-  "name": "Vitamin C gummies",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "vitamin-b12-shots",
-  "name": "Vitamin B12 shots",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "biotin-gummies",
-  "name": "Biotin gummies",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "hair-skin-and-nails-vitamins",
-  "name": "Hair skin and nails vitamins",
   "category": "Vitamins & minerals"
  },
  {
@@ -1370,43 +1295,8 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "theraflu",
-  "name": "Theraflu",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "alka-seltzer",
-  "name": "Alka-Seltzer",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "lidocaine-cream",
-  "name": "Lidocaine cream",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "camphor",
-  "name": "Camphor",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "menthol-rub-vicks",
-  "name": "Menthol rub (Vicks)",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "hydrogen-peroxide",
-  "name": "Hydrogen peroxide",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "cough-syrup",
   "name": "Cough syrup",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "visine",
-  "name": "Visine",
   "category": "Over-the-counter medications"
  },
  {
@@ -1440,26 +1330,6 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "sudafed-pe",
-  "name": "Sudafed PE",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "claritin-d",
-  "name": "Claritin-D",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "allegra-d",
-  "name": "Allegra-D",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "zyrtec-d",
-  "name": "Zyrtec-D",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "benadryl-cream",
   "name": "Benadryl cream",
   "category": "Over-the-counter medications"
@@ -1472,66 +1342,6 @@
  {
   "id": "zantac-360",
   "name": "Zantac 360",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "pepcid-complete",
-  "name": "Pepcid Complete",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "rolaids",
-  "name": "Rolaids",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "gaviscon",
-  "name": "Gaviscon",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "emetrol",
-  "name": "Emetrol",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "goody-s-powder",
-  "name": "Goody's powder",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "bc-powder",
-  "name": "BC powder",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "orajel",
-  "name": "Orajel",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "anbesol",
-  "name": "Anbesol",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "sudafed-12-hour",
-  "name": "Sudafed 12 hour",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "mucinex-dm",
-  "name": "Mucinex DM",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "robitussin-dm",
-  "name": "Robitussin DM",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "delsym",
-  "name": "Delsym",
   "category": "Over-the-counter medications"
  },
  {
@@ -1557,11 +1367,6 @@
  {
   "id": "gripe-water",
   "name": "Gripe water",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "teething-gel",
-  "name": "Teething gel",
   "category": "Over-the-counter medications"
  },
  {
