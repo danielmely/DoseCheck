@@ -45616,5 +45616,1379 @@
         "url": "https://www.poison.org/"
       }
     ]
+  },
+  {
+    "aliases": [
+      "tuna steak",
+      "yellowfin",
+      "albacore",
+      "bigeye tuna"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA/EPA advice for people who are or might become pregnant, are breastfeeding, and for children: albacore (white) and yellowfin tuna are Good Choices (1 serving a week); bigeye tuna is a Choice to Avoid.",
+    "toxicNote": "Mercury in fish builds up with long-term exposure and can harm the developing nervous system. This is a long-term risk, not a single-meal dose.",
+    "lethalNote": "No fatal dose is established for mercury from fish.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "fresh-tuna",
+    "name": "Fresh tuna",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Canned light tuna is a Best Choice, so fresh and canned tuna are not the same. An adult serving is 4 ounces, about the palm of your hand.",
+    "sources": [
+      {
+        "title": "FDA: Advice about eating fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      },
+      {
+        "title": "FDA/EPA Q&A on fish advice",
+        "url": "https://www.fda.gov/food/consumers/questions-answers-fdaepa-advice-about-eating-fish-those-who-might-become-or-are-pregnant-or"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tuna fish",
+      "canned light tuna",
+      "skipjack"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA/EPA advice for people who are or might become pregnant, are breastfeeding, and for children: canned light tuna (including skipjack) is a Best Choice (2 to 3 servings a week); canned albacore (white) tuna is a Good Choice (1 serving a week).",
+    "toxicNote": "Mercury in fish builds up with long-term exposure and can harm the developing nervous system. This is a long-term risk, not a single-meal dose.",
+    "lethalNote": "No fatal dose is established for mercury from fish.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "canned-tuna",
+    "name": "Canned tuna",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Light tuna has lower mercury than albacore. An adult serving is 4 ounces, about the palm of your hand.",
+    "sources": [
+      {
+        "title": "FDA: Advice about eating fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      },
+      {
+        "title": "FDA/EPA Q&A on fish advice",
+        "url": "https://www.fda.gov/food/consumers/questions-answers-fdaepa-advice-about-eating-fish-those-who-might-become-or-are-pregnant-or"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "atlantic mackerel",
+      "king mackerel",
+      "spanish mackerel"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA/EPA advice for people who are or might become pregnant, are breastfeeding, and for children: Atlantic mackerel is a Best Choice, Spanish mackerel is a Good Choice, and king mackerel is a Choice to Avoid.",
+    "toxicNote": "Mercury in fish builds up with long-term exposure and can harm the developing nervous system. This is a long-term risk, not a single-meal dose.",
+    "lethalNote": "No fatal dose is established for mercury from fish.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "mackerel",
+    "name": "Mackerel",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Species matter. Atlantic mackerel averages 0.05 ppm mercury; king mackerel is among the highest. An adult serving is 4 ounces, about the palm of your hand.",
+    "sources": [
+      {
+        "title": "FDA: Advice about eating fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      },
+      {
+        "title": "FDA/EPA fish advice, technical information (mercury by species)",
+        "url": "https://www.fda.gov/food/environmental-contaminants-food/technical-information-development-fdaepa-advice-about-eating-fish-those-who-might-become-or-are"
+      },
+      {
+        "title": "FDA: Fish name translations (categories)",
+        "url": "https://www.fda.gov/media/159072/download"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA/EPA advice for people who are or might become pregnant, are breastfeeding, and for children: bluefish is a Good Choice (1 serving a week).",
+    "toxicNote": "Mercury in fish builds up with long-term exposure and can harm the developing nervous system. This is a long-term risk, not a single-meal dose.",
+    "lethalNote": "No fatal dose is established for mercury from fish.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bluefish",
+    "name": "Bluefish",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "FDA lists average mercury at 0.37 ppm (95% CI 0.33 to 0.42). An adult serving is 4 ounces, about the palm of your hand.",
+    "sources": [
+      {
+        "title": "FDA: Advice about eating fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      },
+      {
+        "title": "FDA/EPA fish advice, technical information (mercury by species)",
+        "url": "https://www.fda.gov/food/environmental-contaminants-food/technical-information-development-fdaepa-advice-about-eating-fish-those-who-might-become-or-are"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA/EPA advice for people who are or might become pregnant, are breastfeeding, and for children: grouper is a Good Choice (1 serving a week).",
+    "toxicNote": "Mercury in fish builds up with long-term exposure and can harm the developing nervous system. This is a long-term risk, not a single-meal dose.",
+    "lethalNote": "No fatal dose is established for mercury from fish.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "grouper",
+    "name": "Grouper",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "FDA lists average mercury at 0.45 ppm. An adult serving is 4 ounces, about the palm of your hand.",
+    "sources": [
+      {
+        "title": "FDA: Advice about eating fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      },
+      {
+        "title": "FDA/EPA fish advice, technical information (mercury by species)",
+        "url": "https://www.fda.gov/food/environmental-contaminants-food/technical-information-development-fdaepa-advice-about-eating-fish-those-who-might-become-or-are"
+      },
+      {
+        "title": "FDA: Fish name translations (categories)",
+        "url": "https://www.fda.gov/media/159072/download"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "red snapper"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA/EPA advice for people who are or might become pregnant, are breastfeeding, and for children: snapper is a Good Choice (1 serving a week).",
+    "toxicNote": "Mercury in fish builds up with long-term exposure and can harm the developing nervous system. This is a long-term risk, not a single-meal dose.",
+    "lethalNote": "No fatal dose is established for mercury from fish.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "snapper",
+    "name": "Snapper",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Check local advisories for fish you catch yourself. An adult serving is 4 ounces, about the palm of your hand.",
+    "sources": [
+      {
+        "title": "FDA: Advice about eating fish",
+        "url": "https://www.fda.gov/food/consumers/advice-about-eating-fish"
+      },
+      {
+        "title": "FDA: Eating fish, guide for Chinese American families",
+        "url": "https://www.fda.gov/media/131633/download"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "oilfish",
+      "butterfish (white tuna sushi)"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Avoid. Escolar contains indigestible wax esters.",
+    "toxicNote": "FDA says gempylotoxin wax esters occur in high concentrations in escolar and oilfish and cause gastrointestinal illness in sensitive people. Improperly handled escolar has also been linked to scombrotoxin (histamine) poisoning.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "escolar",
+    "name": "Escolar",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Often sold as white tuna in sushi. Symptoms usually begin within 1 to 3 hours.",
+    "sources": [
+      {
+        "title": "FDA Fish and Fishery Products Hazards Guide, ch. 6 Natural toxins",
+        "url": "https://www.fda.gov/media/80235/download"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "fugu",
+      "puffer fish",
+      "tetrodotoxin"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Never eat pufferfish unless prepared by a licensed fugu chef.",
+    "toxicNote": "The liver, gonads, intestines and skin contain tetrodotoxin, a heat-stable neurotoxin that blocks nerve conduction. Symptoms began 3 to 20 minutes after three chefs in California ate 1/4 to 1.5 oz of fugu. There is no antidote.",
+    "lethalNote": "The minimum lethal dose of tetrodotoxin in an adult is estimated at 2 to 3 mg. CDC cites death in about 60% of people who ingest it.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "pufferfish-fugu",
+    "name": "Pufferfish (fugu)",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "FDA says any single puffer fish may contain a lethal dose, and puffer fish has been on its import detention list since 1980. Treatment is supportive.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Tetrodotoxin poisoning from puffer fish, California 1996",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00041514.htm"
+      },
+      {
+        "title": "CDC MMWR: Tetrodotoxin outbreak from dried puffer fish, 2014",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6351a2.htm"
+      },
+      {
+        "title": "FDA: Exchange of letters regarding puffer fish",
+        "url": "https://www.fda.gov/international-programs/cooperative-arrangements/fda-japan-exchange-letters-regarding-puffer-fish"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "oysters on the half shell"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "People who are pregnant, over 65 or have weakened immune systems should avoid raw shellfish.",
+    "toxicNote": "Raw oysters are the main source of Vibrio illness: most people become infected by eating raw or undercooked shellfish, particularly oysters. Thorough cooking kills Vibrio.",
+    "lethalNote": "No fatal dose is established. Vibrio vulnificus can be life-threatening in at-risk people.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "raw-oysters",
+    "name": "Raw oysters",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Foodsafety.gov says to avoid raw oysters, clams and scallops during pregnancy. Cook seafood to 145°F.",
+    "sources": [
+      {
+        "title": "Foodsafety.gov: Bacteria and viruses (Vibrio)",
+        "url": "https://www.foodsafety.gov/food-poisoning/bacteria-and-viruses"
+      },
+      {
+        "title": "FDA Bad Bug Book",
+        "url": "https://www.fda.gov/media/83271/download"
+      },
+      {
+        "title": "Foodsafety.gov: Pregnant women",
+        "url": "https://www.foodsafety.gov/people-at-risk/pregnant-women"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sushi roll"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Pregnant people should avoid raw fish, sushi, sashimi and ceviche; cooked and vegetable rolls are fine.",
+    "toxicNote": "FDA says raw fish is more likely to contain parasites or bacteria than cooked fish. Raw seafood may also contain Listeria.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sushi",
+    "name": "Sushi",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Foodsafety.gov says to cook seafood to 145°F, and lists raw sushi, sashimi, raw oysters, clams, scallops and ceviche as foods to avoid in pregnancy.",
+    "sources": [
+      {
+        "title": "Foodsafety.gov: Pregnant women",
+        "url": "https://www.foodsafety.gov/people-at-risk/pregnant-women"
+      },
+      {
+        "title": "FDA: Eating out and bringing in (Moms-to-Be)",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/eating-out-bringing-food-safety-moms-be"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Pregnant people should avoid raw fish, sushi, sashimi and ceviche; cooked and vegetable rolls are fine.",
+    "toxicNote": "FDA says raw fish is more likely to contain parasites or bacteria than cooked fish. Raw seafood may also contain Listeria.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sashimi",
+    "name": "Sashimi",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Foodsafety.gov says to cook seafood to 145°F, and lists raw sushi, sashimi, raw oysters, clams, scallops and ceviche as foods to avoid in pregnancy.",
+    "sources": [
+      {
+        "title": "Foodsafety.gov: Pregnant women",
+        "url": "https://www.foodsafety.gov/people-at-risk/pregnant-women"
+      },
+      {
+        "title": "FDA: Eating out and bringing in (Moms-to-Be)",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/eating-out-bringing-food-safety-moms-be"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ceviche",
+      "crudo"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Pregnant people should avoid raw fish, sushi, sashimi and ceviche; cooked and vegetable rolls are fine.",
+    "toxicNote": "FDA says raw fish is more likely to contain parasites or bacteria than cooked fish. Raw seafood may also contain Listeria.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "raw-fish",
+    "name": "Raw fish",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Foodsafety.gov says to cook seafood to 145°F, and lists raw sushi, sashimi, raw oysters, clams, scallops and ceviche as foods to avoid in pregnancy.",
+    "sources": [
+      {
+        "title": "Foodsafety.gov: Pregnant women",
+        "url": "https://www.foodsafety.gov/people-at-risk/pregnant-women"
+      },
+      {
+        "title": "FDA: Eating out and bringing in (Moms-to-Be)",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/eating-out-bringing-food-safety-moms-be"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "undercooked eggs",
+      "raw cookie dough"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Use pasteurized eggs for anything uncooked, especially if pregnant, elderly or immune-compromised.",
+    "toxicNote": "Foodsafety.gov says even eggs with clean, uncracked shells may occasionally contain Salmonella. Raw eggs can contain Salmonella, so undercooked eggs and raw batter can make you sick.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "raw-eggs",
+    "name": "Raw eggs",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Foods that may contain raw eggs include eggnog, raw batter, Caesar dressing, tiramisu, hollandaise and homemade ice cream.",
+    "sources": [
+      {
+        "title": "Foodsafety.gov: Food safety by type of food",
+        "url": "https://www.foodsafety.gov/keep-food-safe/food-safety-by-type-food"
+      },
+      {
+        "title": "USDA FSIS: Need-to-know guide for those at risk",
+        "url": "https://www.fsis.usda.gov/sites/default/files/media_file/2021-04/at-risk-booklet.pdf"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lunch meat",
+      "sliced turkey"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Reheat to steaming hot if pregnant, 65+ or immune-compromised.",
+    "toxicNote": "Deli and luncheon meats can carry Listeria. A CDC outbreak traced to precooked sliced turkey deli meat killed 7 people.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "deli-turkey",
+    "name": "Deli turkey",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Listeria can grow at refrigerator temperatures. CDC and FDA say people who are pregnant, 65 or older or immune-weakened should avoid deli meat unless reheated to 165°F or steaming hot. IARC classifies processed meat as carcinogenic to humans (Group 1), based on colorectal cancer evidence.",
+    "sources": [
+      {
+        "title": "FDA: Ready-to-eat foods (Moms-to-Be)",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/ready-eat-foods-food-safety-moms-be"
+      },
+      {
+        "title": "CDC: Listeria outbreak linked to deli meats",
+        "url": "https://www.cdc.gov/listeria/outbreaks/delimeats-7-24/index.html"
+      },
+      {
+        "title": "IARC: Processed meat classified carcinogenic (Group 1)",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "baloney"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Reheat to steaming hot if pregnant, 65+ or immune-compromised.",
+    "toxicNote": "Deli and luncheon meats can carry Listeria. A CDC outbreak traced to precooked sliced turkey deli meat killed 7 people.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bologna",
+    "name": "Bologna",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Listeria can grow at refrigerator temperatures. CDC and FDA say people who are pregnant, 65 or older or immune-weakened should avoid deli meat unless reheated to 165°F or steaming hot. IARC classifies processed meat as carcinogenic to humans (Group 1), based on colorectal cancer evidence.",
+    "sources": [
+      {
+        "title": "FDA: Ready-to-eat foods (Moms-to-Be)",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/ready-eat-foods-food-safety-moms-be"
+      },
+      {
+        "title": "CDC: Listeria outbreak linked to deli meats",
+        "url": "https://www.cdc.gov/listeria/outbreaks/delimeats-7-24/index.html"
+      },
+      {
+        "title": "IARC: Processed meat classified carcinogenic (Group 1)",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "genoa salami"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Limit processed meats. Pregnant, 65+ and immune-compromised people should follow deli meat advice.",
+    "toxicNote": "IARC classifies processed meat, which includes cured, salted and smoked meats such as ham, sausages and corned beef, as carcinogenic to humans (Group 1). Cured meats contain added sodium nitrite.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "salami",
+    "name": "Salami",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The risk is from long-term, regular intake and increases with the amount eaten.",
+    "sources": [
+      {
+        "title": "IARC: Processed meat classified carcinogenic (Group 1)",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf"
+      },
+      {
+        "title": "IARC: Q&A on red and processed meat",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/11/Monographs-QA_Vol114.pdf"
+      },
+      {
+        "title": "USDA FSIS: Fermented, salt-cured and dried products guideline",
+        "url": "https://www.fsis.usda.gov/policy/fsis-notice/19-23"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Limit processed meats. Pregnant, 65+ and immune-compromised people should follow deli meat advice.",
+    "toxicNote": "IARC classifies processed meat, which includes cured, salted and smoked meats such as ham, sausages and corned beef, as carcinogenic to humans (Group 1). Cured meats contain added sodium nitrite.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "pepperoni",
+    "name": "Pepperoni",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The risk is from long-term, regular intake and increases with the amount eaten.",
+    "sources": [
+      {
+        "title": "IARC: Processed meat classified carcinogenic (Group 1)",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf"
+      },
+      {
+        "title": "IARC: Q&A on red and processed meat",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/11/Monographs-QA_Vol114.pdf"
+      },
+      {
+        "title": "USDA FSIS: Fermented, salt-cured and dried products guideline",
+        "url": "https://www.fsis.usda.gov/policy/fsis-notice/19-23"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cured ham"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Limit processed meats. Pregnant, 65+ and immune-compromised people should follow deli meat advice.",
+    "toxicNote": "IARC classifies processed meat, which includes cured, salted and smoked meats such as ham, sausages and corned beef, as carcinogenic to humans (Group 1). Cured meats contain added sodium nitrite.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "prosciutto",
+    "name": "Prosciutto",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The risk is from long-term, regular intake and increases with the amount eaten.",
+    "sources": [
+      {
+        "title": "IARC: Processed meat classified carcinogenic (Group 1)",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf"
+      },
+      {
+        "title": "IARC: Q&A on red and processed meat",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/11/Monographs-QA_Vol114.pdf"
+      },
+      {
+        "title": "USDA FSIS: Fermented, salt-cured and dried products guideline",
+        "url": "https://www.fsis.usda.gov/policy/fsis-notice/19-23"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Limit processed meats. Pregnant, 65+ and immune-compromised people should follow deli meat advice.",
+    "toxicNote": "IARC classifies processed meat, which includes cured, salted and smoked meats such as ham, sausages and corned beef, as carcinogenic to humans (Group 1). Cured meats contain added sodium nitrite.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "pastrami",
+    "name": "Pastrami",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The risk is from long-term, regular intake and increases with the amount eaten.",
+    "sources": [
+      {
+        "title": "IARC: Processed meat classified carcinogenic (Group 1)",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf"
+      },
+      {
+        "title": "IARC: Q&A on red and processed meat",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/11/Monographs-QA_Vol114.pdf"
+      },
+      {
+        "title": "USDA FSIS: Fermented, salt-cured and dried products guideline",
+        "url": "https://www.fsis.usda.gov/policy/fsis-notice/19-23"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Limit processed meats. Pregnant, 65+ and immune-compromised people should follow deli meat advice.",
+    "toxicNote": "IARC classifies processed meat, which includes cured, salted and smoked meats such as ham, sausages and corned beef, as carcinogenic to humans (Group 1). Cured meats contain added sodium nitrite.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "corned-beef",
+    "name": "Corned beef",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The risk is from long-term, regular intake and increases with the amount eaten.",
+    "sources": [
+      {
+        "title": "IARC: Processed meat classified carcinogenic (Group 1)",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/07/pr240_E.pdf"
+      },
+      {
+        "title": "IARC: Q&A on red and processed meat",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/11/Monographs-QA_Vol114.pdf"
+      },
+      {
+        "title": "USDA FSIS: Fermented, salt-cured and dried products guideline",
+        "url": "https://www.fsis.usda.gov/policy/fsis-notice/19-23"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "liver",
+      "calf liver"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NHS advises people who regularly eat liver not to eat it more than once a week.",
+    "toxicNote": "Preformed vitamin A (retinol) is toxic at high doses, causing liver damage and birth defects in pregnancy. The NIH upper limit for adults is 3,000 mcg a day from food and supplements.",
+    "lethalNote": "No fatal dose is established for food sources.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "beef-liver",
+    "name": "Beef liver",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "ODS lists beef liver among the richest sources of preformed vitamin A. People at risk of osteoporosis are advised to keep retinol under 1,500 mcg a day. Ask a clinician about liver during pregnancy.",
+    "sources": [
+      {
+        "title": "NIH ODS: Vitamin A fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+      },
+      {
+        "title": "NIH ODS: Frequently asked questions",
+        "url": "https://ods.od.nih.gov/HealthInformation/ODS_Frequently_Asked_Questions.aspx"
+      },
+      {
+        "title": "NHS: Too much vitamin A",
+        "url": "https://www.nhs.uk/live-well/bone-health/food-for-strong-bones/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "liver pate"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NHS advises people who regularly eat liver not to eat it more than once a week.",
+    "toxicNote": "Preformed vitamin A (retinol) is toxic at high doses, causing liver damage and birth defects in pregnancy. The NIH upper limit for adults is 3,000 mcg a day from food and supplements.",
+    "lethalNote": "No fatal dose is established for food sources.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "chicken-liver",
+    "name": "Chicken liver",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "ODS lists beef liver among the richest sources of preformed vitamin A. People at risk of osteoporosis are advised to keep retinol under 1,500 mcg a day. Ask a clinician about liver during pregnancy.",
+    "sources": [
+      {
+        "title": "NIH ODS: Vitamin A fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+      },
+      {
+        "title": "NIH ODS: Frequently asked questions",
+        "url": "https://ods.od.nih.gov/HealthInformation/ODS_Frequently_Asked_Questions.aspx"
+      },
+      {
+        "title": "NHS: Too much vitamin A",
+        "url": "https://www.nhs.uk/live-well/bone-health/food-for-strong-bones/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "pâté",
+      "meat spread"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Refrigerated pâté and meat spreads are advised against in pregnancy; canned or shelf-stable ones are okay.",
+    "toxicNote": "CDC and FDA say refrigerated pâté and meat spreads can contain Listeria; canned or shelf-stable ones are safe. Liver products also carry preformed vitamin A.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "pate",
+    "name": "Pate",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Listeria can grow at refrigerator temperatures. CDC and FDA say people who are pregnant, 65 or older or immune-weakened should avoid deli meat unless reheated to 165°F or steaming hot. Preformed vitamin A (retinol) is toxic at high doses, causing liver damage and birth defects in pregnancy. The NIH upper limit for adults is 3,000 mcg a day from food and supplements.",
+    "sources": [
+      {
+        "title": "CDC: Preventing Listeria infection",
+        "url": "https://www.cdc.gov/listeria/prevention/index.html"
+      },
+      {
+        "title": "Foodsafety.gov: Pregnant women",
+        "url": "https://www.foodsafety.gov/people-at-risk/pregnant-women"
+      },
+      {
+        "title": "NIH ODS: Vitamin A fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "braunschweiger",
+      "liver sausage"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Refrigerated pâté and meat spreads are advised against in pregnancy; canned or shelf-stable ones are okay.",
+    "toxicNote": "CDC and FDA say refrigerated pâté and meat spreads can contain Listeria; canned or shelf-stable ones are safe. Liver products also carry preformed vitamin A.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "liverwurst",
+    "name": "Liverwurst",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Listeria can grow at refrigerator temperatures. CDC and FDA say people who are pregnant, 65 or older or immune-weakened should avoid deli meat unless reheated to 165°F or steaming hot. Preformed vitamin A (retinol) is toxic at high doses, causing liver damage and birth defects in pregnancy. The NIH upper limit for adults is 3,000 mcg a day from food and supplements.",
+    "sources": [
+      {
+        "title": "CDC: Preventing Listeria infection",
+        "url": "https://www.cdc.gov/listeria/prevention/index.html"
+      },
+      {
+        "title": "Foodsafety.gov: Pregnant women",
+        "url": "https://www.foodsafety.gov/people-at-risk/pregnant-women"
+      },
+      {
+        "title": "NIH ODS: Vitamin A fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "foie gras"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Refrigerated pâté and meat spreads are advised against in pregnancy; canned or shelf-stable ones are okay.",
+    "toxicNote": "CDC and FDA say refrigerated pâté and meat spreads can contain Listeria; canned or shelf-stable ones are safe. Liver products also carry preformed vitamin A.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "foie-gras",
+    "name": "Duck liver (foie gras)",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Listeria can grow at refrigerator temperatures. CDC and FDA say people who are pregnant, 65 or older or immune-weakened should avoid deli meat unless reheated to 165°F or steaming hot. Preformed vitamin A (retinol) is toxic at high doses, causing liver damage and birth defects in pregnancy. The NIH upper limit for adults is 3,000 mcg a day from food and supplements.",
+    "sources": [
+      {
+        "title": "CDC: Preventing Listeria infection",
+        "url": "https://www.cdc.gov/listeria/prevention/index.html"
+      },
+      {
+        "title": "Foodsafety.gov: Pregnant women",
+        "url": "https://www.foodsafety.gov/people-at-risk/pregnant-women"
+      },
+      {
+        "title": "NIH ODS: Vitamin A fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nova"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Refrigerated smoked seafood should be avoided in pregnancy unless cooked; canned or shelf-stable is fine.",
+    "toxicNote": "CDC says refrigerated smoked seafood (labeled nova-style, lox, kippered or smoked) can carry Listeria and should be avoided by pregnant people, those 65+ and those who are immune-weakened unless cooked in a dish.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "smoked-salmon",
+    "name": "Smoked salmon",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Canned and shelf-stable smoked fish are safe to eat.",
+    "sources": [
+      {
+        "title": "CDC: Tips for preventing Listeria food poisoning",
+        "url": "https://stacks.cdc.gov/view/cdc/36072"
+      },
+      {
+        "title": "CDC: Preventing Listeria infection",
+        "url": "https://www.cdc.gov/listeria/prevention/index.html"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nova lox"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Refrigerated smoked seafood should be avoided in pregnancy unless cooked; canned or shelf-stable is fine.",
+    "toxicNote": "CDC says refrigerated smoked seafood (labeled nova-style, lox, kippered or smoked) can carry Listeria and should be avoided by pregnant people, those 65+ and those who are immune-weakened unless cooked in a dish.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lox",
+    "name": "Lox",
+    "category": "Meat, fish & eggs",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Canned and shelf-stable smoked fish are safe to eat.",
+    "sources": [
+      {
+        "title": "CDC: Tips for preventing Listeria food poisoning",
+        "url": "https://stacks.cdc.gov/view/cdc/36072"
+      },
+      {
+        "title": "CDC: Preventing Listeria infection",
+        "url": "https://www.cdc.gov/listeria/prevention/index.html"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sodium bicarbonate",
+      "bicarb"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Safe in baking. Do not use large amounts as an antacid.",
+    "toxicNote": "MedlinePlus says baking soda is nontoxic in cooking but sodium bicarbonate is poisonous in large amounts: vomiting, diarrhea, muscle spasms and weakness, irritability and convulsions. Poison Control says both the sodium and the bicarbonate can cause serious toxicity, and a swallowed dose quickly makes a large volume of carbon dioxide gas in the stomach. Each teaspoon holds about 4.8 g, or 59 mEq of sodium.",
+    "lethalNote": "Severe overdose can cause metabolic alkalosis, abnormal heart rhythm and cardiopulmonary arrest. In one animal study, a dose of 4,000 mg/kg was fatal.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "baking-soda",
+    "name": "Baking soda",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Call Poison Control for any large swallow. Rare reports link stomach rupture to drinking baking soda after a large meal.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Baking soda overdose",
+        "url": "https://medlineplus.gov/ency/article/002749.htm"
+      },
+      {
+        "title": "Poison Control: My child got into the baking soda",
+        "url": "https://www.poison.org/articles/baking-soda"
+      },
+      {
+        "title": "PubMed: Severe metabolic alkalosis due to baking soda ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9950389/"
+      },
+      {
+        "title": "PMC: Baking soda can settle the stomach but upset the heart",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3770998/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "double acting baking powder"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Safe in baking. Do not eat it by the spoonful.",
+    "toxicNote": "Baking powder contains sodium bicarbonate plus acid salts, so large swallows carry the same sodium and bicarbonate risks as baking soda.",
+    "lethalNote": "See baking soda: severe overdose can cause metabolic alkalosis and abnormal heart rhythm.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "baking-powder",
+    "name": "Baking powder",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Product composition varies by brand; call Poison Control for any large swallow.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Baking soda overdose",
+        "url": "https://medlineplus.gov/ency/article/002749.htm"
+      },
+      {
+        "title": "Poison Control: My child got into the baking soda",
+        "url": "https://www.poison.org/articles/baking-soda"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "potassium bitartrate"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Safe in baking amounts. Do not take as a cleanse or laxative.",
+    "toxicNote": "Cream of tartar is rich in potassium. In two case reports, people who ate a large quantity to 'clean themselves out' had vomiting, serum potassium above 8.0 mmol/L and peaked T waves on ECG; both recovered with treatment.",
+    "lethalNote": "Life-threatening hyperkalemia was reported.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cream-of-tartar",
+    "name": "Cream of tartar",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Large intake is dangerous with kidney disease or potassium-raising drugs.",
+    "sources": [
+      {
+        "title": "PMC: Life-threatening hyperkalemia from cream of tartar ingestion",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3570668/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "msg",
+      "monosodium glutamate",
+      "accent seasoning"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA considers added MSG generally recognized as safe (GRAS). JECFA's ADI is 'not specified'.",
+    "toxicNote": "Studies have not consistently triggered reactions in people who say they are MSG-sensitive. MedlinePlus says the report found minor reactions in people who consumed 3 or more grams of MSG alone without food; most foods with MSG have less than 0.5 grams.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "msg-monosodium-glutamate",
+    "name": "MSG (monosodium glutamate)",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "An average adult eats about 13 g of glutamate a day from protein, and added MSG averages about 0.55 g a day, per FDA.",
+    "sources": [
+      {
+        "title": "FDA: Questions and answers on MSG",
+        "url": "https://www.fda.gov/food/food-additives-petitions/questions-and-answers-monosodium-glutamate-msg"
+      },
+      {
+        "title": "MedlinePlus: MSG symptom complex",
+        "url": "https://medlineplus.gov/ency/article/001126.htm"
+      },
+      {
+        "title": "PubMed: The safety evaluation of monosodium glutamate (JECFA)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10736380/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "e211",
+      "benzoate preservative"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": 20,
+    "safeNote": "JECFA group ADI of 0 to 20 mg/kg body weight a day (as benzoic acid equivalents), set in 2021.",
+    "toxicNote": "JECFA's 2021 evaluation raised the group ADI from 0 to 5 to 0 to 20 mg/kg bw. Before that, 95th percentile intake in toddlers and young children exceeded the old 5 mg/kg limit in some countries.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": "benzoic acid equivalents",
+    "verified": true,
+    "id": "sodium-benzoate",
+    "name": "Sodium benzoate",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The benzoate group ADI also covers benzoic acid and its calcium and potassium salts, benzaldehyde, benzyl alcohol and benzyl benzoate.",
+    "sources": [
+      {
+        "title": "WHO JECFA: Benzoates evaluations",
+        "url": "https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/1227"
+      },
+      {
+        "title": "WHO JECFA: Sodium benzoate",
+        "url": "https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/1098"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "e202",
+      "sorbate preservative"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": 25,
+    "safeNote": "JECFA ADI for sorbates is commonly cited as 25 mg/kg body weight a day.",
+    "toxicNote": "Sorbates are widely used preservatives. EFSA's follow-up opinion on sorbic acid and potassium sorbate identified a benchmark dose lower limit of 1,110 mg sorbic acid/kg bw a day.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "potassium-sorbate",
+    "name": "Potassium sorbate",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Figure comes from older JECFA documentation and EFSA has since reassessed; treat as approximate.",
+    "sources": [
+      {
+        "title": "PMC: Sorbate ADI cited from JECFA",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3432536/"
+      },
+      {
+        "title": "PMC: EFSA opinion on sorbic acid and potassium sorbate",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009143/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "phosphate additive",
+      "e339"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": 40,
+    "safeNote": "EFSA group ADI of 40 mg/kg body weight a day, expressed as phosphorus.",
+    "toxicNote": "EFSA considers phosphates low in acute oral toxicity. Estimated total intake from food, including additives, may exceed the safe level in infants, toddlers and children. EFSA also noted concern for people with impaired kidney function.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": "phosphorus",
+    "verified": true,
+    "id": "sodium-phosphate",
+    "name": "Sodium phosphate",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The ADI is protective for healthy adults and is expressed as phosphorus, not as the salt.",
+    "sources": [
+      {
+        "title": "EFSA: Re-evaluation of the safety of phosphates",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5674"
+      },
+      {
+        "title": "EFSA news: New advice on phosphates",
+        "url": "https://www.efsa.europa.eu/en/press/news/190612"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "e407",
+      "irish moss extract"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": 75,
+    "safeNote": "JECFA ADI is 'not specified'; EFSA considers its group ADI of 75 mg/kg bw a day temporary.",
+    "toxicNote": "FDA and EFSA generally consider carrageenan safe, though concerns remain for infant formula and long-term exposure. US intake averages about 250 mg a day.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "carrageenan",
+    "name": "Carrageenan",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "EFSA found no adverse effects in rat chronic toxicity studies up to 7,500 mg/kg bw per day.",
+    "sources": [
+      {
+        "title": "EFSA: Re-evaluation of carrageenan (E 407)",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5238"
+      },
+      {
+        "title": "PMC: Carrageenan, food additive or health concern?",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446871/"
+      },
+      {
+        "title": "JECFA: Carrageenan ADI not specified",
+        "url": "https://www.inchem.org/documents/jecfa/jecmono/v70je01.pdf"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "e415"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "EFSA and JECFA see no need for a numerical ADI.",
+    "toxicNote": "Adults tolerated up to 214 mg/kg bw per day for ten days, though some had abdominal discomfort. EFSA calls xanthan gum non-toxic based on acute oral studies.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "xanthan-gum",
+    "name": "Xanthan gum",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "JECFA's 'not specified' ADI does not apply to infants under 12 weeks.",
+    "sources": [
+      {
+        "title": "EFSA: Re-evaluation of xanthan gum (E 415)",
+        "url": "https://efsa.europa.eu/en/efsajournal/pub/4909"
+      },
+      {
+        "title": "PMC: EFSA re-evaluation of xanthan gum",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7009887/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "e440"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "EFSA sees no need for a numerical ADI.",
+    "toxicNote": "A dose of 36 g a day (515 mg/kg bw) for 6 weeks in humans caused abdominal distension and flatulence but no adverse effects according to EFSA.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "pectin",
+    "name": "Pectin",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Pectin is a dietary fiber used in jams.",
+    "sources": [
+      {
+        "title": "EFSA: Re-evaluation of pectin (E 440)",
+        "url": "https://efsa.europa.eu/en/efsajournal/pub/4866"
+      }
+    ]
   }
 ]

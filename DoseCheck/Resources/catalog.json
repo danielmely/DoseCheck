@@ -295,146 +295,6 @@
   "category": "Grains & bread"
  },
  {
-  "id": "raw-cookie-dough",
-  "name": "Raw cookie dough",
-  "category": "Grains & bread"
- },
- {
-  "id": "beef-liver",
-  "name": "Beef liver",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "chicken-liver",
-  "name": "Chicken liver",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "salami",
-  "name": "Salami",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "pepperoni",
-  "name": "Pepperoni",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "deli-turkey",
-  "name": "Deli turkey",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "prosciutto",
-  "name": "Prosciutto",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "raw-eggs",
-  "name": "Raw eggs",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "canned-tuna",
-  "name": "Canned tuna",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "fresh-tuna",
-  "name": "Fresh tuna",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "mackerel",
-  "name": "Mackerel",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "pufferfish-fugu",
-  "name": "Pufferfish (fugu)",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "raw-oysters",
-  "name": "Raw oysters",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "sushi",
-  "name": "Sushi",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "sashimi",
-  "name": "Sashimi",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "corned-beef",
-  "name": "Corned beef",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "pastrami",
-  "name": "Pastrami",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "bologna",
-  "name": "Bologna",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "liverwurst",
-  "name": "Liverwurst",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "pate",
-  "name": "Pate",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "duck-liver-foie-gras",
-  "name": "Duck liver (foie gras)",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "raw-fish",
-  "name": "Raw fish",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "smoked-salmon",
-  "name": "Smoked salmon",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "lox",
-  "name": "Lox",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "escolar",
-  "name": "Escolar",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "bluefish",
-  "name": "Bluefish",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "grouper",
-  "name": "Grouper",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "snapper",
-  "name": "Snapper",
-  "category": "Meat, fish & eggs"
- },
- {
   "id": "feta",
   "name": "Feta",
   "category": "Dairy & alternatives"
@@ -785,11 +645,6 @@
   "category": "Sweets & snacks"
  },
  {
-  "id": "sushi-roll",
-  "name": "Sushi roll",
-  "category": "Prepared foods"
- },
- {
   "id": "poke-bowl",
   "name": "Poke bowl",
   "category": "Prepared foods"
@@ -825,21 +680,6 @@
   "category": "Prepared foods"
  },
  {
-  "id": "baking-soda",
-  "name": "Baking soda",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "baking-powder",
-  "name": "Baking powder",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "cream-of-tartar",
-  "name": "Cream of tartar",
-  "category": "Condiments, oils & baking"
- },
- {
   "id": "vinegar",
   "name": "Vinegar",
   "category": "Condiments, oils & baking"
@@ -857,11 +697,6 @@
  {
   "id": "white-vinegar",
   "name": "White vinegar",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "msg-monosodium-glutamate",
-  "name": "MSG (monosodium glutamate)",
   "category": "Condiments, oils & baking"
  },
  {
@@ -885,33 +720,8 @@
   "category": "Condiments, oils & baking"
  },
  {
-  "id": "pectin",
-  "name": "Pectin",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "xanthan-gum",
-  "name": "Xanthan gum",
-  "category": "Condiments, oils & baking"
- },
- {
   "id": "citric-acid",
   "name": "Citric acid",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "sodium-benzoate",
-  "name": "Sodium benzoate",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "potassium-sorbate",
-  "name": "Potassium sorbate",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "carrageenan",
-  "name": "Carrageenan",
   "category": "Condiments, oils & baking"
  },
  {
@@ -922,11 +732,6 @@
  {
   "id": "bht",
   "name": "BHT",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "sodium-phosphate",
-  "name": "Sodium phosphate",
   "category": "Condiments, oils & baking"
  },
  {
