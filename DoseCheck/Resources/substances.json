@@ -38410,5 +38410,1309 @@
         "url": "https://www.fda.gov/files/food/published/Guidance-for-Industry--Highly-Concentrated-Caffeine-in-Dietary-Supplements-DOWNLOAD.pdf"
       }
     ]
+  },
+  {
+    "aliases": [
+      "hericium"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "LiverTox says lion's mane is generally recognized as safe and has not been linked to liver enzyme elevations or clinically apparent liver injury.",
+    "toxicNote": "In longer clinical trials, mild stomach complaints such as abdominal discomfort, nausea or diarrhea were reported.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lions-mane-mushroom",
+    "name": "Lion's mane mushroom",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Short-term human studies reported few adverse events. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH LiverTox / PubMed: Lion's mane",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK599740/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lingzhi",
+      "ganoderma"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "LiverTox says reishi is well tolerated in small short trials, with no clinically apparent liver injury in those trials.",
+    "toxicNote": "Memorial Sloan Kettering lists nausea, insomnia and liver injury as possible side effects. Rare single cases of acute liver injury have been reported, including one with alcohol and reishi powder. Reishi may increase bleeding risk with warfarin and may not be safe with immunosuppressants.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "reishi-mushroom",
+    "name": "Reishi mushroom",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Tell your provider if you take blood thinners. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "Memorial Sloan Kettering: Reishi mushroom",
+        "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/reishi-mushroom"
+      },
+      {
+        "title": "NIH LiverTox / PubMed: Lingzhi, Reishi",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK609014/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Memorial Sloan Kettering says chaga may increase bleeding risk with blood thinners such as warfarin.",
+    "toxicNote": "Case reports describe oxalate nephropathy (kidney damage from oxalate crystals) after long-term chaga powder use, including one patient taking 4 to 5 teaspoons daily for 6 months who needed hemodialysis, and a man who developed end-stage kidney disease.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "chaga-mushroom",
+    "name": "Chaga mushroom",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Avoid long-term high-amount use, especially with kidney problems. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "Memorial Sloan Kettering: Chaga mushroom",
+        "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/chaga-mushroom"
+      },
+      {
+        "title": "NIH LiverTox / PubMed: Chaga and end-stage renal disease case report",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7234858/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Some trials of Cordyceps sinensis found no evidence of liver toxicity.",
+    "toxicNote": "Safety data are limited; this entry rests on a meta-analysis of athlete trials.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "cordyceps",
+    "name": "Cordyceps",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from limited data. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: Fungal supplementation in athletes",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12631420/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "LiverTox says studies found spirulina safe without significant adverse events, and it is generally well tolerated when grown under controlled conditions.",
+    "toxicNote": "Minor effects include diarrhea, bloating, upset stomach, gas, headache and muscle pain. Spirulina grown in open lakes can be contaminated with other blue-green algae that produce liver-toxic microcystins.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "spirulina",
+    "name": "Spirulina",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Buy products tested for microcystins. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH LiverTox / PubMed: Spirulina (LiverTox)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK548312/"
+      },
+      {
+        "title": "NIH LiverTox / PubMed: Spirulina (PubMed)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30000909/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Algae supplements as a class can carry cyanotoxins; reports differ on how often chlorella is affected.",
+    "toxicNote": "A German study of 13 algae products found some cyanobacterial products contaminated with toxins such as microcystins, and consumers repeatedly reported adverse effects.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "chlorella",
+    "name": "Chlorella",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from related algae-supplement data. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH LiverTox / PubMed: Toxin content of algal dietary supplements",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23064102/"
+      },
+      {
+        "title": "PMC review: Microcystins in microalgae",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6086208/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "aphanizomenon",
+      "afa",
+      "klamath"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Products made from wild-harvested blue-green algae can be contaminated with toxins.",
+    "toxicNote": "An Italian study found Aphanizomenon flos-aquae supplements contaminated with highly variable microcystin levels, up to 5.2 micrograms per gram, while spirulina-only samples were free of contamination.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "blue-green-algae",
+    "name": "Blue-green algae",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Microcystins are liver toxins. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH LiverTox / PubMed: Microcystins in blue-green algae supplements",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23036452/"
+      },
+      {
+        "title": "NIH LiverTox / PubMed: Toxin content of algal dietary supplements",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23064102/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says bilberry fruit is considered safe in food amounts, and extracts up to 160 mg a day for up to 6 months were well tolerated in studies.",
+    "toxicNote": "No toxic dose is established.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bilberry",
+    "name": "Bilberry",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Doses are from research studies. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Bilberry",
+        "url": "https://www.nccih.nih.gov/health/bilberry"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A 2024 review found maca generally safe with rare adverse effects, based on low toxicity in preclinical work and good human tolerance.",
+    "toxicNote": "Another review notes no studies have examined its adverse effects in detail, so its side-effect profile is not well defined.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "maca",
+    "name": "Maca",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from review articles. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PubMed: Lepidium meyenii (maca) review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/PMC10910417"
+      },
+      {
+        "title": "PMC review: Aphrodisiac ingredients review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7340557/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "LiverTox says moringa is well tolerated and has not been linked to elevations in serum enzymes during therapy.",
+    "toxicNote": "It has recently been implicated in a case of acute hepatitis without jaundice.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "moringa",
+    "name": "Moringa",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Few human studies exist. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH LiverTox / PubMed: Moringa",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39047137"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "stinging nettle"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "LactMed says stinging nettle is generally well tolerated in adults.",
+    "toxicNote": "Topical use can cause hives, and one mother's use on her nipple caused an allergic rash in her breastfed infant.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "nettle-leaf",
+    "name": "Nettle leaf",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Avoid applying it to the breast while nursing. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "LactMed: Stinging nettle",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501777/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A 2024 review says hops is generally considered safe with few reported adverse effects.",
+    "toxicNote": "It may interact with sedative medicines and alcohol.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "hops",
+    "name": "Hops",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from a review. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: Herbal and natural supplements for sleep",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11321869/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "centella asiatica"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Gotu kola is not kola nut and contains no caffeine.",
+    "toxicNote": "A case report describes liver injury attributed to Centella asiatica that improved after stopping it.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "gotu-kola",
+    "name": "Gotu kola",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from case reports. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: TCM and herbal hepatotoxicity",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5456249/"
+      },
+      {
+        "title": "PMC review: Centella asiatica review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3116297/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "bacopa monnieri",
+      "brahmi"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A 2025 review found Bacopa generally non-toxic with no serious side effects reported.",
+    "toxicNote": "It may interact with certain drugs, especially serotonergic or cholinergic medicines, and care is advised in hyperthyroidism.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "bacopa",
+    "name": "Bacopa",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Safety in pregnancy and breastfeeding needs more research. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: Bacopa monnieri safety",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12158153/"
+      },
+      {
+        "title": "PMC review: Adaptogen safety",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12389708/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tribulus terrestris"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No definitive studies have been done on tribulus's side-effect profile.",
+    "toxicNote": "Case reports of renal failure and liver failure have been documented after consumption.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "tribulus",
+    "name": "Tribulus",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from case reports. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: Aphrodisiac ingredients review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7340557/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "LiverTox says slippery elm preparations are generally recognized as safe, with no evidence of liver enzyme elevations or clinically apparent liver injury.",
+    "toxicNote": "No toxic dose is established.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "slippery-elm",
+    "name": "Slippery elm",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Inner bark is used for sore throat and stomach upset. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH LiverTox / PubMed: Slippery elm",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK599741/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "EFSA estimated the observed safe level in humans at 6 g per person per day (about 100 mg/kg body weight), and found exposure from energy drinks not of safety concern.",
+    "toxicNote": "No toxic dose is established.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "taurine",
+    "name": "Taurine",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The 6 g figure is EFSA's estimate, not a recommended dose. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "EFSA: Taurine safety opinion",
+        "url": "https://efsa.europa.eu/en/efsajournal/pub/2736"
+      },
+      {
+        "title": "EFSA: Taurine and d-glucuronolactone in energy drinks",
+        "url": "https://www.efsa.europa.eu/en/news/efsa-adopts-opinion-two-ingredients-commonly-used-some-energy-drinks"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A 2024 review says regular glycine supplementation has not been studied to be safe for humans.",
+    "toxicNote": "One retrospective study linked glycine supplementation to stroke mortality risk, and high doses given over a short time in clinical settings may be hazardous.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "glycine",
+    "name": "Glycine",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from a review; evidence is thin. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: Glycine supplementation review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11510825/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "branched-chain amino acids"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NIH ODS says up to 20 g a day of BCAA supplements in divided doses appears safe.",
+    "toxicNote": "No toxic dose is established.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bcaas",
+    "name": "BCAAs",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Studied in athletes. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Exercise and athletic performance",
+        "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ala",
+      "lipoic acid"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says alpha-lipoic acid appears safe at an appropriate oral dosage, and NIH ODS found no safety concerns for 600 mg a day for 6 months to 4 years.",
+    "toxicNote": "High doses can cause stomach upset and it may interact with other medicines. EFSA reviewed a possible risk of insulin autoimmune syndrome.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "alpha-lipoic-acid",
+    "name": "Alpha-lipoic acid",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Ask a provider if you take diabetes medicines. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Type 2 diabetes and dietary supplements",
+        "url": "https://www.nccih.nih.gov/health/providers/digest/type-2-diabetes-and-dietary-supplements-science"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Primary mitochondrial disorders",
+        "url": "https://ods.od.nih.gov/factsheets/PrimaryMitochondrialDisorders-HealthProfessional/"
+      },
+      {
+        "title": "EFSA: alpha-lipoic acid and insulin autoimmune syndrome",
+        "url": "https://efsa.europa.eu/en/efsajournal/pub/6577"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "pre workout"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "These are usually multi-ingredient products, so their risk depends on each ingredient: the FDA cites 400 mg a day of caffeine for healthy adults, and NIH ODS notes beta-alanine can cause tingling.",
+    "toxicNote": "NIH ODS says the effects and safety of ingredient combinations cannot be predicted unless that combination has been tested, and NCCIH warns that some bodybuilding products contain hidden drug ingredients.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "pre-workout-powder",
+    "name": "Pre-workout powder",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from the related caffeine, beta-alanine and bodybuilding-product data. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Exercise and athletic performance",
+        "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
+      },
+      {
+        "title": "FDA: How much caffeine is too much?",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      },
+      {
+        "title": "NCCIH: Bodybuilding supplements",
+        "url": "https://www.nccih.nih.gov/health/tips/6-things-to-know-about-dietary-supplements-marketed-for-bodybuilding-or-performance-enhancement"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A 2020 risk assessment found heavy-metal exposure from protein powders did not increase non-cancer risk.",
+    "toxicNote": "Protein powders can contain detectable arsenic, cadmium, mercury and lead, and plant-based powders tended to carry more than animal-based ones.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "protein-powder",
+    "name": "Protein powder",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from a risk assessment. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: Heavy metals in protein powders",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7509468/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "acv gummies"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Mayo Clinic says most people can use apple cider vinegar safely in small amounts; some studies suggest up to two tablespoons a day, and it has been used safely for up to 12 weeks.",
+    "toxicNote": "Apple cider vinegar is highly acidic: it may irritate the throat and weaken tooth enamel, and a case report describes esophageal injury from apple cider vinegar tablets.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "apple-cider-vinegar-gummies",
+    "name": "Apple cider vinegar gummies",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Gummies were not directly studied; this entry is inferred from vinegar and tablet data. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "Mayo Clinic: Apple cider vinegar for weight loss",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/expert-answers/apple-cider-vinegar-for-weight-loss/faq-20058394"
+      },
+      {
+        "title": "PubMed: Esophageal injury by apple cider vinegar tablets",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15983536/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "LiverTox says oregano extracts are generally recognized as safe and have not been linked to liver injury; LactMed notes oregano and oregano oil are GRAS as food ingredients.",
+    "toxicNote": "Higher doses can cause abdominal discomfort, heartburn, constipation or diarrhea, nausea, vomiting, dizziness and headache; allergic skin reactions are rare.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "oregano-oil",
+    "name": "Oregano oil",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Higher amounts than food flavoring should probably be avoided while breastfeeding. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH LiverTox / PubMed: Oregano (LiverTox)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK591556/"
+      },
+      {
+        "title": "LactMed: Oregano",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501844/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nigella sativa",
+      "black cumin"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "LiverTox says black cumin is well tolerated and generally recognized as safe, with no clinically apparent liver injury.",
+    "toxicNote": "A case report describes acute kidney injury, rhabdomyolysis and liver injury after black seed oil; the oil can also cause allergic contact dermatitis, and clinical trials noted nausea, bloating and burning.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "black-seed-oil",
+    "name": "Black seed oil",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Little is known about the oil's adverse effects. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH LiverTox / PubMed: Black cumin seed (LiverTox)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK591552/"
+      },
+      {
+        "title": "NIH LiverTox / PubMed: Rhabdomyolysis case after black seed oil",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38844000/"
+      },
+      {
+        "title": "LactMed: Black seed",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK501876/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "irish moss"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "LactMed says sea moss contains iodine and some toxic heavy metals such as arsenic, lead, cadmium and mercury from the water it grows in.",
+    "toxicNote": "Excess iodine from seaweed has caused thyroid suppression in breastfed infants, and a case report describes sea moss supplements precipitating thyrotoxicosis in a patient with Graves' disease.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sea-moss",
+    "name": "Sea moss",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Avoid while breastfeeding unless iodine and metals are shown to be low. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "LactMed: Sea moss",
+        "url": "https://ncbi.nlm.nih.gov/books/NBK621050/"
+      },
+      {
+        "title": "NIH LiverTox / PubMed: Sea moss and Jod-Basedow case",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8090171/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A review found enough literature showing safety after chronic oral consumption.",
+    "toxicNote": "The FDA warned consumers not to use specific bentonite clay products after finding elevated lead; lead can damage the nervous system, kidneys and immune system.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bentonite-clay",
+    "name": "Bentonite clay",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Contamination varies by product. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "FDA: Warning on Best Bentonite Clay",
+        "url": "https://cacmap.fda.gov/drugs/drug-safety-and-availability/fda-warns-consumers-not-use-best-bentonite-clay"
+      },
+      {
+        "title": "PMC review: Bentonite clay review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5632318/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "The CDC's ATSDR says inhalation is the exposure route of concern for silica compounds, and diatomaceous earth is approved as a food additive and GRAS only as a filtering aid.",
+    "toxicNote": "EFSA saw no indication of substantial absorption of diatomaceous earth from a feed additive, but said it poses a risk by inhalation.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "diatomaceous-earth",
+    "name": "Diatomaceous earth",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from silica data; do not breathe the dust. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "ATSDR: Toxicological profile for silica",
+        "url": "https://www.atsdr.cdc.gov/toxprofiles/tp211.pdf"
+      },
+      {
+        "title": "ATSDR: Silica regulations",
+        "url": "https://www.atsdr.cdc.gov/ToxProfiles/tp211-c7.pdf"
+      },
+      {
+        "title": "PMC review: EFSA: diatomaceous earth feed additive",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10733796/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A review of human studies reports a 6-week trial with no dose-related adverse effects, concluding up to 750 mL of noni juice a day is safe.",
+    "toxicNote": "Another review says noni is generally considered safe at normal dietary intake, though long-term human safety data remain limited.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "noni-juice",
+    "name": "Noni juice",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from review articles. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: Noni juice human intervention studies",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5920423/"
+      },
+      {
+        "title": "PubMed: Noni review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42985245/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "LiverTox says quercetin is well tolerated and has not been linked to clinically apparent liver injury; supplements typically provide 500 to 1,000 mg a day.",
+    "toxicNote": "Abdominal discomfort, nausea and headache occur at placebo-like rates. A safety review notes animal data on possible kidney effects in already damaged kidneys.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "quercetin",
+    "name": "Quercetin",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Doses are typical supplement amounts, not limits. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH LiverTox / PubMed: Quercetin (LiverTox)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK556474/"
+      },
+      {
+        "title": "PubMed: Safety aspects of quercetin",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29127724/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A literature review says relatively few reports have investigated resveratrol's toxicity, and long-term effects need study.",
+    "toxicNote": "In a phase II trial, 5.0 g a day caused nausea, diarrhea, fatigue and renal toxicity.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "resveratrol",
+    "name": "Resveratrol",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from a review. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: Potential adverse effects of resveratrol",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7139620/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A review of a 2006 risk assessment concluded lutein is safe up to 20 mg a day, with trial doses of 8 to 40 mg a day for 7 days to 24 months.",
+    "toxicNote": "Only a few studies monitored side effects, mostly by self-report.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "lutein",
+    "name": "Lutein",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from a review. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: Dietary guidance for lutein",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5715043/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "I found no safety source stating a safe amount; DHEA, a related hormone supplement, has unknown long-term safety and possible liver harm per NCCIH.",
+    "toxicNote": "One open-label study in adults found no severe side effects, with single episodes of tiredness, diarrhea and low mood.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "pregnenolone",
+    "name": "Pregnenolone",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from limited data and the related DHEA entry. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC: Pregnenolone open-label study",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4194260/"
+      },
+      {
+        "title": "NCCIH: Menopausal symptoms: in depth (DHEA)",
+        "url": "https://www.nccih.nih.gov/health/menopausal-symptoms-in-depth"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "bromelain"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "For bromelain, a common ingredient, NCCIH says it seems well tolerated, with stomach upset and diarrhea most common; LiverTox says it is GRAS and rare anaphylaxis has been described.",
+    "toxicNote": "Little is known about safety during pregnancy or breastfeeding. Other enzymes were not looked up.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "digestive-enzymes",
+    "name": "Digestive enzymes",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from the bromelain data; other enzyme products may differ. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Bromelain",
+        "url": "https://www.nccih.nih.gov/health/bromelain"
+      },
+      {
+        "title": "NIH LiverTox / PubMed: Bromelain (LiverTox)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK600584/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "MedlinePlus says to take psyllium only as directed and not for over a week without a doctor's approval.",
+    "toxicNote": "People with diabetes, heart or kidney disease or an intestinal blockage should check with a doctor first.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "psyllium-husk",
+    "name": "Psyllium husk",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Take with plenty of fluid as the label directs. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Psyllium",
+        "url": "https://medlineplus.gov/druginfo/meds/a601104.html"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "The MedlinePlus psyllium page is the closest source: take only as directed and not for over a week without approval.",
+    "toxicNote": "People with an intestinal blockage, diabetes, or heart or kidney disease should check with a doctor first.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "fiber-supplement",
+    "name": "Fiber supplement",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from the psyllium data; other fibers may differ. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Psyllium",
+        "url": "https://medlineplus.gov/druginfo/meds/a601104.html"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NIH ODS says studies have not identified any side effects of tart cherry juice, concentrate or dried skin powder supplements.",
+    "toxicNote": "No toxic dose is established.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tart-cherry",
+    "name": "Tart cherry",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Studied in athletes. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Exercise and athletic performance",
+        "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "collagen peptides"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A review says collagen supplementation is generally safe with no reported adverse events.",
+    "toxicNote": "No toxic dose is established.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "collagen",
+    "name": "Collagen",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from a review. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: Nutraceuticals for osteoarthritis",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8658017/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "methylsulfonylmethane"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A review says MSM is GRAS and well tolerated at up to 4 g a day with few, mild side effects; short studies used about 1 to 6 g a day.",
+    "toxicNote": "Adverse effects are usually mild and stomach-related (nausea, indigestion, bloating, diarrhea). Long-term safety is undefined.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "msm",
+    "name": "MSM",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from reviews. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: MSM applications and safety",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5372953/"
+      },
+      {
+        "title": "PMC review: MSM dosing and safety",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13704369"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "theanine"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A review says theanine supplements are generally considered safe with few reported adverse effects.",
+    "toxicNote": "The most common side effects are headache, dizziness and stomach discomfort, typically mild and temporary.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "l-theanine",
+    "name": "L-theanine",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Unverified: built from review articles or related data, not a primary safety source. Inferred from a review. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "PMC review: Herbal and natural supplements for sleep",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11321869/"
+      }
+    ]
   }
 ]

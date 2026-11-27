@@ -1325,178 +1325,13 @@
   "category": "Vitamins & minerals"
  },
  {
-  "id": "bilberry",
-  "name": "Bilberry",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "blue-green-algae",
-  "name": "Blue-green algae",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "chlorella",
-  "name": "Chlorella",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "spirulina",
-  "name": "Spirulina",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "collagen",
-  "name": "Collagen",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "hemp-oil",
   "name": "Hemp oil",
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "hops",
-  "name": "Hops",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "l-theanine",
-  "name": "L-theanine",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "maca",
-  "name": "Maca",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "moringa",
-  "name": "Moringa",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "msm",
-  "name": "MSM",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "reishi-mushroom",
-  "name": "Reishi mushroom",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "lion-s-mane-mushroom",
-  "name": "Lion's mane mushroom",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "chaga-mushroom",
-  "name": "Chaga mushroom",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "cordyceps",
-  "name": "Cordyceps",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "nettle-leaf",
-  "name": "Nettle leaf",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "protein-powder",
-  "name": "Protein powder",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "psyllium-husk",
-  "name": "Psyllium husk",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "tart-cherry",
-  "name": "Tart cherry",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "pre-workout-powder",
-  "name": "Pre-workout powder",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "bcaas",
-  "name": "BCAAs",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "apple-cider-vinegar-gummies",
-  "name": "Apple cider vinegar gummies",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "bentonite-clay",
-  "name": "Bentonite clay",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "diatomaceous-earth",
-  "name": "Diatomaceous earth",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "sea-moss",
-  "name": "Sea moss",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "black-seed-oil",
-  "name": "Black seed oil",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "oregano-oil",
-  "name": "Oregano oil",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "noni-juice",
-  "name": "Noni juice",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "quercetin",
-  "name": "Quercetin",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "resveratrol",
-  "name": "Resveratrol",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "lutein",
-  "name": "Lutein",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "lycopene",
   "name": "Lycopene",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "alpha-lipoic-acid",
-  "name": "Alpha-lipoic acid",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "taurine",
-  "name": "Taurine",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "glycine",
-  "name": "Glycine",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1515,21 +1350,6 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "fiber-supplement",
-  "name": "Fiber supplement",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "digestive-enzymes",
-  "name": "Digestive enzymes",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "slippery-elm",
-  "name": "Slippery elm",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "marshmallow-root",
   "name": "Marshmallow root",
   "category": "Herbal & dietary supplements"
@@ -1540,28 +1360,8 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "gotu-kola",
-  "name": "Gotu kola",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "holy-basil",
   "name": "Holy basil",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "bacopa",
-  "name": "Bacopa",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "tribulus",
-  "name": "Tribulus",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "pregnenolone",
-  "name": "Pregnenolone",
   "category": "Herbal & dietary supplements"
  },
  {
