@@ -2670,16 +2670,6 @@
   "category": "Household products"
  },
  {
-  "id": "hydrangea",
-  "name": "Hydrangea",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "sago-palm",
-  "name": "Sago palm",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "snowdrop",
   "name": "Snowdrop",
   "category": "Poisonous plants & fungi"
@@ -2690,28 +2680,8 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "wisteria",
-  "name": "Wisteria",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "angel-s-trumpet",
-  "name": "Angel's trumpet",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "bittersweet-nightshade",
   "name": "Bittersweet nightshade",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "buttercup",
-  "name": "Buttercup",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "cherry-laurel",
-  "name": "Cherry laurel",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -2730,11 +2700,6 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "larkspur",
-  "name": "Larkspur",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "lupine",
   "name": "Lupine",
   "category": "Poisonous plants & fungi"
@@ -2747,11 +2712,6 @@
  {
   "id": "zz-plant",
   "name": "ZZ plant",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "amaryllis",
-  "name": "Amaryllis",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -2772,16 +2732,6 @@
  {
   "id": "cycad",
   "name": "Cycad",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "daphne",
-  "name": "Daphne",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "laburnum",
-  "name": "Laburnum",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -2815,16 +2765,6 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "oak-acorns-raw",
-  "name": "Oak acorns (raw)",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "buckeye",
-  "name": "Buckeye",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "baneberry",
   "name": "Baneberry",
   "category": "Poisonous plants & fungi"
@@ -2832,16 +2772,6 @@
  {
   "id": "pokeberry",
   "name": "Pokeberry",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "virginia-creeper",
-  "name": "Virginia creeper",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "boxwood",
-  "name": "Boxwood",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -2867,11 +2797,6 @@
  {
   "id": "climbing-lily",
   "name": "Climbing lily",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "golden-chain-tree",
-  "name": "Golden chain tree",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -2910,23 +2835,8 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "calla-lily",
-  "name": "Calla lily",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "chrysanthemum",
   "name": "Chrysanthemum",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "clematis",
-  "name": "Clematis",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "hyacinth",
-  "name": "Hyacinth",
   "category": "Poisonous plants & fungi"
  },
  {

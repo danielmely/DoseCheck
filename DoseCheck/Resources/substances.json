@@ -34029,5 +34029,559 @@
         "url": "https://www.poison.org/articles/plant"
       }
     ]
+  },
+  {
+    "aliases": [
+      "cycas",
+      "cycad"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: seeds, roots and trunk pith. Reported effects: headache, vomiting and stomach problems.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sago-palm",
+    "name": "Sago palm",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: leaves and bark. Reported effects: stomach and intestinal upset and convulsions.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hydrangea",
+    "name": "Hydrangea",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: seeds and pods. Reported effects: stomach pain, diarrhea, nausea and vomiting; Texas A&M says many children have been poisoned by this plant.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "wisteria",
+    "name": "Wisteria",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      },
+      {
+        "title": "Texas A&M EarthKind: Common poisonous plants and plant parts",
+        "url": "https://aggie-horticulture.tamu.edu/earthkind/landscape/poisonous-plants-resources/common-poisonous-plants-and-plant-parts"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "brugmansia"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: all parts. Reported effects: blurred vision and delirium.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "angels-trumpet",
+    "name": "Angel's trumpet",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "prunus laurocerasus"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: leaves, bark and seeds (UGA lists all cherry species). Reported effects: gasping and nervous disorders.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cherry-laurel",
+    "name": "Cherry laurel",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "UGA's table lists all cherry species rather than cherry laurel by name.  Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "delphinium"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: all parts (UGA); young plants and seeds (Texas A&M). Reported effects: digestive upset and nervous excitement or depression.",
+    "lethalNote": "The source says poisoning from this plant can be fatal, but gives no dose. Call Poison Control at 1-800-222-1222 right away, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "larkspur",
+    "name": "Larkspur",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      },
+      {
+        "title": "Texas A&M EarthKind: Common poisonous plants and plant parts",
+        "url": "https://aggie-horticulture.tamu.edu/earthkind/landscape/poisonous-plants-resources/common-poisonous-plants-and-plant-parts"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: bulbs and seeds. Reported effects: stomach problems, vomiting and diarrhea.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "amaryllis",
+    "name": "Amaryllis",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "horse chestnut"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: all parts. Reported effects: digestive irritation, nausea and vomiting.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "buckeye",
+    "name": "Buckeye",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "buxus"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: leaves. Reported effects: stomach upset and vomiting.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "boxwood",
+    "name": "Boxwood",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: berries and leaves. Reported effects: nausea, bloody vomiting, abdominal pain, kidney damage and headache.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "virginia-creeper",
+    "name": "Virginia creeper",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "zantedeschia"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: all parts. Reported effects: burning and swelling of the mouth and throat.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "calla-lily",
+    "name": "Calla lily",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: all parts. Reported effects: stomach and intestinal irritation.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "clematis",
+    "name": "Clematis",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "UGA Extension Circular 957: Poisonous Plants in the Landscape (ornamentals reported toxic to humans)",
+        "url": "https://fieldreport.caes.uga.edu/publications/C957/poisonous-plants-in-the-landscape/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ranunculus"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: all parts. Reported effects: the irritant sap can badly injure the digestive tract.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "buttercup",
+    "name": "Buttercup",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "Texas A&M EarthKind: Common poisonous plants and plant parts",
+        "url": "https://aggie-horticulture.tamu.edu/earthkind/landscape/poisonous-plants-resources/common-poisonous-plants-and-plant-parts"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "golden chain"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: bean-like seed pods. Reported effects: severe poisoning with agitation, staggering, seizures and coma.",
+    "lethalNote": "The source says poisoning from this plant can be fatal, but gives no dose. Call Poison Control at 1-800-222-1222 right away, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "laburnum",
+    "name": "Laburnum",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "Texas A&M EarthKind: Common poisonous plants and plant parts",
+        "url": "https://aggie-horticulture.tamu.edu/earthkind/landscape/poisonous-plants-resources/common-poisonous-plants-and-plant-parts"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "laburnum"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: bean-like seed pods. Reported effects: severe poisoning with agitation, staggering, seizures and coma.",
+    "lethalNote": "The source says poisoning from this plant can be fatal, but gives no dose. Call Poison Control at 1-800-222-1222 right away, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "golden-chain-tree",
+    "name": "Golden chain tree",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "This is the same plant as laburnum.  Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "Texas A&M EarthKind: Common poisonous plants and plant parts",
+        "url": "https://aggie-horticulture.tamu.edu/earthkind/landscape/poisonous-plants-resources/common-poisonous-plants-and-plant-parts"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: berries. Reported effects: Texas A&M reports the berries as fatal and says a few berries can kill a child.",
+    "lethalNote": "The source says poisoning from this plant can be fatal, but gives no dose. Call Poison Control at 1-800-222-1222 right away, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "daphne",
+    "name": "Daphne",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "Texas A&M EarthKind: Common poisonous plants and plant parts",
+        "url": "https://aggie-horticulture.tamu.edu/earthkind/landscape/poisonous-plants-resources/common-poisonous-plants-and-plant-parts"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: bulbs. Reported effects: nausea, vomiting and diarrhea.",
+    "lethalNote": "The source says poisoning from this plant can be fatal, but gives no dose. Call Poison Control at 1-800-222-1222 right away, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hyacinth",
+    "name": "Hyacinth",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Bulbs look like onions, which is how they get eaten by mistake.  Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "Texas A&M EarthKind: Common poisonous plants and plant parts",
+        "url": "https://aggie-horticulture.tamu.edu/earthkind/landscape/poisonous-plants-resources/common-poisonous-plants-and-plant-parts"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "acorns",
+      "oak"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Toxic part: foliage and acorns. Reported effects: gradual kidney damage that appears only after days or weeks, usually after a large amount is eaten.",
+    "lethalNote": "No fatal dose is established. Any swallowed amount is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "oak-acorns-raw",
+    "name": "Oak acorns (raw)",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets, and name the plant exactly when you call Poison Control.",
+    "sources": [
+      {
+        "title": "Texas A&M EarthKind: Common poisonous plants and plant parts",
+        "url": "https://aggie-horticulture.tamu.edu/earthkind/landscape/poisonous-plants-resources/common-poisonous-plants-and-plant-parts"
+      }
+    ]
   }
 ]
