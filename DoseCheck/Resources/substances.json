@@ -34583,5 +34583,1105 @@
         "url": "https://aggie-horticulture.tamu.edu/earthkind/landscape/poisonous-plants-resources/common-poisonous-plants-and-plant-parts"
       }
     ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed. Do not drink it, and do not try to make yourself vomit.",
+    "toxicNote": "Poison Control groups this with hydrocarbons. Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death. Poison Control says swallowing gasoline can irritate the digestive tract and be aspirated into the lungs, causing chemical pneumonitis; the fumes irritate the lungs and affect the nervous system. Never siphon with your mouth.",
+    "lethalNote": "Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "gasoline",
+    "name": "Gasoline",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not siphon fuel with your mouth. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Dangerous household hydrocarbons",
+        "url": "https://www.poison.org/articles/dangerous-household-hydrocarbons"
+      },
+      {
+        "title": "Poison Control: Gasoline and diesel fuel toxicity",
+        "url": "https://www.poison.org/articles/gasoline-and-diesel-fuel"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed. Do not drink it, and do not try to make yourself vomit.",
+    "toxicNote": "Poison Control groups this with hydrocarbons. Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death.",
+    "lethalNote": "Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "kerosene",
+    "name": "Kerosene",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not siphon fuel with your mouth. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Dangerous household hydrocarbons",
+        "url": "https://www.poison.org/articles/dangerous-household-hydrocarbons"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "paraffin oil"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed. Do not drink it, and do not try to make yourself vomit.",
+    "toxicNote": "Poison Control groups this with hydrocarbons. Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death. Poison Control says most lamp oil is paraffin, poorly absorbed from the gut, but it can slide into the lungs and cause severe breathing trouble and pneumonia, sometimes showing up hours later.",
+    "lethalNote": "Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lamp-oil",
+    "name": "Lamp oil",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not siphon fuel with your mouth. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Dangerous household hydrocarbons",
+        "url": "https://www.poison.org/articles/dangerous-household-hydrocarbons"
+      },
+      {
+        "title": "Poison Control: My child swallowed lamp oil",
+        "url": "https://www.poison.org/articles/lamp-oil"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed. Do not drink it, and do not try to make yourself vomit.",
+    "toxicNote": "Poison Control groups this with hydrocarbons. Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death.",
+    "lethalNote": "Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "charcoal-lighter-fluid",
+    "name": "Charcoal lighter fluid",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not siphon fuel with your mouth. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Dangerous household hydrocarbons",
+        "url": "https://www.poison.org/articles/dangerous-household-hydrocarbons"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed. Do not drink it, and do not try to make yourself vomit.",
+    "toxicNote": "Poison Control groups this with hydrocarbons. Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death.",
+    "lethalNote": "Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lighter-fluid",
+    "name": "Lighter fluid",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not siphon fuel with your mouth. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Dangerous household hydrocarbons",
+        "url": "https://www.poison.org/articles/dangerous-household-hydrocarbons"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed. Do not drink it, and do not try to make yourself vomit.",
+    "toxicNote": "Poison Control groups this with hydrocarbons. Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death.",
+    "lethalNote": "Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "motor-oil",
+    "name": "Motor oil",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not siphon fuel with your mouth. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Dangerous household hydrocarbons",
+        "url": "https://www.poison.org/articles/dangerous-household-hydrocarbons"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed. Do not drink it, and do not try to make yourself vomit.",
+    "toxicNote": "Poison Control groups this with hydrocarbons. Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death.",
+    "lethalNote": "Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "paint-thinner",
+    "name": "Paint thinner",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not siphon fuel with your mouth. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Dangerous household hydrocarbons",
+        "url": "https://www.poison.org/articles/dangerous-household-hydrocarbons"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed. Do not drink it, and do not try to make yourself vomit.",
+    "toxicNote": "Poison Control groups this with hydrocarbons. Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death. Some kinds are hydrocarbons.",
+    "lethalNote": "Poison Control says oily hydrocarbons can easily be breathed into the lungs when someone tries to swallow them, which can cause pneumonia and death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "furniture-polish",
+    "name": "Furniture polish",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not siphon fuel with your mouth. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Dangerous household hydrocarbons",
+        "url": "https://www.poison.org/articles/dangerous-household-hydrocarbons"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "coolant"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says it is dangerous to swallow antifreeze even in small amounts. The toxicity develops slowly as the body breaks down the ethylene glycol into by-products that affect blood chemistry, the nervous system and the kidneys. It tastes sweet, and a bittering agent does not stop poisonings.",
+    "lethalNote": "Poison Control says even a little can cause kidney damage or death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "antifreeze",
+    "name": "Antifreeze",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Never put it in a drink bottle. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Antifreeze: Bad for your kids and pets",
+        "url": "https://www.poison.org/articles/antifreeze-bad-for-your-kids-and-pets"
+      },
+      {
+        "title": "Poison Control: Taste changes don't stop poisonings",
+        "url": "https://www.poison.org/articles/taste-changes-dont-stop-poisonings"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "antifreeze"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control describes ethylene glycol as a toxic alcohol that may cause coma, blood chemistry abnormalities, kidney failure and death. Small amounts of antifreeze are poisonous to people and pets.",
+    "lethalNote": "Poison Control says it may cause coma, kidney failure and death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ethylene-glycol",
+    "name": "Ethylene glycol",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "This is the main ingredient in many antifreezes. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Antifreeze: Bad for your kids and pets",
+        "url": "https://www.poison.org/articles/antifreeze-bad-for-your-kids-and-pets"
+      },
+      {
+        "title": "Poison Control: Taste changes don't stop poisonings",
+        "url": "https://www.poison.org/articles/taste-changes-dont-stop-poisonings"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "wiper fluid"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says ready-to-use fluid typically contains 30 to 50 percent methanol, and concentrates can contain as much as 90 to 100 percent. Very small amounts are poisonous to children, adults and pets.",
+    "lethalNote": "Poison Control says swallowed methanol can cause blindness and death; prompt treatment can reduce the toxicity. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "windshield-washer-fluid",
+    "name": "Windshield washer fluid",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Never pour it into a cup or drink bottle. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Windshield washer fluid: A winter hazard",
+        "url": "https://www.poison.org/articles/windshield-washer-solution"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "methyl alcohol",
+      "wood alcohol"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says methanol is a dangerous alcohol found in windshield washer fluid, deicers and gas line antifreeze, and that drinking it can lead to blindness and even death.",
+    "lethalNote": "Poison Control says drinking it can lead to blindness and death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "methanol",
+    "name": "Methanol",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "In June 2020 the FDA announced that some hand sanitizers were contaminated with methanol. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Is alcohol dangerous?",
+        "url": "https://www.poison.org/articles/is-alcohol-dangerous"
+      },
+      {
+        "title": "Poison Control: Hand sanitizer: What's the real story?",
+        "url": "https://www.poison.org/articles/hand-sanitizer-whats-the-real-story"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "rubbing alcohol"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not drink it. It is not the same as the alcohol in drinks.",
+    "toxicNote": "Poison Control says rubbing alcohol is most commonly 70 percent isopropyl alcohol and can be toxic if swallowed, inhaled or absorbed through the skin. It is flammable.",
+    "lethalNote": "Drinking it can cause dangerous poisoning. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "isopropyl-alcohol",
+    "name": "Isopropyl alcohol",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Use it in a well-ventilated area, away from flames. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: No, you can't drink rubbing alcohol",
+        "url": "https://www.poison.org/articles/rubbing-alcohol-only-looks-like-water"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "isopropyl alcohol"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not drink it. It is not the same as the alcohol in drinks.",
+    "toxicNote": "Poison Control says rubbing alcohol is most commonly 70 percent isopropyl alcohol and can be toxic if swallowed, inhaled or absorbed through the skin. It is flammable.",
+    "lethalNote": "Drinking it can cause dangerous poisoning. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "rubbing-alcohol",
+    "name": "Rubbing alcohol",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Use it in a well-ventilated area, away from flames. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: No, you can't drink rubbing alcohol",
+        "url": "https://www.poison.org/articles/rubbing-alcohol-only-looks-like-water"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sanitizer"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Keep it away from young children and supervise them when they use it.",
+    "toxicNote": "Poison Control says a taste or sip usually does not cause serious symptoms, but swallowing larger quantities can be hazardous. Effective sanitizers contain at least 60 percent alcohol, roughly as strong as 120-proof liquor.",
+    "lethalNote": "Poison Control says children who swallow alcohol can have seizures and coma and could even die. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hand-sanitizer",
+    "name": "Hand sanitizer",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "In June 2020 the FDA announced that some hand sanitizers were contaminated with methanol. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Hand sanitizer: What's the real story?",
+        "url": "https://www.poison.org/articles/hand-sanitizer-whats-the-real-story"
+      },
+      {
+        "title": "Poison Control: Alcohol: A dangerous poison for children",
+        "url": "https://www.poison.org/articles/alcohol-a-dangerous-poison-for-children"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Swish and spit. Swallowing a mouthful is not harmful, but do not swallow it on purpose.",
+    "toxicNote": "Poison Control says swallowing a large amount may cause toxicity from alcohol and fluoride. Ethanol toxicity can cause nausea, vomiting, drowsiness, coma and slow breathing; swallowed fluoride can cause nausea, vomiting, diarrhea, blood electrolyte problems, and kidney and heart problems.",
+    "lethalNote": "Poison Control says children who swallow alcohol, including from mouthwash, can have seizures and coma and could even die. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "mouthwash",
+    "name": "Mouthwash",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Choose an alcohol-free mouthwash if you have young children at home. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Mouthwash: Swish and spit",
+        "url": "https://www.poison.org/articles/mouthwash"
+      },
+      {
+        "title": "Poison Control: Alcohol: A dangerous poison for children",
+        "url": "https://www.poison.org/articles/alcohol-a-dangerous-poison-for-children"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Spit it out. For children under 3, use only a smear the size of a grain of rice.",
+    "toxicNote": "Poison Control says swallowing toothpaste can cause an upset stomach. Large amounts of fluoride can be toxic, but small accidental swallows of over-the-counter fluoride toothpaste are unlikely to be toxic.",
+    "lethalNote": "Poison Control says large amounts of fluoride can be toxic; it can lower calcium and magnesium in the body. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "toothpaste",
+    "name": "Toothpaste",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Teach children that toothpaste is medicine. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: My child ate toothpaste",
+        "url": "https://www.poison.org/articles/toothpaste"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says swallowed dish soap can cause nausea, vomiting or diarrhea. Rinse the mouth with water and take small sips of water.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "dish-soap",
+    "name": "Dish soap",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not mix household cleaning products. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: What to know about dish soap",
+        "url": "https://www.poison.org/articles/hand-dish-soap"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says swallowing a small amount of soap is usually not harmful, but it can irritate the mouth and throat and cause nausea, vomiting and diarrhea. Antibacterial soaps contain more ingredients likely to cause toxicity.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hand-soap",
+    "name": "Hand soap",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Some people are allergic to soap ingredients. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Swallowing soap: Is it safe?",
+        "url": "https://www.poison.org/articles/swallowing-soap"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says swallowing a small amount of soap is usually not harmful, but it can irritate the mouth and throat and cause nausea, vomiting and diarrhea. Antibacterial soaps contain more ingredients likely to cause toxicity.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bar-soap",
+    "name": "Bar soap",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Some people are allergic to soap ingredients. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Swallowing soap: Is it safe?",
+        "url": "https://www.poison.org/articles/swallowing-soap"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says shampoo is minimally toxic on the hair and scalp but can cause symptoms if swallowed or splashed in the eye. Medicated shampoos contain active ingredients.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "shampoo",
+    "name": "Shampoo",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Use non-medicated shampoo unless you have a scalp condition. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: The baby drank shampoo",
+        "url": "https://www.poison.org/articles/shampoo"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nail polish remover"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says nail polish remover is usually acetone, which can be absorbed through the skin and lungs and by swallowing. Swallowing it can cause irritation, vomiting, depression, seizures, a faster heart rate, lower blood pressure and acidosis. Some nail glue removers contain acetonitrile, which the body turns into cyanide.",
+    "lethalNote": "Poison Control says acetonitrile nail glue removers have caused cyanide poisoning in children and can be deadly. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "nail-polish-remover-acetone",
+    "name": "Nail polish remover (acetone)",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "This entry covers acetone as found in nail polish remover. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Nail polish and glue removers",
+        "url": "https://www.poison.org/articles/nail-polish-and-glue-remover"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nail polish remover"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says nail polish remover is usually acetone, which can be absorbed through the skin and lungs and by swallowing. Swallowing it can cause irritation, vomiting, depression, seizures, a faster heart rate, lower blood pressure and acidosis. Some nail glue removers contain acetonitrile, which the body turns into cyanide.",
+    "lethalNote": "Poison Control says acetonitrile nail glue removers have caused cyanide poisoning in children and can be deadly. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "acetone",
+    "name": "Acetone",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "This entry covers acetone as found in nail polish remover. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Nail polish and glue removers",
+        "url": "https://www.poison.org/articles/nail-polish-and-glue-remover"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "naphthalene",
+      "paradichlorobenzene"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says mothballs are pesticides that can poison people and pets if swallowed or if large amounts of fumes are inhaled. Swallowed naphthalene can cause nausea, vomiting, abdominal pain, seizures and coma, and can damage red blood cells and the kidneys.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "mothballs",
+    "name": "Mothballs",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The active ingredient is usually naphthalene or paradichlorobenzene. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Mothballs can be poisonous",
+        "url": "https://www.poison.org/articles/taking-your-woolies-out-of-mothballs"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "do not eat packet"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not eat it, although it is usually considered non-toxic.",
+    "toxicNote": "Poison Control says silica gel is usually considered non-toxic. Swallowing a packet should not cause symptoms unless the person chokes on it. Rarely a packet can block the digestive tract. The contents may mildly irritate skin or eyes.",
+    "lethalNote": "Poison Control lists no poisoning risk, but the packet is a choking hazard. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "silica-gel-packets",
+    "name": "Silica gel packets",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Look carefully when taking medicine so you do not swallow the packet. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Is silica gel toxic?",
+        "url": "https://www.poison.org/articles/silica-gel"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "toy magnets",
+      "neodymium"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not swallow magnets or let children play with them.",
+    "toxicNote": "Poison Control says strong magnets can stick together through folds of the intestine, cutting off blood supply and causing tissue death, bleeding and infection. One example case: a child had 23 magnets removed by surgery.",
+    "lethalNote": "Poison Control says swallowed magnets have caused serious injury and even death in children. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "magnets",
+    "name": "Magnets",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Store magnet sets locked away. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: \"Toy\" magnets are dangerous for children",
+        "url": "https://www.poison.org/articles/toy-magnets-are-dangerous-for-children"
+      },
+      {
+        "title": "Poison Control: Don't toy around",
+        "url": "https://www.poison.org/articles/foreign-body-ingestion-toys"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "rodenticide",
+      "mouse poison"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says anticoagulant rodenticides can cause bleeding if eaten in large amounts or repeatedly. Treatment can include fresh frozen plasma and vitamin K.",
+    "lethalNote": "Poison Control says swallowed rodenticide can cause serious bleeding. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "rat-poison",
+    "name": "Rat poison",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Bittering agents have not been shown to limit how much is swallowed. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Mouse and rat poisons",
+        "url": "https://www.poison.org/articles/mouse-and-rat-poisons"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says non-enzymatic drain cleaners contain strong acids or alkalis, and swallowing them can cause serious burns, permanent tissue damage and even death. Lye (sodium hydroxide) is very caustic and burns skin and lungs.",
+    "lethalNote": "Poison Control says consuming non-enzymatic drain cleaner can cause death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "drain-cleaner",
+    "name": "Drain cleaner",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Use gloves and goggles, and never mix cleaning products. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: What's in drain cleaner and what happens if you drink it?",
+        "url": "https://www.poison.org/articles/whats-in-drain-cleaner"
+      },
+      {
+        "title": "Poison Control: Top tips for a safe spring cleaning",
+        "url": "https://www.poison.org/articles/spring-cleaning"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sodium hydroxide"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says non-enzymatic drain cleaners contain strong acids or alkalis, and swallowing them can cause serious burns, permanent tissue damage and even death. Lye (sodium hydroxide) is very caustic and burns skin and lungs.",
+    "lethalNote": "Poison Control says consuming non-enzymatic drain cleaner can cause death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lye",
+    "name": "Lye",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Use gloves and goggles, and never mix cleaning products. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: What's in drain cleaner and what happens if you drink it?",
+        "url": "https://www.poison.org/articles/whats-in-drain-cleaner"
+      },
+      {
+        "title": "Poison Control: Top tips for a safe spring cleaning",
+        "url": "https://www.poison.org/articles/spring-cleaning"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sodium hydroxide",
+      "lye"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says non-enzymatic drain cleaners contain strong acids or alkalis, and swallowing them can cause serious burns, permanent tissue damage and even death. Lye (sodium hydroxide) is very caustic and burns skin and lungs.",
+    "lethalNote": "Poison Control says consuming non-enzymatic drain cleaner can cause death. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "caustic-soda",
+    "name": "Caustic soda",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Use gloves and goggles, and never mix cleaning products. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: What's in drain cleaner and what happens if you drink it?",
+        "url": "https://www.poison.org/articles/whats-in-drain-cleaner"
+      },
+      {
+        "title": "Poison Control: Top tips for a safe spring cleaning",
+        "url": "https://www.poison.org/articles/spring-cleaning"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says oven cleaners are usually very caustic and can cause damage from irritation to severe burns on any tissue. If swallowed, rinse the mouth and take a few sips of water or milk only if it has been just a few minutes.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "oven-cleaner",
+    "name": "Oven cleaner",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Use it in a well-ventilated area. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Using oven cleaners safely",
+        "url": "https://www.poison.org/articles/using-oven-cleaners-safely-211"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says toilet bowl cleaners may be strong acids, and drain and toilet bowl cleaners cause devastating burns to the mouth, throat and stomach.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "toilet-bowl-cleaner",
+    "name": "Toilet bowl cleaner",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Never mix it with bleach or other cleaners. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Caution with caustics",
+        "url": "https://www.poison.org/articles/caution-with-caustics"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control lists rust removers among household products that can cause chemical burns.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "rust-remover",
+    "name": "Rust remover",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it locked up. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Caution with caustics",
+        "url": "https://www.poison.org/articles/caution-with-caustics"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "automatic dishwasher detergent"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says a lick or taste is unlikely to cause more than a bad taste, and nausea and vomiting are common after a sip or two. It can irritate the mouth, throat and stomach, and can in extreme cases cause severe burns and swelling of the throat and esophagus.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "dishwasher-detergent",
+    "name": "Dishwasher detergent",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Rinse the mouth with water, and rinse eyes or skin with cool water. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: My child swallowed dishwashing detergent",
+        "url": "https://www.poison.org/articles/child-swallowed-dishwashing-detergent-181"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "multi-surface cleaner"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not meant to be swallowed.",
+    "toxicNote": "Poison Control says multi-surface cleaners can cause mouth and throat irritation, stomachache, vomiting and diarrhea if swallowed, and breathing symptoms such as sore throat, cough and wheezing if inhaled.",
+    "lethalNote": "No fatal dose is established for this product. If someone swallowed it, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "all-purpose-cleaner",
+    "name": "All-purpose cleaner",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Drink water or rinse eyes and skin after exposure. Keep it in its original container, out of sight and reach of children.",
+    "sources": [
+      {
+        "title": "Poison Control: Cleaning sprays: How harmful are they?",
+        "url": "https://www.poison.org/articles/multi-surface-cleaning-spray"
+      }
+    ]
   }
 ]

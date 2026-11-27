@@ -1880,11 +1880,6 @@
   "category": "Over-the-counter medications"
  },
  {
-  "id": "rubbing-alcohol",
-  "name": "Rubbing alcohol",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "cough-syrup",
   "name": "Cough syrup",
   "category": "Over-the-counter medications"
@@ -2065,21 +2060,6 @@
   "category": "Household products"
  },
  {
-  "id": "drain-cleaner",
-  "name": "Drain cleaner",
-  "category": "Household products"
- },
- {
-  "id": "toilet-bowl-cleaner",
-  "name": "Toilet bowl cleaner",
-  "category": "Household products"
- },
- {
-  "id": "dish-soap",
-  "name": "Dish soap",
-  "category": "Household products"
- },
- {
   "id": "dishwasher-pods",
   "name": "Dishwasher pods",
   "category": "Household products"
@@ -2095,38 +2075,8 @@
   "category": "Household products"
  },
  {
-  "id": "all-purpose-cleaner",
-  "name": "All-purpose cleaner",
-  "category": "Household products"
- },
- {
-  "id": "oven-cleaner",
-  "name": "Oven cleaner",
-  "category": "Household products"
- },
- {
-  "id": "hand-sanitizer",
-  "name": "Hand sanitizer",
-  "category": "Household products"
- },
- {
-  "id": "mouthwash",
-  "name": "Mouthwash",
-  "category": "Household products"
- },
- {
-  "id": "toothpaste",
-  "name": "Toothpaste",
-  "category": "Household products"
- },
- {
   "id": "fluoride-rinse",
   "name": "Fluoride rinse",
-  "category": "Household products"
- },
- {
-  "id": "shampoo",
-  "name": "Shampoo",
   "category": "Household products"
  },
  {
@@ -2140,16 +2090,6 @@
   "category": "Household products"
  },
  {
-  "id": "bar-soap",
-  "name": "Bar soap",
-  "category": "Household products"
- },
- {
-  "id": "hand-soap",
-  "name": "Hand soap",
-  "category": "Household products"
- },
- {
   "id": "sunscreen",
   "name": "Sunscreen",
   "category": "Household products"
@@ -2157,11 +2097,6 @@
  {
   "id": "lotion",
   "name": "Lotion",
-  "category": "Household products"
- },
- {
-  "id": "nail-polish-remover-acetone",
-  "name": "Nail polish remover (acetone)",
   "category": "Household products"
  },
  {
@@ -2185,41 +2120,6 @@
   "category": "Household products"
  },
  {
-  "id": "antifreeze",
-  "name": "Antifreeze",
-  "category": "Household products"
- },
- {
-  "id": "windshield-washer-fluid",
-  "name": "Windshield washer fluid",
-  "category": "Household products"
- },
- {
-  "id": "motor-oil",
-  "name": "Motor oil",
-  "category": "Household products"
- },
- {
-  "id": "gasoline",
-  "name": "Gasoline",
-  "category": "Household products"
- },
- {
-  "id": "kerosene",
-  "name": "Kerosene",
-  "category": "Household products"
- },
- {
-  "id": "lamp-oil",
-  "name": "Lamp oil",
-  "category": "Household products"
- },
- {
-  "id": "paint-thinner",
-  "name": "Paint thinner",
-  "category": "Household products"
- },
- {
   "id": "paint",
   "name": "Paint",
   "category": "Household products"
@@ -2237,21 +2137,6 @@
  {
   "id": "super-glue",
   "name": "Super glue",
-  "category": "Household products"
- },
- {
-  "id": "silica-gel-packets",
-  "name": "Silica gel packets",
-  "category": "Household products"
- },
- {
-  "id": "mothballs",
-  "name": "Mothballs",
-  "category": "Household products"
- },
- {
-  "id": "rat-poison",
-  "name": "Rat poison",
   "category": "Household products"
  },
  {
@@ -2275,23 +2160,8 @@
   "category": "Household products"
  },
  {
-  "id": "charcoal-lighter-fluid",
-  "name": "Charcoal lighter fluid",
-  "category": "Household products"
- },
- {
-  "id": "lighter-fluid",
-  "name": "Lighter fluid",
-  "category": "Household products"
- },
- {
   "id": "pool-chlorine",
   "name": "Pool chlorine",
-  "category": "Household products"
- },
- {
-  "id": "magnets",
-  "name": "Magnets",
   "category": "Household products"
  },
  {
@@ -2322,11 +2192,6 @@
  {
   "id": "cat-litter",
   "name": "Cat litter",
-  "category": "Household products"
- },
- {
-  "id": "dishwasher-detergent",
-  "name": "Dishwasher detergent",
   "category": "Household products"
  },
  {
@@ -2365,11 +2230,6 @@
   "category": "Household products"
  },
  {
-  "id": "rust-remover",
-  "name": "Rust remover",
-  "category": "Household products"
- },
- {
   "id": "tile-cleaner",
   "name": "Tile cleaner",
   "category": "Household products"
@@ -2387,11 +2247,6 @@
  {
   "id": "wood-polish",
   "name": "Wood polish",
-  "category": "Household products"
- },
- {
-  "id": "furniture-polish",
-  "name": "Furniture polish",
   "category": "Household products"
  },
  {
@@ -2475,43 +2330,13 @@
   "category": "Household products"
  },
  {
-  "id": "lye",
-  "name": "Lye",
-  "category": "Household products"
- },
- {
-  "id": "caustic-soda",
-  "name": "Caustic soda",
-  "category": "Household products"
- },
- {
   "id": "denatured-alcohol",
   "name": "Denatured alcohol",
   "category": "Household products"
  },
  {
-  "id": "isopropyl-alcohol",
-  "name": "Isopropyl alcohol",
-  "category": "Household products"
- },
- {
-  "id": "methanol",
-  "name": "Methanol",
-  "category": "Household products"
- },
- {
-  "id": "ethylene-glycol",
-  "name": "Ethylene glycol",
-  "category": "Household products"
- },
- {
   "id": "propylene-glycol",
   "name": "Propylene glycol",
-  "category": "Household products"
- },
- {
-  "id": "acetone",
-  "name": "Acetone",
   "category": "Household products"
  },
  {
