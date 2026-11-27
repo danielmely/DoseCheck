@@ -33035,7 +33035,8 @@
   },
   {
     "aliases": [
-      "nicorette lozenge"
+      "nicorette lozenge",
+      "nicotine lozenges"
     ],
     "isMedication": true,
     "toxicMgPerKg": null,
@@ -33056,7 +33057,7 @@
     "category": "Over-the-counter medications",
     "servingName": "dose",
     "servingMg": 1,
-    "notes": "Do not combine with another nicotine quit aid such as a patch or gum.",
+    "notes": "Do not combine with another nicotine quit aid such as a patch or gum. The FDA-approved Nicorette lozenge label says not to use more than 5 lozenges in 6 hours or more than 20 lozenges a day.",
     "sources": [
       {
         "title": "MedlinePlus: Nicotine lozenges",
@@ -33065,6 +33066,10 @@
       {
         "title": "Poison Control (poison.org)",
         "url": "https://www.poison.org/"
+      },
+      {
+        "title": "FDA: Nicorette lozenge label",
+        "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/021330Orig1s026lbl.pdf"
       }
     ]
   },
@@ -49035,6 +49040,698 @@
       {
         "title": "PubMed: Toxicology effects of saffron",
         "url": "https://pubmed.ncbi.nlm.nih.gov/28293386/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cigarette",
+      "smokes"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": 1.0,
+    "lethalBasis": "CDC: adult lethal dose 0.5 to 1.0 mg/kg (30 to 60 mg total); upper end used",
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No safe amount. Nicotine is addictive; keep all nicotine products away from children and pets.",
+    "toxicNote": "Swallowed, a whole cigarette has 15 to 25 mg of nicotine and one butt 5 to 7 mg, enough to poison a child. Nicotine acts very quickly when swallowed.",
+    "lethalNote": "The CDC gives the adult lethal dose of nicotine as 0.5 to 1.0 mg per kg of body weight, or a total of 30 to 60 mg. Small children can have symptoms from as little as 1 mg.",
+    "extras": null,
+    "measuredAs": "nicotine",
+    "verified": true,
+    "id": "cigarettes",
+    "name": "Cigarettes",
+    "category": "Tobacco & nicotine",
+    "servingName": "cigarette (about 15 mg nicotine, 1 to 2 mg absorbed when smoked)",
+    "servingMg": 15,
+    "notes": "One review says most manufactured cigarettes contain 10 to 15 mg of nicotine, of which a smoker absorbs about 1 to 2 mg. Smoking also carries cancer and heart risks not shown as a dose.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Nicotine poisoning, lethal dose 0.5 to 1.0 mg/kg",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5218a3.htm"
+      },
+      {
+        "title": "Poison Control: My child ate a cigarette",
+        "url": "https://www.poison.org/articles/my-child-ate-a-cigarette"
+      },
+      {
+        "title": "NCBI: Nicotine pharmacology, Clearing the Smoke",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK222359/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cigarette butt",
+      "cigarette ends"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": 1.0,
+    "lethalBasis": "CDC: adult lethal dose 0.5 to 1.0 mg/kg (30 to 60 mg total); upper end used",
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Keep out of reach of children and pets.",
+    "toxicNote": "One cigarette butt contains 5 to 7 mg of nicotine and is enough to poison a child. Children under 6 are most often poisoned.",
+    "lethalNote": "The CDC gives the adult lethal dose of nicotine as 0.5 to 1.0 mg per kg of body weight, or a total of 30 to 60 mg. Small children can have symptoms from as little as 1 mg.",
+    "extras": null,
+    "measuredAs": "nicotine",
+    "verified": true,
+    "id": "cigarette-butts",
+    "name": "Cigarette butts",
+    "category": "Tobacco & nicotine",
+    "servingName": "cigarette butt (5 to 7 mg nicotine)",
+    "servingMg": 6,
+    "notes": "Symptoms can begin quickly after swallowing.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Nicotine poisoning, lethal dose 0.5 to 1.0 mg/kg",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5218a3.htm"
+      },
+      {
+        "title": "Poison Control: My child ate a cigarette",
+        "url": "https://www.poison.org/articles/my-child-ate-a-cigarette"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cigarillo",
+      "little cigars"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": 1.0,
+    "lethalBasis": "CDC: adult lethal dose 0.5 to 1.0 mg/kg (30 to 60 mg total); upper end used",
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No safe amount. Nicotine is addictive; keep all nicotine products away from children and pets.",
+    "toxicNote": "NCI reports cigars range from 0.77 to 22 g and 10 to 444 mg of nicotine, from the equivalent of one cigarette to a whole pack. Swallowing a cigar or its leaf can poison a child.",
+    "lethalNote": "The CDC gives the adult lethal dose of nicotine as 0.5 to 1.0 mg per kg of body weight, or a total of 30 to 60 mg. Small children can have symptoms from as little as 1 mg.",
+    "extras": null,
+    "measuredAs": "nicotine",
+    "verified": true,
+    "id": "cigars",
+    "name": "Cigars",
+    "category": "Tobacco & nicotine",
+    "servingName": "small cigar (low end of range, 10 mg nicotine; large cigars up to 444 mg)",
+    "servingMg": 10,
+    "notes": "Cigars are generally higher in nicotine and more alkaline than cigarettes. Another source says cigar nicotine may be up to four times a cigarette's.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Nicotine poisoning, lethal dose 0.5 to 1.0 mg/kg",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5218a3.htm"
+      },
+      {
+        "title": "NCI Monograph 9: Pharmacology and abuse potential of cigars",
+        "url": "https://cancercontrol.cancer.gov/sites/default/files/2020-08/m09_6.pdf"
+      },
+      {
+        "title": "PMC: Preventing smoking in children and adolescents",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4934164/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "loose leaf chew",
+      "smokeless tobacco",
+      "dip",
+      "moist snuff"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": 1.0,
+    "lethalBasis": "CDC: adult lethal dose 0.5 to 1.0 mg/kg (30 to 60 mg total); upper end used",
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No safe amount. Nicotine is addictive; keep all nicotine products away from children and pets.",
+    "toxicNote": "In an NCI table, a typical chewing tobacco portion (7.9 g) held about 133 mg of nicotine and moist snuff (1.4 g) about 14.5 mg. US poison data show 1,768 smokeless tobacco poisonings in children under 6 in 2006 to 2008.",
+    "lethalNote": "The CDC gives the adult lethal dose of nicotine as 0.5 to 1.0 mg per kg of body weight, or a total of 30 to 60 mg. Small children can have symptoms from as little as 1 mg.",
+    "extras": null,
+    "measuredAs": "nicotine",
+    "verified": true,
+    "id": "chewing-tobacco",
+    "name": "Chewing tobacco",
+    "category": "Tobacco & nicotine",
+    "servingName": "typical portion of chewing tobacco (about 133 mg nicotine)",
+    "servingMg": 133,
+    "notes": "Smokeless tobacco swallowed or left in a child's mouth is dangerous.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Nicotine poisoning, lethal dose 0.5 to 1.0 mg/kg",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5218a3.htm"
+      },
+      {
+        "title": "NCI Monograph 2: Nicotine effects and addiction",
+        "url": "https://cancercontrol.cancer.gov/sites/default/files/2020-08/m02_4.pdf"
+      },
+      {
+        "title": "PubMed: Nicotine replacement products, poisoning in children",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24926513/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "swedish snus",
+      "snus pouch",
+      "moist snuff pouch"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": 1.0,
+    "lethalBasis": "CDC: adult lethal dose 0.5 to 1.0 mg/kg (30 to 60 mg total); upper end used",
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No safe amount. Nicotine is addictive; keep all nicotine products away from children and pets.",
+    "toxicNote": "A pouch of smokeless tobacco swallowed by a child can cause nicotine poisoning. NCI's average for moist snuff is about 10.5 mg of nicotine per gram.",
+    "lethalNote": "The CDC gives the adult lethal dose of nicotine as 0.5 to 1.0 mg per kg of body weight, or a total of 30 to 60 mg. Small children can have symptoms from as little as 1 mg.",
+    "extras": null,
+    "measuredAs": "nicotine",
+    "verified": false,
+    "id": "snus",
+    "name": "Snus",
+    "category": "Tobacco & nicotine",
+    "servingName": "1.4 g portion of moist snuff (about 14.5 mg nicotine)",
+    "servingMg": 14.5,
+    "notes": "No snus-specific nicotine figure was retrieved; the moist snuff data are used as an estimate.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Nicotine poisoning, lethal dose 0.5 to 1.0 mg/kg",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5218a3.htm"
+      },
+      {
+        "title": "NCI Monograph 2: Nicotine effects and addiction",
+        "url": "https://cancercontrol.cancer.gov/sites/default/files/2020-08/m02_4.pdf"
+      },
+      {
+        "title": "PubMed: Nicotine replacement products, poisoning in children",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24926513/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "zyn",
+      "velo",
+      "on!",
+      "nicotine pouch"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": 1.0,
+    "lethalBasis": "CDC: adult lethal dose 0.5 to 1.0 mg/kg (30 to 60 mg total); upper end used",
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No safe amount. Nicotine is addictive; keep all nicotine products away from children and pets.",
+    "toxicNote": "A 2024 analysis of 31 pouches found 2.58 to 36.9 mg of nicotine per pouch, with a few over 56 mg. Another review found 1 to 47 mg across products.",
+    "lethalNote": "The CDC gives the adult lethal dose of nicotine as 0.5 to 1.0 mg per kg of body weight, or a total of 30 to 60 mg. Small children can have symptoms from as little as 1 mg.",
+    "extras": null,
+    "measuredAs": "nicotine",
+    "verified": true,
+    "id": "nicotine-pouches",
+    "name": "Nicotine pouches",
+    "category": "Tobacco & nicotine",
+    "servingName": "pouch (typical 6 mg; products range 1 to 47 mg)",
+    "servingMg": 6,
+    "notes": "Many products do not list nicotine strength. Pouches contain far less harmful chemicals than cigarettes but are not risk free. A proposed acute reference dose of 0.8 mcg/kg was exceeded at least 20-fold by even the lowest-strength pouch.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Nicotine poisoning, lethal dose 0.5 to 1.0 mg/kg",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5218a3.htm"
+      },
+      {
+        "title": "PMC: Beyond smoking, risk assessment of nicotine in pouches",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11568777/"
+      },
+      {
+        "title": "PubMed: Nicotine pouches, a narrative review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40933411/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "e-liquid",
+      "vape juice",
+      "e-juice"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": 1.0,
+    "lethalBasis": "CDC: adult lethal dose 0.5 to 1.0 mg/kg (30 to 60 mg total); upper end used",
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No safe amount. Nicotine is addictive; keep all nicotine products away from children and pets. Never leave e-liquid where children can reach it.",
+    "toxicNote": "Liquid nicotine is sold at up to 100 mg per mL, so a small swallow can be lethal for a child. A 15-month-old died after drinking e-cigarette liquid. The most common symptoms in treated children were nausea and vomiting.",
+    "lethalNote": "The CDC gives the adult lethal dose of nicotine as 0.5 to 1.0 mg per kg of body weight, or a total of 30 to 60 mg. Small children can have symptoms from as little as 1 mg.",
+    "extras": null,
+    "measuredAs": "nicotine",
+    "verified": false,
+    "id": "e-cigarette-liquid",
+    "name": "E-cigarette liquid",
+    "category": "Tobacco & nicotine",
+    "servingName": "1 mL of 20 mg/mL e-liquid (20 mg nicotine)",
+    "servingMg": 20,
+    "notes": "The 20 mg/mL concentration used in the serving is an example, not a measurement. Many e-liquids contain more nicotine than labeled.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Nicotine poisoning, lethal dose 0.5 to 1.0 mg/kg",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5218a3.htm"
+      },
+      {
+        "title": "PMC: Liquid nicotine poisoning events, US emergency departments 2013 to 2017",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6582692/"
+      },
+      {
+        "title": "PMC: Infant mortality case of e-cigarette liquid nicotine",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5300914/"
+      },
+      {
+        "title": "PMC: Pediatric toxidrome curriculum, liquid nicotine overdose",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6342440/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "vape cartridge",
+      "juul pod",
+      "pod"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": 1.0,
+    "lethalBasis": "CDC: adult lethal dose 0.5 to 1.0 mg/kg (30 to 60 mg total); upper end used",
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No safe amount. Nicotine is addictive; keep all nicotine products away from children and pets. Never leave e-liquid where children can reach it.",
+    "toxicNote": "Liquid nicotine is sold at up to 100 mg per mL, so a small swallow can be lethal for a child. A 15-month-old died after drinking e-cigarette liquid. The most common symptoms in treated children were nausea and vomiting.",
+    "lethalNote": "The CDC gives the adult lethal dose of nicotine as 0.5 to 1.0 mg per kg of body weight, or a total of 30 to 60 mg. Small children can have symptoms from as little as 1 mg.",
+    "extras": null,
+    "measuredAs": "nicotine",
+    "verified": false,
+    "id": "vape-pods",
+    "name": "Vape pods",
+    "category": "Tobacco & nicotine",
+    "servingName": "1 mL of 20 mg/mL pod liquid (20 mg nicotine)",
+    "servingMg": 20,
+    "notes": "The 20 mg/mL concentration used in the serving is an example, not a measurement. Many e-liquids contain more nicotine than labeled.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Nicotine poisoning, lethal dose 0.5 to 1.0 mg/kg",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5218a3.htm"
+      },
+      {
+        "title": "PMC: Liquid nicotine poisoning events, US emergency departments 2013 to 2017",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6582692/"
+      },
+      {
+        "title": "PMC: Infant mortality case of e-cigarette liquid nicotine",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5300914/"
+      },
+      {
+        "title": "PMC: Pediatric toxidrome curriculum, liquid nicotine overdose",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6342440/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nicotine base",
+      "liquid nicotine",
+      "nic shot",
+      "100 mg/ml nicotine"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": 1.0,
+    "lethalBasis": "CDC: adult lethal dose 0.5 to 1.0 mg/kg (30 to 60 mg total); upper end used",
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not handle undiluted nicotine concentrate. It is absorbed through skin.",
+    "toxicNote": "Concentrates are sold at up to 100 mg per mL. A person survived self-injecting an e-liquid dose estimated near 30 to 60 mg, which was less than 1 mL of the product.",
+    "lethalNote": "The CDC gives the adult lethal dose of nicotine as 0.5 to 1.0 mg per kg of body weight, or a total of 30 to 60 mg. Small children can have symptoms from as little as 1 mg.",
+    "extras": null,
+    "measuredAs": "nicotine",
+    "verified": true,
+    "id": "nicotine-e-juice-concentrate",
+    "name": "Nicotine e-juice (concentrate)",
+    "category": "Tobacco & nicotine",
+    "servingName": "1 mL of 100 mg/mL concentrate (100 mg nicotine)",
+    "servingMg": 100,
+    "notes": "Undiluted concentrate is a much higher risk than diluted e-liquid.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Nicotine poisoning, lethal dose 0.5 to 1.0 mg/kg",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5218a3.htm"
+      },
+      {
+        "title": "PMC: Liquid nicotine poisoning events, US emergency departments 2013 to 2017",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6582692/"
+      },
+      {
+        "title": "PMC: Infant mortality case of e-cigarette liquid nicotine",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5300914/"
+      },
+      {
+        "title": "PMC: Pediatric toxidrome curriculum, liquid nicotine overdose",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6342440/"
+      },
+      {
+        "title": "PMC: Near fatal intoxication by nicotine and propylene glycol injection",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6511216/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "feta cheese"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Pregnant people, those 65 or older and the immune-weakened should eat it only if the label says it is made with pasteurized milk, or heat it to 165 F.",
+    "toxicNote": "Soft cheeses can carry Listeria, which can grow at refrigerator temperatures. FDA names feta, brie, camembert and blue-veined cheeses. CDC says outbreaks have been linked to soft cheeses including Brie.",
+    "lethalNote": "No fatal dose is established. Listeriosis can be fatal.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "feta",
+    "name": "Feta",
+    "category": "Dairy & alternatives",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "For soft-ripened cheeses, the risk per serving is estimated to be 50 to 160 times greater with unpasteurized than pasteurized milk. Pasteurized soft cheese has also caused outbreaks.",
+    "sources": [
+      {
+        "title": "CDC: How Listeria spreads, soft cheeses and raw milk",
+        "url": "https://www.cdc.gov/listeria/causes/dairy.html"
+      },
+      {
+        "title": "FDA: Food safety for moms-to-be at a glance",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-moms-be-glance"
+      },
+      {
+        "title": "CDC EID: Listeriosis outbreaks associated with soft cheeses 1998 to 2014",
+        "url": "https://wwwnc.cdc.gov/eid/article/24/6/17-1051_article"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "brie cheese"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Pregnant people, those 65 or older and the immune-weakened should eat it only if the label says it is made with pasteurized milk, or heat it to 165 F.",
+    "toxicNote": "Soft cheeses can carry Listeria, which can grow at refrigerator temperatures. FDA names feta, brie, camembert and blue-veined cheeses. CDC says outbreaks have been linked to soft cheeses including Brie.",
+    "lethalNote": "No fatal dose is established. Listeriosis can be fatal.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "brie",
+    "name": "Brie",
+    "category": "Dairy & alternatives",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "For soft-ripened cheeses, the risk per serving is estimated to be 50 to 160 times greater with unpasteurized than pasteurized milk. Pasteurized soft cheese has also caused outbreaks.",
+    "sources": [
+      {
+        "title": "CDC: How Listeria spreads, soft cheeses and raw milk",
+        "url": "https://www.cdc.gov/listeria/causes/dairy.html"
+      },
+      {
+        "title": "FDA: Food safety for moms-to-be at a glance",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-moms-be-glance"
+      },
+      {
+        "title": "CDC EID: Listeriosis outbreaks associated with soft cheeses 1998 to 2014",
+        "url": "https://wwwnc.cdc.gov/eid/article/24/6/17-1051_article"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Pregnant people, those 65 or older and the immune-weakened should eat it only if the label says it is made with pasteurized milk, or heat it to 165 F.",
+    "toxicNote": "Soft cheeses can carry Listeria, which can grow at refrigerator temperatures. FDA names feta, brie, camembert and blue-veined cheeses. CDC says outbreaks have been linked to soft cheeses including Brie.",
+    "lethalNote": "No fatal dose is established. Listeriosis can be fatal.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "camembert",
+    "name": "Camembert",
+    "category": "Dairy & alternatives",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "For soft-ripened cheeses, the risk per serving is estimated to be 50 to 160 times greater with unpasteurized than pasteurized milk. Pasteurized soft cheese has also caused outbreaks.",
+    "sources": [
+      {
+        "title": "CDC: How Listeria spreads, soft cheeses and raw milk",
+        "url": "https://www.cdc.gov/listeria/causes/dairy.html"
+      },
+      {
+        "title": "FDA: Food safety for moms-to-be at a glance",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-moms-be-glance"
+      },
+      {
+        "title": "CDC EID: Listeriosis outbreaks associated with soft cheeses 1998 to 2014",
+        "url": "https://wwwnc.cdc.gov/eid/article/24/6/17-1051_article"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "roquefort",
+      "stilton",
+      "blue-veined cheese"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Pregnant people, those 65 or older and the immune-weakened should eat it only if the label says it is made with pasteurized milk, or heat it to 165 F.",
+    "toxicNote": "Soft cheeses can carry Listeria, which can grow at refrigerator temperatures. FDA names feta, brie, camembert and blue-veined cheeses. CDC says outbreaks have been linked to soft cheeses including Brie.",
+    "lethalNote": "No fatal dose is established. Listeriosis can be fatal.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "blue-cheese",
+    "name": "Blue cheese",
+    "category": "Dairy & alternatives",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "For soft-ripened cheeses, the risk per serving is estimated to be 50 to 160 times greater with unpasteurized than pasteurized milk. Pasteurized soft cheese has also caused outbreaks.",
+    "sources": [
+      {
+        "title": "CDC: How Listeria spreads, soft cheeses and raw milk",
+        "url": "https://www.cdc.gov/listeria/causes/dairy.html"
+      },
+      {
+        "title": "FDA: Food safety for moms-to-be at a glance",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-moms-be-glance"
+      },
+      {
+        "title": "CDC EID: Listeriosis outbreaks associated with soft cheeses 1998 to 2014",
+        "url": "https://wwwnc.cdc.gov/eid/article/24/6/17-1051_article"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "blue-veined cheese (italian)"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Pregnant people, those 65 or older and the immune-weakened should eat it only if the label says it is made with pasteurized milk, or heat it to 165 F.",
+    "toxicNote": "Soft cheeses can carry Listeria, which can grow at refrigerator temperatures. FDA names feta, brie, camembert and blue-veined cheeses. CDC says outbreaks have been linked to soft cheeses including Brie.",
+    "lethalNote": "No fatal dose is established. Listeriosis can be fatal.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "gorgonzola",
+    "name": "Gorgonzola",
+    "category": "Dairy & alternatives",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "For soft-ripened cheeses, the risk per serving is estimated to be 50 to 160 times greater with unpasteurized than pasteurized milk. Pasteurized soft cheese has also caused outbreaks.",
+    "sources": [
+      {
+        "title": "CDC: How Listeria spreads, soft cheeses and raw milk",
+        "url": "https://www.cdc.gov/listeria/causes/dairy.html"
+      },
+      {
+        "title": "FDA: Food safety for moms-to-be at a glance",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-moms-be-glance"
+      },
+      {
+        "title": "CDC EID: Listeriosis outbreaks associated with soft cheeses 1998 to 2014",
+        "url": "https://wwwnc.cdc.gov/eid/article/24/6/17-1051_article"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "unpasteurized milk",
+      "raw dairy"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not recommended. Pregnant people and children should avoid it.",
+    "toxicNote": "Raw milk may contain germs such as Campylobacter, E. coli and Listeria. Products made from it, including cheese, yogurt and ice cream, can also be contaminated.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "raw-milk",
+    "name": "Raw milk",
+    "category": "Dairy & alternatives",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Pasteurization eliminates Listeria from dairy products.",
+    "sources": [
+      {
+        "title": "CDC: How Listeria spreads, soft cheeses and raw milk",
+        "url": "https://www.cdc.gov/listeria/causes/dairy.html"
+      },
+      {
+        "title": "Foodsafety.gov: Pregnant women",
+        "url": "https://www.foodsafety.gov/people-at-risk/pregnant-women"
+      },
+      {
+        "title": "PMC: Listeriosis in pregnancy",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2621056/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "baby formula",
+      "powdered formula"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Follow label mixing directions exactly. Use ready-to-feed liquid for babies under 2 months, premature babies and those with weak immunity.",
+    "toxicNote": "Powdered formula is not sterile and can carry Cronobacter, which can be deadly for young infants. Diluting or concentrating formula is also unsafe (see label).",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "infant-formula",
+    "name": "Infant formula",
+    "category": "Dairy & alternatives",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "For the higher-risk babies, FDA advises mixing powder with water heated to at least 158 F (70 C). Use prepared formula within 1 hour of starting a feeding and within 2 hours of preparing it.",
+    "sources": [
+      {
+        "title": "FDA: Cronobacter sakazakii",
+        "url": "https://www.fda.gov/food/foodborne-pathogens/cronobacter-sakazakii"
+      },
+      {
+        "title": "CDC: Preventing Cronobacter in infants",
+        "url": "https://www.cdc.gov/cronobacter/prevention/index.html"
+      },
+      {
+        "title": "FDA: Handling infant formula safely",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/handling-infant-formula-safely-what-you-need-know"
       }
     ]
   }

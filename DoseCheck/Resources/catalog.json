@@ -160,18 +160,8 @@
   "category": "Grains & bread"
  },
  {
-  "id": "feta",
-  "name": "Feta",
-  "category": "Dairy & alternatives"
- },
- {
   "id": "goat-cheese",
   "name": "Goat cheese",
-  "category": "Dairy & alternatives"
- },
- {
-  "id": "raw-milk",
-  "name": "Raw milk",
   "category": "Dairy & alternatives"
  },
  {
@@ -185,16 +175,6 @@
   "category": "Dairy & alternatives"
  },
  {
-  "id": "blue-cheese",
-  "name": "Blue cheese",
-  "category": "Dairy & alternatives"
- },
- {
-  "id": "brie",
-  "name": "Brie",
-  "category": "Dairy & alternatives"
- },
- {
   "id": "casein-protein",
   "name": "Casein protein",
   "category": "Dairy & alternatives"
@@ -205,16 +185,6 @@
   "category": "Dairy & alternatives"
  },
  {
-  "id": "camembert",
-  "name": "Camembert",
-  "category": "Dairy & alternatives"
- },
- {
-  "id": "gorgonzola",
-  "name": "Gorgonzola",
-  "category": "Dairy & alternatives"
- },
- {
   "id": "paneer",
   "name": "Paneer",
   "category": "Dairy & alternatives"
@@ -222,11 +192,6 @@
  {
   "id": "mascarpone",
   "name": "Mascarpone",
-  "category": "Dairy & alternatives"
- },
- {
-  "id": "infant-formula",
-  "name": "Infant formula",
   "category": "Dairy & alternatives"
  },
  {
@@ -790,41 +755,6 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "cigarettes",
-  "name": "Cigarettes",
-  "category": "Tobacco & nicotine"
- },
- {
-  "id": "cigars",
-  "name": "Cigars",
-  "category": "Tobacco & nicotine"
- },
- {
-  "id": "chewing-tobacco",
-  "name": "Chewing tobacco",
-  "category": "Tobacco & nicotine"
- },
- {
-  "id": "snus",
-  "name": "Snus",
-  "category": "Tobacco & nicotine"
- },
- {
-  "id": "nicotine-pouches",
-  "name": "Nicotine pouches",
-  "category": "Tobacco & nicotine"
- },
- {
-  "id": "e-cigarette-liquid",
-  "name": "E-cigarette liquid",
-  "category": "Tobacco & nicotine"
- },
- {
-  "id": "vape-pods",
-  "name": "Vape pods",
-  "category": "Tobacco & nicotine"
- },
- {
   "id": "hookah-tobacco",
   "name": "Hookah tobacco",
   "category": "Tobacco & nicotine"
@@ -832,16 +762,6 @@
  {
   "id": "pipe-tobacco",
   "name": "Pipe tobacco",
-  "category": "Tobacco & nicotine"
- },
- {
-  "id": "nicotine-e-juice-concentrate",
-  "name": "Nicotine e-juice (concentrate)",
-  "category": "Tobacco & nicotine"
- },
- {
-  "id": "cigarette-butts",
-  "name": "Cigarette butts",
   "category": "Tobacco & nicotine"
  },
  {
@@ -857,11 +777,6 @@
  {
   "id": "dissolvable-nicotine-strips",
   "name": "Dissolvable nicotine strips",
-  "category": "Tobacco & nicotine"
- },
- {
-  "id": "nicotine-lozenges",
-  "name": "Nicotine lozenges",
   "category": "Tobacco & nicotine"
  }
 ]
