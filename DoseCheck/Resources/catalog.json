@@ -1075,11 +1075,6 @@
   "category": "Prescription medications"
  },
  {
-  "id": "dishwasher-pods",
-  "name": "Dishwasher pods",
-  "category": "Household products"
- },
- {
   "id": "fluoride-rinse",
   "name": "Fluoride rinse",
   "category": "Household products"
@@ -1092,16 +1087,6 @@
  {
   "id": "deodorant",
   "name": "Deodorant",
-  "category": "Household products"
- },
- {
-  "id": "turpentine",
-  "name": "Turpentine",
-  "category": "Household products"
- },
- {
-  "id": "weed-killer",
-  "name": "Weed killer",
   "category": "Household products"
  },
  {
@@ -1125,33 +1110,8 @@
   "category": "Household products"
  },
  {
-  "id": "disinfecting-wipes",
-  "name": "Disinfecting wipes",
-  "category": "Household products"
- },
- {
-  "id": "air-freshener",
-  "name": "Air freshener",
-  "category": "Household products"
- },
- {
-  "id": "febreze",
-  "name": "Febreze",
-  "category": "Household products"
- },
- {
   "id": "pine-cleaner",
   "name": "Pine cleaner",
-  "category": "Household products"
- },
- {
-  "id": "lysol",
-  "name": "Lysol",
-  "category": "Household products"
- },
- {
-  "id": "clorox-wipes",
-  "name": "Clorox wipes",
   "category": "Household products"
  },
  {
@@ -1185,88 +1145,13 @@
   "category": "Household products"
  },
  {
-  "id": "flea-treatment",
-  "name": "Flea treatment",
-  "category": "Household products"
- },
- {
-  "id": "tick-medicine",
-  "name": "Tick medicine",
-  "category": "Household products"
- },
- {
-  "id": "de-icer",
-  "name": "De-icer",
-  "category": "Household products"
- },
- {
-  "id": "garden-slug-bait",
-  "name": "Garden slug bait",
-  "category": "Household products"
- },
- {
-  "id": "snail-bait",
-  "name": "Snail bait",
-  "category": "Household products"
- },
- {
   "id": "moss-killer",
   "name": "Moss killer",
   "category": "Household products"
  },
  {
-  "id": "algaecide",
-  "name": "Algaecide",
-  "category": "Household products"
- },
- {
-  "id": "pool-shock",
-  "name": "Pool shock",
-  "category": "Household products"
- },
- {
-  "id": "muriatic-acid",
-  "name": "Muriatic acid",
-  "category": "Household products"
- },
- {
-  "id": "sulfuric-acid",
-  "name": "Sulfuric acid",
-  "category": "Household products"
- },
- {
-  "id": "hydrochloric-acid",
-  "name": "Hydrochloric acid",
-  "category": "Household products"
- },
- {
   "id": "denatured-alcohol",
   "name": "Denatured alcohol",
-  "category": "Household products"
- },
- {
-  "id": "propylene-glycol",
-  "name": "Propylene glycol",
-  "category": "Household products"
- },
- {
-  "id": "toluene",
-  "name": "Toluene",
-  "category": "Household products"
- },
- {
-  "id": "xylene",
-  "name": "Xylene",
-  "category": "Household products"
- },
- {
-  "id": "mineral-spirits",
-  "name": "Mineral spirits",
-  "category": "Household products"
- },
- {
-  "id": "brake-fluid",
-  "name": "Brake fluid",
   "category": "Household products"
  },
  {
@@ -1292,16 +1177,6 @@
  {
   "id": "denture-cleaner",
   "name": "Denture cleaner",
-  "category": "Household products"
- },
- {
-  "id": "teeth-whitening-strips",
-  "name": "Teeth whitening strips",
-  "category": "Household products"
- },
- {
-  "id": "hair-relaxer",
-  "name": "Hair relaxer",
   "category": "Household products"
  },
  {
@@ -1332,11 +1207,6 @@
  {
   "id": "mascara",
   "name": "Mascara",
-  "category": "Household products"
- },
- {
-  "id": "nail-glue",
-  "name": "Nail glue",
   "category": "Household products"
  },
  {

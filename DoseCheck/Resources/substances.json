@@ -43266,5 +43266,1034 @@
     "isMedication": false,
     "safeNote": null,
     "toxicNote": null
+  },
+  {
+    "aliases": [
+      "dishwasher packets",
+      "dishwasher tabs",
+      "finish tabs"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not swallow. Keep pods in a closed container out of children's sight and reach.",
+    "toxicNote": "Dishwasher soaps contain potassium or sodium carbonate. Single-use pods are more concentrated than standard detergents and are more likely to damage the esophagus. Symptoms include severe throat pain, burning in the mouth, nose or eyes, throat swelling and breathing trouble.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "dishwasher-pods",
+    "name": "Dishwasher pods",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "MedlinePlus says standard liquid soaps rarely cause serious injury if swallowed, but single-use dishwasher packets are more concentrated. Do not make the person vomit unless told to. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Automatic dishwasher soap poisoning",
+        "url": "https://medlineplus.gov/ency/article/002729.htm"
+      },
+      {
+        "title": "MedlinePlus: Potassium carbonate poisoning",
+        "url": "https://medlineplus.gov/ency/article/002481.htm"
+      },
+      {
+        "title": "Poison Control: Children and laundry products",
+        "url": "https://www.poison.org/articles/laundry-products"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "calcium hypochlorite",
+      "pool shock treatment"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Never mix with other chemicals or acids. Store dry, sealed and away from children.",
+    "toxicNote": "Swimming pool cleaners contain chlorine compounds such as calcium hypochlorite. Swallowing can cause burns of the esophagus, severe abdominal pain and vomiting that may contain blood, and shock. Hypochlorite powder is corrosive to any tissue it touches.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "pool-shock",
+    "name": "Pool shock",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "In a CDC report, a 5-year-old boy who put his face in a bucket of pool shock (65% calcium hypochlorite) was admitted to critical care for 4 days. Chlorine is more likely than the acids in pool cleaners to cause serious poisoning. Mixing pool chemicals can release toxic chlorine gas. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Swimming pool cleaner poisoning",
+        "url": "https://medlineplus.gov/ency/article/002839.htm"
+      },
+      {
+        "title": "CDC MMWR: Illness and injury from swimming pool disinfectants",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6039a2.htm"
+      },
+      {
+        "title": "CDC MMG: Calcium hypochlorite/sodium hypochlorite",
+        "url": "https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=927&toxid=192"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "hydrochloric acid",
+      "pool acid"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Corrosive. Use only with eye protection and gloves, and never mix with bleach.",
+    "toxicNote": "Swallowing hydrochloric acid causes burns of the mouth and throat with severe pain, drooling, breathing trouble from throat swelling, severe abdominal pain, bloody vomiting and a rapid drop in blood pressure (shock).",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "muriatic-acid",
+    "name": "Muriatic acid",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Muriatic acid is hydrochloric acid used in pool chemicals and cleaners. Concentrated acid causes severe corrosive injury to the mouth, throat, esophagus and stomach, with possible bleeding, perforation or scarring. Mixing it with bleach releases toxic chlorine gas. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Hydrochloric acid poisoning",
+        "url": "https://medlineplus.gov/ency/article/002498.htm"
+      },
+      {
+        "title": "CDC MMG: Hydrogen chloride",
+        "url": "https://wwwn.cdc.gov/tsp/MMG/MMGDetails.aspx?mmgid=758&toxid=147"
+      },
+      {
+        "title": "CDC MMWR: Chlorine gas release from sodium hypochlorite and muriatic acid",
+        "url": "https://www.cdc.gov/mmwr/volumes/66/wr/pdfs/mm6619a3.pdf"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "muriatic acid",
+      "hcl"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Corrosive. Use only with eye protection and gloves, and never mix with bleach.",
+    "toxicNote": "Swallowing hydrochloric acid causes burns of the mouth and throat with severe pain, drooling, breathing trouble from throat swelling, severe abdominal pain, bloody vomiting and a rapid drop in blood pressure (shock).",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hydrochloric-acid",
+    "name": "Hydrochloric acid",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Muriatic acid is hydrochloric acid used in pool chemicals and cleaners. Concentrated acid causes severe corrosive injury to the mouth, throat, esophagus and stomach, with possible bleeding, perforation or scarring. Mixing it with bleach releases toxic chlorine gas. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Hydrochloric acid poisoning",
+        "url": "https://medlineplus.gov/ency/article/002498.htm"
+      },
+      {
+        "title": "CDC MMG: Hydrogen chloride",
+        "url": "https://wwwn.cdc.gov/tsp/MMG/MMGDetails.aspx?mmgid=758&toxid=147"
+      },
+      {
+        "title": "CDC MMWR: Chlorine gas release from sodium hypochlorite and muriatic acid",
+        "url": "https://www.cdc.gov/mmwr/volumes/66/wr/pdfs/mm6619a3.pdf"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "battery acid",
+      "drain opener acid"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Corrosive. Use eye protection and gloves and keep away from children.",
+    "toxicNote": "Swallowing sulfuric acid causes severe pain in the mouth and throat, burns, drooling, vomiting blood, vision loss, throat swelling with breathing trouble, speech problems and rapid shock.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sulfuric-acid",
+    "name": "Sulfuric acid",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "MedlinePlus says do not make the person throw up. If swallowed, give water or milk right away unless the person has symptoms that make swallowing hard (vomiting, seizures or decreased alertness). Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Sulfuric acid poisoning",
+        "url": "https://medlineplus.gov/ency/article/002492.htm"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "turps",
+      "gum turpentine"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Keep in the original container and away from children. Do not swallow or inhale fumes.",
+    "toxicNote": "Turpentine poisoning can cause severe throat and mouth pain, cough or choking, breathing trouble, dizziness, drowsiness, headache, seizures, blood in the urine, kidney failure and collapse.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "turpentine",
+    "name": "Turpentine",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "If swallowed, MedlinePlus says to give water or milk unless the person has vomiting, seizures or decreased alertness. Hydrocarbons that get into the lungs (aspiration) can cause a potentially fatal pneumonitis. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Turpentine oil poisoning",
+        "url": "https://medlineplus.gov/ency/article/002746.htm"
+      },
+      {
+        "title": "PubMed: Hydrocarbon toxicity, a review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24911841/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "paint thinner",
+      "white spirit"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not swallow or inhale the fumes. Use outdoors or with strong ventilation.",
+    "toxicNote": "Mineral spirits poisoning can cause breathing difficulty, throat swelling, severe throat pain, vomiting, seizures, dizziness, loss of alertness, collapse and low blood pressure.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "mineral-spirits",
+    "name": "Mineral spirits",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Mineral spirits are used to thin paint and as a degreaser. Poisoning happens when someone swallows them or breathes the fumes. Aspirating a hydrocarbon into the lungs can cause a potentially fatal pneumonitis. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Mineral spirits poisoning",
+        "url": "https://medlineplus.gov/ency/article/002798.htm"
+      },
+      {
+        "title": "PubMed: Hydrocarbon toxicity, a review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24911841/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "methylbenzene",
+      "lacquer thinner"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not swallow or deliberately inhale. Use outdoors or with strong ventilation.",
+    "toxicNote": "Toluene mainly affects the nervous system: headache, dizziness, drowsiness, euphoria, memory loss, tremors, seizures and unconsciousness. It can also cause irregular heartbeat, kidney damage and breathing trouble.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "toluene",
+    "name": "Toluene",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "ATSDR warns that deliberately inhaling paint or glue (huffing) can cause lightheadedness, then dizziness, sleepiness and unconsciousness, and repeated high exposure can cause permanent effects such as incoordination, cognitive impairment and vision and hearing loss. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Toluene and xylene poisoning",
+        "url": "https://medlineplus.gov/ency/article/002829.htm"
+      },
+      {
+        "title": "ATSDR: Toxicological profile for toluene",
+        "url": "https://www.atsdr.cdc.gov/toxprofiles/tp56.pdf"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "xylol"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not swallow or deliberately inhale. Use outdoors or with strong ventilation.",
+    "toxicNote": "Xylene can cause headache, dizziness, a feeling of intoxication, nose and throat irritation, drowsiness, seizures, irregular heartbeat, kidney damage and breathing trouble.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "xylene",
+    "name": "Xylene",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "ATSDR says the most sensitive effects of xylene are neurological and, for inhalation, respiratory. In humans, symptoms such as headache, dizziness and feeling intoxicated were reported at about 45 ppm in short controlled exposures. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Toluene and xylene poisoning",
+        "url": "https://medlineplus.gov/ency/article/002829.htm"
+      },
+      {
+        "title": "ATSDR: Toxicological profile for xylenes",
+        "url": "https://www.atsdr.cdc.gov/toxprofiles/tp71.pdf"
+      },
+      {
+        "title": "PMC: Health hazards of xylene",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3972585/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "roundup",
+      "glyphosate"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Keep in the original container, away from children and pets. Follow the label.",
+    "toxicNote": "Swallowing glyphosate weed killers can cause abdominal cramps, nausea and vomiting (possibly bloody), mouth and throat irritation, drowsiness, low blood pressure, slow heart rate, kidney failure and, rarely, coma. The added surfactants can also be toxic.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "weed-killer",
+    "name": "Weed killer",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "In one study of 601 glyphosate ingestion reports, 27% had no symptoms and 64% had minor symptoms. Other weed killers have different active ingredients, so check the label and tell Poison Control the product name. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Grass and weed killer poisoning",
+        "url": "https://medlineplus.gov/ency/article/002838.htm"
+      },
+      {
+        "title": "NPIC: Other herbicides (Recognition and Management of Pesticide Poisonings, ch. 13)",
+        "url": "https://npic.orst.edu/RMPP/rmpp_ch13.pdf"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "slug pellets",
+      "metaldehyde"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Keep out of reach of children and pets. Bait pellets attract animals.",
+    "toxicNote": "Metaldehyde slug bait is very toxic to dogs and other animals, and poisoning can happen after eating small amounts.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "garden-slug-bait",
+    "name": "Garden slug bait",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Baits made with iron phosphate are much less toxic to dogs but work more slowly. Check which active ingredient is in your bait. Reports of acute metaldehyde poisoning in humans are rare, so human toxicity data are limited. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "NPIC: Could snail bait hurt my dog?",
+        "url": "https://npic.orst.edu/faq/snailbait.html"
+      },
+      {
+        "title": "PMC: Acute metaldehyde poisoning from ingestion",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9209800/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "metaldehyde snail bait"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Keep out of reach of children and pets. Bait pellets attract animals.",
+    "toxicNote": "Metaldehyde slug bait is very toxic to dogs and other animals, and poisoning can happen after eating small amounts.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "snail-bait",
+    "name": "Snail bait",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Baits made with iron phosphate are much less toxic to dogs but work more slowly. Check which active ingredient is in your bait. Reports of acute metaldehyde poisoning in humans are rare, so human toxicity data are limited. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "NPIC: Could snail bait hurt my dog?",
+        "url": "https://npic.orst.edu/faq/snailbait.html"
+      },
+      {
+        "title": "PMC: Acute metaldehyde poisoning from ingestion",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9209800/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "pond algaecide",
+      "copper sulfate"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Follow the label and keep out of children's reach. Do not mix with other chemicals.",
+    "toxicNote": "Many algaecides use copper sulfate, and the toxicity of copper sulfate depends on its copper content.",
+    "lethalNote": "No fatal dose is established. Product strength varies, so call Poison Control.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "algaecide",
+    "name": "Algaecide",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "NPIC says copper sulfate is used as an algaecide, fungicide, herbicide and root killer, and fish kills have been reported after it was applied to ponds and lakes. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "NPIC: Copper sulfate fact sheet",
+        "url": "https://npic.orst.edu/factsheets/cuso4gen.html"
+      },
+      {
+        "title": "NPIC: Copper sulfate technical fact sheet",
+        "url": "https://npic.orst.edu/factsheets/archive/cuso4tech.html"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "flea spray",
+      "flea powder"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Never use dog flea products on cats. Read the label for the species and weight.",
+    "toxicNote": "Permethrin is known to be very toxic to cats. EPA labels say the product may be toxic or potentially fatal if applied to or ingested by cats, and accidental application or grooming a freshly treated dog can cause tremors and uncoordinated movements.",
+    "lethalNote": "No fatal dose is established. Permethrin products can be fatal to cats.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "flea-treatment",
+    "name": "Flea treatment",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Call a veterinarian or pet poison line right away if a cat is exposed. Pyrethrin and permethrin products are also toxic to bees, fish and aquatic life. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "EPA: Permethrin pet product label statement",
+        "url": "https://www3.epa.gov/pesticides/chem_search/ppls/087276-00020-20121023.pdf"
+      },
+      {
+        "title": "NPIC: Permethrin technical fact sheet",
+        "url": "https://npic.orst.edu/factsheets/archive/Permtech.pdf"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tick spray",
+      "tick treatment"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Never use dog flea products on cats. Read the label for the species and weight.",
+    "toxicNote": "Permethrin is known to be very toxic to cats. EPA labels say the product may be toxic or potentially fatal if applied to or ingested by cats, and accidental application or grooming a freshly treated dog can cause tremors and uncoordinated movements.",
+    "lethalNote": "No fatal dose is established. Permethrin products can be fatal to cats.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tick-medicine",
+    "name": "Tick medicine",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Call a veterinarian or pet poison line right away if a cat is exposed. Pyrethrin and permethrin products are also toxic to bees, fish and aquatic life. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "EPA: Permethrin pet product label statement",
+        "url": "https://www3.epa.gov/pesticides/chem_search/ppls/087276-00020-20121023.pdf"
+      },
+      {
+        "title": "NPIC: Permethrin technical fact sheet",
+        "url": "https://npic.orst.edu/factsheets/archive/Permtech.pdf"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "pg",
+      "de-icer glycol"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Used as a food and drug additive. Do not drink de-icing or antifreeze products.",
+    "toxicNote": "Propylene glycol is generally much less toxic than ethylene glycol, but very large amounts, especially in medicines or with alcohol, have caused high osmolal gap and metabolic acidosis in case reports.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "propylene-glycol",
+    "name": "Propylene glycol",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "ATSDR notes the FDA lists propylene glycol as generally recognized as safe in foods, drugs and cosmetics. Antifreeze, brake fluid and de-icing products can instead contain toxic ethylene glycol, diethylene glycol or methanol, so check the label. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "ATSDR: Toxicological profile for propylene glycol",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK598030/"
+      },
+      {
+        "title": "PMC: Glycol and toxic alcohol ingestion",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3281782/"
+      },
+      {
+        "title": "MedlinePlus: Antifreeze poisoning",
+        "url": "https://medlineplus.gov/ency/article/002751.htm"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "windshield de-icer",
+      "deicing fluid"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not swallow. Store away from children and pets.",
+    "toxicNote": "De-icing products are often based on propylene glycol or ethylene glycol, and antifreeze can contain ethylene glycol, methanol or propylene glycol. Poisoning can cause blurred vision, blindness, rapid breathing, rapid heartbeat, low blood pressure and little or no urine.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "de-icer",
+    "name": "De-icer",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "MedlinePlus says to seek medical help right away and not to make a person throw up unless poison control or a provider says to. Check the label for the glycol or alcohol used. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Antifreeze poisoning",
+        "url": "https://medlineplus.gov/ency/article/002751.htm"
+      },
+      {
+        "title": "ATSDR: Propylene glycol toxicological profile",
+        "url": "https://www.atsdr.cdc.gov/toxprofiles/tp189.pdf"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "dot 3",
+      "dot 4"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Sweet-tasting but poisonous. Keep it capped and out of children's and pets' reach.",
+    "toxicNote": "Most brake fluids contain diethylene glycol (DEG), which tastes sweet and causes few early symptoms but can cause serious kidney damage if not treated promptly. DEG poisoning can cause severe metabolic acidosis and neurologic effects.",
+    "lethalNote": "No fatal dose is established. Diethylene glycol can be very dangerous and even fatal without prompt medical care.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "brake-fluid",
+    "name": "Brake fluid",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Poison Control describes a 3-year-old who drank brake fluid and was treated with fomepizole, the antidote for toxic alcohols, and recovered after 2 days in the hospital. Prompt care matters. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "Poison Control: Brake fluid, a sweet poison",
+        "url": "https://www.poison.org/articles/brake-fluid"
+      },
+      {
+        "title": "PubMed: Diethylene glycol poisoning case report",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42442065/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "hair straightener",
+      "lye relaxer"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Keep sealed and out of children's reach. Do not use near eyes.",
+    "toxicNote": "Swallowing a hair straightener can cause burns of the food pipe, severe abdominal pain, bloody stools and vomiting that may be bloody. Lye relaxers contain sodium hydroxide; no-lye relaxers use guanidine hydroxide or ammonium thioglycolate.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hair-relaxer",
+    "name": "Hair relaxer",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "If the product is on skin or eyes, flush with lots of water for at least 15 minutes. Do not make the person throw up unless Poison Control or a provider says to. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Hair straightener poisoning",
+        "url": "https://medlineplus.gov/ency/article/002706.htm"
+      },
+      {
+        "title": "MedlinePlus: Sodium hydroxide poisoning",
+        "url": "https://medlineplus.gov/ency/article/002487.htm"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "eyelash glue",
+      "cyanoacrylate nail glue"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Never use nail glue as a general glue, and keep it from children and eyes.",
+    "toxicNote": "Nail glue is usually cyanoacrylate. Swallowing a small amount calls for rinsing the mouth and sipping water, but a large amount swallowed or inhaled can cause life-threatening airway blockage. A case series found cyanoacrylate was the most dangerous glue component, mostly through skin contact causing burns and eye symptoms.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "nail-glue",
+    "name": "Nail glue",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not try to peel glue off skin. It lifts off on its own as sweat builds under it. Nail glue remover with acetonitrile has caused cyanide poisoning in children, and some nail primers have burned the mouth and skin. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "Poison Control: Is eyelash glue toxic?",
+        "url": "https://www.poison.org/articles/is-eyelash-glue-toxic-203"
+      },
+      {
+        "title": "MedlinePlus: Cyanoacrylates poisoning",
+        "url": "https://medlineplus.gov/ency/article/002894.htm"
+      },
+      {
+        "title": "PMC: Exposure to nail and false eyelash glue, case series",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7345203/"
+      },
+      {
+        "title": "Poison Control: Common and dangerous poisons",
+        "url": "https://www.poison.org/common-and-dangerous-poisons"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "whitestrips"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Follow the label for use time and keep the box out of children's reach.",
+    "toxicNote": "Whitening products use peroxide. Tooth sensitivity and gum irritation can occur with use, and throat irritation can occur if swallowed. Concentrated carbamide or hydrogen peroxide can cause serious burns, and large amounts swallowed can form oxygen bubbles that block blood flow.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "teeth-whitening-strips",
+    "name": "Teeth whitening strips",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Poison Control says to use whiteners for a shorter time or skip days if teeth become sensitive. Household hydrogen peroxide is 3%; stronger products burn. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "Poison Control: Carbamide peroxide toxicity",
+        "url": "https://www.poison.org/articles/carbamide-peroxide-toxicity-213"
+      },
+      {
+        "title": "MedlinePlus: Hydrogen peroxide poisoning",
+        "url": "https://medlineplus.gov/ency/article/002652.htm"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cleaning wipes",
+      "surface wipes"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Store out of children's sight and reach, apart from baby wipes. Do not wipe skin or faces with them.",
+    "toxicNote": "Cleaning wipes can leave skin red or irritated, and swallowing the liquid can cause stomach upset. Many contain quaternary ammonium disinfectants, which can irritate skin and airways.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "disinfecting-wipes",
+    "name": "Disinfecting wipes",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Poison Control says to keep wipes away from other wipes meant for skin and not to turn the container upside down because fluid can pool at the bottom. The EPA says children should not apply disinfectants. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "Poison Control: Are cleaning wipes safe?",
+        "url": "https://www.poison.org/articles/are-cleaning-wipes-safe-192"
+      },
+      {
+        "title": "EPA: Are disinfectants harmful to children?",
+        "url": "https://epa.gov/coronavirus/are-disinfectants-harmful-children-can-children-apply-disinfectants"
+      },
+      {
+        "title": "PMC: Quaternary ammonium compounds and contact dermatitis",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10319159/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lysol spray",
+      "lysol wipes"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Store out of children's sight and reach. Follow the label and wear gloves for strong products.",
+    "toxicNote": "Disinfectant wipes and sprays can irritate skin, eyes and airways, and swallowing can cause stomach upset. Products are EPA-registered disinfectants, many with quaternary ammonium, and labels say keep out of reach of children. Check the product label.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lysol",
+    "name": "Lysol",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "EPA says all disinfectant labels say keep out of reach of children. Never mix cleaners, especially with bleach or ammonia. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "Poison Control: Are cleaning wipes safe?",
+        "url": "https://www.poison.org/articles/are-cleaning-wipes-safe-192"
+      },
+      {
+        "title": "EPA: Are disinfectants harmful to children?",
+        "url": "https://epa.gov/coronavirus/are-disinfectants-harmful-children-can-children-apply-disinfectants"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "clorox disinfecting wipes"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Store out of children's sight and reach. Follow the label and wear gloves for strong products.",
+    "toxicNote": "Disinfectant wipes and sprays can irritate skin, eyes and airways, and swallowing can cause stomach upset. Products are EPA-registered disinfectants, many with quaternary ammonium, and labels say keep out of reach of children. Check the product label.",
+    "lethalNote": "No fatal dose is established. Severe swallowing or breathing injuries can be life-threatening.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "clorox-wipes",
+    "name": "Clorox wipes",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "EPA says all disinfectant labels say keep out of reach of children. Never mix cleaners, especially with bleach or ammonia. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "Poison Control: Are cleaning wipes safe?",
+        "url": "https://www.poison.org/articles/are-cleaning-wipes-safe-192"
+      },
+      {
+        "title": "EPA: Are disinfectants harmful to children?",
+        "url": "https://epa.gov/coronavirus/are-disinfectants-harmful-children-can-children-apply-disinfectants"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "room spray",
+      "febreze"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Use in ventilated rooms and keep out of children's reach.",
+    "toxicNote": "EPA lists the basic ingredients of air fresheners as formaldehyde, petroleum distillates, p-dichlorobenzene and aerosol propellants, so precautions apply. Never swallow or spray in the eyes.",
+    "lethalNote": "No fatal dose is established. Product contents vary, so call Poison Control.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "air-freshener",
+    "name": "Air freshener",
+    "category": "Household products",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Check the label. Household cleaners and air care products are a common cause of poisoning in children and adults, according to the EPA. Call Poison Control at 1-800-222-1222 for any swallow, eye splash or breathing trouble, and 911 if the person has collapsed, is seizing or can't be woken.",
+    "sources": [
+      {
+        "title": "EPA: Household hazards hunt",
+        "url": "https://www.epa.gov/sites/default/files/2014-06/documents/lesson2_handout.pdf"
+      },
+      {
+        "title": "EPA: Green cleaning curriculum",
+        "url": "https://www.epa.gov/sites/default/files/documents/ece_curriculum_7.2013_for_uploading.pdf"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
   }
 ]
