@@ -46990,5 +46990,470 @@
         "url": "https://efsa.europa.eu/en/efsajournal/pub/4866"
       }
     ]
+  },
+  {
+    "aliases": [
+      "table vinegar",
+      "distilled vinegar"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine in food amounts at 4 to 7% acidity. Do not drink it straight or take concentrated vinegar.",
+    "toxicNote": "Swallowing undiluted or concentrated vinegar can burn the mouth, throat and esophagus. Poison Control describes esophageal closures needing repeated procedures after concentrated vinegar ingestion.",
+    "lethalNote": "No fatal dose is established. Death has been reported after ingestion of concentrated acetic acid.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "vinegar",
+    "name": "Vinegar",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Commercial vinegar is 4 to 7% acetic acid; concentrations above 20% can cause caustic injury to the esophagus. In 11 Turkish children who drank concentrated (~85%) white vinegar, esophageal strictures developed and one died. A woman who drank a tablespoon of vinegar to dislodge a crab shell had second-degree esophageal injury.",
+    "sources": [
+      {
+        "title": "Poison Control: No, vinegar is not always safe",
+        "url": "https://www.poison.org/articles/vinegar-164"
+      },
+      {
+        "title": "PubMed: Accidental ingestion of concentrated white vinegar in children",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38146762/"
+      },
+      {
+        "title": "PMC: Role of vinegar in cardiovascular health (safety and dosing)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12709512/"
+      },
+      {
+        "title": "PubMed: Corrosive oesophageal injury following vinegar ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12376715"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "acv"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine in food amounts at 4 to 7% acidity. Do not drink it straight or take concentrated vinegar.",
+    "toxicNote": "Swallowing undiluted or concentrated vinegar can burn the mouth, throat and esophagus. Poison Control describes esophageal closures needing repeated procedures after concentrated vinegar ingestion.",
+    "lethalNote": "No fatal dose is established. Death has been reported after ingestion of concentrated acetic acid.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "apple-cider-vinegar",
+    "name": "Apple cider vinegar",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Commercial vinegar is 4 to 7% acetic acid; concentrations above 20% can cause caustic injury to the esophagus. In 11 Turkish children who drank concentrated (~85%) white vinegar, esophageal strictures developed and one died. A woman who drank a tablespoon of vinegar to dislodge a crab shell had second-degree esophageal injury. A 48-year-old woman who swallowed an apple cider vinegar tablet had it lodge in her throat and had pain and trouble swallowing for 6 months.",
+    "sources": [
+      {
+        "title": "Poison Control: No, vinegar is not always safe",
+        "url": "https://www.poison.org/articles/vinegar-164"
+      },
+      {
+        "title": "PubMed: Accidental ingestion of concentrated white vinegar in children",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38146762/"
+      },
+      {
+        "title": "PMC: Role of vinegar in cardiovascular health (safety and dosing)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12709512/"
+      },
+      {
+        "title": "PubMed: Corrosive oesophageal injury following vinegar ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12376715"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine in food amounts at 4 to 7% acidity. Do not drink it straight or take concentrated vinegar.",
+    "toxicNote": "Swallowing undiluted or concentrated vinegar can burn the mouth, throat and esophagus. Poison Control describes esophageal closures needing repeated procedures after concentrated vinegar ingestion.",
+    "lethalNote": "No fatal dose is established. Death has been reported after ingestion of concentrated acetic acid.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "balsamic-vinegar",
+    "name": "Balsamic vinegar",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Commercial vinegar is 4 to 7% acetic acid; concentrations above 20% can cause caustic injury to the esophagus. In 11 Turkish children who drank concentrated (~85%) white vinegar, esophageal strictures developed and one died. A woman who drank a tablespoon of vinegar to dislodge a crab shell had second-degree esophageal injury.",
+    "sources": [
+      {
+        "title": "Poison Control: No, vinegar is not always safe",
+        "url": "https://www.poison.org/articles/vinegar-164"
+      },
+      {
+        "title": "PubMed: Accidental ingestion of concentrated white vinegar in children",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38146762/"
+      },
+      {
+        "title": "PMC: Role of vinegar in cardiovascular health (safety and dosing)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12709512/"
+      },
+      {
+        "title": "PubMed: Corrosive oesophageal injury following vinegar ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12376715"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "distilled white vinegar",
+      "cleaning vinegar"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine in food amounts at 4 to 7% acidity. Do not drink it straight or take concentrated vinegar.",
+    "toxicNote": "Swallowing undiluted or concentrated vinegar can burn the mouth, throat and esophagus. Poison Control describes esophageal closures needing repeated procedures after concentrated vinegar ingestion.",
+    "lethalNote": "No fatal dose is established. Death has been reported after ingestion of concentrated acetic acid.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "white-vinegar",
+    "name": "White vinegar",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Commercial vinegar is 4 to 7% acetic acid; concentrations above 20% can cause caustic injury to the esophagus. In 11 Turkish children who drank concentrated (~85%) white vinegar, esophageal strictures developed and one died. A woman who drank a tablespoon of vinegar to dislodge a crab shell had second-degree esophageal injury. Cleaning vinegar and concentrated white vinegar can be stronger than food vinegar; check the label.",
+    "sources": [
+      {
+        "title": "Poison Control: No, vinegar is not always safe",
+        "url": "https://www.poison.org/articles/vinegar-164"
+      },
+      {
+        "title": "PubMed: Accidental ingestion of concentrated white vinegar in children",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38146762/"
+      },
+      {
+        "title": "PMC: Role of vinegar in cardiovascular health (safety and dosing)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12709512/"
+      },
+      {
+        "title": "PubMed: Corrosive oesophageal injury following vinegar ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12376715"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine in food amounts at 4 to 7% acidity. Do not drink it straight or take concentrated vinegar.",
+    "toxicNote": "Swallowing undiluted or concentrated vinegar can burn the mouth, throat and esophagus. Poison Control describes esophageal closures needing repeated procedures after concentrated vinegar ingestion.",
+    "lethalNote": "No fatal dose is established. Death has been reported after ingestion of concentrated acetic acid.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "rice-vinegar",
+    "name": "Rice vinegar",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Commercial vinegar is 4 to 7% acetic acid; concentrations above 20% can cause caustic injury to the esophagus. In 11 Turkish children who drank concentrated (~85%) white vinegar, esophageal strictures developed and one died. A woman who drank a tablespoon of vinegar to dislodge a crab shell had second-degree esophageal injury.",
+    "sources": [
+      {
+        "title": "Poison Control: No, vinegar is not always safe",
+        "url": "https://www.poison.org/articles/vinegar-164"
+      },
+      {
+        "title": "PubMed: Accidental ingestion of concentrated white vinegar in children",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38146762/"
+      },
+      {
+        "title": "PMC: Role of vinegar in cardiovascular health (safety and dosing)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12709512/"
+      },
+      {
+        "title": "PubMed: Corrosive oesophageal injury following vinegar ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12376715"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "pure vanilla",
+      "vanilla flavoring"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine in recipe amounts. Keep the bottle away from children.",
+    "toxicNote": "Contains ethanol (at least 35% by volume). Swallowing large amounts causes alcohol intoxication. Poison Control advises keeping flavoring extracts out of reach.",
+    "lethalNote": "No fatal dose is established; alcohol poisoning is the risk.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "vanilla-extract",
+    "name": "Vanilla extract",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Vanilla extract must be at least 35% ethanol by volume under FDA's standard of identity. Recipe amounts are not dangerous, but a child who swallows a bottle may be at risk of alcohol poisoning.",
+    "sources": [
+      {
+        "title": "Poison Control: Kitchen surprises and cautions",
+        "url": "https://www.poison.org/articles/kitchen-surprises-and-cautions"
+      },
+      {
+        "title": "eCFR: 21 CFR 169.175 Vanilla extract",
+        "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-169/subpart-B/section-169.175"
+      },
+      {
+        "title": "PubMed: Stoned on spices",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33191804/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "pure almond extract"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine in recipe amounts. Keep the bottle away from children.",
+    "toxicNote": "Poison Control lists alcohol-based flavoring extracts as a kitchen hazard when children swallow large amounts. Extract alcohol content varies by brand; check the label.",
+    "lethalNote": "No fatal dose is established; alcohol poisoning is the risk.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "almond-extract",
+    "name": "Almond extract",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Alcohol content is not standardized in the retrieved sources for almond extract, so treat vanilla extract's 35% minimum as a guide only.",
+    "sources": [
+      {
+        "title": "Poison Control: Kitchen surprises and cautions",
+        "url": "https://www.poison.org/articles/kitchen-surprises-and-cautions"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "red 40",
+      "yellow 5",
+      "tartrazine",
+      "fd&c dyes"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Certified dyes have JECFA ADIs: Allura Red (Red 40) 0 to 7 mg/kg bw and tartrazine (Yellow 5) 0 to 10 mg/kg bw.",
+    "toxicNote": "Tartrazine has low acute toxicity (LD50 above 2,000 mg/kg bw in animals). FDA lists FD&C Red No. 3 as no longer permanently listed for food after January 15, 2027.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "food-coloring",
+    "name": "Food coloring",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The ADI differs for each dye. EFSA's current ADI for one azo dye is 0.5 mg/kg, lowered from 10 mg/kg.",
+    "sources": [
+      {
+        "title": "PMC: Artificial food colors and ADHD symptoms (JECFA ADIs table)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3441937/"
+      },
+      {
+        "title": "JECFA 82nd meeting (tartrazine ADI 0 to 10 mg/kg)",
+        "url": "https://inchem.org/documents/jecfa/jecmono/v1000je01.pdf"
+      },
+      {
+        "title": "FDA: Regulatory status of color additives",
+        "url": "https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?set=ColorAdditives"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "e330",
+      "sour salt"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "JECFA and EFSA's earlier SCF opinion: ADI 'not specified' (no safety concern at levels used in food).",
+    "toxicNote": "Concentrated acid powders can irritate the mouth, eyes and stomach.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "citric-acid",
+    "name": "Citric acid",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "JECFA concluded citric acid and its salts do not constitute a significant toxicological hazard.",
+    "sources": [
+      {
+        "title": "EFSA: Re-evaluation of acetic, lactic, citric and tartaric acids",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/6032"
+      },
+      {
+        "title": "WHO JECFA: Sodium citrate evaluation",
+        "url": "https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/1649"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "e334"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "JECFA and EFSA's earlier SCF opinion: ADI 'not specified' (no safety concern at levels used in food).",
+    "toxicNote": "Concentrated acid powders can irritate the mouth, eyes and stomach.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tartaric-acid",
+    "name": "Tartaric acid",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "JECFA concluded citric acid and its salts do not constitute a significant toxicological hazard.",
+    "sources": [
+      {
+        "title": "EFSA: Re-evaluation of acetic, lactic, citric and tartaric acids",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/6032"
+      },
+      {
+        "title": "WHO JECFA: Sodium citrate evaluation",
+        "url": "https://apps.who.int/food-additives-contaminants-jecfa-database/Home/Chemical/1649"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lecithin",
+      "e322"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "JECFA ADI 'not limited'; EFSA sees no need for a numerical ADI.",
+    "toxicNote": "EFSA found no safety concern for the general population over 1 year of age at reported uses. Soy is a major allergen.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "soy-lecithin",
+    "name": "Soy lecithin",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Highly refined lecithin generally contains little soy protein, but allergic people should check labels.",
+    "sources": [
+      {
+        "title": "PMC: EFSA re-evaluation of lecithins (E 322)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7010002/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "butylated hydroxytoluene",
+      "e321"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": 0.25,
+    "safeNote": "EFSA ADI of 0.25 mg/kg bw per day (2012); JECFA's was 0 to 0.3 mg/kg bw.",
+    "toxicNote": "EFSA based the ADI on a NOAEL of 25 mg/kg bw per day with an uncertainty factor of 100. Rat studies showed effects on reproduction and hepatic enzymes at higher doses. EFSA found no genotoxicity concern.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bht",
+    "name": "BHT",
+    "category": "Condiments, oils & baking",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "SCF's older ADI was 0 to 0.05 mg/kg bw before the 2012 revision.",
+    "sources": [
+      {
+        "title": "EFSA: Re-evaluation of BHT (E 321)",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/2588"
+      },
+      {
+        "title": "EFSA: BHT feed additive opinion (ADI 0.25)",
+        "url": "https://www.efsa.europa.eu/de/efsajournal/pub/7286"
+      }
+    ]
   }
 ]

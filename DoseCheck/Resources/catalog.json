@@ -680,63 +680,8 @@
   "category": "Prepared foods"
  },
  {
-  "id": "vinegar",
-  "name": "Vinegar",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "apple-cider-vinegar",
-  "name": "Apple cider vinegar",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "balsamic-vinegar",
-  "name": "Balsamic vinegar",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "white-vinegar",
-  "name": "White vinegar",
-  "category": "Condiments, oils & baking"
- },
- {
   "id": "cooking-spray",
   "name": "Cooking spray",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "vanilla-extract",
-  "name": "Vanilla extract",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "almond-extract",
-  "name": "Almond extract",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "food-coloring",
-  "name": "Food coloring",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "citric-acid",
-  "name": "Citric acid",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "soy-lecithin",
-  "name": "Soy lecithin",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "bht",
-  "name": "BHT",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "tartaric-acid",
-  "name": "Tartaric acid",
   "category": "Condiments, oils & baking"
  },
  {
@@ -747,11 +692,6 @@
  {
   "id": "agar",
   "name": "Agar",
-  "category": "Condiments, oils & baking"
- },
- {
-  "id": "rice-vinegar",
-  "name": "Rice vinegar",
   "category": "Condiments, oils & baking"
  },
  {
