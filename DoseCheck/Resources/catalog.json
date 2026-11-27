@@ -1,15 +1,5 @@
 [
  {
-  "id": "elderberry-raw",
-  "name": "Elderberry (raw)",
-  "category": "Fruits"
- },
- {
-  "id": "grapefruit",
-  "name": "Grapefruit",
-  "category": "Fruits"
- },
- {
   "id": "noni",
   "name": "Noni",
   "category": "Fruits"
@@ -22,21 +12,6 @@
  {
   "id": "bitter-melon",
   "name": "Bitter melon",
-  "category": "Fruits"
- },
- {
-  "id": "ackee",
-  "name": "Ackee",
-  "category": "Fruits"
- },
- {
-  "id": "cherry-pits",
-  "name": "Cherry pits",
-  "category": "Fruits"
- },
- {
-  "id": "peach-pits",
-  "name": "Peach pits",
   "category": "Fruits"
  },
  {
@@ -105,31 +80,6 @@
   "category": "Herbs & spices"
  },
  {
-  "id": "bitter-almond",
-  "name": "Bitter almond",
-  "category": "Nuts, seeds & legumes"
- },
- {
-  "id": "brazil-nut",
-  "name": "Brazil nut",
-  "category": "Nuts, seeds & legumes"
- },
- {
-  "id": "flaxseed",
-  "name": "Flaxseed",
-  "category": "Nuts, seeds & legumes"
- },
- {
-  "id": "fava-beans",
-  "name": "Fava beans",
-  "category": "Nuts, seeds & legumes"
- },
- {
-  "id": "lima-beans",
-  "name": "Lima beans",
-  "category": "Nuts, seeds & legumes"
- },
- {
   "id": "lupin-beans",
   "name": "Lupin beans",
   "category": "Nuts, seeds & legumes"
@@ -137,11 +87,6 @@
  {
   "id": "acorns-processed",
   "name": "Acorns (processed)",
-  "category": "Nuts, seeds & legumes"
- },
- {
-  "id": "betel-nut",
-  "name": "Betel nut",
   "category": "Nuts, seeds & legumes"
  },
  {
@@ -425,38 +370,13 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "baby-aspirin",
-  "name": "Baby aspirin",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "castor-oil",
   "name": "Castor oil",
   "category": "Over-the-counter medications"
  },
  {
-  "id": "mineral-oil",
-  "name": "Mineral oil",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "glycerin-suppository",
-  "name": "Glycerin suppository",
-  "category": "Over-the-counter medications"
- },
- {
   "id": "fiber-gummies",
   "name": "Fiber gummies",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "zinc-cold-remedy",
-  "name": "Zinc cold remedy",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "cold-eeze",
-  "name": "Cold-Eeze",
   "category": "Over-the-counter medications"
  },
  {
@@ -467,11 +387,6 @@
  {
   "id": "calamine-lotion",
   "name": "Calamine lotion",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "zantac-360",
-  "name": "Zantac 360",
   "category": "Over-the-counter medications"
  },
  {
@@ -487,11 +402,6 @@
  {
   "id": "children-s-motrin",
   "name": "Children's Motrin",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "pedia-lax",
-  "name": "Pedia-Lax",
   "category": "Over-the-counter medications"
  },
  {

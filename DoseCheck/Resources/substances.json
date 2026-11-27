@@ -50435,5 +50435,665 @@
         "url": "https://www.fda.gov/ICECI/EnforcementActions/WarningLetters/2013/ucm380280.htm"
       }
     ]
+  },
+  {
+    "aliases": [
+      "bitter almonds",
+      "raw bitter almonds"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not eat raw bitter almonds. Sweet almonds sold for food are different.",
+    "toxicNote": "Amygdalin is turned into cyanide when chewed or ground. EFSA gives a one-time safe level for cyanide of 20 micrograms per kg body weight.",
+    "lethalNote": "EFSA reports a lethal oral cyanide dose of 0.5 to 3.5 mg per kg body weight.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bitter-almond",
+    "name": "Bitter almond",
+    "category": "Nuts, seeds & legumes",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "EFSA names bitter almonds, raw apricot kernels and cassava as the foods where the cyanide limit is most likely to be exceeded.",
+    "sources": [
+      {
+        "title": "EFSA: Cyanogenic glycosides in foods other than raw apricot kernels",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5662"
+      },
+      {
+        "title": "EFSA: Apricot kernels pose risk of cyanide poisoning",
+        "url": "https://www.efsa.europa.eu/en/press/news/160427"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "brazil nuts"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NIH ODS sets the adult upper limit for selenium at 400 mcg a day. One nut has about 68 to 91 mcg, so one or two a day is plenty.",
+    "toxicNote": "Eating more than a small handful regularly can pass the selenium upper limit, and long-term excess selenium is harmful.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "brazil-nut",
+    "name": "Brazil nut",
+    "category": "Nuts, seeds & legumes",
+    "servingName": "nut",
+    "servingMg": 5000,
+    "notes": "EFSA sets a lower adult upper limit of 255 mcg a day and names regular Brazil nut eaters as a group that may exceed it. Selenium content varies a lot by region.",
+    "sources": [
+      {
+        "title": "NIH ODS: Selenium consumer fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/Selenium-Consumer/"
+      },
+      {
+        "title": "NIH ODS: Selenium FAQ (Brazil nuts)",
+        "url": "https://ods.od.nih.gov/HealthInformation/ODS_Frequently_Asked_Questions.aspx"
+      },
+      {
+        "title": "EFSA: Upper intake level for selenium (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9854220/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "flax seed",
+      "linseed",
+      "ground flax",
+      "flax"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Reviews suggest keeping intake to about 10 to 20 g of whole flaxseed a day. Heating reduces the cyanogenic compounds.",
+    "toxicNote": "Flaxseed contains cyanogenic glycosides. Raw flaxseed in drinks has produced measurable cyanide levels.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "flaxseed",
+    "name": "Flaxseed",
+    "category": "Nuts, seeds & legumes",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Using the highest cyanide value in the EFSA database, a review worked out that 1.3 to 14.7 g of ground flaxseed could reach the acute reference dose, depending on body weight.",
+    "sources": [
+      {
+        "title": "PMC: Flaxseed in diet, pros and cons",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11945857/"
+      },
+      {
+        "title": "PMC: Cyanide in smoothies and juices",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7731941/"
+      },
+      {
+        "title": "EFSA: Cyanogenic glycosides in foods other than raw apricot kernels",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5662"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "broad beans",
+      "faba beans",
+      "fava bean"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine for most people. People with G6PD deficiency should avoid fava beans.",
+    "toxicNote": "In G6PD deficiency, vicine and convicine cause red blood cell breakdown (favism). Hospital care and transfusion are sometimes needed.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "fava-beans",
+    "name": "Fava beans",
+    "category": "Nuts, seeds & legumes",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "A review found fava beans were the only food with conclusive evidence of triggering hemolysis in G6PD deficiency. Mothers nursing a G6PD-deficient infant should not eat them.",
+    "sources": [
+      {
+        "title": "NCBI LactMed: Fava beans",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK532498/"
+      },
+      {
+        "title": "MedlinePlus: G6PD deficiency",
+        "url": "https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/"
+      },
+      {
+        "title": "PMC: Favism clinical features",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9864644/"
+      },
+      {
+        "title": "PubMed: Dietary restrictions in G6PD deficiency",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30380124/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "butter beans",
+      "raw lima beans"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Cook lima beans before eating. Do not eat them raw.",
+    "toxicNote": "Raw lima beans contain cyanogenic glycosides. A WHO table lists lima beans at 2,000 to 3,000 mg cyanide per kg depending on type.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "lima-beans",
+    "name": "Lima beans",
+    "category": "Nuts, seeds & legumes",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "WHO says daily oral doses of 2.9 to 4.7 mg cyanide are generally considered non-injurious because the body detoxifies it.",
+    "sources": [
+      {
+        "title": "WHO: Cyanide in drinking-water background (food table)",
+        "url": "https://cdn.who.int/media/docs/default-source/wash-documents/wash-chemicals/cyanide-background.pdf?sfvrsn=29c5b9f4_4"
+      },
+      {
+        "title": "EFSA: Cyanogenic glycosides in foods other than raw apricot kernels",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5662"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "areca nut",
+      "betel quid",
+      "paan",
+      "supari"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No safe amount is established. IARC classifies areca nut as carcinogenic to humans (Group 1).",
+    "toxicNote": "Chewing areca nut is a major cause of oral cancer, and the risk rises with the number of quids per day and the years of use.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "betel-nut",
+    "name": "Betel nut",
+    "category": "Nuts, seeds & legumes",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "IARC estimates about 600 million people chew betel quid. One study found areca nut and smokeless tobacco caused about a third of oral cancers worldwide in 2022.",
+    "sources": [
+      {
+        "title": "IARC: Oral cancer from smokeless tobacco and areca nut (2024)",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2024/10/pr356_E.pdf"
+      },
+      {
+        "title": "IARC: Betel quid and areca nut Group 1",
+        "url": "https://www.iarc.who.int/wp-content/uploads/2018/07/pr196_E.pdf"
+      },
+      {
+        "title": "PubMed: Areca nut and oral cancer",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35459408/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "raw elderberries",
+      "sambucus",
+      "elderberries"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Cook elderberries before eating. Cooking removes the toxin.",
+    "toxicNote": "Raw or unripe elderberries and other parts of the tree contain cyanide-producing substances that cause nausea, vomiting and severe diarrhea.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "elderberry-raw",
+    "name": "Elderberry (raw)",
+    "category": "Fruits",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "NCCIH says large quantities of the toxin may cause serious illness. A 1983 CDC report describes 8 people hospitalized after drinking juice made from elderberry stems and leaves.",
+    "sources": [
+      {
+        "title": "NCCIH: Elderberry",
+        "url": "https://www.nccih.nih.gov/health/elderberry"
+      },
+      {
+        "title": "CDC MMWR: Poisoning from elderberry juice",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00000311.htm"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "grapefruit juice",
+      "pink grapefruit"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Safe for most people, but ask a pharmacist before eating it with medications such as some statins.",
+    "toxicNote": "Grapefruit juice blocks the intestinal enzyme CYP3A4, so more of some drugs enters the blood. With some statins this can damage the liver and muscles.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "grapefruit",
+    "name": "Grapefruit",
+    "category": "Fruits",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "FDA says the effect varies from person to person. Interactions with CYP3A4 drugs can last for days.",
+    "sources": [
+      {
+        "title": "FDA: Grapefruit juice and some drugs don't mix",
+        "url": "https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix"
+      },
+      {
+        "title": "PMC: Grapefruit-medication interactions",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3589309/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "akee",
+      "blighia sapida",
+      "ackee fruit"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Only fully ripe, naturally opened ackee, properly prepared, is safe. FDA says properly harvested and prepared ackee is safe.",
+    "toxicNote": "Unripe ackee, plus the seeds, raphe and rind, contain hypoglycin A. It causes Jamaican vomiting sickness with severe vomiting and dangerously low blood sugar.",
+    "lethalNote": "Severe cases can cause seizures, coma and death.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ackee",
+    "name": "Ackee",
+    "category": "Fruits",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "FDA says hypoglycin A is heat-stable, so cooking does not remove it. Symptoms start 6 to 48 hours after eating.",
+    "sources": [
+      {
+        "title": "FDA: Import Alert 21-11 (ackee)",
+        "url": "https://www.accessdata.fda.gov/cms_ia/importalert_64.html"
+      },
+      {
+        "title": "FDA: Natural toxins in food",
+        "url": "https://www.fda.gov/food/chemical-contaminants-pesticides/natural-toxins-food"
+      },
+      {
+        "title": "NCBI StatPearls: Ackee fruit toxicity",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK431101/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cherry stones",
+      "cherry seeds"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Swallowing a whole, unchewed pit is unlikely to cause harm, but do not chew or crush the kernel inside.",
+    "toxicNote": "The kernel contains amygdalin, which is turned into cyanide when chewed or crushed. Poison Control says the kernel inside the pit is where it is concentrated.",
+    "lethalNote": "EFSA reports a lethal oral cyanide dose of 0.5 to 3.5 mg per kg body weight.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "cherry-pits",
+    "name": "Cherry pits",
+    "category": "Fruits",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Poison Control's data are for apricot seeds. Cherry and peach kernels also contain amygdalin, but their amounts are not given in these sources.",
+    "sources": [
+      {
+        "title": "Poison Control: Apricot seeds",
+        "url": "https://www.poison.org/articles/apricot-seeds-are-they-safe-to-ingest"
+      },
+      {
+        "title": "EFSA: Apricot kernels pose risk of cyanide poisoning",
+        "url": "https://www.efsa.europa.eu/en/press/news/160427"
+      },
+      {
+        "title": "PMC: Cyanogenic compounds in edible plants",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3834451/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "peach stones",
+      "peach seeds",
+      "peach kernels"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Swallowing a whole, unchewed pit is unlikely to cause harm, but do not chew or crush the kernel inside.",
+    "toxicNote": "The kernel contains amygdalin, which is turned into cyanide when chewed or crushed. Poison Control says the kernel inside the pit is where it is concentrated.",
+    "lethalNote": "EFSA reports a lethal oral cyanide dose of 0.5 to 3.5 mg per kg body weight.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "peach-pits",
+    "name": "Peach pits",
+    "category": "Fruits",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Poison Control's data are for apricot seeds. Cherry and peach kernels also contain amygdalin, but their amounts are not given in these sources.",
+    "sources": [
+      {
+        "title": "Poison Control: Apricot seeds",
+        "url": "https://www.poison.org/articles/apricot-seeds-are-they-safe-to-ingest"
+      },
+      {
+        "title": "EFSA: Apricot kernels pose risk of cyanide poisoning",
+        "url": "https://www.efsa.europa.eu/en/press/news/160427"
+      },
+      {
+        "title": "PMC: Cyanogenic compounds in edible plants",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3834451/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "low-dose aspirin",
+      "81 mg aspirin",
+      "children's aspirin"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Follow the label. Children under 12 should only take aspirin on a doctor's advice.",
+    "toxicNote": "Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use aspirin. Behavior changes with nausea and vomiting can be an early sign of Reye's syndrome.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "baby-aspirin",
+    "name": "Baby aspirin",
+    "category": "Over-the-counter medications",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Baby aspirin is commonly 81 mg. The label for chewable children's aspirin says adults and children 12 and over take 4 to 8 tablets every 4 hours, no more than 48 in 24 hours unless a doctor directs.",
+    "sources": [
+      {
+        "title": "DailyMed: Children's aspirin label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9200823a-5946-49e8-844e-a39061528e3e"
+      },
+      {
+        "title": "NCBI StatPearls: Aspirin",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK519032/"
+      },
+      {
+        "title": "FDA 21 CFR 201.314 and aspirin label warnings",
+        "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?cfrpart=201&amp=&showfr=1&amp=&subpartnode=21:4.0.1.1.2.7"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "liquid paraffin",
+      "mineral oil laxative"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not give mineral oil to infants.",
+    "toxicNote": "FDA's regulations warn that mineral oil taken near meals interferes with absorption of vitamins A, D and K. Giving it to infants may lead to aspiration and lipoid pneumonia.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "mineral-oil",
+    "name": "Mineral oil",
+    "category": "Over-the-counter medications",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "21 CFR 201.302 is the source for these warnings.",
+    "sources": [
+      {
+        "title": "FDA 21 CFR 201.314 and aspirin label warnings",
+        "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm?cfrpart=201&amp=&showfr=1&amp=&subpartnode=21:4.0.1.1.2.7"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "glycerin suppositories",
+      "glycerin adult suppository"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "For rectal use only. Label dose: one suppository once a day for adults and children 6 and over; under 2, ask a doctor.",
+    "toxicNote": "May cause rectal discomfort or a burning sensation. Ask a doctor first if there is abdominal pain, nausea or vomiting.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "glycerin-suppository",
+    "name": "Glycerin suppository",
+    "category": "Over-the-counter medications",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Labels say one daily dose. Children 2 to under 6 use child suppositories.",
+    "sources": [
+      {
+        "title": "DailyMed: Glycerin suppository label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=424d91f0-ecf9-6d9b-e063-6394a90a8006"
+      },
+      {
+        "title": "DailyMed: Glycerin adult suppository directions",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=e52cc711-3134-4f25-8963-e6000aa97875&type=display"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "pedia-lax liquid glycerin",
+      "pedialax"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "For rectal use only. The label dose for children 2 to under 6 is one a day, and children under 2 should see a doctor.",
+    "toxicNote": "May cause rectal discomfort or burning. Stop and see a doctor for rectal bleeding or no bowel movement within 1 hour.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "pedia-lax",
+    "name": "Pedia-Lax",
+    "category": "Over-the-counter medications",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Each 2.7 mL delivered dose of the liquid contains 2.8 g glycerin.",
+    "sources": [
+      {
+        "title": "DailyMed: Pedia-Lax liquid glycerin suppositories",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=ae367381-7146-4307-823d-2bb44c1d4200"
+      },
+      {
+        "title": "DailyMed: Pedia-Lax glycerin liquid directions",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=4e15f6ca-a40c-485f-be3f-07c2ed7cb498&type=display"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "famotidine 20 mg",
+      "zantac 360 famotidine",
+      "famotidine"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 40,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Label: adults and children 12 and over, no more than 2 tablets in 24 hours. Children under 12 should ask a doctor.",
+    "toxicNote": "Stop and ask a doctor if heartburn continues or you need it for more than 14 days. In an overdose, call Poison Control.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": "famotidine",
+    "verified": true,
+    "id": "zantac-360",
+    "name": "Zantac 360",
+    "category": "Over-the-counter medications",
+    "servingName": "tablet",
+    "servingMg": 20,
+    "notes": "Each tablet is famotidine 20 mg in the 20 mg product, so the label limit is 40 mg in 24 hours.",
+    "sources": [
+      {
+        "title": "DailyMed: Zantac 360 label",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=89f60eb1-359b-40e8-ae8b-65aec9cd5b1f"
+      },
+      {
+        "title": "DailyMed: Zantac 360 20 mg directions",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=fd61a2d6-5c8a-4e7a-8b19-37406b90f778"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cold-eeze",
+      "zinc lozenges",
+      "zinc gluconate lozenge",
+      "zicam",
+      "zinc nasal gel"
+    ],
+    "isMedication": true,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 40,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "The adult upper limit for zinc from all sources is 40 mg a day (NIH).",
+    "toxicNote": "Too much zinc causes nausea, vomiting and loss of appetite, and long-term excess lowers copper and immunity. Intranasal zinc gels have been linked to loss of smell.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": "elemental zinc",
+    "verified": true,
+    "id": "zinc-cold-remedy",
+    "name": "Zinc cold remedy",
+    "category": "Over-the-counter medications",
+    "servingName": "mg zinc",
+    "servingMg": 1,
+    "notes": "FDA had more than 130 reports of anosmia linked to Zicam intranasal zinc by 2009. Cold-Eeze and other lozenges are taken by mouth, not in the nose.",
+    "sources": [
+      {
+        "title": "NIH ODS: Zinc consumer fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/Zinc-Consumer/"
+      },
+      {
+        "title": "NIH ODS: Zinc health professional fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/"
+      },
+      {
+        "title": "FDA: Homeopathic drug products guidance (Zicam anosmia)",
+        "url": "https://www.fda.gov/media/163755/download"
+      }
+    ]
   }
 ]
