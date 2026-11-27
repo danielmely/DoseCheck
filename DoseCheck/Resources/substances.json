@@ -36649,5 +36649,799 @@
         "url": "https://www.poison.org/articles/cement"
       }
     ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says ashwagandha should be avoided during pregnancy and not used while breastfeeding.",
+    "toxicNote": "NCCIH says there have been a number of cases, rare, linking liver injury to ashwagandha supplements. It seems to have sedative effects and may add to the effects of some sedatives and anti-anxiety drugs.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ashwagandha",
+    "name": "Ashwagandha",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "No dose is given here. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Ashwagandha",
+        "url": "https://www.nccih.nih.gov/health/ashwagandha"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says kava supplements have been linked to a risk of severe liver damage.",
+    "toxicNote": "NCCIH says various kava products have been linked to rare cases of liver injury, some serious or even fatal, including water-based kava beverages. A 2018 review noted liver toxicity is especially possible if taken longer than 8 weeks. Commonly reported side effects include stomach upset, fatigue, headaches, muscle aches and trembling.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "kava",
+    "name": "Kava",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "No safe dose is established. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Kava",
+        "url": "https://www.nccih.nih.gov/health/kava"
+      },
+      {
+        "title": "NCCIH: Anxiety and complementary approaches",
+        "url": "https://www.nccih.nih.gov/health/anxiety-and-complementary-health-approaches"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ginkgo"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says ginkgo leaf extract is likely safe for most adults in moderate amounts, and has been used safely in studies lasting as long as 6 years.",
+    "toxicNote": "The most common side effects are dizziness, stomach symptoms, headache and allergic skin reactions. Ginkgo may increase bleeding risk with blood thinners such as warfarin. Fresh or roasted ginkgo seeds can be poisonous; NCCIH says fresh seeds contain ginkgotoxin, which can cause seizures and death.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ginkgo-biloba",
+    "name": "Ginkgo biloba",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not eat ginkgo seeds. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Ginkgo",
+        "url": "https://www.nccih.nih.gov/health/ginkgo"
+      },
+      {
+        "title": "NCCIH: Complementary approaches for travelers",
+        "url": "https://www.nccih.nih.gov/health/complementary-health-approaches-for-travelers"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says it is likely safe for most adults to use E. purpurea extracts, and some mixtures, for short periods.",
+    "toxicNote": "Some people have allergic reactions to echinacea, which may be severe. Few side effects were reported in studies, but one study in children linked echinacea to more rashes.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "echinacea",
+    "name": "Echinacea",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Talk to a child's doctor before giving echinacea. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Echinacea",
+        "url": "https://www.nccih.nih.gov/health/echinacea"
+      },
+      {
+        "title": "NCCIH: Colds, flu and complementary approaches",
+        "url": "https://www.nccih.nih.gov/health/colds-flu-and-complementary-health-approaches"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says black cohosh has been used safely in studies lasting as long as a year and is generally well tolerated.",
+    "toxicNote": "NCCIH says rare cases of liver damage, some very serious, have been reported with commercial black cohosh products, and it is uncertain whether black cohosh caused them. Seek care for dark urine or fatigue. It may not be safe in pregnancy or breastfeeding, and some products contain the wrong herb.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "black-cohosh",
+    "name": "Black cohosh",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "People with liver disorders should consult a provider first. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Black cohosh",
+        "url": "https://www.nccih.nih.gov/health/black-cohosh"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "silymarin"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says milk thistle appears well tolerated when taken orally.",
+    "toxicNote": "The most common side effects are bloating, nausea and gas. It may cause allergic reactions, and some products contain silymarin amounts different from the label or are contaminated.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "milk-thistle",
+    "name": "Milk thistle",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Little is known about safety in pregnancy or breastfeeding. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Milk thistle",
+        "url": "https://www.nccih.nih.gov/health/milk-thistle"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says it may be unsafe to consume garcinia cambogia products.",
+    "toxicNote": "NCCIH says numerous reports of liver toxicity have been made, and several cases of liver damage were severe, though this appears uncommon. Other effects include headache, nausea and diarrhea.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "garcinia-cambogia",
+    "name": "Garcinia cambogia",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "May interact with some liver and serotonin-affecting drugs. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Garcinia cambogia",
+        "url": "https://www.nccih.nih.gov/health/garcinia-cambogia"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ma huang"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "The FDA banned dietary supplements containing ephedrine alkaloids in 2004 because of serious safety risks.",
+    "toxicNote": "NCCIH says even at relatively low doses and in short-term use, ephedra has been linked to harmful effects such as high blood pressure and heart attack.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ephedra",
+    "name": "Ephedra",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Banned in U.S. dietary supplements since 2004. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Ephedra",
+        "url": "https://www.nccih.nih.gov/health/ephedra"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Dietary supplements for weight loss",
+        "url": "https://ods.od.nih.gov/factsheets/weightloss-consumer/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "synephrine"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says bitter orange is likely safe in the amounts commonly found in foods.",
+    "toxicNote": "NIH ODS says supplements with bitter orange might not be safe and can cause chest pain, anxiety, headache, muscle and bone pain, a faster heart rate and higher blood pressure. Products often also contain caffeine.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bitter-orange",
+    "name": "Bitter orange",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Concerns are greatest when combined with other stimulants. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Bitter orange",
+        "url": "https://www.nccih.nih.gov/health/bitter-orange"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Dietary supplements for weight loss",
+        "url": "https://ods.od.nih.gov/factsheets/weightloss-consumer/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "yohimbine"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NIH ODS says yohimbe might not be safe, especially at yohimbine doses of 20 mg or higher, and to use it only with a provider's guidance.",
+    "toxicNote": "NCCIH says studies have documented the risks of taking yohimbe, and the amount of yohimbine in supplements varies, with some products containing very little.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "yohimbe",
+    "name": "Yohimbe",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Selling yohimbine as an unapproved OTC treatment for erectile dysfunction is illegal in the U.S. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Yohimbe",
+        "url": "https://www.nccih.nih.gov/health/yohimbe"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Dietary supplements for weight loss",
+        "url": "https://ods.od.nih.gov/factsheets/weightloss-consumer/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says goldenseal might be safe for most adults in the short term, and in small studies about 3 g per day was given for short periods without serious harm. Longer-term safety is uncertain.",
+    "toxicNote": "Goldenseal inhibits two major drug-metabolizing enzymes (CYP2D6 and CYP3A4), so it may raise the toxicity or change the effects of many medicines. One NCCIH-funded study found metformin levels fell about 25 percent with goldenseal.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "goldenseal",
+    "name": "Goldenseal",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Check medicine interactions first. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Goldenseal",
+        "url": "https://www.nccih.nih.gov/health/goldenseal"
+      },
+      {
+        "title": "NCCIH: Herb-drug interactions",
+        "url": "https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions-science"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says saw palmetto is well tolerated and has been used safely in studies for up to 3 years.",
+    "toxicNote": "Adverse effects are mild and infrequent, and may include digestive symptoms, dizziness and headache.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "saw-palmetto",
+    "name": "Saw palmetto",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "A 2011 trial gave up to three times the standard 320 mg daily dose without added benefit. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Saw palmetto",
+        "url": "https://www.nccih.nih.gov/health/saw-palmetto"
+      },
+      {
+        "title": "NCCIH: Spotlight on saw palmetto",
+        "url": "https://www.nccih.nih.gov/health/providers/digest/spotlight-on-saw-palmetto-science"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "valerian"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says valerian is generally safe for short-term use by most adults and has been used with apparent safety at 300 to 600 mg daily for up to 6 weeks.",
+    "toxicNote": "The safety of long-term use is unknown, though few people have reported negative side effects.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "valerian-root",
+    "name": "Valerian root",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The American Academy of Sleep Medicine recommends against valerian for chronic insomnia. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Valerian",
+        "url": "https://www.nccih.nih.gov/health/valerian"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says red yeast rice products may not be safe; some have the same side effects as cholesterol-lowering drugs and some contain a harmful contaminant.",
+    "toxicNote": "Some products contain substantial monacolin K, chemically identical to lovastatin, and can cause the same side effects and drug interactions. Some are contaminated with citrinin, which may damage the kidneys. Not recommended in pregnancy or breastfeeding.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "red-yeast-rice",
+    "name": "Red yeast rice",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Monacolin K content varies widely; consumers can't tell how much a product contains. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Red yeast rice",
+        "url": "https://www.nccih.nih.gov/health/red-yeast-rice"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says ordinary oral turmeric or curcumin, not modified for absorption, is likely safe in recommended amounts for up to 2 or 3 months.",
+    "toxicNote": "NCCIH's page covers turmeric and curcumin together; formulations modified to increase absorption are treated differently.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "turmeric-supplement",
+    "name": "Turmeric supplement",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Follow the label. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Turmeric",
+        "url": "https://www.nccih.nih.gov/health/turmeric"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says ordinary oral turmeric or curcumin, not modified for absorption, is likely safe in recommended amounts for up to 2 or 3 months.",
+    "toxicNote": "NCCIH's page covers turmeric and curcumin together; formulations modified to increase absorption are treated differently.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "curcumin",
+    "name": "Curcumin",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Follow the label. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Turmeric",
+        "url": "https://www.nccih.nih.gov/health/turmeric"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says cranberry taken orally is generally thought to be safe.",
+    "toxicNote": "In very large amounts it can cause stomach upset and diarrhea, particularly in young children. Evidence on whether it interacts with warfarin conflicts.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cranberry-extract",
+    "name": "Cranberry extract",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "May lower the risk of recurrent UTIs in women, but is not a treatment for an existing UTI. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Cranberry",
+        "url": "https://www.nccih.nih.gov/health/cranberry"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says raw or unripe elderberries and other parts of the elder tree, such as leaves and stems, contain poisonous cyanide-producing substances; cooking eliminates this toxin.",
+    "toxicNote": "These can cause nausea, vomiting and severe diarrhea.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "elderberry-syrup",
+    "name": "Elderberry syrup",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not eat raw elderberries. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Elderberry",
+        "url": "https://www.nccih.nih.gov/health/elderberry"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says tea tree oil should not be swallowed.",
+    "toxicNote": "Swallowing it can cause serious symptoms such as confusion, unsteadiness, inability to walk and coma. Poisonings, mainly in children, have caused drowsiness, disorientation, rash and ataxia.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tea-tree-oil",
+    "name": "Tea tree oil",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Diluted topical use is generally considered safe for most adults. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Tea tree oil",
+        "url": "https://www.nccih.nih.gov/health/tea-tree-oil"
+      },
+      {
+        "title": "NCCIH: Skin conditions",
+        "url": "https://www.nccih.nih.gov/health/providers/digest/skin-conditions-and-complementary-health-approaches-science"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cannabidiol"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says CBD products are not necessarily completely safe.",
+    "toxicNote": "NCCIH lists decreased alertness, mood changes, decreased appetite and diarrhea as possible CBD effects. Diarrhea, sleepiness, abnormal liver function tests and drug interactions appear due to CBD itself rather than contaminants.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cbd-oil",
+    "name": "CBD oil",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "NCCIH notes people became ill after accidental exposure to THC candies, with children generally more affected. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Cannabis and cannabinoids",
+        "url": "https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know"
+      },
+      {
+        "title": "NCCIH: Sleep disorders",
+        "url": "https://www.nccih.nih.gov/health/sleep-disorders-and-complementary-health-approaches"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "The FDA has warned that colloidal silver isn't safe or effective for treating any disease or condition.",
+    "toxicNote": "NCCIH says it can cause serious side effects, most commonly argyria, a permanent bluish-gray skin discoloration from silver build-up.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "colloidal-silver",
+    "name": "Colloidal silver",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Not a recognized treatment for any condition. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Colloidal silver",
+        "url": "https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says chamomile is likely safe in amounts common in teas and foods, and possibly safe for short-term medicinal use.",
+    "toxicNote": "Allergic reactions occur, including rare anaphylaxis, especially in people allergic to ragweed or related plants. Reported side effects include headache, dizziness and digestive problems. It may reduce the effects of oral contraceptives and interact with warfarin.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "chamomile-extract",
+    "name": "Chamomile extract",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Avoid if allergic to ragweed. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Anxiety and complementary approaches",
+        "url": "https://www.nccih.nih.gov/health/anxiety-and-complementary-health-approaches"
+      },
+      {
+        "title": "NCCIH: Herb-drug interactions",
+        "url": "https://www.nccih.nih.gov/health/providers/digest/herb-drug-interactions-science"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says it is likely safe to consume lavender in amounts typically used in foods, and lavender oil is generally considered safe orally, in massage or inhaled.",
+    "toxicNote": "Aromatherapy may cause headache or coughing. Lavender supplements with sedative medicines may increase drowsiness.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lavender-oil",
+    "name": "Lavender oil",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not confuse culinary amounts with concentrated oil. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Lavender",
+        "url": "https://www.nccih.nih.gov/health/lavender"
+      },
+      {
+        "title": "NCCIH: Anxiety and complementary approaches",
+        "url": "https://www.nccih.nih.gov/health/anxiety-and-complementary-health-approaches"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says peppermint oil appears safe taken orally or applied topically at commonly used doses, and has been used safely in many clinical trials.",
+    "toxicNote": "In a 2022 review of 10 studies, most side effects were mild, mainly acid reflux and indigestion.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "peppermint-oil",
+    "name": "Peppermint oil",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Studied as enteric-coated capsules for IBS. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Peppermint oil",
+        "url": "https://www.nccih.nih.gov/health/peppermint-oil"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "asian ginseng",
+      "american ginseng"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says short-term use of Asian ginseng in recommended amounts appears safe for most people, but long-term safety is questioned.",
+    "toxicNote": "Some experts advise against its use by infants, children and pregnant women. American ginseng may interact with the blood thinner warfarin.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ginseng",
+    "name": "Ginseng",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Little is known about long-term safety. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Use of natural products by children",
+        "url": "https://www.nccih.nih.gov/health/providers/digest/use-of-natural-products-by-children-science"
+      },
+      {
+        "title": "NCCIH: Colds, flu and complementary approaches",
+        "url": "https://www.nccih.nih.gov/health/colds-flu-and-complementary-health-approaches"
+      }
+    ]
   }
 ]

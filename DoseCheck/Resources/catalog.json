@@ -1330,18 +1330,8 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "ashwagandha",
-  "name": "Ashwagandha",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "bilberry",
   "name": "Bilberry",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "black-cohosh",
-  "name": "Black cohosh",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1360,11 +1350,6 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "chamomile-extract",
-  "name": "Chamomile extract",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "coenzyme-q10",
   "name": "Coenzyme Q10",
   "category": "Herbal & dietary supplements"
@@ -1375,23 +1360,8 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "cranberry-extract",
-  "name": "Cranberry extract",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "dandelion-root",
   "name": "Dandelion root",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "echinacea",
-  "name": "Echinacea",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "elderberry-syrup",
-  "name": "Elderberry syrup",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1410,23 +1380,8 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "ginkgo-biloba",
-  "name": "Ginkgo biloba",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "ginseng",
-  "name": "Ginseng",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "glucosamine",
   "name": "Glucosamine",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "goldenseal",
-  "name": "Goldenseal",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1450,16 +1405,6 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "kava",
-  "name": "Kava",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "lavender-oil",
-  "name": "Lavender oil",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "l-theanine",
   "name": "L-theanine",
   "category": "Herbal & dietary supplements"
@@ -1467,11 +1412,6 @@
  {
   "id": "maca",
   "name": "Maca",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "milk-thistle",
-  "name": "Milk thistle",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1520,11 +1460,6 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "peppermint-oil",
-  "name": "Peppermint oil",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "probiotics",
   "name": "Probiotics",
   "category": "Herbal & dietary supplements"
@@ -1540,33 +1475,13 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "red-yeast-rice",
-  "name": "Red yeast rice",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "rhodiola",
   "name": "Rhodiola",
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "saw-palmetto",
-  "name": "Saw palmetto",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "tart-cherry",
   "name": "Tart cherry",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "valerian-root",
-  "name": "Valerian root",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "yohimbe",
-  "name": "Yohimbe",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1600,38 +1515,13 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "bitter-orange",
-  "name": "Bitter orange",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "garcinia-cambogia",
-  "name": "Garcinia cambogia",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "ephedra",
-  "name": "Ephedra",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "hoodia",
   "name": "Hoodia",
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "cbd-oil",
-  "name": "CBD oil",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "berberine",
   "name": "Berberine",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "colloidal-silver",
-  "name": "Colloidal silver",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1670,11 +1560,6 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "tea-tree-oil",
-  "name": "Tea tree oil",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "essential-oils",
   "name": "Essential oils",
   "category": "Herbal & dietary supplements"
@@ -1697,16 +1582,6 @@
  {
   "id": "noni-juice",
   "name": "Noni juice",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "turmeric-supplement",
-  "name": "Turmeric supplement",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "curcumin",
-  "name": "Curcumin",
   "category": "Herbal & dietary supplements"
  },
  {
