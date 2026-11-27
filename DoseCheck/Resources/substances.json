@@ -37443,5 +37443,972 @@
         "url": "https://www.nccih.nih.gov/health/colds-flu-and-complementary-health-approaches"
       }
     ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says topical aloe gel is generally well tolerated, and short-term oral aloe gel, up to 42 days, appears safe.",
+    "toxicNote": "Oral aloe latex can cause abdominal pain, cramps and diarrhea, and oral aloe leaf extracts have been linked to cases of acute hepatitis. Whole leaf extract is classed by IARC as a possible human carcinogen. By mouth it may be unsafe during pregnancy and breastfeeding.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "aloe-vera",
+    "name": "Aloe vera",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Topical use occasionally causes burning, itching, rash or eczema. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Aloe vera",
+        "url": "https://www.nccih.nih.gov/health/aloe-vera"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says garlic supplements appear safe for most adults.",
+    "toxicNote": "Possible side effects are breath and body odor, heartburn and upset stomach. Some people have allergic reactions. Short-term use of most commercial garlic supplements poses only a limited risk of drug interactions.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "garlic-supplement",
+    "name": "Garlic supplement",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Not shown to help altitude illness. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Travel-related ailments",
+        "url": "https://www.nccih.nih.gov/health/providers/digest/travel-related-ailments-and-complementary-health-approaches-science"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says evening primrose oil is probably safe for most adults when taken orally.",
+    "toxicNote": "Less is known about its safety for children.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "evening-primrose-oil",
+    "name": "Evening primrose oil",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Contains omega-6 fatty acids including GLA. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Evening primrose oil",
+        "url": "https://www.nccih.nih.gov/health/evening-primrose-oil"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says no serious side effects have been reported from feverfew use.",
+    "toxicNote": "Side effects can include nausea, digestive problems, bloating and skin rash. Chewing fresh leaves may cause mouth sores and irritation. It may interact with medications.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "feverfew",
+    "name": "Feverfew",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Studied for migraine prevention. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Feverfew",
+        "url": "https://www.nccih.nih.gov/health/feverfew"
+      },
+      {
+        "title": "NCCIH: Chronic pain approaches",
+        "url": "https://www.nccih.nih.gov/health/providers/digest/complementary-health-approaches-for-chronic-pain-science"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says some hawthorn supplements might be safe in the short term.",
+    "toxicNote": "No studies have tested whether it is safe for more than 16 weeks.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hawthorn",
+    "name": "Hawthorn",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Ask a provider first if you take heart medicines. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Hawthorn",
+        "url": "https://www.nccih.nih.gov/health/hawthorn"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says the raw seeds, bark, flowers and leaves of horse chestnut are unsafe when taken orally because they contain a toxic component.",
+    "toxicNote": "Only properly processed seed extract has been studied, for chronic venous insufficiency.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "horse-chestnut-extract",
+    "name": "Horse chestnut extract",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not eat raw horse chestnut seeds (conkers). Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Horse chestnut",
+        "url": "https://www.nccih.nih.gov/health/horse-chestnut"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says studies have not shown serious side effects from glucosamine and chondroitin supplements.",
+    "toxicNote": "Glucosamine and chondroitin may interact with the blood thinner warfarin and raise the risk of serious bruising and bleeding.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "glucosamine",
+    "name": "Glucosamine",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Tell your provider if you take warfarin. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Chronic pain approaches",
+        "url": "https://www.nccih.nih.gov/health/providers/digest/complementary-health-approaches-for-chronic-pain-science"
+      },
+      {
+        "title": "NCCIH: Know the science",
+        "url": "https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches-science"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says probiotics have an extensive history of apparently safe use, particularly in healthy people.",
+    "toxicNote": "Few studies have looked at safety in detail. Cases of severe or fatal infections have been reported in premature infants given probiotics, and the FDA has warned health care providers about this risk.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "probiotics",
+    "name": "Probiotics",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "People with weakened immune systems should ask a provider first. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Probiotics: usefulness and safety",
+        "url": "https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "coq10",
+      "ubiquinone"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says no serious side effects of CoQ10 have been reported.",
+    "toxicNote": "Mild effects such as insomnia or digestive upset may occur. NIH ODS lists fatigue, rashes, nausea, upper abdominal pain, heartburn, light sensitivity, irritability, dizziness and headaches. Clinical studies found it safe and well tolerated at up to 900 mg a day for 4 weeks in healthy volunteers.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "coenzyme-q10",
+    "name": "Coenzyme Q10",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The 900 mg figure is from short studies, not a recommended dose. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Coenzyme Q10",
+        "url": "https://www.nccih.nih.gov/health/coenzyme-q10"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Primary mitochondrial disorders",
+        "url": "https://ods.od.nih.gov/factsheets/PrimaryMitochondrialDisorders-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says analyses of several sources of 5-HTP have shown no toxic contaminants like those associated with L-tryptophan.",
+    "toxicNote": "5-HTP and L-tryptophan have sedative effects. NCCIH says there is very limited data on their effects for insomnia. L-tryptophan supplements may cause life-threatening serotonin toxicity with medicines that affect serotonin metabolism.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "5-htp",
+    "name": "5-HTP",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not combine with antidepressants without medical advice. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Sleep disorders",
+        "url": "https://www.nccih.nih.gov/health/sleep-disorders-and-complementary-health-approaches"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "l-tryptophan"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH names L-tryptophan supplements as a serious safety concern for sleep use.",
+    "toxicNote": "NCCIH says L-tryptophan supplements may cause life-threatening serotonin toxicity when used with medicines that affect serotonin metabolism, and have been linked to eosinophilia-myalgia syndrome, a potentially fatal disorder with severe muscle pain.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tryptophan",
+    "name": "Tryptophan",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not combine with antidepressants without medical advice. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Sleep disorders",
+        "url": "https://www.nccih.nih.gov/health/sleep-disorders-and-complementary-health-approaches"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "s-adenosylmethionine"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says long-term safety data and safety in pregnancy are too limited to draw conclusions.",
+    "toxicNote": "SAMe may not be safe for people with bipolar disorder. It may decrease the effects of levodopa, and might interact with antidepressants, L-tryptophan and St. John's wort.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "same",
+    "name": "SAMe",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Immunocompromised people have a theoretical concern. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: SAMe: in depth",
+        "url": "https://www.nccih.nih.gov/health/sadenosyllmethionine-same-in-depth"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says the long-term safety of DHEA supplements is unknown.",
+    "toxicNote": "NCCIH says some evidence suggests even short-term use may have harmful effects, including liver damage.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "dhea",
+    "name": "DHEA",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "DHEA is converted in the body to testosterone and estrogen. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Menopausal symptoms: in depth",
+        "url": "https://www.nccih.nih.gov/health/menopausal-symptoms-in-depth"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "l-arginine"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NIH ODS says most study results suggest up to 9 g a day for several days or weeks is safe and well tolerated.",
+    "toxicNote": "A typical diet supplies about 4 to 5 g a day.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "arginine",
+    "name": "Arginine",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The 9 g figure comes from short-term studies. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Exercise and athletic performance",
+        "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "l-citrulline"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NIH ODS says short studies of up to 6 g a day for 4 weeks, and 1.35 g a day for 6 weeks, found no adverse effects.",
+    "toxicNote": "No toxic dose is established.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "citrulline",
+    "name": "Citrulline",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Figures come from short-term studies. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Primary mitochondrial disorders",
+        "url": "https://ods.od.nih.gov/factsheets/PrimaryMitochondrialDisorders-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "l-carnitine"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NIH ODS says carnitine has no established tolerable upper intake level, and no safety concerns were reported for up to 2 g a day for 1 year or 4 g a day for 56 days.",
+    "toxicNote": "About 3 g a day of carnitine supplements can cause nausea, vomiting, abdominal cramps, diarrhea and a fishy body odor. High amounts can cause muscle weakness in people with chronic kidney disease and raise seizure risk in people with a seizure disorder.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "carnitine",
+    "name": "Carnitine",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Healthy bodies make enough carnitine. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Carnitine",
+        "url": "https://ods.od.nih.gov/factsheets/Carnitine-HealthProfessional/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Carnitine (consumer)",
+        "url": "https://ods.od.nih.gov/factsheets/Carnitine-Consumer/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NIH ODS says beta-alanine appears safe at 1.6 to 6.4 g a day for up to 8 weeks, with no safety data beyond 1 year.",
+    "toxicNote": "Paresthesia (tingling) can occur; ODS advises divided lower doses or a sustained-release form.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "beta-alanine",
+    "name": "Beta-alanine",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Take with meals. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Exercise and athletic performance",
+        "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "l-glutamine"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NIH ODS says the glutamine had no reported side effects in the studies it reviewed.",
+    "toxicNote": "ODS says there is little scientific evidence to support taking glutamine for performance.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "glutamine",
+    "name": "Glutamine",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Based on limited study data. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Exercise and athletic performance",
+        "url": "https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nac"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "MedlinePlus says N-acetyl cysteine is likely safe for most adults by mouth.",
+    "toxicNote": "Side effects include dry mouth, nausea, vomiting, diarrhea, stomach pain, indigestion and heartburn. NIH ODS says it might interact with blood thinners and blood pressure medicines.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "n-acetylcysteine-nac",
+    "name": "N-acetylcysteine (NAC)",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "NAC is also an FDA-approved prescription drug. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "MedlinePlus: N-Acetyl Cysteine (NAC)",
+        "url": "https://medlineplus.gov/druginfo/natural/1018.html"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Immune function",
+        "url": "https://ods.od.nih.gov/factsheets/ImmuneFunction-Consumer/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says fenugreek is believed safe for adults and children in food amounts and possibly safe for adults in larger amounts.",
+    "toxicNote": "It is not safe in pregnancy in amounts greater than in food; use has been linked to an increased risk of birth defects.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "fenugreek-supplement",
+    "name": "Fenugreek supplement",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Little is known about larger amounts while breastfeeding. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Fenugreek",
+        "url": "https://www.nccih.nih.gov/health/fenugreek"
+      },
+      {
+        "title": "NCCIH: Women's health",
+        "url": "https://www.nccih.nih.gov/health/womens-health-and-complementary-approaches"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says dandelion in the amounts found in food is considered likely safe.",
+    "toxicNote": "Less is known about taking larger amounts.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "dandelion-root",
+    "name": "Dandelion root",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Little research exists on dandelion. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Dandelion",
+        "url": "https://www.nccih.nih.gov/health/dandelion"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says passionflower is likely safe as a food flavoring and is considered safe orally.",
+    "toxicNote": "It might interact with some anesthesia drugs, so avoid it before surgery unless a provider recommends it. Safety on the skin is not known.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "passionflower",
+    "name": "Passionflower",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Few studies exist. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Passionflower",
+        "url": "https://www.nccih.nih.gov/health/passionflower"
+      },
+      {
+        "title": "NCCIH: Anxiety approaches",
+        "url": "https://www.nccih.nih.gov/health/anxiety-and-complementary-health-approaches"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says rhodiola is possibly safe for up to 12 weeks.",
+    "toxicNote": "Side effects may include dizziness, headache, insomnia and either dry mouth or excess saliva.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "rhodiola",
+    "name": "Rhodiola",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Not enough evidence for any health use. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Rhodiola",
+        "url": "https://www.nccih.nih.gov/health/rhodiola"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says berberine is considered safe at doses used in clinical settings (200 to 1,000 mg two to three times a day).",
+    "toxicNote": "Common effects are nausea, abdominal pain, bloating, constipation and diarrhea. People who are pregnant or breastfeeding should not use it, and it should not be given to infants; berberine can cause or worsen newborn jaundice and could lead to kernicterus.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "berberine",
+    "name": "Berberine",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The clinical dose range is from studies, not a recommendation. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Diabetes and dietary supplements",
+        "url": "https://www.nccih.nih.gov/health/diabetes-and-dietary-supplements-what-you-need-to-know"
+      },
+      {
+        "title": "NCCIH: Berberine in the news",
+        "url": "https://www.nccih.nih.gov/health/in-the-news-berberine"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NIH ODS says hoodia might not be safe.",
+    "toxicNote": "It can cause rapid heart rate, and raises heart rate and blood pressure; one analysis found it raises bilirubin and alkaline phosphatase, possible signs of impaired liver function.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hoodia",
+    "name": "Hoodia",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Some hoodia supplements contain little or none. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Weight loss (health professional)",
+        "url": "https://ods.od.nih.gov/factsheets/WeightLoss-HealthProfessional/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Weight-loss fact sheet",
+        "url": "https://ods.od.nih.gov/pdf/factsheets/WeightLoss-Consumer.pdf"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says to be cautious about using herbs or bee products for any purpose.",
+    "toxicNote": "People with pollen allergies may have allergic reactions to bee products such as bee pollen, honey, royal jelly and propolis.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bee-pollen",
+    "name": "Bee pollen",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Avoid if you have pollen or bee allergies. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Seasonal allergies",
+        "url": "https://www.nccih.nih.gov/health/seasonal-allergies-at-a-glance"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says to be cautious about using herbs or bee products for any purpose.",
+    "toxicNote": "People with pollen allergies may have allergic reactions to bee products such as bee pollen, honey, royal jelly and propolis.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "royal-jelly",
+    "name": "Royal jelly",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Avoid if you have pollen or bee allergies. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Seasonal allergies",
+        "url": "https://www.nccih.nih.gov/health/seasonal-allergies-at-a-glance"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says to be cautious about using herbs or bee products for any purpose.",
+    "toxicNote": "People with pollen allergies may have allergic reactions to bee products such as bee pollen, honey, royal jelly and propolis.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "propolis",
+    "name": "Propolis",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Avoid if you have pollen or bee allergies. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Seasonal allergies",
+        "url": "https://www.nccih.nih.gov/health/seasonal-allergies-at-a-glance"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "NCCIH says safety testing on essential oils shows very few side effects or risks when they are used as directed.",
+    "toxicNote": "Allergic reactions and skin irritation may occur with long skin contact. NCCIH says tea tree oil should not be swallowed and can cause confusion, unsteadiness and coma.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "essential-oils",
+    "name": "Essential oils",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Do not swallow essential oils. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "NCCIH: Sleep disorders",
+        "url": "https://www.nccih.nih.gov/health/sleep-disorders-and-complementary-health-approaches"
+      },
+      {
+        "title": "NCCIH: Tea tree oil",
+        "url": "https://www.nccih.nih.gov/health/tea-tree-oil"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Poison Control says activated charcoal is well tolerated overall but should not be used at home to treat a poisoning, and most poison centers don't recommend keeping it at home.",
+    "toxicNote": "Poison Control says it is a treatment given by professionals; burned toast or barbecue briquettes are not activated charcoal and don't bind poisons.",
+    "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "activated-charcoal",
+    "name": "Activated charcoal",
+    "category": "Herbal & dietary supplements",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Call Poison Control instead of treating a poisoning yourself. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "sources": [
+      {
+        "title": "Poison Control: Activated charcoal",
+        "url": "https://www.poison.org/articles/activated-charcoal"
+      },
+      {
+        "title": "Poison Control: Ipecac: don't use it",
+        "url": "https://www.poison.org/articles/ipecac-do-not-use-it"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "caffeine tablets",
+      "caffeine powder"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "The FDA cites 400 mg of caffeine a day for healthy adults as an amount not generally associated with dangerous effects. People vary widely in sensitivity.",
+    "toxicNote": "The FDA estimates toxic effects, such as seizures, can occur with rapid consumption of around 1,200 mg of caffeine. Pure and highly concentrated caffeine powders have contributed to at least two deaths in the United States, and the FDA says one teaspoon of pure powder can equal 28 cups of coffee.",
+    "lethalNote": "The FDA says pure and highly concentrated caffeine can cause death. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure or has trouble breathing.",
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": true,
+    "id": "caffeine-pills",
+    "name": "Caffeine pills",
+    "category": "Herbal & dietary supplements",
+    "servingName": "100 mg of caffeine",
+    "servingMg": 100,
+    "notes": "Add up caffeine from coffee, energy drinks and pills. Check the label for the milligrams per pill. The FDA says to avoid pure powdered caffeine.",
+    "sources": [
+      {
+        "title": "FDA: Spilling the beans: how much caffeine is too much?",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      },
+      {
+        "title": "FDA: Highly concentrated caffeine in dietary supplements (guidance)",
+        "url": "https://www.fda.gov/files/food/published/Guidance-for-Industry--Highly-Concentrated-Caffeine-in-Dietary-Supplements-DOWNLOAD.pdf"
+      }
+    ]
   }
 ]

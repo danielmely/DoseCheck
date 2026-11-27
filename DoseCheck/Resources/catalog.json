@@ -1325,11 +1325,6 @@
   "category": "Vitamins & minerals"
  },
  {
-  "id": "aloe-vera",
-  "name": "Aloe vera",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "bilberry",
   "name": "Bilberry",
   "category": "Herbal & dietary supplements"
@@ -1350,43 +1345,8 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "coenzyme-q10",
-  "name": "Coenzyme Q10",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "collagen",
   "name": "Collagen",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "dandelion-root",
-  "name": "Dandelion root",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "evening-primrose-oil",
-  "name": "Evening primrose oil",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "feverfew",
-  "name": "Feverfew",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "garlic-supplement",
-  "name": "Garlic supplement",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "glucosamine",
-  "name": "Glucosamine",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "hawthorn",
-  "name": "Hawthorn",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1397,11 +1357,6 @@
  {
   "id": "hops",
   "name": "Hops",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "horse-chestnut-extract",
-  "name": "Horse chestnut extract",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1445,23 +1400,8 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "n-acetylcysteine-nac",
-  "name": "N-acetylcysteine (NAC)",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "nettle-leaf",
   "name": "Nettle leaf",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "passionflower",
-  "name": "Passionflower",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "probiotics",
-  "name": "Probiotics",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1475,28 +1415,8 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "rhodiola",
-  "name": "Rhodiola",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "tart-cherry",
   "name": "Tart cherry",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "5-htp",
-  "name": "5-HTP",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "same",
-  "name": "SAMe",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "caffeine-pills",
-  "name": "Caffeine pills",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1510,28 +1430,8 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "beta-alanine",
-  "name": "Beta-alanine",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "hoodia",
-  "name": "Hoodia",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "berberine",
-  "name": "Berberine",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "apple-cider-vinegar-gummies",
   "name": "Apple cider vinegar gummies",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "activated-charcoal",
-  "name": "Activated charcoal",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1557,26 +1457,6 @@
  {
   "id": "oregano-oil",
   "name": "Oregano oil",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "essential-oils",
-  "name": "Essential oils",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "bee-pollen",
-  "name": "Bee pollen",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "royal-jelly",
-  "name": "Royal jelly",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "propolis",
-  "name": "Propolis",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1610,38 +1490,13 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "carnitine",
-  "name": "Carnitine",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "taurine",
   "name": "Taurine",
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "glutamine",
-  "name": "Glutamine",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "glycine",
   "name": "Glycine",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "tryptophan",
-  "name": "Tryptophan",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "arginine",
-  "name": "Arginine",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "citrulline",
-  "name": "Citrulline",
   "category": "Herbal & dietary supplements"
  },
  {
@@ -1702,16 +1557,6 @@
  {
   "id": "tribulus",
   "name": "Tribulus",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "fenugreek-supplement",
-  "name": "Fenugreek supplement",
-  "category": "Herbal & dietary supplements"
- },
- {
-  "id": "dhea",
-  "name": "DHEA",
   "category": "Herbal & dietary supplements"
  },
  {
