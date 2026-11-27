@@ -6,10 +6,19 @@ struct ProfilesView: View {
     @Environment(\.dismiss) private var dismiss
     @State private var adding = false
     @State private var editing: Profile?
+    @AppStorage("dayMode") private var dayMode = false
 
     var body: some View {
         NavigationStack {
             List {
+                Section {
+                    Toggle(isOn: $dayMode) {
+                        Label("Day mode", systemImage: "sun.max.fill")
+                    }
+                } footer: {
+                    Text("DoseCheck uses dark mode by default. Turn on day mode for a light screen.")
+                }
+
                 if profiles.profiles.isEmpty {
                     Section {
                         Text("No saved people yet. Add yourself to get numbers that fit your body.")
