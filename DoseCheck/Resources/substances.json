@@ -49734,5 +49734,706 @@
         "url": "https://www.fda.gov/food/buy-store-serve-safe-food/handling-infant-formula-safely-what-you-need-know"
       }
     ]
+  },
+  {
+    "aliases": [
+      "nihonshu",
+      "rice wine"
+    ],
+    "servingName": "about 4 oz at about 15% alcohol (1 standard drink, calculated)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "sake",
+    "name": "Sake",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Sake is not distilled and averages about 15% alcohol by volume, so a small cup has more alcohol than the same volume of wine. Never use these numbers to decide whether you can drive.",
+    "sources": [
+      {
+        "title": "NCBI: Alcohol consumption and ethyl carbamate, exposure data",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK326559/"
+      },
+      {
+        "title": "NIAAA: What is a standard drink",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "korean soju"
+    ],
+    "servingName": "1.5 oz at 40% alcohol (1 standard drink); check the label",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "soju",
+    "name": "Soju",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Distilled soju samples in one study ranged from 21% to 44.5% alcohol, so strength varies a lot by brand. Never use these numbers to decide whether you can drive.",
+    "sources": [
+      {
+        "title": "PMC: Characterization of Korean distilled liquor, soju",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9028313/"
+      },
+      {
+        "title": "NIAAA: What is a standard drink",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "cider",
+      "apple cider (alcoholic)"
+    ],
+    "servingName": "12 oz at about 5% alcohol (1 standard drink); stronger ciders count as more",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "hard-cider",
+    "name": "Hard cider",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Hard ciders typically have 5 to 7% alcohol by volume. The US hard cider tax class covers 0.5% to under 8.5%, so labels vary. Never use these numbers to decide whether you can drive.",
+    "sources": [
+      {
+        "title": "PMC: What is moderate drinking",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6761695/"
+      },
+      {
+        "title": "TTB: Alcohol FAQs (cider)",
+        "url": "https://www.ttb.gov/faqs/alcohol"
+      },
+      {
+        "title": "NIAAA: What is a standard drink",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "white lightning",
+      "home-distilled spirits",
+      "white whiskey"
+    ],
+    "servingName": "1.5 oz at 40% alcohol (1 standard drink); homemade strength is unknown",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "moonshine",
+    "name": "Moonshine",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Homemade spirits can have unusually high alcohol and may contain methanol, which can cause permanent blindness and death. Symptoms may not appear for 1 to 72 hours. Never use these numbers to decide whether you can drive.",
+    "sources": [
+      {
+        "title": "CDC Yellow Book: Poisonings during travel (methanol)",
+        "url": "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/poisonings-envenomations-and-toxic-exposures-during-travel.html"
+      },
+      {
+        "title": "CDC NIOSH: Methanol systemic agent",
+        "url": "https://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750029.html"
+      },
+      {
+        "title": "PMC: Moonshine and vision loss, case report",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13493000/"
+      },
+      {
+        "title": "NIAAA: What is a standard drink",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "CDC: Dietary Guidelines for alcohol (2020-2025, 2 drinks men / 1 drink women)",
+        "url": "https://www.cdc.gov/alcohol/fact-sheets/moderate-drinking.htm"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": "Home-distilled spirits may contain unusually high ethanol and methanol, a toxic byproduct that can blind or kill. Do not drink unlabeled or home-distilled spirits."
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": true,
+    "id": "cappuccino",
+    "name": "Cappuccino",
+    "category": "Beverages",
+    "servingName": "1 serving (~103 mg caffeine)",
+    "servingMg": 103,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. A 2024 study of café coffees found a mean of 103 mg per cappuccino serving; another study found a median of 180 mg in Scottish cafés.",
+    "sources": [
+      {
+        "title": "PMC: Caffeine content in servings of popular coffees",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11314177/"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "pre-workout",
+      "preworkout powder"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": true,
+    "id": "pre-workout-drink",
+    "name": "Pre-workout drink",
+    "category": "Beverages",
+    "servingName": "1 serving (~254 mg caffeine)",
+    "servingMg": 254,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. Fifteen pre-workout products tested at 91 to 387 mg of caffeine per serving. An analysis of the top 100 products found an average of 254 mg of caffeine. Pre-workouts also contain other stimulants.",
+    "sources": [
+      {
+        "title": "PubMed: Caffeine content of pre-workout supplements",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30196576/"
+      },
+      {
+        "title": "PubMed: Common ingredient profiles of pre-workout supplements",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30678328/"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "apple cider (non-alcoholic)"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "apple-juice",
+    "name": "Apple juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "FDA's action level for inorganic arsenic in apple juice is 10 parts per billion. FDA says apple juice is the most popular juice for young children in the US. The AAP recommends limiting fruit juice because of its high sugar content.",
+    "sources": [
+      {
+        "title": "FDA: Final guidance, action level for inorganic arsenic in apple juice",
+        "url": "https://www.fda.gov/food/hfp-constituent-updates/fda-issues-final-guidance-industry-action-level-inorganic-arsenic-apple-juice"
+      },
+      {
+        "title": "AAP News: FDA finalizes limit on arsenic in apple juice (AAP advises limiting juice)",
+        "url": "https://publications.aap.org/aapnews/news/pdfDownload/24658"
+      },
+      {
+        "title": "FDA: Arsenic in food and dietary supplements",
+        "url": "https://cacmap.fda.gov/food/environmental-contaminants-food/arsenic-food-and-dietary-supplements"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "oj"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "orange-juice",
+    "name": "Orange juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "The AAP recommends families limit fruit juice because of its high sugar content. Unpasteurized juice must carry an FDA warning label because it may contain harmful bacteria. No juice-specific milligram limit was found for this drink.",
+    "sources": [
+      {
+        "title": "AAP News: FDA finalizes limit on arsenic in apple juice (AAP advises limiting juice)",
+        "url": "https://publications.aap.org/aapnews/news/pdfDownload/24658"
+      },
+      {
+        "title": "FDA: What you need to know about juice safety",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-juice-safety"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "grape-juice",
+    "name": "Grape juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "The AAP recommends families limit fruit juice because of its high sugar content. Unpasteurized juice must carry an FDA warning label because it may contain harmful bacteria. No juice-specific milligram limit was found for this drink.",
+    "sources": [
+      {
+        "title": "AAP News: FDA finalizes limit on arsenic in apple juice (AAP advises limiting juice)",
+        "url": "https://publications.aap.org/aapnews/news/pdfDownload/24658"
+      },
+      {
+        "title": "FDA: What you need to know about juice safety",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-juice-safety"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "pineapple-juice",
+    "name": "Pineapple juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "The AAP recommends families limit fruit juice because of its high sugar content. Unpasteurized juice must carry an FDA warning label because it may contain harmful bacteria. No juice-specific milligram limit was found for this drink.",
+    "sources": [
+      {
+        "title": "AAP News: FDA finalizes limit on arsenic in apple juice (AAP advises limiting juice)",
+        "url": "https://publications.aap.org/aapnews/news/pdfDownload/24658"
+      },
+      {
+        "title": "FDA: What you need to know about juice safety",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-juice-safety"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cranberry cocktail"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cranberry-juice",
+    "name": "Cranberry juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "A review found cranberry interactions with warfarin and kidney stone formation as potential risks. StatPearls says cranberry juice is not recommended for people with calcium oxalate stones or hyperoxaluria because of its oxalate content.",
+    "sources": [
+      {
+        "title": "PubMed: Safety of cranberry, kidney stones and drug interactions",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34015833/"
+      },
+      {
+        "title": "StatPearls: Hyperoxaluria",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK558987/"
+      },
+      {
+        "title": "PMC: Nutrition and kidney stone disease",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8229448/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "v8"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tomato-juice",
+    "name": "Tomato juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "MedlinePlus lists tomato juice among foods often high in salt, relevant for calcium kidney stones. NIDDK lists tomato juice among higher-potassium foods for people with chronic kidney disease. A review lists 4.1 to 8.1 mg of oxalate per 100 mL of 100% tomato juice.",
+    "sources": [
+      {
+        "title": "MedlinePlus: Kidney stones, self-care",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000135.htm"
+      },
+      {
+        "title": "NIDDK: Potassium tips for people with CKD",
+        "url": "https://www.niddk.nih.gov/-/media/Files/Health-Information/Health-Professionals/Kidney-Disease/PotassiumTipsforPeopleCKD_EN.pdf"
+      },
+      {
+        "title": "PMC: Nutrition and kidney stone disease",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8229448/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "coconut juice"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "coconut-water",
+    "name": "Coconut water",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "One analyzed coconut water contained about 1,456 mg of potassium per liter, 31% of the daily recommended value. NIH says there is no evidence that high potassium intake causes hyperkalemia in adults with normal kidney function; people with kidney disease may need to limit potassium.",
+    "sources": [
+      {
+        "title": "PMC: Coconut water, an unexpected source of urinary citrate",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6236775/"
+      },
+      {
+        "title": "NIH ODS: Potassium fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/"
+      },
+      {
+        "title": "NIDDK: Potassium tips for people with CKD",
+        "url": "https://www.niddk.nih.gov/-/media/Files/Health-Information/Health-Professionals/Kidney-Disease/PotassiumTipsforPeopleCKD_EN.pdf"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "raw juice",
+      "juice cleanse"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cold-pressed-juice",
+    "name": "Cold-pressed juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "Fresh-squeezed or raw juice may carry bacteria from the produce unless it is pasteurized or otherwise treated. FDA requires a warning label on untreated packaged juice: it may contain harmful bacteria that can cause serious illness in children, the elderly, and people with weakened immune systems.",
+    "sources": [
+      {
+        "title": "FDA: What you need to know about juice safety",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-juice-safety"
+      },
+      {
+        "title": "FDA: Fruits, veggies and juices (Food Safety for Moms-to-Be)",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/fruits-veggies-and-juices-food-safety-moms-be"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "celery juice",
+      "vegetable juice"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "green-juice",
+    "name": "Green juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "Fresh-squeezed or raw juice may carry bacteria from the produce unless it is pasteurized or otherwise treated. FDA requires a warning label on untreated packaged juice: it may contain harmful bacteria that can cause serious illness in children, the elderly, and people with weakened immune systems.",
+    "sources": [
+      {
+        "title": "FDA: What you need to know about juice safety",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-juice-safety"
+      },
+      {
+        "title": "FDA: Fruits, veggies and juices (Food Safety for Moms-to-Be)",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/fruits-veggies-and-juices-food-safety-moms-be"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "wheatgrass shot"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "wheatgrass-juice",
+    "name": "Wheatgrass juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "Fresh-squeezed or raw juice may carry bacteria from the produce unless it is pasteurized or otherwise treated. FDA requires a warning label on untreated packaged juice: it may contain harmful bacteria that can cause serious illness in children, the elderly, and people with weakened immune systems.",
+    "sources": [
+      {
+        "title": "FDA: What you need to know about juice safety",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-juice-safety"
+      },
+      {
+        "title": "FDA: Fruits, veggies and juices (Food Safety for Moms-to-Be)",
+        "url": "https://www.fda.gov/food/people-risk-foodborne-illness/fruits-veggies-and-juices-food-safety-moms-be"
+      },
+      {
+        "title": "FDA warning letter: wheatgrass juice HACCP violations",
+        "url": "https://www.fda.gov/ICECI/EnforcementActions/WarningLetters/2013/ucm380280.htm"
+      }
+    ]
   }
 ]

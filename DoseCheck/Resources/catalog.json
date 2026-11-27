@@ -215,41 +215,6 @@
   "category": "Beverages"
  },
  {
-  "id": "coconut-water",
-  "name": "Coconut water",
-  "category": "Beverages"
- },
- {
-  "id": "orange-juice",
-  "name": "Orange juice",
-  "category": "Beverages"
- },
- {
-  "id": "apple-juice",
-  "name": "Apple juice",
-  "category": "Beverages"
- },
- {
-  "id": "grape-juice",
-  "name": "Grape juice",
-  "category": "Beverages"
- },
- {
-  "id": "cranberry-juice",
-  "name": "Cranberry juice",
-  "category": "Beverages"
- },
- {
-  "id": "tomato-juice",
-  "name": "Tomato juice",
-  "category": "Beverages"
- },
- {
-  "id": "pineapple-juice",
-  "name": "Pineapple juice",
-  "category": "Beverages"
- },
- {
   "id": "lemonade",
   "name": "Lemonade",
   "category": "Beverages"
@@ -270,33 +235,8 @@
   "category": "Beverages"
  },
  {
-  "id": "hard-cider",
-  "name": "Hard cider",
-  "category": "Beverages"
- },
- {
-  "id": "sake",
-  "name": "Sake",
-  "category": "Beverages"
- },
- {
-  "id": "soju",
-  "name": "Soju",
-  "category": "Beverages"
- },
- {
   "id": "mead",
   "name": "Mead",
-  "category": "Beverages"
- },
- {
-  "id": "moonshine",
-  "name": "Moonshine",
-  "category": "Beverages"
- },
- {
-  "id": "wheatgrass-juice",
-  "name": "Wheatgrass juice",
   "category": "Beverages"
  },
  {
@@ -335,16 +275,6 @@
   "category": "Beverages"
  },
  {
-  "id": "green-juice",
-  "name": "Green juice",
-  "category": "Beverages"
- },
- {
-  "id": "cold-pressed-juice",
-  "name": "Cold-pressed juice",
-  "category": "Beverages"
- },
- {
   "id": "horchata",
   "name": "Horchata",
   "category": "Beverages"
@@ -355,18 +285,8 @@
   "category": "Beverages"
  },
  {
-  "id": "pre-workout-drink",
-  "name": "Pre-workout drink",
-  "category": "Beverages"
- },
- {
   "id": "frappuccino",
   "name": "Frappuccino",
-  "category": "Beverages"
- },
- {
-  "id": "cappuccino",
-  "name": "Cappuccino",
   "category": "Beverages"
  },
  {
