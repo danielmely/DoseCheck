@@ -41150,5 +41150,206 @@
         "url": "https://www.poison.org/"
       }
     ]
+  },
+  {
+    "aliases": [
+      "electrolyte powder",
+      "hydration tablets"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No upper limit is set for potassium, but supplements can cause dangerously high potassium in people with kidney disease. This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "Too much potassium from supplements can cause hyperkalemia, which can disturb the heart rhythm.",
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "electrolyte-tablets",
+    "name": "Electrolyte tablets",
+    "category": "Vitamins & minerals",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Electrolyte tablets mix sodium, potassium and magnesium. Most potassium supplements give no more than 99 mg per serving, but people with chronic kidney disease or on some medicines can develop dangerously high potassium from supplements and salt substitutes. Ask a provider first if you have kidney disease or take ACE inhibitors or ARBs.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Potassium",
+        "url": "https://ods.od.nih.gov/factsheets/Potassium-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Potassium (health professional)",
+        "url": "https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/"
+      },
+      {
+        "title": "PMC: Hyperkalemia from dietary supplements",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5137987/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "silicon supplement",
+      "orthosilicic acid",
+      "horsetail silica"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 700,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": "No reliable acute toxicity figure.",
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": "silicon",
+    "verified": true,
+    "id": "silica",
+    "name": "Silica",
+    "category": "Vitamins & minerals",
+    "servingName": "10 mg silicon",
+    "servingMg": 10,
+    "notes": "The daily number is the UK Expert Group on Vitamins and Minerals safe upper level for supplemental silicon in adults over a lifetime (700 mg of silicon a day). It is not a US limit and not a recommended amount. EFSA found specific silicon supplement sources (orthosilicic acid and MMST) not of safety concern at the proposed doses. Horsetail-based products can carry heavy metals such as cadmium.",
+    "sources": [
+      {
+        "title": "EFSA: Safety of OSA-vanillin complex",
+        "url": "https://efsa.europa.eu/en/efsajournal/pub/5086"
+      },
+      {
+        "title": "EFSA: Safety of MMST as a silicon source",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/4436"
+      },
+      {
+        "title": "PMC: Metals in silicon hair-loss supplements",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13664940"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "lithium orotate",
+      "low-dose lithium"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for lithium supplements. Use only under a doctor's care.",
+    "toxicNote": "Overdose can cause nausea, vomiting and serious lithium toxicity. Call Poison Control at 1-800-222-1222.",
+    "lethalNote": "No fatal dose is established for supplement products. Lithium toxicity can be life-threatening. Call Poison Control at 1-800-222-1222, or 911 if the person is confused, has seizures or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lithium-trace",
+    "name": "Lithium (trace)",
+    "category": "Vitamins & minerals",
+    "servingName": "tablet",
+    "servingMg": 1,
+    "notes": "Lithium is a prescription medicine at therapeutic doses, and it is not considered an essential nutrient. Supplements sold as lithium orotate have been misused: a young woman who took 18 tablets (83 mg of elemental lithium) had mild toxicity with severe nausea and vomiting. Side effects of lithium include tremor, nausea, and effects on the thyroid and kidneys. Talk to a doctor before taking it, especially with other medicines.",
+    "sources": [
+      {
+        "title": "PMC: Is lithium a micronutrient?",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6443601/"
+      },
+      {
+        "title": "PubMed: Lithium toxicity from an internet dietary supplement",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18072162/"
+      },
+      {
+        "title": "PubMed: Lithium in drinking water review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38988157/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "liquid minerals",
+      "colloidal silver"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this product, so follow the package label.",
+    "toxicNote": "Colloidal silver can cause argyria and interfere with medicines.",
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "colloidal-minerals",
+    "name": "Colloidal minerals",
+    "category": "Vitamins & minerals",
+    "servingName": "serving",
+    "servingMg": 1,
+    "notes": "Product contents vary a lot, so read the label. If a product contains colloidal silver, the FDA warns it is not safe or effective for any condition, and it can cause argyria, a usually permanent blue-gray skin discoloration, and block absorption of some medicines such as thyroxine. Mineral and herbal-mineral products have also been found with lead and mercury.",
+    "sources": [
+      {
+        "title": "NCCIH: Colloidal silver",
+        "url": "https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know"
+      },
+      {
+        "title": "FDA: Import Alert 99-42, heavy metal contamination",
+        "url": "https://www.accessdata.fda.gov/cms_ia/importalert_1167.html"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "trace mineral drops",
+      "ionic minerals"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show one limit for a mix of minerals. Selenium has an adult upper limit of 400 mcg a day, so follow the label.",
+    "toxicNote": null,
+    "lethalNote": "No established fatal dose from food or supplement amounts.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "trace-minerals",
+    "name": "Trace minerals",
+    "category": "Vitamins & minerals",
+    "servingName": "serving",
+    "servingMg": 1,
+    "notes": "Trace mineral products can contain chromium, manganese, molybdenum, copper and selenium. Several of these have upper limits: manganese, molybdenum, copper and selenium. Selenium is limited to 400 mcg a day for adults, and too much over time is harmful. Check the label and count all your supplements together.",
+    "sources": [
+      {
+        "title": "NIH Office of Dietary Supplements: Selenium",
+        "url": "https://ods.od.nih.gov/factsheets/Selenium-Consumer/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: Manganese",
+        "url": "https://ods.od.nih.gov/factsheets/Manganese-HealthProfessional/"
+      },
+      {
+        "title": "NIH Office of Dietary Supplements: The Scoop, Winter 2019",
+        "url": "https://ods.od.nih.gov/News/The_Scoop_-_Winter_2019.aspx"
+      }
+    ]
   }
 ]

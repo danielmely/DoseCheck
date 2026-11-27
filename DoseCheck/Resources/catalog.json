@@ -1225,31 +1225,6 @@
   "category": "Condiments, oils & baking"
  },
  {
-  "id": "electrolyte-tablets",
-  "name": "Electrolyte tablets",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "silica",
-  "name": "Silica",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "lithium-trace",
-  "name": "Lithium (trace)",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "colloidal-minerals",
-  "name": "Colloidal minerals",
-  "category": "Vitamins & minerals"
- },
- {
-  "id": "trace-minerals",
-  "name": "Trace minerals",
-  "category": "Vitamins & minerals"
- },
- {
   "id": "hemp-oil",
   "name": "Hemp oil",
   "category": "Herbal & dietary supplements"
