@@ -40,26 +40,6 @@
   "category": "Fruits"
  },
  {
-  "id": "bamboo-shoots",
-  "name": "Bamboo shoots",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "cassava",
-  "name": "Cassava",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "fiddleheads",
-  "name": "Fiddleheads",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "morel-mushroom",
-  "name": "Morel mushroom",
-  "category": "Vegetables & mushrooms"
- },
- {
   "id": "chanterelle-mushroom",
   "name": "Chanterelle mushroom",
   "category": "Vegetables & mushrooms"
@@ -75,73 +55,8 @@
   "category": "Vegetables & mushrooms"
  },
  {
-  "id": "taro",
-  "name": "Taro",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "habanero-pepper",
-  "name": "Habanero pepper",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "serrano-pepper",
-  "name": "Serrano pepper",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "ghost-pepper",
-  "name": "Ghost pepper",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "nori-seaweed",
-  "name": "Nori seaweed",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "wakame",
-  "name": "Wakame",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "alfalfa-sprouts",
-  "name": "Alfalfa sprouts",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "bean-sprouts",
-  "name": "Bean sprouts",
-  "category": "Vegetables & mushrooms"
- },
- {
   "id": "microgreens",
   "name": "Microgreens",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "ramps",
-  "name": "Ramps",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "hot-chili-peppers",
-  "name": "Hot chili peppers",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "carolina-reaper-pepper",
-  "name": "Carolina Reaper pepper",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "thai-chili",
-  "name": "Thai chili",
-  "category": "Vegetables & mushrooms"
- },
- {
-  "id": "scotch-bonnet-pepper",
-  "name": "Scotch bonnet pepper",
   "category": "Vegetables & mushrooms"
  },
  {
@@ -545,16 +460,6 @@
   "category": "Sweets & snacks"
  },
  {
-  "id": "white-chocolate",
-  "name": "White chocolate",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "cocoa-powder",
-  "name": "Cocoa powder",
-  "category": "Sweets & snacks"
- },
- {
   "id": "chewing-gum",
   "name": "Chewing gum",
   "category": "Sweets & snacks"
@@ -570,21 +475,6 @@
   "category": "Sweets & snacks"
  },
  {
-  "id": "erythritol",
-  "name": "Erythritol",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "xylitol",
-  "name": "Xylitol",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "sorbitol",
-  "name": "Sorbitol",
-  "category": "Sweets & snacks"
- },
- {
   "id": "monk-fruit-sweetener",
   "name": "Monk fruit sweetener",
   "category": "Sweets & snacks"
@@ -595,43 +485,13 @@
   "category": "Sweets & snacks"
  },
  {
-  "id": "chocolate-chips",
-  "name": "Chocolate chips",
-  "category": "Sweets & snacks"
- },
- {
   "id": "chocolate-covered-espresso-beans",
   "name": "Chocolate-covered espresso beans",
   "category": "Sweets & snacks"
  },
  {
-  "id": "dark-chocolate-85",
-  "name": "Dark chocolate (85%)",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "cacao-nibs",
-  "name": "Cacao nibs",
-  "category": "Sweets & snacks"
- },
- {
   "id": "carob-chips",
   "name": "Carob chips",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "sugar-free-candy",
-  "name": "Sugar-free candy",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "sugar-free-gum",
-  "name": "Sugar-free gum",
-  "category": "Sweets & snacks"
- },
- {
-  "id": "gum-xylitol",
-  "name": "Gum (xylitol)",
   "category": "Sweets & snacks"
  },
  {

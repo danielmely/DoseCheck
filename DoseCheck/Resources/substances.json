@@ -47455,5 +47455,1158 @@
         "url": "https://www.efsa.europa.eu/de/efsajournal/pub/7286"
       }
     ]
+  },
+  {
+    "aliases": [
+      "fresh bamboo shoots"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Never eat fresh bamboo shoots raw. Boil or process them first.",
+    "toxicNote": "Fresh shoots contain the cyanogenic glycoside taxiphyllin, which releases hydrogen cyanide when the tissue is damaged. WHO lists bamboo roots among foods with cyanogenic glycosides.",
+    "lethalNote": "No fatal dose is established for properly prepared food. Cyanide poisoning from improperly processed cyanogenic plants can be fatal.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bamboo-shoots",
+    "name": "Bamboo shoots",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "One processing study measured cyanogens at 0.011 to 0.018% of fresh shoot weight. Slicing, boiling in salt water and draining reduce them; one source says cooking at about 100 C for 48 hours removes 97%. Canned shoots are already processed.",
+    "sources": [
+      {
+        "title": "WHO: Natural toxins in food",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/natural-toxins-in-food"
+      },
+      {
+        "title": "PMC: Precooking processing of bamboo shoots",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3857424/"
+      },
+      {
+        "title": "PMC: Nutritional facts of bamboo shoots",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4897250/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "manioc",
+      "yuca",
+      "tapioca root"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Never eat raw or poorly prepared cassava. Peel, soak, dry and cook it.",
+    "toxicNote": "Cassava contains cyanogenic glycosides that can cause fatal cyanide poisoning if not detoxified by soaking, drying and scraping. A 2017 Uganda outbreak from flour made of wild high-cyanide cassava sickened 98 people and killed 2.",
+    "lethalNote": "No fatal dose is established for properly prepared food. Cyanide poisoning from improperly processed cyanogenic plants can be fatal.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cassava",
+    "name": "Cassava",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The Uganda flour averaged 88 ppm cyanide, more than 8 times the recommended safe level of 10 ppm. Sweet varieties are lower in cyanide than bitter ones.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Cyanide poisoning from cassava flour, Uganda 2017",
+        "url": "https://www.cdc.gov/mmwr/volumes/68/wr/mm6813a3.htm"
+      },
+      {
+        "title": "WHO: Natural toxins in food",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/natural-toxins-in-food"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "ostrich fern fiddleheads",
+      "fiddlehead ferns"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Cook fiddleheads thoroughly. Do not eat them raw or lightly cooked.",
+    "toxicNote": "In May 1994, outbreaks of nausea, vomiting and diarrhea in New York and western Canada were linked to raw or lightly cooked ostrich fern fiddleheads.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "fiddleheads",
+    "name": "Fiddleheads",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The CDC report notes the toxin was not identified. Other fern species can be poisonous, so identification matters.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Ostrich fern poisoning, New York and western Canada, 1994",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00032588.htm"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "morels",
+      "true morel"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Always cook morels thoroughly. Never eat them raw or partly cooked.",
+    "toxicNote": "A 2023 Montana outbreak linked to raw and undercooked morels caused illness in 51 people, 3 hospitalizations and 2 deaths. FDA lists nausea, vomiting, diarrhea, dizziness, balance problems and disorientation.",
+    "lethalNote": "No fatal dose is established. Two deaths were reported in the Montana outbreak.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "morel-mushroom",
+    "name": "Morel mushroom",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The toxins are not fully understood. CDC found a dose-response link, and raw morels were more strongly tied to illness than cooked ones.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Outbreak linked to morel mushrooms, Montana 2023",
+        "url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7310a1.htm"
+      },
+      {
+        "title": "FDA: Investigation of illnesses, morel mushrooms (May 2023)",
+        "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-illnesses-morel-mushrooms-may-2023"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "wild leeks",
+      "allium tricoccum"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Safe when correctly identified. Misidentification is the danger.",
+    "toxicNote": "Toxic look-alikes such as lily of the valley and false hellebore have caused poisonings in foragers who thought they were eating ramps. Three adults had detectable digoxin levels and low blood pressure; eight others who ate false hellebore needed emergency care.",
+    "lethalNote": "No fatal dose is established for ramps. Look-alike plants contain heart-active toxins.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ramps",
+    "name": "Ramps",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Ramps smell strongly of onion or garlic; the look-alikes do not, but do not rely on smell alone.",
+    "sources": [
+      {
+        "title": "PubMed: Detectable digoxin concentrations in 3 patients with ramps misadventure",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35691768"
+      },
+      {
+        "title": "PMC: Veratrum parviflorum poisoning mistaken for ramps",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9822863/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "taro root",
+      "eddo",
+      "dasheen"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Cook taro before eating. Do not eat it raw.",
+    "toxicNote": "Raw taro contains acrid calcium oxalate raphides that irritate the mouth and throat.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "taro",
+    "name": "Taro",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Cooking removes most of the irritation. Handling raw taro can itch.",
+    "sources": [
+      {
+        "title": "PMC: Tropical plantains, tubers, and roots: food safety",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13715510"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nori",
+      "sushi seaweed",
+      "laver"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Adult upper limit for iodine is 1,100 mcg a day from all sources (NIH). EFSA's lower limit is 600 mcg.",
+    "toxicNote": "Too much iodine can cause thyroid dysfunction, including thyroid inflammation. Seaweed iodine content varies widely.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "nori-seaweed",
+    "name": "Nori seaweed",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Nori is lower in iodine than kelp, about 16 mcg/g in one study, but one serving of other seaweeds can far exceed limits.",
+    "sources": [
+      {
+        "title": "NIH ODS: Iodine fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/"
+      },
+      {
+        "title": "PMC: Risks and benefits of consuming edible seaweeds",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6551690/"
+      },
+      {
+        "title": "PMC: Seaweed and iodine content",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8035890/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "wakame seaweed",
+      "seaweed salad"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Adult upper limit for iodine is 1,100 mcg a day from all sources (NIH). EFSA's lower limit is 600 mcg.",
+    "toxicNote": "Too much iodine can cause thyroid dysfunction, including thyroid inflammation. Seaweed iodine content varies widely.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "wakame",
+    "name": "Wakame",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Dried wakame or nori contain roughly 50 to 576 mcg of iodine per serving in one analysis; one sushi and wakame salad meal had 231 mcg. Kombu is much higher.",
+    "sources": [
+      {
+        "title": "NIH ODS: Iodine fact sheet",
+        "url": "https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/"
+      },
+      {
+        "title": "PMC: Risks and benefits of consuming edible seaweeds",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6551690/"
+      },
+      {
+        "title": "PMC: Seaweed and iodine content",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8035890/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sprouts"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Cook sprouts until steaming hot. Children, older adults, pregnant people and the immune-weakened should avoid raw sprouts.",
+    "toxicNote": "Raw and undercooked sprouts are a common cause of foodborne illness. Warm, humid growing conditions favor Salmonella, Listeria and E. coli. A 2026 alfalfa outbreak sickened 77 people in 16 states and hospitalized 6.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "alfalfa-sprouts",
+    "name": "Alfalfa sprouts",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The risk is bacterial, not a chemical dose. FDA and CDC advise cooking.",
+    "sources": [
+      {
+        "title": "CDC: Alfalfa sprouts E. coli and Salmonella outbreak, 2026",
+        "url": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/index.html"
+      },
+      {
+        "title": "FDA: Selecting and serving produce safely",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+      },
+      {
+        "title": "CDC: Advice to consumers on sprouts",
+        "url": "https://archive.cdc.gov/www_cdc_gov/salmonella/muenchen-02-16/advice.html"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "mung bean sprouts"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Cook sprouts until steaming hot. Children, older adults, pregnant people and the immune-weakened should avoid raw sprouts.",
+    "toxicNote": "Raw and undercooked sprouts are a common cause of foodborne illness. Warm, humid growing conditions favor Salmonella, Listeria and E. coli. A 2026 alfalfa outbreak sickened 77 people in 16 states and hospitalized 6.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "bean-sprouts",
+    "name": "Bean sprouts",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The risk is bacterial, not a chemical dose. FDA and CDC advise cooking.",
+    "sources": [
+      {
+        "title": "CDC: Alfalfa sprouts E. coli and Salmonella outbreak, 2026",
+        "url": "https://www.cdc.gov/ecoli/outbreaks/alfalfa-sprouts-08-26/index.html"
+      },
+      {
+        "title": "FDA: Selecting and serving produce safely",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+      },
+      {
+        "title": "CDC: Advice to consumers on sprouts",
+        "url": "https://archive.cdc.gov/www_cdc_gov/salmonella/muenchen-02-16/advice.html"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "chili peppers",
+      "hot peppers",
+      "chilies"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine as a seasoning. Wear gloves when cutting very hot types.",
+    "toxicNote": "Capsaicin is intensely irritating to skin, eyes and the gut. Very large amounts caused severe abdominal pain after about 600 mg of capsaicin from four Bhut jolokia peppers and other spicy foods.",
+    "lethalNote": "No fatal dose is established for food. An infant died after a capsaicin-containing traditional remedy was given by mouth.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hot-chili-peppers",
+    "name": "Hot chili peppers",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Capsaicin ranged from 0.1 to 4.25 mg per gram of pepper in one review. Cases include thunderclap headaches from a Carolina Reaper and esophageal rupture after violent vomiting from ghost peppers.",
+    "sources": [
+      {
+        "title": "Poison Control: Capsaicin, when the chili is too hot",
+        "url": "https://www.poison.org/articles/capsaicin-when-the-chili-is-too-hot"
+      },
+      {
+        "title": "PMC: Presumed capsaicin intoxication mimicking an acute abdomen",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7330639/"
+      },
+      {
+        "title": "PMC: Unravelling the mystery of capsaicin",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3462993/"
+      },
+      {
+        "title": "PubMed: A fatal case of pepper poisoning",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11741759/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "habanero"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine as a seasoning. Avoid contests and wear gloves when cutting.",
+    "toxicNote": "Capsaicin can cause burning, vomiting, abdominal pain, and in rare cases serious complications from eating very hot peppers in large amounts.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "habanero-pepper",
+    "name": "Habanero pepper",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Ghost peppers are more than twice as hot as a habanero. Wear gloves and avoid touching your eyes.",
+    "sources": [
+      {
+        "title": "Poison Control: Capsaicin, when the chili is too hot",
+        "url": "https://www.poison.org/articles/capsaicin-when-the-chili-is-too-hot"
+      },
+      {
+        "title": "PubMed: Esophageal rupture after ghost pepper ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27693067/"
+      },
+      {
+        "title": "PMC: Thunderclap headache after eating a Carolina Reaper",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893965/"
+      },
+      {
+        "title": "Poison Control: Is the One Chip Challenge dangerous?",
+        "url": "https://www.poison.org/articles/is-the-one-chip-challenge-dangerous"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "serrano"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine as a seasoning. Avoid contests and wear gloves when cutting.",
+    "toxicNote": "Capsaicin can cause burning, vomiting, abdominal pain, and in rare cases serious complications from eating very hot peppers in large amounts.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "serrano-pepper",
+    "name": "Serrano pepper",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "No source retrieved for Scoville range; heat is milder than habanero. Wear gloves and avoid touching your eyes.",
+    "sources": [
+      {
+        "title": "Poison Control: Capsaicin, when the chili is too hot",
+        "url": "https://www.poison.org/articles/capsaicin-when-the-chili-is-too-hot"
+      },
+      {
+        "title": "PubMed: Esophageal rupture after ghost pepper ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27693067/"
+      },
+      {
+        "title": "PMC: Thunderclap headache after eating a Carolina Reaper",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893965/"
+      },
+      {
+        "title": "Poison Control: Is the One Chip Challenge dangerous?",
+        "url": "https://www.poison.org/articles/is-the-one-chip-challenge-dangerous"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "bhut jolokia",
+      "naga jolokia"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine as a seasoning. Avoid contests and wear gloves when cutting.",
+    "toxicNote": "Capsaicin can cause burning, vomiting, abdominal pain, and in rare cases serious complications from eating very hot peppers in large amounts.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ghost-pepper",
+    "name": "Ghost pepper",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Measured above 1,000,000 Scoville units. A 47-year-old developed esophageal rupture after violent vomiting from eating ghost peppers in a contest; a 9-year-old vomited blood after high-pungency ghost pepper crisps.",
+    "sources": [
+      {
+        "title": "Poison Control: Capsaicin, when the chili is too hot",
+        "url": "https://www.poison.org/articles/capsaicin-when-the-chili-is-too-hot"
+      },
+      {
+        "title": "PubMed: Esophageal rupture after ghost pepper ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27693067/"
+      },
+      {
+        "title": "PMC: Thunderclap headache after eating a Carolina Reaper",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893965/"
+      },
+      {
+        "title": "Poison Control: Is the One Chip Challenge dangerous?",
+        "url": "https://www.poison.org/articles/is-the-one-chip-challenge-dangerous"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "carolina reaper"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine as a seasoning. Avoid contests and wear gloves when cutting.",
+    "toxicNote": "Capsaicin can cause burning, vomiting, abdominal pain, and in rare cases serious complications from eating very hot peppers in large amounts.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "carolina-reaper-pepper",
+    "name": "Carolina Reaper pepper",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "A 34-year-old had thunderclap headaches after one Carolina Reaper, and a 15-year-old developed reversible narrowing of brain arteries after eating one on a dare.",
+    "sources": [
+      {
+        "title": "Poison Control: Capsaicin, when the chili is too hot",
+        "url": "https://www.poison.org/articles/capsaicin-when-the-chili-is-too-hot"
+      },
+      {
+        "title": "PubMed: Esophageal rupture after ghost pepper ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27693067/"
+      },
+      {
+        "title": "PMC: Thunderclap headache after eating a Carolina Reaper",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893965/"
+      },
+      {
+        "title": "Poison Control: Is the One Chip Challenge dangerous?",
+        "url": "https://www.poison.org/articles/is-the-one-chip-challenge-dangerous"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "bird's eye chili",
+      "thai pepper"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine as a seasoning. Avoid contests and wear gloves when cutting.",
+    "toxicNote": "Capsaicin can cause burning, vomiting, abdominal pain, and in rare cases serious complications from eating very hot peppers in large amounts.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "thai-chili",
+    "name": "Thai chili",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "No Scoville source retrieved. Treat as a hot pepper and wear gloves.",
+    "sources": [
+      {
+        "title": "Poison Control: Capsaicin, when the chili is too hot",
+        "url": "https://www.poison.org/articles/capsaicin-when-the-chili-is-too-hot"
+      },
+      {
+        "title": "PubMed: Esophageal rupture after ghost pepper ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27693067/"
+      },
+      {
+        "title": "PMC: Thunderclap headache after eating a Carolina Reaper",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893965/"
+      },
+      {
+        "title": "Poison Control: Is the One Chip Challenge dangerous?",
+        "url": "https://www.poison.org/articles/is-the-one-chip-challenge-dangerous"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "scotch bonnet"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine as a seasoning. Avoid contests and wear gloves when cutting.",
+    "toxicNote": "Capsaicin can cause burning, vomiting, abdominal pain, and in rare cases serious complications from eating very hot peppers in large amounts.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "scotch-bonnet-pepper",
+    "name": "Scotch bonnet pepper",
+    "category": "Vegetables & mushrooms",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "No Scoville source retrieved. Treat as a very hot pepper and wear gloves.",
+    "sources": [
+      {
+        "title": "Poison Control: Capsaicin, when the chili is too hot",
+        "url": "https://www.poison.org/articles/capsaicin-when-the-chili-is-too-hot"
+      },
+      {
+        "title": "PubMed: Esophageal rupture after ghost pepper ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27693067/"
+      },
+      {
+        "title": "PMC: Thunderclap headache after eating a Carolina Reaper",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893965/"
+      },
+      {
+        "title": "Poison Control: Is the One Chip Challenge dangerous?",
+        "url": "https://www.poison.org/articles/is-the-one-chip-challenge-dangerous"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "unsweetened cocoa",
+      "baking cocoa"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine in food amounts. Caffeine and theobromine add up, so count them if you are sensitive.",
+    "toxicNote": "Too much caffeine or theobromine can cause jitteriness, fast heartbeat and stomach upset. Chocolate is much more dangerous to dogs than to people.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cocoa-powder",
+    "name": "Cocoa powder",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "USDA data cited by FDA: 2,057 mg theobromine and 230 mg caffeine per 100 g of cocoa powder. Cocoa powder has among the highest concentrations of any chocolate product.",
+    "sources": [
+      {
+        "title": "FDA GRAS notice 947: Cacao (USDA methylxanthine figures)",
+        "url": "https://www.fda.gov/media/147707/download"
+      },
+      {
+        "title": "FDA: Leave chocolate out of Rover's celebrations (theobromine per ounce)",
+        "url": "https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations"
+      },
+      {
+        "title": "PMC: Chocolate poisoning",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1215566/"
+      },
+      {
+        "title": "PMC: Neuroprotective effects of cocoa flavanol (caffeine ranges)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3575938/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "white chocolate chips"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine in food amounts.",
+    "toxicNote": "White chocolate has very little theobromine, about 0.1 mg/g in one review.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "white-chocolate",
+    "name": "White chocolate",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Compare with cocoa powder at about 20 mg/g and plain chocolate at 15 mg/g in the same review. Dogs still shouldn't eat sugary candy.",
+    "sources": [
+      {
+        "title": "FDA: Leave chocolate out of Rover's celebrations (theobromine per ounce)",
+        "url": "https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations"
+      },
+      {
+        "title": "PMC: Chocolate poisoning",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1215566/"
+      },
+      {
+        "title": "PMC: Neuroprotective effects of cocoa flavanol (caffeine ranges)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3575938/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "semisweet chocolate chips",
+      "dark chocolate chips"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine in food amounts.",
+    "toxicNote": "Theobromine and caffeine can build up in large amounts of chocolate.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "chocolate-chips",
+    "name": "Chocolate chips",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "FDA gives 136 mg theobromine per ounce of semisweet chocolate chips. Milk chocolate has much less than dark.",
+    "sources": [
+      {
+        "title": "FDA: Leave chocolate out of Rover's celebrations (theobromine per ounce)",
+        "url": "https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations"
+      },
+      {
+        "title": "PMC: Chocolate poisoning",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1215566/"
+      },
+      {
+        "title": "PMC: Neuroprotective effects of cocoa flavanol (caffeine ranges)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3575938/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "85% cacao",
+      "extra dark chocolate"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Count its caffeine toward your daily total.",
+    "toxicNote": "Caffeine in dark chocolate varies widely, 35 to 200 mg per 50 g in one review; theobromine is about 240 mg per 40 g.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "dark-chocolate-85",
+    "name": "Dark chocolate (85%)",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Higher cacao percentage means more caffeine and theobromine than milk chocolate (14 mg caffeine per 50 g).",
+    "sources": [
+      {
+        "title": "FDA: Leave chocolate out of Rover's celebrations (theobromine per ounce)",
+        "url": "https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations"
+      },
+      {
+        "title": "PMC: Chocolate poisoning",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1215566/"
+      },
+      {
+        "title": "PMC: Neuroprotective effects of cocoa flavanol (caffeine ranges)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3575938/"
+      },
+      {
+        "title": "PMC: Dark chocolate overview",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9589144/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "raw cacao nibs",
+      "cocoa nibs"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine in small food amounts.",
+    "toxicNote": "Cocoa beans contain theobromine (1.0 to 2.5%) and caffeine (0.06 to 0.4%) by weight, so nibs are concentrated sources.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cacao-nibs",
+    "name": "Cacao nibs",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Nibs are crushed beans without added sugar. Count the caffeine if you eat a lot.",
+    "sources": [
+      {
+        "title": "FDA: Leave chocolate out of Rover's celebrations (theobromine per ounce)",
+        "url": "https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations"
+      },
+      {
+        "title": "PMC: Chocolate poisoning",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1215566/"
+      },
+      {
+        "title": "PMC: Neuroprotective effects of cocoa flavanol (caffeine ranges)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3575938/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "e968",
+      "sugar alcohol"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": 500,
+    "safeNote": "EFSA's laxative-free level in humans was 0.5 g per kg of body weight; above that, diarrhea can occur.",
+    "toxicNote": "Large amounts cause gas and diarrhea. A 2023 study linked higher blood erythritol to heart attack and stroke, but FDA and EFSA say the evidence does not show cause and effect.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "erythritol",
+    "name": "Erythritol",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "JECFA gave an ADI 'not specified'. Erythritol is mostly absorbed and excreted in urine, so it is better tolerated than other sugar alcohols.",
+    "sources": [
+      {
+        "title": "EFSA: Re-evaluation of erythritol (E 968)",
+        "url": "https://www.efsa.europa.eu/en/plain-language-summary/re-evaluation-erythritol-e-968-food-additive"
+      },
+      {
+        "title": "NIH: Erythritol and cardiovascular events",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/erythritol-cardiovascular-events"
+      },
+      {
+        "title": "FDA: Aspartame and other sweeteners in food",
+        "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+      },
+      {
+        "title": "PMC: Artificial sweeteners review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3982014/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "birch sugar",
+      "e967"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "JECFA allocated an ADI of 'not specified' (1996).",
+    "toxicNote": "Large amounts cause gas and diarrhea. A 2024 NIH-funded study linked higher blood xylitol to heart attack and stroke and found more blood clotting in mice; more research is needed.",
+    "lethalNote": "No fatal dose is established for people.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "xylitol",
+    "name": "Xylitol",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep xylitol products away from pets; dogs can be severely harmed (not covered by the sources used here).",
+    "sources": [
+      {
+        "title": "PMC: Artificial sweeteners review (JECFA xylitol)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3982014/"
+      },
+      {
+        "title": "NIH: Xylitol may affect cardiovascular health",
+        "url": "https://www.nih.gov/news-events/nih-research-matters/xylitol-may-affect-cardiovascular-health"
+      },
+      {
+        "title": "PMC: GI disturbances from sugar alcohols",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5093271/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "e420",
+      "glucitol"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA requires a label warning: excess consumption may have a laxative effect.",
+    "toxicNote": "Sorbitol and mannitol are only partly absorbed and fermented in the large intestine, causing gas and diarrhea. Laxative effects are reported at high doses.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sorbitol",
+    "name": "Sorbitol",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Sorbitol may bother people with IBS.",
+    "sources": [
+      {
+        "title": "FDA: Sugar alcohols (Interactive Nutrition Facts Label)",
+        "url": "https://www.accessdata.fda.gov/scripts/interactivenutritionfactslabel/assets/InteractiveNFL_SugarAlcohols_October2021.pdf"
+      },
+      {
+        "title": "FDA: Aspartame and other sweeteners in food",
+        "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      },
+      {
+        "title": "PMC: Effects of sweeteners on the gut microbiota",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6363527/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sugarless candy"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Occasional use is fine. Check the label for sorbitol, mannitol or xylitol.",
+    "toxicNote": "Foods with sorbitol or mannitol must carry the warning that excess consumption may have a laxative effect. Sugar alcohols are fermented in the large intestine.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sugar-free-candy",
+    "name": "Sugar-free candy",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Sugar alcohols give fewer calories and do not cause tooth decay.",
+    "sources": [
+      {
+        "title": "FDA: Sugar alcohols (Interactive Nutrition Facts Label)",
+        "url": "https://www.accessdata.fda.gov/scripts/interactivenutritionfactslabel/assets/InteractiveNFL_SugarAlcohols_October2021.pdf"
+      },
+      {
+        "title": "FDA: Aspartame and other sweeteners in food",
+        "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sugarless gum"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Occasional use is fine. Check the label for sorbitol, mannitol or xylitol.",
+    "toxicNote": "Foods with sorbitol or mannitol must carry the warning that excess consumption may have a laxative effect. Sugar alcohols are fermented in the large intestine.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sugar-free-gum",
+    "name": "Sugar-free gum",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Sugar alcohols give fewer calories and do not cause tooth decay.",
+    "sources": [
+      {
+        "title": "FDA: Sugar alcohols (Interactive Nutrition Facts Label)",
+        "url": "https://www.accessdata.fda.gov/scripts/interactivenutritionfactslabel/assets/InteractiveNFL_SugarAlcohols_October2021.pdf"
+      },
+      {
+        "title": "FDA: Aspartame and other sweeteners in food",
+        "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "xylitol chewing gum"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Occasional use is fine. Check the label for sorbitol, mannitol or xylitol.",
+    "toxicNote": "Foods with sorbitol or mannitol must carry the warning that excess consumption may have a laxative effect. Sugar alcohols are fermented in the large intestine.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "xylitol-gum",
+    "name": "Gum (xylitol)",
+    "category": "Sweets & snacks",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Sugar alcohols give fewer calories and do not cause tooth decay.",
+    "sources": [
+      {
+        "title": "FDA: Sugar alcohols (Interactive Nutrition Facts Label)",
+        "url": "https://www.accessdata.fda.gov/scripts/interactivenutritionfactslabel/assets/InteractiveNFL_SugarAlcohols_October2021.pdf"
+      },
+      {
+        "title": "FDA: Aspartame and other sweeteners in food",
+        "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
   }
 ]
