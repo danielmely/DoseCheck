@@ -105,11 +105,6 @@
   "category": "Vegetables & mushrooms"
  },
  {
-  "id": "kelp",
-  "name": "Kelp",
-  "category": "Vegetables & mushrooms"
- },
- {
   "id": "wakame",
   "name": "Wakame",
   "category": "Vegetables & mushrooms"
@@ -265,11 +260,6 @@
   "category": "Nuts, seeds & legumes"
  },
  {
-  "id": "apple-seeds",
-  "name": "Apple seeds",
-  "category": "Nuts, seeds & legumes"
- },
- {
   "id": "fava-beans",
   "name": "Fava beans",
   "category": "Nuts, seeds & legumes"
@@ -382,11 +372,6 @@
  {
   "id": "sashimi",
   "name": "Sashimi",
-  "category": "Meat, fish & eggs"
- },
- {
-  "id": "tilefish",
-  "name": "Tilefish",
   "category": "Meat, fish & eggs"
  },
  {
@@ -525,38 +510,8 @@
   "category": "Dairy & alternatives"
  },
  {
-  "id": "water",
-  "name": "Water",
-  "category": "Beverages"
- },
- {
   "id": "sparkling-water",
   "name": "Sparkling water",
-  "category": "Beverages"
- },
- {
-  "id": "cold-brew-coffee",
-  "name": "Cold brew coffee",
-  "category": "Beverages"
- },
- {
-  "id": "matcha",
-  "name": "Matcha",
-  "category": "Beverages"
- },
- {
-  "id": "white-tea",
-  "name": "White tea",
-  "category": "Beverages"
- },
- {
-  "id": "oolong-tea",
-  "name": "Oolong tea",
-  "category": "Beverages"
- },
- {
-  "id": "herbal-tea",
-  "name": "Herbal tea",
   "category": "Beverages"
  },
  {
@@ -565,83 +520,13 @@
   "category": "Beverages"
  },
  {
-  "id": "yerba-mate",
-  "name": "Yerba mate",
-  "category": "Beverages"
- },
- {
-  "id": "kombucha",
-  "name": "Kombucha",
-  "category": "Beverages"
- },
- {
-  "id": "root-beer",
-  "name": "Root beer",
-  "category": "Beverages"
- },
- {
-  "id": "ginger-ale",
-  "name": "Ginger ale",
-  "category": "Beverages"
- },
- {
-  "id": "lemon-lime-soda",
-  "name": "Lemon-lime soda",
-  "category": "Beverages"
- },
- {
   "id": "orange-soda",
   "name": "Orange soda",
   "category": "Beverages"
  },
  {
-  "id": "tonic-water",
-  "name": "Tonic water",
-  "category": "Beverages"
- },
- {
   "id": "club-soda",
   "name": "Club soda",
-  "category": "Beverages"
- },
- {
-  "id": "celsius",
-  "name": "Celsius",
-  "category": "Beverages"
- },
- {
-  "id": "rockstar",
-  "name": "Rockstar",
-  "category": "Beverages"
- },
- {
-  "id": "mountain-dew",
-  "name": "Mountain Dew",
-  "category": "Beverages"
- },
- {
-  "id": "dr-pepper",
-  "name": "Dr Pepper",
-  "category": "Beverages"
- },
- {
-  "id": "sprite",
-  "name": "Sprite",
-  "category": "Beverages"
- },
- {
-  "id": "gatorade",
-  "name": "Gatorade",
-  "category": "Beverages"
- },
- {
-  "id": "powerade",
-  "name": "Powerade",
-  "category": "Beverages"
- },
- {
-  "id": "pedialyte",
-  "name": "Pedialyte",
   "category": "Beverages"
  },
  {
@@ -720,83 +605,13 @@
   "category": "Beverages"
  },
  {
-  "id": "vermouth",
-  "name": "Vermouth",
-  "category": "Beverages"
- },
- {
-  "id": "absinthe",
-  "name": "Absinthe",
-  "category": "Beverages"
- },
- {
-  "id": "liqueur",
-  "name": "Liqueur",
-  "category": "Beverages"
- },
- {
-  "id": "grain-alcohol-everclear",
-  "name": "Grain alcohol (Everclear)",
-  "category": "Beverages"
- },
- {
   "id": "moonshine",
   "name": "Moonshine",
   "category": "Beverages"
  },
  {
-  "id": "margarita",
-  "name": "Margarita",
-  "category": "Beverages"
- },
- {
-  "id": "mojito",
-  "name": "Mojito",
-  "category": "Beverages"
- },
- {
-  "id": "bloody-mary",
-  "name": "Bloody Mary",
-  "category": "Beverages"
- },
- {
-  "id": "old-fashioned",
-  "name": "Old Fashioned",
-  "category": "Beverages"
- },
- {
-  "id": "long-island-iced-tea",
-  "name": "Long Island iced tea",
-  "category": "Beverages"
- },
- {
-  "id": "mimosa",
-  "name": "Mimosa",
-  "category": "Beverages"
- },
- {
-  "id": "non-alcoholic-beer",
-  "name": "Non-alcoholic beer",
-  "category": "Beverages"
- },
- {
-  "id": "aloe-vera-juice",
-  "name": "Aloe vera juice",
-  "category": "Beverages"
- },
- {
   "id": "wheatgrass-juice",
   "name": "Wheatgrass juice",
-  "category": "Beverages"
- },
- {
-  "id": "sports-drink",
-  "name": "Sports drink",
-  "category": "Beverages"
- },
- {
-  "id": "electrolyte-drink",
-  "name": "Electrolyte drink",
   "category": "Beverages"
  },
  {
@@ -830,28 +645,8 @@
   "category": "Beverages"
  },
  {
-  "id": "tap-water",
-  "name": "Tap water",
-  "category": "Beverages"
- },
- {
   "id": "seltzer",
   "name": "Seltzer",
-  "category": "Beverages"
- },
- {
-  "id": "prune-juice",
-  "name": "Prune juice",
-  "category": "Beverages"
- },
- {
-  "id": "beet-juice",
-  "name": "Beet juice",
-  "category": "Beverages"
- },
- {
-  "id": "carrot-juice",
-  "name": "Carrot juice",
   "category": "Beverages"
  },
  {
@@ -875,78 +670,13 @@
   "category": "Beverages"
  },
  {
-  "id": "sangria",
-  "name": "Sangria",
-  "category": "Beverages"
- },
- {
-  "id": "irish-cream",
-  "name": "Irish cream",
-  "category": "Beverages"
- },
- {
-  "id": "amaretto",
-  "name": "Amaretto",
-  "category": "Beverages"
- },
- {
-  "id": "coffee-liqueur",
-  "name": "Coffee liqueur",
-  "category": "Beverages"
- },
- {
-  "id": "hot-toddy",
-  "name": "Hot toddy",
-  "category": "Beverages"
- },
- {
-  "id": "spiked-eggnog",
-  "name": "Spiked eggnog",
-  "category": "Beverages"
- },
- {
   "id": "pre-workout-drink",
   "name": "Pre-workout drink",
   "category": "Beverages"
  },
  {
-  "id": "guarana-drink",
-  "name": "Guarana drink",
-  "category": "Beverages"
- },
- {
-  "id": "decaf-tea",
-  "name": "Decaf tea",
-  "category": "Beverages"
- },
- {
-  "id": "rooibos-tea",
-  "name": "Rooibos tea",
-  "category": "Beverages"
- },
- {
-  "id": "hibiscus-tea",
-  "name": "Hibiscus tea",
-  "category": "Beverages"
- },
- {
-  "id": "ginger-tea",
-  "name": "Ginger tea",
-  "category": "Beverages"
- },
- {
-  "id": "mate-latte",
-  "name": "Mate latte",
-  "category": "Beverages"
- },
- {
   "id": "frappuccino",
   "name": "Frappuccino",
-  "category": "Beverages"
- },
- {
-  "id": "latte",
-  "name": "Latte",
   "category": "Beverages"
  },
  {
@@ -1240,11 +970,6 @@
   "category": "Herbal & dietary supplements"
  },
  {
-  "id": "electrolyte-powder",
-  "name": "Electrolyte powder",
-  "category": "Herbal & dietary supplements"
- },
- {
   "id": "greens-powder",
   "name": "Greens powder",
   "category": "Herbal & dietary supplements"
@@ -1267,11 +992,6 @@
  {
   "id": "baby-aspirin",
   "name": "Baby aspirin",
-  "category": "Over-the-counter medications"
- },
- {
-  "id": "cough-syrup",
-  "name": "Cough syrup",
   "category": "Over-the-counter medications"
  },
  {
@@ -1700,11 +1420,6 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "cycad",
-  "name": "Cycad",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "black-nightshade",
   "name": "Black nightshade",
   "category": "Poisonous plants & fungi"
@@ -1740,11 +1455,6 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "pokeberry",
-  "name": "Pokeberry",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "cyclamen",
   "name": "Cyclamen",
   "category": "Poisonous plants & fungi"
@@ -1772,11 +1482,6 @@
  {
   "id": "nerium",
   "name": "Nerium",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "yellow-oleander",
-  "name": "Yellow oleander",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -1815,11 +1520,6 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "narcissus",
-  "name": "Narcissus",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "sweet-pea",
   "name": "Sweet pea",
   "category": "Poisonous plants & fungi"
@@ -1832,11 +1532,6 @@
  {
   "id": "potato-leaves",
   "name": "Potato leaves",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "stinging-nettle",
-  "name": "Stinging nettle",
   "category": "Poisonous plants & fungi"
  },
  {

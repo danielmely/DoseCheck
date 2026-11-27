@@ -41351,5 +41351,1920 @@
         "url": "https://ods.od.nih.gov/News/The_Scoop_-_Winter_2019.aspx"
       }
     ]
+  },
+  {
+    "aliases": [
+      "mtn dew"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": true,
+    "id": "mountain-dew",
+    "name": "Mountain Dew",
+    "category": "Beverages",
+    "servingName": "12 oz can (~54 mg caffeine)",
+    "servingMg": 54,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. Diet and regular versions have about the same caffeine, per CSPI. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+    "sources": [
+      {
+        "title": "CSPI: Caffeine chart",
+        "url": "https://cspinet.org/caffeine-chart"
+      },
+      {
+        "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": true,
+    "id": "dr-pepper",
+    "name": "Dr Pepper",
+    "category": "Beverages",
+    "servingName": "12 oz can (~41 mg caffeine)",
+    "servingMg": 41,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. Diet and regular versions have about the same caffeine, per CSPI. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+    "sources": [
+      {
+        "title": "CSPI: Caffeine chart",
+        "url": "https://cspinet.org/caffeine-chart"
+      },
+      {
+        "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "celsius energy"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": true,
+    "id": "celsius",
+    "name": "Celsius",
+    "category": "Beverages",
+    "servingName": "12 oz can (~200 mg caffeine)",
+    "servingMg": 200,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. One can is half of the FDA's 400 mg daily figure. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+    "sources": [
+      {
+        "title": "VinePair: Canned energy drinks caffeine content",
+        "url": "https://vinepair.com/articles/canned-energy-drinks-caffeine-content/"
+      },
+      {
+        "title": "Erowid: Caffeine content of beverages",
+        "url": "https://erowid.org/chemicals/caffeine/caffeine_info1.shtml"
+      },
+      {
+        "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "rockstar energy"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": true,
+    "id": "rockstar",
+    "name": "Rockstar",
+    "category": "Beverages",
+    "servingName": "16 oz can (~160 mg caffeine)",
+    "servingMg": 160,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. Original Rockstar lists 160 mg per 16 oz can in the CSPI chart. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+    "sources": [
+      {
+        "title": "CSPI: Caffeine chart",
+        "url": "https://cspinet.org/caffeine-chart"
+      },
+      {
+        "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cold brew"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": false,
+    "id": "cold-brew-coffee",
+    "name": "Cold brew coffee",
+    "category": "Beverages",
+    "servingName": "8 oz cup (~96 mg caffeine)",
+    "servingMg": 96,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. The USDA lists cold brew like brewed coffee at about 96 mg per 8 oz, but sources report much higher amounts per 12 oz cup (about 170 to 255 mg), so check your cup size and brand. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+    "sources": [
+      {
+        "title": "mindbodygreen: Caffeine by drink (USDA figures)",
+        "url": "https://www.mindbodygreen.com/articles/caffeinated-content"
+      },
+      {
+        "title": "LMNT: How much caffeine in coffee, tea, energy drinks",
+        "url": "https://science.drinklmnt.com/did-you-know/how-much-caffeine-in-coffee-tea-energy-drinks"
+      },
+      {
+        "title": "Mayo Clinic: Caffeine content for coffee, tea, soda and more",
+        "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20049372"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "matcha latte",
+      "matcha tea"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": false,
+    "id": "matcha",
+    "name": "Matcha",
+    "category": "Beverages",
+    "servingName": "1 cup (~70 mg caffeine)",
+    "servingMg": 70,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. Sources range from about 40 to 175 mg per cup depending on how much powder is used. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+    "sources": [
+      {
+        "title": "Harvard Health: Energy-boosting coffee alternatives",
+        "url": "https://www.health.harvard.edu/blog/energy-boosting-coffee-alternatives-what-to-know-202302222893"
+      },
+      {
+        "title": "mindbodygreen: Caffeine by drink (USDA figures)",
+        "url": "https://www.mindbodygreen.com/articles/caffeinated-content"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": false,
+    "id": "white-tea",
+    "name": "White tea",
+    "category": "Beverages",
+    "servingName": "8 oz cup (~20 mg caffeine)",
+    "servingMg": 20,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. Sources give about 15 to 40 mg per cup. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+    "sources": [
+      {
+        "title": "Republic of Tea: Tea and caffeine",
+        "url": "https://www.republicoftea.com/blogs/tea-library/tea-and-caffeine"
+      },
+      {
+        "title": "Tasting Table: Caffeine in 9 types of tea",
+        "url": "https://www.aol.com/articles/caffeine-content-9-types-tea-224000648.html"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "wulong"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": false,
+    "id": "oolong-tea",
+    "name": "Oolong tea",
+    "category": "Beverages",
+    "servingName": "8 oz cup (~50 mg caffeine)",
+    "servingMg": 50,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. Sources give about 30 to 70 mg per cup. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+    "sources": [
+      {
+        "title": "Tasting Table: Caffeine content of 9 types of tea",
+        "url": "https://www.tastingtable.com/2032702/caffeine-content-types-tea/"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "mate",
+      "mate latte"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": true,
+    "id": "yerba-mate",
+    "name": "Yerba mate",
+    "category": "Beverages",
+    "servingName": "8 oz cup (~80 mg caffeine)",
+    "servingMg": 80,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. Harvard Health reports 80 to 175 mg per cup, as much as coffee or more. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+    "sources": [
+      {
+        "title": "Harvard Health: Energy-boosting coffee alternatives",
+        "url": "https://www.health.harvard.edu/blog/energy-boosting-coffee-alternatives-what-to-know-202302222893"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "caffe latte"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": false,
+    "id": "latte",
+    "name": "Latte",
+    "category": "Beverages",
+    "servingName": "8 oz (~86 mg caffeine)",
+    "servingMg": 86,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. Shops differ by shots of espresso, so large cups can hold far more. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+    "sources": [
+      {
+        "title": "mindbodygreen: Caffeine by drink (USDA figures)",
+        "url": "https://www.mindbodygreen.com/articles/caffeinated-content"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "decaffeinated tea"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": 15,
+    "lethalMgPerKg": 150,
+    "lethalBasis": "human estimate for caffeine (about 150-200 mg/kg reported)",
+    "guidanceDailyLimitMg": 400,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": null,
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": "caffeine",
+    "verified": false,
+    "id": "decaf-tea",
+    "name": "Decaf tea",
+    "category": "Beverages",
+    "servingName": "8 oz cup (~4 mg caffeine)",
+    "servingMg": 4,
+    "notes": "All amounts are for the caffeine in this item, not the whole drink. Caffeine content varies by brand, brewing and size, so use it as a guide. Decaf tea keeps about 2 to 5 mg per 8 oz cup. The FDA cites about 400 mg a day as an amount not generally linked to negative effects for most healthy adults, and toxic effects such as seizures and dangerous heart rhythms at roughly 1.2 g.",
+    "sources": [
+      {
+        "title": "Tasting Table: Caffeine content of 9 types of tea",
+        "url": "https://www.aol.com/articles/caffeine-content-9-types-tea-224000648.html"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sprite",
+      "7up"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink. Sprite has no caffeine.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lemon-lime-soda",
+    "name": "Lemon-lime soda",
+    "category": "Beverages",
+    "servingName": "12 oz can",
+    "servingMg": 1,
+    "notes": "Sprite lists 0 mg of caffeine per 12 oz can. Brands vary, so check the label.",
+    "sources": [
+      {
+        "title": "PMC: Approximate caffeine content in selected drinks",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3310521/table/T1"
+      },
+      {
+        "title": "VinePair: Caffeine content of popular sodas",
+        "url": "https://vinepair.com/articles/caffeine-content-popular-soda-brands"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "canada dry"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink. Canada Dry has no caffeine.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "ginger-ale",
+    "name": "Ginger ale",
+    "category": "Beverages",
+    "servingName": "12 oz can",
+    "servingMg": 1,
+    "notes": "Canada Dry ginger ale lists 0 mg of caffeine per 12 oz can. Brands vary, so check the label.",
+    "sources": [
+      {
+        "title": "VinePair: Caffeine content of popular sodas",
+        "url": "https://vinepair.com/articles/caffeine-content-popular-soda-brands"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "a&w",
+      "barqs"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink. Check the label for caffeine.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "root-beer",
+    "name": "Root beer",
+    "category": "Beverages",
+    "servingName": "12 oz can",
+    "servingMg": 1,
+    "notes": "A&W root beer has 0 mg of caffeine per 12 oz can, but some other brands (such as Barq's) have around 22 mg, so check the label.",
+    "sources": [
+      {
+        "title": "VinePair: Caffeine content of popular sodas",
+        "url": "https://vinepair.com/articles/caffeine-content-popular-soda-brands"
+      },
+      {
+        "title": "Cafely: Caffeine in soda",
+        "url": "https://cafely.com/blogs/info/what-soda-has-the-most-caffeine"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tisane",
+      "chamomile",
+      "peppermint tea"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "herbal-tea",
+    "name": "Herbal tea",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "Herbal teas such as chamomile, hibiscus and peppermint are naturally caffeine-free. An exception is yerba mate, and some blends contain cacao shells or other caffeine sources, so check the label.",
+    "sources": [
+      {
+        "title": "Republic of Tea: Tea and caffeine",
+        "url": "https://www.republicoftea.com/blogs/tea-library/tea-and-caffeine"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "red tea"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "rooibos-tea",
+    "name": "Rooibos tea",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "Rooibos tastes like tea but has no caffeine.",
+    "sources": [
+      {
+        "title": "Tasting Table: Caffeine content of 9 types of tea",
+        "url": "https://www.aol.com/articles/caffeine-content-9-types-tea-224000648.html"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "hibiscus-tea",
+    "name": "Hibiscus tea",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "Hibiscus tea is an herbal tea and is naturally caffeine-free.",
+    "sources": [
+      {
+        "title": "Republic of Tea: Tea and caffeine",
+        "url": "https://www.republicoftea.com/blogs/tea-library/tea-and-caffeine"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "ginger-tea",
+    "name": "Ginger tea",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "Plain ginger tea is an herbal tea and has no caffeine unless it is blended with tea leaves or yerba mate. Check the label.",
+    "sources": [
+      {
+        "title": "Republic of Tea: Tea and caffeine",
+        "url": "https://www.republicoftea.com/blogs/tea-library/tea-and-caffeine"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "guarana soda"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a caffeine number for this drink because guarana content is not always on the label. The FDA cites about 400 mg of caffeine a day as an amount not generally linked to negative effects in healthy adults.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "guarana-drink",
+    "name": "Guarana drink",
+    "category": "Beverages",
+    "servingName": "can",
+    "servingMg": 1,
+    "notes": "Guarana seeds are a concentrated caffeine source, and guarana in energy drinks adds to the drink's total caffeine. NCCIH notes energy drinks hold about 70 to 240 mg of caffeine per 16 oz. LiverTox says guarana has few side effects at conventional doses and is not linked to liver injury. If you follow caffeine guidelines, serious risks are not likely.",
+    "sources": [
+      {
+        "title": "NCCIH: Energy drinks",
+        "url": "https://www.nccih.nih.gov/health/energy-drinks"
+      },
+      {
+        "title": "LiverTox: Guarana",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK589113/"
+      },
+      {
+        "title": "FDA: Spilling the beans, how much caffeine is too much",
+        "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "quinine water"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "The FDA caps quinine in tonic water at 83 mg per liter. Quinine can still cause reactions in sensitive people. Ask a doctor if you take blood thinners or have had a quinine reaction.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "tonic-water",
+    "name": "Tonic water",
+    "category": "Beverages",
+    "servingName": "12 oz can",
+    "servingMg": 1,
+    "notes": "The FDA caps quinine in carbonated beverages at 83 parts per million (about 83 mg per liter, or about 29 mg in a 12 oz can). That is far below a medicine dose. Quinine can cause nausea, cramps, ringing in the ears and, rarely, serious bleeding or heart rhythm problems, mostly at medicine doses.",
+    "sources": [
+      {
+        "title": "eCFR: 21 CFR 172.575, quinine in beverages",
+        "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-172/subpart-F/section-172.575"
+      },
+      {
+        "title": "Healthline: Quinine in tonic water",
+        "url": "https://www.healthline.com/health/quinine-in-tonic-water"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tap water",
+      "drinking water"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "No limit applies for normal drinking. Drink to thirst, and do not force large amounts of water in a short time.",
+    "toxicNote": "More than a few liters in an hour or two can cause water intoxication. Call 911 for confusion, seizure or collapse.",
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "water",
+    "name": "Water",
+    "category": "Beverages",
+    "servingName": "liter",
+    "servingMg": 1,
+    "notes": "Water is safe in normal amounts, but drinking far more than the kidneys can clear can dilute blood sodium (hyponatremia). Deaths have been reported after more than 5 liters (often 10 to 20 liters) in a few hours, and about 3 to 4 liters in under an hour can cause symptoms in healthy resting adults. Headache, nausea, confusion or seizure after heavy drinking is an emergency.",
+    "sources": [
+      {
+        "title": "PubMed: Death by water intoxication",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12053855/"
+      },
+      {
+        "title": "PMC: The physiology, psychology and pathology of overhydration",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6682940/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "aloe drink"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink. Avoid products with aloe latex and ask a doctor first if you take heart or diuretic medicines.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "aloe-vera-juice",
+    "name": "Aloe vera juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "NCCIH says oral aloe latex can cause abdominal pain, cramps and diarrhea, and leaf extracts taken for weeks to years have been linked to acute hepatitis. Whole-leaf extract that was not decolorized is a possible human carcinogen (IARC). Look for decolorized, anthraquinone-free products. Prolonged laxative use can cause low potassium.",
+    "sources": [
+      {
+        "title": "NCCIH: Aloe vera",
+        "url": "https://www.nccih.nih.gov/health/aloe-vera"
+      },
+      {
+        "title": "PMC: Aloe vera, a review of toxicity and adverse clinical effects",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6349368/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "gatorade thirst quencher"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink. Sports drinks suit exercise, not everyday sipping, because of sugar and sodium.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "gatorade",
+    "name": "Gatorade",
+    "category": "Beverages",
+    "servingName": "20 oz bottle",
+    "servingMg": 1,
+    "notes": "One study measured Gatorade at 0.46 g of sodium and 0.125 g of potassium per liter (about 6% carbohydrate). Sports drinks have about 22 to 25 mmol of sodium per liter. Formulas change, so check the label. People with kidney disease or on a sodium or potassium limit should ask a provider.",
+    "sources": [
+      {
+        "title": "PMC: Age-related differences in water and sodium handling after hydration beverages",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6485687/"
+      },
+      {
+        "title": "PMC: Sensory perception of an oral rehydration solution",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8537885/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "powerade",
+    "name": "Powerade",
+    "category": "Beverages",
+    "servingName": "20 oz bottle",
+    "servingMg": 1,
+    "notes": "Sports drinks like Powerade are carbohydrate-electrolyte drinks with about 22 to 25 mmol of sodium per liter. Formulas change, so check the label. People with kidney disease or on a sodium or potassium limit should ask a provider.",
+    "sources": [
+      {
+        "title": "PMC: Sensory perception of an oral rehydration solution",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8537885/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "electrolyte sports drink"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sports-drink",
+    "name": "Sports drink",
+    "category": "Beverages",
+    "servingName": "20 oz bottle",
+    "servingMg": 1,
+    "notes": "Traditional sports drinks have about 22 to 25 mmol of sodium per liter, which may not match the sodium lost by endurance athletes. Check the label for sodium and sugar. People with kidney disease or on a sodium or potassium limit should ask a provider.",
+    "sources": [
+      {
+        "title": "PMC: Sensory perception of an oral rehydration solution",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8537885/"
+      },
+      {
+        "title": "PMC: Compositional aspects of hydration beverages",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10781183/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "oral rehydration solution"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink. Follow the label or a doctor's advice, especially for infants.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "pedialyte",
+    "name": "Pedialyte",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "A CDC report lists Pedialyte at 45 mEq of sodium per liter, and a study measured 1.035 g of sodium and 0.78 g of potassium per liter. It is made for oral rehydration, especially in children with diarrhea. Follow the label or your child's doctor for amounts.",
+    "sources": [
+      {
+        "title": "CDC MMWR: Management of acute diarrhea in children",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00018677.htm"
+      },
+      {
+        "title": "PMC: Age-related differences in water and sodium handling after hydration beverages",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6485687/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "hydration drink"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "electrolyte-drink",
+    "name": "Electrolyte drink",
+    "category": "Beverages",
+    "servingName": "bottle",
+    "servingMg": 1,
+    "notes": "Hydration drinks with at least about 40 to 45 mmol of sodium per liter hold fluid better after sweating than lower-sodium sports drinks. Check the label, and ask a provider if you have kidney disease or take blood pressure medicines.",
+    "sources": [
+      {
+        "title": "PMC: Post-exercise rehydration in athletes",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10674530/"
+      },
+      {
+        "title": "PMC: The Beverage Hydration Index",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8465972/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink. Large amounts can cause cramps and loose stools.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "prune-juice",
+    "name": "Prune juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "Prune juice has a mild laxative effect, linked to its sorbitol content (about 6 g per 100 g), and a trial found it helped chronic constipation without causing loose stools.",
+    "sources": [
+      {
+        "title": "PubMed: Chemical composition and health effects of prunes",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11401245/"
+      },
+      {
+        "title": "PMC: Prune juice in chronic constipation trial",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9531972/"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "carrot-juice",
+    "name": "Carrot juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "Very large amounts of carrots or carrot juice can turn skin yellow-orange (carotenemia), which is harmless. A review says vitamin A poisoning does not occur from beta-carotene because the conversion is slow. Do not confuse it with jaundice.",
+    "sources": [
+      {
+        "title": "PubMed: Carotenemia, a review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7449242/"
+      },
+      {
+        "title": "PubMed: Carrot man, a case of excessive beta-carotene ingestion",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22431270/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "beetroot juice"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink. Do not rely on beet juice for blood pressure without asking your doctor.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "beet-juice",
+    "name": "Beet juice",
+    "category": "Beverages",
+    "servingName": "cup",
+    "servingMg": 1,
+    "notes": "A systematic review says beetroot juice can easily push nitrate intake above the acceptable daily intake. Beets can also turn urine or stools red.",
+    "sources": [
+      {
+        "title": "PubMed: Benefits and risks of beetroot juice",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32292042/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "kombucha tea"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "kombucha",
+    "name": "Kombucha",
+    "category": "Beverages",
+    "servingName": "bottle",
+    "servingMg": 1,
+    "notes": "Kombucha is fermented tea. Federal law treats kombucha as an alcohol beverage if it reaches 0.5% alcohol by volume at any point, including by continued fermentation after bottling, so alcohol content can vary. Check the label, especially if you avoid alcohol or are pregnant.",
+    "sources": [
+      {
+        "title": "TTB: Kombucha",
+        "url": "https://www.ttb.gov/kombucha"
+      },
+      {
+        "title": "TTB: General requirements",
+        "url": "https://www.ttb.gov/kombucha/general-requirements"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "na beer",
+      "near beer"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "This app does not show a milligram limit for this drink. Not alcohol-free by law, only under 0.5% alcohol by volume.",
+    "toxicNote": null,
+    "lethalNote": null,
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "non-alcoholic-beer",
+    "name": "Non-alcoholic beer",
+    "category": "Beverages",
+    "servingName": "12 oz bottle",
+    "servingMg": 1,
+    "notes": "Under federal rules, a beverage is non-alcoholic when it has less than 0.5% alcohol by volume, so these drinks can contain a small amount of alcohol. Check the label if you must avoid alcohol completely.",
+    "sources": [
+      {
+        "title": "TTB: Kombucha information and resources, FAQ",
+        "url": "https://www.ttb.gov/kombucha/kombucha-general/print"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "servingName": "3.5 oz glass at about 17% alcohol (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "vermouth",
+    "name": "Vermouth",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. NIAAA gives 3 to 4 oz of fortified wine at about 17% alcohol as one standard drink.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "NIAAA: Rethinking Drinking standard drink sizes",
+        "url": "https://rethinkingdrinking.niaaa.nih.gov/how-much-too-much/whats-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "cordial"
+    ],
+    "servingName": "2.5 oz at about 24% alcohol (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "liqueur",
+    "name": "Liqueur",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. NIAAA gives 2 to 3 oz of cordial or liqueur at about 24% alcohol as one standard drink.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "NIAAA: Rethinking Drinking standard drink sizes",
+        "url": "https://rethinkingdrinking.niaaa.nih.gov/how-much-too-much/whats-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "2.5 oz at about 24% alcohol; check the label",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "amaretto",
+    "name": "Amaretto",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. This uses the NIAAA liqueur size. Strength varies by brand (Irish cream is often lower), so check the label.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "NIAAA: Rethinking Drinking standard drink sizes",
+        "url": "https://rethinkingdrinking.niaaa.nih.gov/how-much-too-much/whats-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "kahlua"
+    ],
+    "servingName": "2.5 oz at about 24% alcohol; check the label",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "coffee-liqueur",
+    "name": "Coffee liqueur",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. This uses the NIAAA liqueur size. Strength varies by brand (Irish cream is often lower), so check the label.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "NIAAA: Rethinking Drinking standard drink sizes",
+        "url": "https://rethinkingdrinking.niaaa.nih.gov/how-much-too-much/whats-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "baileys"
+    ],
+    "servingName": "2.5 oz at about 24% alcohol; check the label",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "irish-cream",
+    "name": "Irish cream",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. This uses the NIAAA liqueur size. Strength varies by brand (Irish cream is often lower), so check the label.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "NIAAA: Rethinking Drinking standard drink sizes",
+        "url": "https://rethinkingdrinking.niaaa.nih.gov/how-much-too-much/whats-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [
+      "everclear",
+      "190 proof"
+    ],
+    "servingName": "0.6 oz (about 19 mL) at 95% alcohol (1 standard drink)",
+    "servingMg": 14000,
+    "verified": true,
+    "id": "grain-alcohol-everclear",
+    "name": "Grain alcohol (Everclear)",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. Everclear is sold at up to 95% alcohol (190 proof), so one standard drink is only about 0.6 oz and a few ounces can be dangerous. It is also extremely flammable.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "Wikipedia: Everclear (alcohol)",
+        "url": "https://en.wikipedia.com/wiki/Everclear"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1 oz at about 60% alcohol (1 standard drink)",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "absinthe",
+    "name": "Absinthe",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. Absinthe is commonly 90 to 148 proof (45 to 74% alcohol). The 1 oz serving assumes about 60%; check the label. US-sold absinthe must be thujone-free (under 10 mg/kg), and its hallucination reputation comes mostly from the alcohol.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "WebMD: What to know about absinthe",
+        "url": "https://www.webmd.com/diet/what-to-know-about-absinthe"
+      },
+      {
+        "title": "ADLM: Thujone",
+        "url": "https://myadlm.org/science-and-research/toxin-spotlight/thujone"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1 standard drink; one cocktail often counts as more",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "margarita",
+    "name": "Margarita",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. NIAAA says a mixed drink or cocktail counts as one or more standard drinks, and bar and home pours vary. A Long Island iced tea or a strong pour can hold several.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1 standard drink; one cocktail often counts as more",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "mojito",
+    "name": "Mojito",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. NIAAA says a mixed drink or cocktail counts as one or more standard drinks, and bar and home pours vary. A Long Island iced tea or a strong pour can hold several.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1 standard drink; one cocktail often counts as more",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "bloody-mary",
+    "name": "Bloody Mary",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. NIAAA says a mixed drink or cocktail counts as one or more standard drinks, and bar and home pours vary. A Long Island iced tea or a strong pour can hold several.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1 standard drink; one cocktail often counts as more",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "old-fashioned",
+    "name": "Old Fashioned",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. NIAAA says a mixed drink or cocktail counts as one or more standard drinks, and bar and home pours vary. A Long Island iced tea or a strong pour can hold several.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1 standard drink; one cocktail often counts as more",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "long-island-iced-tea",
+    "name": "Long Island iced tea",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. NIAAA says a mixed drink or cocktail counts as one or more standard drinks, and bar and home pours vary. A Long Island iced tea or a strong pour can hold several.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1 standard drink; one cocktail often counts as more",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "mimosa",
+    "name": "Mimosa",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. NIAAA says a mixed drink or cocktail counts as one or more standard drinks, and bar and home pours vary. A Long Island iced tea or a strong pour can hold several.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1 standard drink; one cocktail often counts as more",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "sangria",
+    "name": "Sangria",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. NIAAA says a mixed drink or cocktail counts as one or more standard drinks, and bar and home pours vary. A Long Island iced tea or a strong pour can hold several.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1 standard drink; one cocktail often counts as more",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "hot-toddy",
+    "name": "Hot toddy",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. NIAAA says a mixed drink or cocktail counts as one or more standard drinks, and bar and home pours vary. A Long Island iced tea or a strong pour can hold several.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
+  },
+  {
+    "aliases": [],
+    "servingName": "1 standard drink; one cocktail often counts as more",
+    "servingMg": 14000,
+    "verified": false,
+    "id": "spiked-eggnog",
+    "name": "Spiked eggnog",
+    "category": "Beverages",
+    "notes": "Every figure is for pure alcohol, not the whole drink. One US standard drink holds 14 g of pure alcohol, and this amount comes from the serving named here at the typical strength. Many beers, wines, and drinks are stronger and count as more than one drink, so check the label. Never use these numbers to decide whether it is safe to drive. The 2020-2025 Dietary Guidelines say 2 drinks or less a day for men and 1 or less for women, and that adults can also choose not to drink. The newer 2025-2030 guidelines no longer give a number. Signs of alcohol poisoning: confusion, vomiting, slow or irregular breathing, passing out. Call 911. NIAAA says a mixed drink or cocktail counts as one or more standard drinks, and bar and home pours vary. A Long Island iced tea or a strong pour can hold several.",
+    "sources": [
+      {
+        "title": "NIAAA: What is a standard drink?",
+        "url": "https://www.niaaa.nih.gov/alcohols-effects-health/what-standard-drink"
+      },
+      {
+        "title": "CDC: About standard drink sizes",
+        "url": "https://www.cdc.gov/alcohol/standard-drink-sizes/"
+      },
+      {
+        "title": "Interna Szczeklika (Empendium): Alcohol poisoning, toxic dose",
+        "url": "https://empendium.com/mcmtextbook/chapter/B31.II.20.2.1"
+      },
+      {
+        "title": "Hume and Weyers 1971: Total body water from height and weight",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC476961"
+      },
+      {
+        "title": "FBI Laboratory: Ethanol calculations (water content 0.84)",
+        "url": "https://fbilabqsd.fbi.gov/file-repository/chemistry/tox-216-01-ethanol-calculations.pdf"
+      }
+    ],
+    "toxicMgPerKg": 800,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": 28000,
+    "guidanceFemaleMg": 14000,
+    "guidanceMgPerKg": null,
+    "lethalNote": "No single fatal dose can be given, because tolerance varies enormously. A clinical reference says severe intoxication can develop at about 1 to 1.5 mL of pure ethanol per kg (roughly 0.8 to 1.2 g/kg), and death is usually linked to blood levels above about 80 to 90 mmol/L (roughly 0.37 to 0.41 percent), though it can be higher in regular heavy drinkers. Children can be harmed by very small amounts. Call 911.",
+    "extras": [
+      "bac"
+    ],
+    "measuredAs": null,
+    "isMedication": false,
+    "safeNote": null,
+    "toxicNote": null
   }
 ]
