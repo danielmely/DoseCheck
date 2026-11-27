@@ -2670,58 +2670,8 @@
   "category": "Household products"
  },
  {
-  "id": "aconite-monkshood",
-  "name": "Aconite (monkshood)",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "daffodil-bulbs",
-  "name": "Daffodil bulbs",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "water-hemlock",
-  "name": "Water hemlock",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "hydrangea",
   "name": "Hydrangea",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "jimsonweed",
-  "name": "Jimsonweed",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "lily-of-the-valley",
-  "name": "Lily of the valley",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "lantana",
-  "name": "Lantana",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "morning-glory-seeds",
-  "name": "Morning glory seeds",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "poison-ivy",
-  "name": "Poison ivy",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "rhododendron",
-  "name": "Rhododendron",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "rosary-pea",
-  "name": "Rosary pea",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -2745,11 +2695,6 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "yew",
-  "name": "Yew",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "angel-s-trumpet",
   "name": "Angel's trumpet",
   "category": "Poisonous plants & fungi"
@@ -2767,11 +2712,6 @@
  {
   "id": "cherry-laurel",
   "name": "Cherry laurel",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "elephant-ear",
-  "name": "Elephant ear",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -2800,16 +2740,6 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "mayapple",
-  "name": "Mayapple",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "pothos",
-  "name": "Pothos",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "snake-plant",
   "name": "Snake plant",
   "category": "Poisonous plants & fungi"
@@ -2817,11 +2747,6 @@
  {
   "id": "zz-plant",
   "name": "ZZ plant",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "jade-plant",
-  "name": "Jade plant",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -2950,11 +2875,6 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "mountain-laurel",
-  "name": "Mountain laurel",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "nerium",
   "name": "Nerium",
   "category": "Poisonous plants & fungi"
@@ -2990,11 +2910,6 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "caladium",
-  "name": "Caladium",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "calla-lily",
   "name": "Calla lily",
   "category": "Poisonous plants & fungi"
@@ -3012,11 +2927,6 @@
  {
   "id": "hyacinth",
   "name": "Hyacinth",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "iris",
-  "name": "Iris",
   "category": "Poisonous plants & fungi"
  },
  {
@@ -3045,18 +2955,8 @@
   "category": "Poisonous plants & fungi"
  },
  {
-  "id": "apple-tree-leaves",
-  "name": "Apple tree leaves",
-  "category": "Poisonous plants & fungi"
- },
- {
   "id": "stinging-nettle",
   "name": "Stinging nettle",
-  "category": "Poisonous plants & fungi"
- },
- {
-  "id": "jack-in-the-pulpit",
-  "name": "Jack-in-the-pulpit",
   "category": "Poisonous plants & fungi"
  },
  {

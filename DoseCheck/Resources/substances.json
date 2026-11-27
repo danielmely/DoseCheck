@@ -33389,5 +33389,645 @@
         "url": "https://www.poison.org/"
       }
     ]
+  },
+  {
+    "aliases": [
+      "monkshood",
+      "wolfsbane"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "aconite",
+    "name": "Aconite (monkshood)",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "cicuta"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "water-hemlock",
+    "name": "Water hemlock",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "jimson weed",
+      "datura",
+      "thorn apple"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "jimsonweed",
+    "name": "Jimsonweed",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "convallaria"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lily-of-the-valley",
+    "name": "Lily of the valley",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "lantana",
+    "name": "Lantana",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "morning glory"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "morning-glory-seeds",
+    "name": "Morning glory seeds",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "abrus",
+      "jequirity bean"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "rosary-pea",
+    "name": "Rosary pea",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "taxus"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "yew",
+    "name": "Yew",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "may apple"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "mayapple",
+    "name": "Mayapple",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "devil's ivy",
+      "epipremnum"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "pothos",
+    "name": "Pothos",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "colocasia",
+      "alocasia"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "elephant-ear",
+    "name": "Elephant ear",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "caladium",
+    "name": "Caladium",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "flag"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "iris",
+    "name": "Iris",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "arisaema"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "jack-in-the-pulpit",
+    "name": "Jack-in-the-pulpit",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "kalmia"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control lists it as a poisonous plant, and says the danger from poisonous plants ranges from mild irritation to severe illness or death. Poison Control's list does not give symptoms or amounts for this plant.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "mountain-laurel",
+    "name": "Mountain laurel",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "daffodil",
+      "narcissus"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control says every part of the daffodil can cause harm if swallowed, and the bulb is the most irritating. Effects include queasiness, vomiting, loose stools and stomach cramps, and the bulb can inflame the mouth. Poison Control says these effects typically aren't dangerous and clear up within a few hours.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "daffodil-bulbs",
+    "name": "Daffodil bulbs",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Bulbs look like onions, which is how they get eaten by mistake. Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      },
+      {
+        "title": "Poison Control: Daffodils",
+        "url": "https://www.poison.org/articles/daffodils"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "azalea",
+      "rosebay"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "There is no safe amount to eat. Do not eat it.",
+    "toxicNote": "Poison Control says the flowers, leaves and nectar are toxic, and honey made from the nectar can contain grayanotoxins. Common effects are mouth irritation, queasiness and vomiting. 'Mad honey' can also cause confusion, sharply lowered blood pressure and pulse, and an irregular heartbeat. Most exposures are mild.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "rhododendron",
+    "name": "Rhododendron",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Poison Control says serious toxicity is rare and has mostly followed deliberate ingestion of large amounts, but the mad honey effects can be life-threatening. Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      },
+      {
+        "title": "Poison Control: Azaleas and Rhododendrons",
+        "url": "https://www.poison.org/articles/azaleas-and-rhododendrons"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "poison oak",
+      "poison sumac",
+      "urushiol"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not touch it, and never eat it or burn it.",
+    "toxicNote": "Poison Control says contact with the plant's oil (urushiol) typically causes an itchy, sometimes blistering rash that appears 1 to 2 days later and lasts about 1 to 2 weeks.",
+    "lethalNote": "No fatal dose is established. Contact causes a rash; swallowing any part is a reason to call Poison Control at 1-800-222-1222.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "poison-ivy",
+    "name": "Poison ivy",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Wash the skin and exposed clothing or gear promptly, avoid scratching, and use cool compresses or over-the-counter anti-itch products. Poison Control advises seeing a doctor if the rash covers a large area or the itching can't be controlled.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      },
+      {
+        "title": "Poison Control: Poison ivy, oak and sumac",
+        "url": "https://www.poison.org/articles/poison-ivy-oak-and-sumac"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "apple seeds",
+      "apple leaves"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not eat the leaves. The seeds are listed as poisonous too.",
+    "toxicNote": "Poison Control lists the seeds and leaves of apples as poisonous, as it does for apricot, cherry, peach, plum and nectarine. It does not give symptoms or amounts.",
+    "lethalNote": "No fatal dose is established for this plant. Any swallowed amount of a plant on this list is a reason to call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "apple-tree-leaves",
+    "name": "Apple tree leaves",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The apple flesh is ordinary food. This entry is about the seeds and leaves only. Keep it out of reach of children and pets. If any was eaten, call Poison Control at 1-800-222-1222 and name the plant exactly.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "crassula",
+      "money plant"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Not listed as poisonous, but it is not food and should not be eaten.",
+    "toxicNote": "Poison Control lists jade as a non-poisonous plant.",
+    "lethalNote": "Poison Control lists no poisoning risk for this plant.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "jade-plant",
+    "name": "Jade plant",
+    "category": "Poisonous plants & fungi",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Poison Control adds that even non-poisonous plants can cause choking if someone tries to eat them. Check the plant's exact name, since other plants are sold under the name 'jade'.",
+    "sources": [
+      {
+        "title": "Poison Control: Poisonous and non-poisonous plants, an illustrated list",
+        "url": "https://www.poison.org/articles/plant"
+      }
+    ]
   }
 ]
