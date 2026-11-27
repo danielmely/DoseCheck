@@ -38599,10 +38599,6 @@
       {
         "title": "NIH LiverTox / PubMed: Toxin content of algal dietary supplements",
         "url": "https://pubmed.ncbi.nlm.nih.gov/23064102/"
-      },
-      {
-        "title": "PMC review: Microcystins in microalgae",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6086208/"
       }
     ]
   },
@@ -38697,7 +38693,7 @@
     "sources": [
       {
         "title": "PubMed: Lepidium meyenii (maca) review",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/PMC10910417"
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10910417/"
       },
       {
         "title": "PMC review: Aphrodisiac ingredients review",
@@ -38822,10 +38818,6 @@
       {
         "title": "PMC review: TCM and herbal hepatotoxicity",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5456249/"
-      },
-      {
-        "title": "PMC review: Centella asiatica review",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3116297/"
       }
     ]
   },
@@ -38858,10 +38850,6 @@
       {
         "title": "PMC review: Bacopa monnieri safety",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12158153/"
-      },
-      {
-        "title": "PMC review: Adaptogen safety",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12389708/"
       }
     ]
   },
@@ -39036,22 +39024,14 @@
     "lethalNote": "No fatal dose is established for this product. If someone took too much, call Poison Control at 1-800-222-1222, or 911 if the person has collapsed, had a seizure, has trouble breathing or can't be woken.",
     "extras": null,
     "measuredAs": null,
-    "verified": true,
+    "verified": false,
     "id": "alpha-lipoic-acid",
     "name": "Alpha-lipoic acid",
     "category": "Herbal & dietary supplements",
     "servingName": "gram",
     "servingMg": 1000,
-    "notes": "Ask a provider if you take diabetes medicines. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
+    "notes": "Unverified: NCCIH/ODS statements were read in search summaries; only the EFSA link is kept. Ask a provider if you take diabetes medicines. Supplement strength varies by brand, so follow the label and ask a doctor or pharmacist if you take medicines.",
     "sources": [
-      {
-        "title": "NCCIH: Type 2 diabetes and dietary supplements",
-        "url": "https://www.nccih.nih.gov/health/providers/digest/type-2-diabetes-and-dietary-supplements-science"
-      },
-      {
-        "title": "NIH Office of Dietary Supplements: Primary mitochondrial disorders",
-        "url": "https://ods.od.nih.gov/factsheets/PrimaryMitochondrialDisorders-HealthProfessional/"
-      },
       {
         "title": "EFSA: alpha-lipoic acid and insulin autoimmune syndrome",
         "url": "https://efsa.europa.eu/en/efsajournal/pub/6577"
@@ -39090,10 +39070,6 @@
       {
         "title": "FDA: How much caffeine is too much?",
         "url": "https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much"
-      },
-      {
-        "title": "NCCIH: Bodybuilding supplements",
-        "url": "https://www.nccih.nih.gov/health/tips/6-things-to-know-about-dietary-supplements-marketed-for-bodybuilding-or-performance-enhancement"
       }
     ]
   },
@@ -39330,10 +39306,6 @@
         "url": "https://www.atsdr.cdc.gov/toxprofiles/tp211.pdf"
       },
       {
-        "title": "ATSDR: Silica regulations",
-        "url": "https://www.atsdr.cdc.gov/ToxProfiles/tp211-c7.pdf"
-      },
-      {
         "title": "PMC review: EFSA: diatomaceous earth feed additive",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10733796/"
       }
@@ -39365,10 +39337,6 @@
       {
         "title": "PMC review: Noni juice human intervention studies",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5920423/"
-      },
-      {
-        "title": "PubMed: Noni review",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42985245/"
       }
     ]
   },
@@ -39489,10 +39457,6 @@
       {
         "title": "PMC: Pregnenolone open-label study",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4194260/"
-      },
-      {
-        "title": "NCCIH: Menopausal symptoms: in depth (DHEA)",
-        "url": "https://www.nccih.nih.gov/health/menopausal-symptoms-in-depth"
       }
     ]
   },
