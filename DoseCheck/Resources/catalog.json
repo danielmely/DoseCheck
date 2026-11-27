@@ -60,11 +60,6 @@
   "category": "Vegetables & mushrooms"
  },
  {
-  "id": "cinnamon",
-  "name": "Cinnamon",
-  "category": "Herbs & spices"
- },
- {
   "id": "cloves",
   "name": "Cloves",
   "category": "Herbs & spices"
@@ -80,43 +75,8 @@
   "category": "Herbs & spices"
  },
  {
-  "id": "licorice-root",
-  "name": "Licorice root",
-  "category": "Herbs & spices"
- },
- {
-  "id": "mace",
-  "name": "Mace",
-  "category": "Herbs & spices"
- },
- {
   "id": "pink-peppercorn",
   "name": "Pink peppercorn",
-  "category": "Herbs & spices"
- },
- {
-  "id": "poppy-seed",
-  "name": "Poppy seed",
-  "category": "Herbs & spices"
- },
- {
-  "id": "saffron",
-  "name": "Saffron",
-  "category": "Herbs & spices"
- },
- {
-  "id": "star-anise",
-  "name": "Star anise",
-  "category": "Herbs & spices"
- },
- {
-  "id": "tonka-bean",
-  "name": "Tonka bean",
-  "category": "Herbs & spices"
- },
- {
-  "id": "sassafras",
-  "name": "Sassafras",
   "category": "Herbs & spices"
  },
  {
@@ -130,18 +90,8 @@
   "category": "Herbs & spices"
  },
  {
-  "id": "borage",
-  "name": "Borage",
-  "category": "Herbs & spices"
- },
- {
   "id": "catnip",
   "name": "Catnip",
-  "category": "Herbs & spices"
- },
- {
-  "id": "comfrey",
-  "name": "Comfrey",
   "category": "Herbs & spices"
  },
  {

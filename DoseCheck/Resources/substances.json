@@ -48608,5 +48608,434 @@
         "url": "https://www.poison.org/"
       }
     ]
+  },
+  {
+    "aliases": [
+      "cassia cinnamon",
+      "ceylon cinnamon",
+      "cinnamon powder"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Cassia cinnamon contains coumarin. EFSA and BfR set a tolerable daily intake of 0.1 mg coumarin per kg body weight; Ceylon cinnamon has very little.",
+    "toxicNote": "Coumarin can damage the liver in sensitive people. BfR says it is not advisable to eat large amounts of cassia cinnamon over long periods.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "cinnamon",
+    "name": "Cinnamon",
+    "category": "Herbs & spices",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "BfR calculated that a 15 kg child would reach the coumarin limit with about 30 g of cinnamon stars or 100 g of gingerbread a day. The limit is on coumarin, not on cinnamon weight, so no cinnamon amount is shown.",
+    "sources": [
+      {
+        "title": "BfR: Cassia cinnamon with high coumarin contents",
+        "url": "https://www.bfr.bund.de/en/press-release/cassia-cinnamon-with-high-coumarin-contents-to-be-consumed-in-moderation/"
+      },
+      {
+        "title": "BfR: FAQ on coumarin in cinnamon",
+        "url": "https://www.bfr.bund.de/cm/349/faq-on-coumarin-in-cinnamon-and-other-foods.pdf"
+      },
+      {
+        "title": "PubMed: Toxicology and risk assessment of coumarin",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20024932/"
+      },
+      {
+        "title": "PMC: High rate of safety issues in commercial cinnamon",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12228808/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "liquorice",
+      "glycyrrhizin",
+      "black licorice"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "A provisional limit of 100 mg a day of glycyrrhizin was proposed by the EU and Scientific Committee on Food (about 60 to 70 g of licorice).",
+    "toxicNote": "Regular glycyrrhizin above 100 mg a day, or more than 3 g of root a day for over 6 weeks, may cause sodium and water retention, high blood pressure and low potassium.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "licorice-root",
+    "name": "Licorice root",
+    "category": "Herbs & spices",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Case reports include severe low potassium with muscle breakdown in a person who chewed 20 to 25 g of licorice a day for 2 years. People with high blood pressure are more at risk. The limit is on glycyrrhizin, not on candy or root weight, so no gram amount is shown.",
+    "sources": [
+      {
+        "title": "PMC: Licorice abuse, time to send a warning message",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3498851/"
+      },
+      {
+        "title": "PMC: Glycyrrhiza glabra (licorice)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7348626/"
+      },
+      {
+        "title": "PMC: Licorice-induced severe hypokalemic rhabdomyolysis",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11264147/"
+      },
+      {
+        "title": "PMC: Severe hypokalemia from prolonged licorice",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7386964/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "chinese star anise",
+      "illicium verum",
+      "japanese star anise"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not give star anise tea to infants. Use only labeled Chinese star anise.",
+    "toxicNote": "Japanese star anise is highly poisonous and contains the neurotoxins anisatin and neoanisatin. In 2003 FDA advised against star anise teas after about 40 illnesses, including about 15 infants, with seizures. Chinese star anise is often contaminated with the Japanese species.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "star-anise",
+    "name": "Star anise",
+    "category": "Herbs & spices",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Case reports describe infants with tremors, spasms, vomiting and seizures after star anise tea given for colic. A 2-week-old had seizures after the tea.",
+    "sources": [
+      {
+        "title": "FDA: Advisory on star anise teas (2003)",
+        "url": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/enforcement-story-archive/center-food-safety-and-applied-nutrition-2003"
+      },
+      {
+        "title": "PubMed: Neonate with seizures after star anise tea",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34582506/"
+      },
+      {
+        "title": "PMC: Naturally occurring food toxins",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3153292/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "sassafras tea",
+      "safrole",
+      "sassafras root bark"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA banned sassafras oil as a food additive in 1960.",
+    "toxicNote": "Sassafras oil is high in safrole, which has proven carcinogenic effects. Commercial root beer and sassafras teas are now artificially flavored.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "sassafras",
+    "name": "Sassafras",
+    "category": "Herbs & spices",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The ban is in 21 CFR 189.180.",
+    "sources": [
+      {
+        "title": "PMC: Naturally occurring food toxins (21 CFR 189.180)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3153292/"
+      },
+      {
+        "title": "PMC: Botanical dietary supplements gone bad",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2504026/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "tonka",
+      "dipteryx odorata",
+      "cumaru"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "FDA lists coumarin as a prohibited substance when added to food.",
+    "toxicNote": "Coumarin can cause liver damage. Tonka beans are a source of coumarin.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "tonka-bean",
+    "name": "Tonka bean",
+    "category": "Herbs & spices",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "The FDA entry covers coumarin as a flavoring added to food. Tonka beans are sold as a flavoring online despite this.",
+    "sources": [
+      {
+        "title": "FDA: Coumarin, prohibited (21 CFR 189.130)",
+        "url": "https://hfpappexternal.fda.gov/scripts/fdcc/index.cfm?set=FoodSubstances&id=COUMARINPROHIBITED"
+      },
+      {
+        "title": "PMC: Naturally occurring food toxins",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3153292/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "symphytum",
+      "knitbone",
+      "comfrey tea"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Do not take comfrey by mouth. FDA asked manufacturers to remove comfrey products in 2001.",
+    "toxicNote": "Comfrey contains pyrrolizidine alkaloids that cause severe liver damage, liver cancer and even death.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "comfrey",
+    "name": "Comfrey",
+    "category": "Herbs & spices",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "One review lists up to 14 pyrrolizidine alkaloids in comfrey. Outbreaks of alkaloid poisoning have occurred in Jamaica, India and Afghanistan.",
+    "sources": [
+      {
+        "title": "NCBI LactMed: Comfrey",
+        "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK501773/"
+      },
+      {
+        "title": "PMC: Naturally occurring food toxins (pyrrolizidine alkaloids)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3153292/"
+      },
+      {
+        "title": "PubMed: The efficacy and safety of comfrey",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11276298/"
+      },
+      {
+        "title": "Poison Control (poison.org)",
+        "url": "https://www.poison.org/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "borago officinalis",
+      "borage leaf",
+      "starflower"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Avoid borage leaf and flower products. Borage seed oil is generally better tolerated.",
+    "toxicNote": "Borage plant parts contain pyrrolizidine alkaloids that are toxic to the liver and lungs and possibly carcinogenic.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "borage",
+    "name": "Borage",
+    "category": "Herbs & spices",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "One tea risk assessment estimated borage tea intake at 4.80 mcg/kg per day of alkaloids. Seed oil may contain small amounts too.",
+    "sources": [
+      {
+        "title": "NCBI LactMed: Borage",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK501790/"
+      },
+      {
+        "title": "PMC: Risk assessment of herbal teas containing PAs",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9564199/"
+      },
+      {
+        "title": "PMC: Naturally occurring food toxins",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3153292/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "nutmeg aril",
+      "mace spice",
+      "nutmeg"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Fine as a spice in cooking amounts. Keep nutmeg and mace away from children.",
+    "toxicNote": "Myristicin, elemicin and safrole cause psychoactive and anticholinergic effects at high doses. A 6-year-old was in a reversible coma after eating six pieces of mace. Poison Control describes a teen who swallowed a whole bottle of nutmeg.",
+    "lethalNote": "No fatal dose is established. A 55-year-old woman's death involved myristicin along with another drug.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "mace",
+    "name": "Mace",
+    "category": "Herbs & spices",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "One review says 10 to 15 g of nutmeg (about 400 mg myristicin) causes neurotoxic effects, and anticholinergic effects occur after 25 to 28 g.",
+    "sources": [
+      {
+        "title": "PubMed: Mace poisoning in a child",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39850188/"
+      },
+      {
+        "title": "Poison Control: Kitchen surprises and cautions",
+        "url": "https://www.poison.org/articles/kitchen-surprises-and-cautions"
+      },
+      {
+        "title": "PMC: Pharmacological potential of myristicin",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8512857/"
+      },
+      {
+        "title": "PMC: Volatile phenylpropenes safety",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13666226"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "poppy seeds",
+      "poppyseed",
+      "poppy seed tea"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": null,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Normal food amounts are fine. Poppy seeds can cause a positive opiate drug test.",
+    "toxicNote": "Poppy seeds carry trace morphine and codeine from opium latex on their surface. Poppy seed tea has been used for its opioid effect.",
+    "lethalNote": "No fatal dose is established.",
+    "extras": null,
+    "measuredAs": null,
+    "verified": true,
+    "id": "poppy-seed",
+    "name": "Poppy seed",
+    "category": "Herbs & spices",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Poison Control says eating a lot shortly before a drug test can produce a positive result for morphine or codeine.",
+    "sources": [
+      {
+        "title": "Poison Control: Kitchen surprises and cautions",
+        "url": "https://www.poison.org/articles/kitchen-surprises-and-cautions"
+      },
+      {
+        "title": "PMC: Legal high complications in the emergency department",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5741979/"
+      },
+      {
+        "title": "PMC: Spices and herbs review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9551254/"
+      }
+    ]
+  },
+  {
+    "aliases": [
+      "saffron threads",
+      "crocus sativus"
+    ],
+    "isMedication": false,
+    "toxicMgPerKg": null,
+    "lethalMgPerKg": null,
+    "lethalBasis": null,
+    "guidanceDailyLimitMg": 1500,
+    "guidanceMaleMg": null,
+    "guidanceFemaleMg": null,
+    "guidanceMgPerKg": null,
+    "safeNote": "Up to 1.5 g a day is considered safe.",
+    "toxicNote": "Doses above 5 g a day may be toxic. Doses above 10 g have been used as an abortifacient.",
+    "lethalNote": "Doses of 20 g or more are reported fatal (traditional-medicine and review sources).",
+    "extras": null,
+    "measuredAs": null,
+    "verified": false,
+    "id": "saffron",
+    "name": "Saffron",
+    "category": "Herbs & spices",
+    "servingName": "gram",
+    "servingMg": 1000,
+    "notes": "Saffron is used in tiny amounts in cooking, usually well below 1 g. Clinical trials used 5 to 1,500 mg a day.",
+    "sources": [
+      {
+        "title": "PMC: Saffron and its active ingredients, clinical evidence",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9464341/"
+      },
+      {
+        "title": "PMC: Saffron in major Islamic traditional medicine books",
+        "url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC3637900"
+      },
+      {
+        "title": "PubMed: Toxicology effects of saffron",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28293386/"
+      }
+    ]
   }
 ]
